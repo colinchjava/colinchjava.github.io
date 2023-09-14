@@ -19,6 +19,7 @@ Java wrapper classes are classes that encapsulate primitive data types into obje
 Java provides a variety of ML libraries and frameworks that can be utilized to implement machine learning algorithms. By using wrapper classes, we can easily leverage these libraries and work with ML algorithms seamlessly. Here's an example of implementing a basic ML algorithm, such as linear regression, using Java wrapper classes:
 
 ```java
+{% raw %}
 import org.apache.commons.math3.stat.regression.SimpleRegression;
 
 public class LinearRegressionExample {
@@ -41,6 +42,7 @@ public class LinearRegressionExample {
         System.out.println("Predicted value for x=6 is: " + predictedValue);
     }
 }
+{% endraw %}
 ```
 
 In this example, we leverage the SimpleRegression class from the Apache Commons Math library, which is a popular Java library for mathematical and statistical calculations. The SimpleRegression class wraps the linear regression algorithm and provides methods like ```addData``` for training the model and ```predict``` for making predictions.
