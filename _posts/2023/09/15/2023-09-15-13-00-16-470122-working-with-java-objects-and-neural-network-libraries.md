@@ -29,6 +29,7 @@ When using neural network libraries in Java, it is important to ensure compatibi
 Here is an example that demonstrates how to work with Java objects in Deeplearning4j:
 
 ```java
+{% raw %}
 import org.nd4j.linalg.api.ndarray.INDArray;
 import org.nd4j.linalg.factory.Nd4j;
 
@@ -44,6 +45,7 @@ public class NeuralNetworkExample {
         double[][] outputData = inputArray.toDoubleMatrix();
     }
 }
+{% endraw %}
 ```
 
 Here, we create a 2D array `inputData` representing the input to our neural network. We convert the array to a `org.nd4j.linalg.api.ndarray.INDArray` object using `Nd4j.create()`. We can then perform various operations on the input array using the Deeplearning4j library.
