@@ -1,0 +1,100 @@
+Best practices for deploying Java applications on WebLogic
+Introduction to WebLogic Server and its features
+Performance optimization techniques for Java applications running on WebLogic
+Developing and deploying RESTful services using Java and WebLogic
+How to configure session management in WebLogic for Java applications
+Integrating WebLogic with popular Java frameworks like Spring and Hibernate
+Exploring WebLogic's support for Java EE specifications
+Securing WebLogic applications using Java-based authentication and authorization mechanisms
+Monitoring and management of Java applications on WebLogic Server
+Load balancing and clustering strategies for Java applications on WebLogic
+Introduction to WebLogic Workshop – a Java development tool for WebLogic
+Migrating Java applications from other application servers to WebLogic
+WebLogic Integration with Java Messaging Service (JMS)
+Exploring WebLogic's support for JavaServer Faces (JSF)
+Implementing distributed transactions with Java and WebLogic
+WebLogic's support for Java API for XML Web Services (JAX-WS)
+Developing and deploying Java Enterprise Applications on WebLogic
+Building scalable and high-performance microservices with Java and WebLogic
+Implementing caching mechanisms for Java applications on WebLogic
+WebLogic's support for Java Management Extensions (JMX) for monitoring and managing applications
+Exploring the latest features and enhancements in WebLogic 12c for Java developers
+Introduction to Oracle Fusion Middleware – the platform on which WebLogic is built
+WebLogic Server administration for Java developers
+Introduction to WebLogic Scripting Tool (WLST) for automating Java application deployment
+Developing and deploying JavaServer Pages (JSP) applications on WebLogic
+Implementing a Single Sign-On (SSO) solution with Java and WebLogic
+Best practices for debugging Java applications on WebLogic Server
+Introduction to WebLogic's support for Java API for WebSocket (JSR 356)
+Implementing WebLogic's Java Messaging Service (JMS) for asynchronous communication
+Exploring WebLogic's support for Java API for WebSockets (JSR 356)
+Building fault-tolerant and highly available Java applications on WebLogic
+WebLogic's support for Java API for JSON Processing (JSON-P)
+Running and managing Java applications on WebLogic in cloud environments
+Introduction to WebLogic's support for Java Transaction API (JTA)
+Implementing WebLogic's support for Java Database Connectivity (JDBC)
+Developing and deploying Java applications on WebLogic as Docker containers
+WebLogic Server security best practices for Java developers
+Introduction to WebLogic's support for Java API for RESTful Services (JAX-RS)
+Building scalable and resilient Java applications with WebLogic's clustering capabilities
+Exploring WebLogic's support for JavaServer Faces (JSF) as a UI framework
+Implementing WebLogic's support for Java API for XML Binding (JAXB)
+WebLogic's support for Java Message Service (JMS) and enterprise messaging patterns
+Introduction to WebLogic's support for Java API for XML Registries (JAXR)
+Implementing WebLogic's support for Java Connector Architecture (JCA)
+WebLogic Server high availability and disaster recovery strategies for Java applications
+Monitoring and profiling Java applications on WebLogic using tools like JVisualVM
+Introduction to WebLogic's support for JavaMail API for email communication
+Implementing WebLogic's support for Java API for XML-Based RPC (JAX-RPC)
+Implementing WebLogic's support for Java Authorization Service Provider Interface for Containers (JASPIC)
+Introduction to WebLogic's support for Java API for XML Catalog (JAX-C)
+Best practices for securing Java applications on WebLogic Server
+WebLogic's support for Java Expression Language (EL) and JavaServer Pages Standard Tag Library (JSTL)
+Implementing WebLogic's support for Java Servlet API and building servlet-based applications
+Exploring WebLogic's support for Java Universal Description, Discovery, and Integration (UDDI)
+Introduction to WebLogic's support for Java API for XML Processing (JAXP)
+Implementing WebLogic's support for Java API for XML-based RPC (JAX-RPC)
+WebLogic Server administration and monitoring for Java developers using the Management Console
+Introduction to WebLogic's support for JavaServer Pages Standard Tag Library (JSTL)
+Implementing WebLogic's support for Java API for XML-based RPC (JAX-RPC)
+WebLogic's support for Java XML Digital Signature API
+Developing and deploying Java applications on WebLogic with Continuous Integration/Continuous Deployment (CI/CD)
+Introduction to WebLogic's support for Java EE Connector Architecture (JCA)
+Implementing WebLogic's support for Java API for XML-Based Registries (JAXR)
+WebLogic's support for Java specification requests (JSRs) and Java Community Process (JCP)
+Introduction to WebLogic's support for Java API for WebSocket (JSR 356)
+Implementing WebLogic's support for Java API for XML Web Services Security (JSR 109)
+Implementing WebLogic's support for Java API for RESTful Web Services (JAX-RS)
+Introduction to WebLogic's support for Java API for XML Messaging (JAXM)
+WebLogic Server performance tuning and optimization for Java applications
+Implementing WebLogic's support for Java API for JSON Processing (JSON-P)
+WebLogic's support for Java API for XML Web Services (JAX-WS) and Web Service Security (WS-Security)
+Introduction to WebLogic's support for Java API for XML Digital Signature (JSR 105)
+Implementing WebLogic's support for Java API for XML Streaming (JAXP)
+WebLogic's support for Java API for XML Messaging (JAXM) and Web Services Reliable Messaging (WS-RM)
+Introduction to WebLogic's support for Java Authorization Contract for Containers (JACC)
+Implementing WebLogic's support for Java Authorization Contract for Containers (JACC)
+WebLogic Server troubleshooting and performance monitoring for Java applications
+Implementing WebLogic's support for Java specification requests (JSRs) and Java Community Process (JCP)
+Introduction to WebLogic's support for Java EE (Enterprise Edition) specifications
+WebLogic's support for Java Management Extensions (JMX) and monitoring Java applications
+Implementing WebLogic's support for Java API for XML-Based RPC (JAX-RPC)
+WebLogic Server administration and monitoring for Java developers using command-line tools
+Introduction to WebLogic's support for Java API for XML Web Services (JAX-WS)
+Implementing WebLogic's support for Java API for JSON Binding (JSON-B)
+WebLogic's support for Java API for XML-Based Registries (JAXR) and Universal Description, Discovery, and Integration (UDDI)
+Introduction to WebLogic's support for Java Identity Management (JIMS)
+Implementing WebLogic's support for Java Authentication and Authorization Service (JAAS)
+WebLogic Server high-performance tuning and optimization for Java applications
+Implementing WebLogic's support for Java API for XML Data Binding (JAXB)
+Introduction to WebLogic's support for Java Content Repository (JCR) and Java API for Content Management (JSR 170)
+WebLogic's support for Java API for XML Messaging (JAXM) and Web Services Choreography (WS-CDL)
+Implementing WebLogic's support for Java Bean Validation (BV) and Hibernate Validator
+WebLogic Server troubleshooting and troubleshooting for Java applications
+Introduction to WebLogic's support for Java API for XML Digital Encryption (JSR 106)
+Implementing WebLogic's support for Java Architecture for XML Binding (JAXB)
+WebLogic's support for Java EE (Enterprise Edition) security and securing Java applications
+Introduction to WebLogic's support for Java API for XML Binding (JAXB)
+Implementing WebLogic's support for Java Server Pages (JSP) Standard Tag Library (JSTL)
+WebLogic Server administration and monitoring for Java developers using the WebLogic Scripting Tool (WLST)
+Introduction to WebLogic's support for Java API for WebSocket (JSR 356) and Web Socket API (javax.websocket)

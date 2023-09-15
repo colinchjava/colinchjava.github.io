@@ -1,0 +1,100 @@
+Introduction to Java Kubernetes
+Deploying Java applications with Kubernetes
+Scaling Java apps with Kubernetes
+Monitoring and logging Java apps on Kubernetes
+Securing Java applications on Kubernetes
+Load balancing Java apps with Kubernetes
+Using Istio with Java on Kubernetes
+Service discovery for Java apps on Kubernetes
+Blue-green deployments for Java apps with Kubernetes
+Rolling updates for Java apps on Kubernetes
+Java microservices on Kubernetes
+Autoscaling Java applications on Kubernetes
+Debugging Java apps on Kubernetes
+Canary deployments for Java apps with Kubernetes
+Continuous deployment of Java apps with Kubernetes
+Monitoring Java memory usage on Kubernetes
+Java app deployment strategies on Kubernetes
+Deploying Spring Boot apps on Kubernetes
+Database integration for Java apps on Kubernetes
+Debugging Java memory leaks in Kubernetes
+Continuous integration and delivery for Java apps on Kubernetes
+Implementing circuit breakers in Java on Kubernetes
+Containerizing legacy Java applications for Kubernetes
+Managing Java dependencies on Kubernetes
+Java app observability with Prometheus on Kubernetes
+Implementing distributed tracing for Java apps on Kubernetes
+Deploying microservices with Java and Kubernetes
+Running Java batch jobs on Kubernetes
+Java app health checks on Kubernetes
+Java performance tuning on Kubernetes
+Managing secrets and configuration for Java apps on Kubernetes
+Java app rollback strategies on Kubernetes
+Designing fault-tolerant Java apps on Kubernetes
+Traffic splitting for Java apps with Istio on Kubernetes
+Simplifying Java app deployment using Helm and Kubernetes
+Java app log aggregation on Kubernetes
+Orchestrating Java app workflows on Kubernetes
+Integrating Kafka with Java apps on Kubernetes
+Running Selenium tests with Java on Kubernetes
+Scaling stateful Java applications on Kubernetes
+Java app debugging with Kubernetes Port Forwarding
+Automating Java app deployment with Kubernetes Operators
+Java app distributed caching on Kubernetes
+Implementing reactive programming in Java on Kubernetes
+Configuring health probes for Java applications on Kubernetes
+Integrating Redis with Java apps on Kubernetes
+Java app task scheduling on Kubernetes
+Building resilient Java applications with Kubernetes StatefulSets
+Java app configuration management with Kubernetes ConfigMaps
+Implementing canary analysis with Kayenta for Java apps on Kubernetes
+Java app zero-downtime deployments on Kubernetes
+Scaling Java web applications with Kubernetes Ingress
+Implementing mutual TLS for Java apps on Kubernetes
+Java app blue-green deployments with Kubernetes Nginx Ingress
+Securing containerized Java applications on Kubernetes using AppArmor
+Implementing distributed locks in Java apps on Kubernetes
+Java app observability with Grafana on Kubernetes
+Authorizing access to Java apps on Kubernetes with Keycloak
+Kotlin support for Java apps on Kubernetes
+Deploying Quarkus applications on Kubernetes
+Java app custom metrics on Kubernetes with Prometheus
+Securing Java app APIs with OAuth2 on Kubernetes
+Configuring network policies for Java apps on Kubernetes
+Running Apache Camel applications with Java on Kubernetes
+Java app CI/CD pipelines with Jenkins and Kubernetes
+Java app deployment strategies with Kubernetes Deployments
+Java app observability with Elastic Stack on Kubernetes
+Implementing service mesh for Java apps on Kubernetes with Linkerd
+Building event-driven Java applications with Kubernetes and Kafka
+Java app distributed tracing with Jaeger on Kubernetes
+Deploying Spring Cloud applications on Kubernetes
+Java app secret management with Kubernetes Secrets
+Implementing rate limiting for Java apps on Kubernetes
+Migrating Java apps from VMs to Kubernetes
+Java app monitoring and debugging with Prometheus and Grafana on Kubernetes
+Java app resiliency with fault injection tests on Kubernetes
+Deploying reactive MongoDB applications with Java on Kubernetes
+Java app observability with OpenTelemetry on Kubernetes
+Implementing blue-green deployments for Java apps on Kubernetes with Argo Rollouts
+Running Apache Hadoop applications with Java on Kubernetes
+Java app logging with Elastic Stack on Kubernetes
+Deploying Java web applications on Kubernetes with Tomcat
+Implementing canary deployments with Flagger for Java apps on Kubernetes
+Running Apache Spark applications with Java on Kubernetes
+Java app monitoring with Micrometer on Kubernetes
+Configuring JVM options for Java apps on Kubernetes
+Java app configuration management with Helm and Kubernetes
+Implementing distributed locks in Java apps with Redis on Kubernetes
+Running Apache Kafka Streams applications with Java on Kubernetes
+Java app observability with Dynatrace on Kubernetes
+Implementing OAuth2 authentication for Java apps on Kubernetes with Dex and Hydra
+Deploying Spring Data applications on Kubernetes
+Java app secret management with Vault on Kubernetes
+Implementing canary analysis with Keptn for Java apps on Kubernetes
+Running Apache Flink applications with Java on Kubernetes
+Java app observability with Zipkin on Kubernetes
+Implementing traffic shifting for Java apps on Kubernetes with Flagger
+Running Apache Cassandra applications with Java on Kubernetes
+Java app monitoring with InfluxDB and Grafana on Kubernetes
+Securing microservices communication with Java and mTLS on Kubernetes
