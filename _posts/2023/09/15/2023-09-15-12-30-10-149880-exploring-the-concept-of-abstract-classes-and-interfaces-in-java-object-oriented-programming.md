@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of abstract classes and interfaces in Java object-oriented programming"
 description: " "
 date: 2023-09-15
-tags: [Exploring, #Abstract]
+tags: [Exploring, Abstract]
 comments: true
 share: true
 ---
