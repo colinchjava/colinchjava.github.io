@@ -1,0 +1,100 @@
+Introduction to Java data structures
+Overview of common Java data structures
+Understanding arrays in Java
+Exploring linked lists in Java
+Working with stacks and queues in Java
+Implementing hash tables in Java
+Introduction to binary trees in Java
+Advanced tree data structures in Java
+Using Java’s ArrayList data structure
+Understanding Java’s HashMap
+Working with Java’s HashSet
+Implementing priority queues in Java
+Exploring Java’s TreeMap data structure
+Introduction to graph data structures in Java
+Implementing graphs in Java using adjacency matrices
+Creating graphs in Java using adjacency lists
+Using Java's LinkedList data structure
+Exploring Java’s Vector data structure
+Understanding Java’s TreeMap data structure
+Implementing priority queues in Java using heaps
+Exploring multi-dimensional arrays in Java
+Introduction to Java's BigInteger class
+Working with Java’s Queue data structure
+Creating custom data structures in Java
+Understanding the Java Collections Framework
+Exploring Java’s TreeSet data structure
+Implementing a binary search tree in Java
+Working with Java’s HashMap
+Introduction to Java’s Bitset data structure
+Using Java’s Hashtable data structure
+Implementing Java’s LinkedList data structure
+Understanding Java’s Stack data structure
+Introduction to Java’s EnumSet data structure
+Working with Java’s TreeSet data structure
+Implementing a graph data structure in Java
+Exploring Java’s ArrayDeque data structure
+Using Java’s ConcurrentHashMap data structure
+Understanding Java’s TreeMap data structure
+Introduction to Java’s WeakHashMap data structure
+Implementing a red-black tree in Java
+Working with Java’s LinkedHashMap data structure
+Using Java’s PriorityQueue data structure
+Exploring Java’s Deque data structure
+Introduction to Java's Spatial data structures
+Implementing a heap data structure in Java
+Working with Java's SkipList data structure
+Understanding Java's BoundedQueue data structure
+Exploring Java’s ConcurrentSkipListSet data structure
+Using Java’s CopyOnWriteArrayList data structure
+Introduction to Java’s IdentityHashMap data structure
+Implementing a binary heap in Java
+Working with Java's LinkedBlockingDeque data structure
+Using Java’s ConcurrentLinkedQueue data structure
+Exploring Java’s ConcurrentHashMap data structure
+Introduction to Java’s LinkedTransferQueue data structure
+Understanding Java’s SynchronousQueue data structure
+Implementing a trie data structure in Java
+Working with Java’s CopyOnWriteArraySet data structure
+Using Java’s ConcurrentSkipListMap data structure
+Exploring Java’s Phaser data structure
+Introduction to Java’s CopyOnWriteLinkedHashMap data structure
+Implementing a Fibonacci heap in Java
+Working with Java’s LinkedTransferQueue data structure
+Using Java’s PriorityBlockingQueue data structure
+Understanding Java’s LinkedHashSet data structure
+Exploring Java’s ConcurrentLinkedDeque data structure
+Introduction to Java’s CopyOnWriteHashSet data structure
+Implementing an avl tree in Java
+Working with Java’s SynchronousQueue data structure
+Using Java’s PriorityTransferQueue data structure
+Exploring Java’s CopyOnWriteArrayMap data structure
+Introduction to Java’s LinkedBlockingQueue data structure
+Understanding Java’s ConcurrentSkipListSet data structure
+Implementing a radix tree in Java
+Working with Java’s DelayQueue data structure
+Using Java’s PriorityBlockingDeque data structure
+Exploring Java’s CopyOnWriteTreeSet data structure
+Introduction to Java’s LinkedBlockingDeque data structure
+Implementing a quadtree data structure in Java
+Working with Java’s TransferQueue data structure
+Using Java’s PriorityTransferDeque data structure
+Understanding Java’s ConcurrentLinkedQueue data structure
+Exploring Java’s CopyOnWriteConcurrentMap data structure
+Introduction to Java’s LinkedBlockingQueue data structure
+Implementing a kd-tree in Java
+Working with Java’s SynchronousDeque data structure
+Using Java’s PriorityTransferQueue data structure
+Exploring Java’s CopyOnWriteConcurrentSet data structure
+Introduction to Java’s LinkedBlockingDeque data structure
+Implementing a bloom filter in Java
+Working with Java’s DelayedDeque data structure
+Using Java’s PriorityTransferDeque data structure
+Understanding Java’s ConcurrentSkipListMap data structure
+Exploring Java’s CopyOnWriteConcurrentNavigableMap data structure
+Introduction to Java’s LinkedBlockingDeque data structure
+Implementing a quadtree in Java
+Working with Java’s SynchronousTransferQueue data structure
+Using Java’s PriorityBlockingDeque data structure
+Understanding Java’s ConcurrentLinkedDeque data structure
+Exploring Java’s CopyOnWriteConcurrentNavigableSet data structure

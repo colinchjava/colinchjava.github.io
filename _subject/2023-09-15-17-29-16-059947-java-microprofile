@@ -1,0 +1,50 @@
+Introduction to Java MicroProfile
+Getting started with Java MicroProfile
+Deep dive into Java MicroProfile specifications
+Building microservices with Java MicroProfile
+MicroProfile vs Spring Boot: a comparative analysis
+Java MicroProfile for cloud-native development
+Using Java MicroProfile for distributed tracing in microservices
+Monitoring microservices with Java MicroProfile Metrics
+Building resilient microservices with Java MicroProfile Fault Tolerance
+Securing microservices using Java MicroProfile JWT
+Java MicroProfile and event-driven architecture
+Using Java MicroProfile Open API for RESTful APIs
+Java MicroProfile Rest Client: simplifying REST calls
+Managing configuration in microservices with Java MicroProfile Config
+Caching strategies with Java MicroProfile
+Implementing service discovery with Java MicroProfile Service Registry
+Implementing circuit breaker pattern with Java MicroProfile
+Event sourcing and Java MicroProfile
+Observability in microservices with Java MicroProfile Health
+Java MicroProfile and reactive programming
+Implementing asynchronous messaging with Java MicroProfile Messaging
+Implementing bulkheads with Java MicroProfile Fault Tolerance
+Managing distributed transactions with Java MicroProfile Transactions
+Java MicroProfile and Kubernetes integration
+Implementing API gateways with Java MicroProfile
+Java MicroProfile and serverless computing
+Application deployment strategies with Java MicroProfile
+Using Java MicroProfile Reactive Streams Operators
+Integrating microservices with Java MicroProfile Service Mesh
+Building resilient data pipelines with Java MicroProfile
+Building event-driven microservices with Java MicroProfile
+Exploring microfrontend architecture with Java MicroProfile
+Implementing capacity planning with Java MicroProfile Metrics
+Java MicroProfile and GraphQL integration
+Implementing service resilience with Java MicroProfile Fault Tolerance
+Optimizing performance with Java MicroProfile
+Java MicroProfile and cloud-native databases
+Securing microservices with Java MicroProfile OAuth2
+Implementing rate limiting with Java MicroProfile
+Java MicroProfile and reactive messaging patterns
+Using Java MicroProfile Config with external configuration sources
+Building observability with Java MicroProfile Metrics and Monitoring
+Implementing distributed tracing with Java MicroProfile OpenTracing
+Managing timeouts in microservices with Java MicroProfile Fault Tolerance
+Java MicroProfile and stream processing
+Scaling microservices with Java MicroProfile Clustering
+Implementing load balancing with Java MicroProfile Load Balancer
+Java MicroProfile and container orchestration
+Implementing security policies with Java MicroProfile RBAC
+Building API documentation with Java MicroProfile Open API

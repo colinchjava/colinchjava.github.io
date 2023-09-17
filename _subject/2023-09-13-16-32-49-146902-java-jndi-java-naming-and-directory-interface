@@ -1,3 +1,51 @@
+Exploring the Basics of Java Naming and Directory Interface (JNDI)
+Understanding the Role of JNDI in Java Development
+Implementing JNDI in Java Applications
+Integrating JNDI with Java Enterprise Edition (JEE)
+JNDI and Dependency Injection in Java
+Managing Remote Resources with JNDI in Java
+Using JNDI for Configuring Database Connections in Java
+Securing JNDI Lookups in Java Applications
+JNDI and Connection Pooling in Java
+Exploring JNDI Providers in Java
+JNDI and Resource Injection in Java
+Best Practices for Using JNDI in Java Development
+Troubleshooting Common JNDI Issues in Java Applications
+Implementing JNDI Lookups in Java-Spring Applications
+JNDI and Java Messaging Service (JMS) Integration
+JNDI and Java Naming Contexts
+Utilizing JNDI for Dynamic Resource Discovery in Java
+Incremental Migration of Legacy Applications to JNDI in Java
+JNDI and Distributed Computing in Java
+Enhancing Scalability with JNDI in Java Application Servers
+Implementing JNDI Lookup Filters in Java
+Centralized Configuration Management with JNDI in Java Applications
+JNDI and Load Balancing in Java
+Using JNDI for Dynamic Service Location in Java applications
+JNDI and Clustering in Java Enterprise Applications
+Developing Custom JNDI Providers in Java
+Implementing Connection Pooling with JNDI in Java Applications
+JNDI and Java EE Security Integration
+Leveraging JNDI for Global Naming and Addressing in Java
+Implementing JNDI Resource Adapters in Java
+JNDI and Service-Oriented Architecture (SOA) in Java
+Utilizing JNDI for Database Connection Management in Java
+JNDI and Resource Sharing in Java Applications
+Capturing JNDI Traces for Debugging in Java
+Implementing JNDI Data Sources in Java Web Applications
+JNDI and Remote Method Invocation (RMI) Integration in Java
+JNDI and Java API for XML Registries (JAXR) Integration
+Implementing Caching with JNDI in Java Applications
+JNDI and JavaObject Naming Service (JONS) Integration
+Leveraging JNDI for Context Switching in Java Applications
+JNDI and Java IDL (Interface Definition Language) Integration
+Implementing Connection Pooling with JNDI in Java-Spring Applications
+JNDI and JINI (Java Intelligent Network Infrastructure) Integration
+Utilizing JNDI for Dynamic Configuration Management in Java
+JNDI and Java Management Extensions (JMX) Integration
+Implementing JNDI Context Factories in Java
+JNDI and Java Peer-to-Peer Computing Integration
+JNDI and WebSphere Application Server Integration in Java
 Implementing Dynamic Service Discovery with JNDI in Java
 JNDI and Remote Service Invocation in Java
 Leveraging JNDI for Resource Virtualization in Java Applications

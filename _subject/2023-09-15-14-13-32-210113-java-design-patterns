@@ -1,0 +1,100 @@
+The Singleton design pattern in Java
+Understanding the Factory design pattern in Java
+Exploring the Builder design pattern in Java
+Implementing the Observer design pattern in Java
+The Strategy design pattern in Java
+Applying the Decorator design pattern in Java
+Using the Adapter design pattern in Java
+The Prototype design pattern in Java
+Understanding the Bridge design pattern in Java
+Implementing the Command design pattern in Java
+The Template Method design pattern in Java
+Applying the Iterator design pattern in Java
+Using the Composite design pattern in Java
+Understanding the Proxy design pattern in Java
+Implementing the Mediator design pattern in Java
+The Flyweight design pattern in Java
+Applying the Chain of Responsibility design pattern in Java
+Using the State design pattern in Java
+The Memento design pattern in Java
+Understanding the Visitor design pattern in Java
+Implementing the Abstract Factory design pattern in Java
+Using the Facade design pattern in Java
+The Builder design pattern vs. the Factory design pattern in Java
+Applying the Observer design pattern in a Java GUI application
+Using the Decorator design pattern with Java streams
+Implementing the Adapter design pattern for legacy code in Java
+The Prototype design pattern for cloning objects in Java
+Understanding the Bridge design pattern in Java frameworks
+Implementing the Command design pattern in a Java web application
+Using the Template Method design pattern for code reuse in Java
+The Iterator design pattern in Java collections
+Applying the Composite design pattern in a Java GUI framework
+Using the Proxy design pattern for logging in Java applications
+The Mediator design pattern for loose coupling in Java systems
+Implementing the Flyweight design pattern for memory efficiency in Java
+Using the Chain of Responsibility design pattern for request handling in Java
+The State design pattern in Java game development
+Applying the Memento design pattern for undo/redo functionality in Java
+Using the Visitor design pattern for data processing in Java
+Implementing the Abstract Factory design pattern for creating database objects in Java
+The Facade design pattern for simplifying complex Java APIs
+Understanding the Builder design pattern in Java multi-threading
+Implementing the Observer design pattern in Java event-driven programming
+Using the Decorator design pattern for dynamic behavior extension in Java
+The Adapter design pattern for interoperability in Java microservices
+Applying the Prototype design pattern for evolving requirements in Java projects
+Using the Bridge design pattern for database abstraction in Java applications
+The Command design pattern for command-based user interfaces in Java
+Implementing the Template Method design pattern for code generation in Java
+Using the Iterator design pattern for pagination in Java web services
+Applying the Composite design pattern for tree-like structures in Java
+Using the Proxy design pattern for caching in Java applications
+The Mediator design pattern for inter-module communication in Java projects
+Implementing the Flyweight design pattern for thread-safe stateless objects in Java
+Using the Chain of Responsibility design pattern for request validation in Java APIs
+The State design pattern for game AI in Java game development
+Applying the Memento design pattern for transaction management in Java applications
+Using the Visitor design pattern for XML parsing in Java
+Implementing the Abstract Factory design pattern for dependency injection in Java
+The Facade design pattern for modularizing Java frameworks
+Understanding the Builder design pattern in Java code generators
+Implementing the Observer design pattern for real-time analytics in Java applications
+Using the Decorator design pattern for dynamic HTML generation in Java web development
+The Adapter design pattern for message conversion in Java messaging systems
+Applying the Prototype design pattern for test data generation in Java testing frameworks
+Using the Bridge design pattern for database connection pooling in Java applications
+The Command design pattern for undo/redo functionality in Java text editors
+Implementing the Template Method design pattern for game loops in Java game programming
+Using the Iterator design pattern for in-memory caching in Java applications
+Applying the Composite design pattern for file system modeling in Java
+Using the Proxy design pattern for dynamic method dispatch in Java applications
+The Mediator design pattern for event-driven architectures in Java microservices
+Implementing the Flyweight design pattern for image processing in Java applications
+Using the Chain of Responsibility design pattern for authorization in Java security frameworks
+The State design pattern for workflow management in Java enterprise applications
+Applying the Memento design pattern for session management in Java web applications
+Using the Visitor design pattern for code analysis in Java compilers
+Implementing the Abstract Factory design pattern for database abstraction in Java ORMs
+The Facade design pattern for API gateways in Java microservices
+Understanding the Builder design pattern in Java test frameworks
+Implementing the Observer design pattern for real-time collaboration in Java web applications
+Using the Decorator design pattern for text formatting in Java print libraries
+The Adapter design pattern for data format conversion in Java data pipelines
+Applying the Prototype design pattern for test case generation in Java automated testing
+Using the Bridge design pattern for cross-platform development in Java mobile apps
+The Command design pattern for transaction management in Java enterprise applications
+Implementing the Template Method design pattern for code analysis in Java static analyzers
+Using the Iterator design pattern for distributed caching in Java microservices
+Applying the Composite design pattern for file compression in Java file systems
+Using the Proxy design pattern for dynamic object creation in Java frameworks
+The Mediator design pattern for event handling in Java GUI applications
+Implementing the Flyweight design pattern for performance optimization in Java servers
+Using the Chain of Responsibility design pattern for error handling in Java APIs
+Applying the State design pattern for multiplayer game synchronization in Java game development
+Using the Memento design pattern for session checkpointing in Java web applications
+The Visitor design pattern for AST traversal in Java compilers
+Implementing the Abstract Factory design pattern for internationalization in Java applications
+Using the Facade design pattern for transactional services in Java microservices
+Understanding the Builder design pattern in Java UI frameworks
+Applying the Observer design pattern for log analysis in Java logging frameworks
