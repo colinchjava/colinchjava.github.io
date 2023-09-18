@@ -1,0 +1,100 @@
+Exploring the basics of Java CDI (Contexts and Dependency Injection)
+How to integrate CDI into your Java application
+Understanding the benefits of using Java CDI in your development projects
+An overview of the CDI API in Java EE
+Deep diving into CDI managed beans and their lifecycle
+Using CDI events for inter-component communication in Java applications
+Implementing CDI producer methods in Java for dynamic resource injection
+Leveraging CDI decorators for flexible and reusable Java application design
+Getting started with CDI stereotypes for efficient and clean Java code
+An in-depth look at CDI qualifiers and how they can improve your Java code
+Integrating Java EE servlets with CDI for seamless dependency injection
+Mastering CDI scopes in Java applications for effective resource management
+Implementing CDI interceptors in Java to provide cross-cutting concerns
+Using CDI in Java SE applications for easy dependency injection
+Exploring CDI alternatives and comparing them with Java's CDI framework
+Best practices for testing Java CDI components using JUnit and Mocking frameworks
+Optimizing CDI performance in Java applications for faster execution times
+Troubleshooting common issues in CDI implementations in Java
+Using CDI together with Java Persistence API (JPA) for efficient data management
+Integrating CDI with RESTful web services in Java for seamless communication
+An overview of CDI extension points in Java EE for customizing and extending functionality
+Exploring CDI dependency resolution and injection points in Java applications
+Implementing CDI event observers in Java for reacting to application events
+Mastering the use of CDI alternatives and stereotypes in Java applications
+Integrating CDI with Java Server Faces (JSF) for building powerful web applications
+Leveraging CDI together with EJB (Enterprise JavaBeans) for robust enterprise applications
+Deep diving into CDI event qualifiers in Java to fine-tune event handling
+Writing portable CDI code in Java to ensure cross-platform compatibility
+Using CDI in modular Java applications for flexible and scalable development
+Exploring CDI dependency injection beans and their usage in Java applications
+Implementing CDI function composition in Java for clean and maintainable code
+Using CDI together with Java Messaging Service (JMS) to enable asynchronous communication
+Best practices for integrating CDI and Java EE security features in your applications
+Leveraging CDI with Java Bean Validation for robust input validation in your applications
+Extending CDI using custom annotations and processors in Java for advanced functionality
+Hibernate ORM with Java CDI for powerful and efficient object-relational mapping
+Using CDI together with Java Transaction API (JTA) for distributed transaction management
+Building modular and extensible applications using CDI Portable Extensions in Java
+Utilizing CDI persistence context in Java for efficient database interactions
+Integrating CDI with Java EE managed thread execution for efficient concurrency handling
+Effective debugging and logging techniques for CDI applications in Java
+Leveraging CDI with Java EE security realms for fine-grained access control
+Taking advantage of CDI with Java EE Resource Adapters for enterprise integration
+An overview of CDI configuration alternatives in Java applications
+Implementing CDI event ordering and priorities in Java for precise event handling
+Building scalable microservices using CDI in Java for distributed application architecture
+Using CDI together with Jakarta Mail API for email communication in Java applications
+Optimizing CDI resource injection in Java for improved performance
+An introduction to CDI portable extensions in Java for advanced customization
+Leveraging CDI with Java EE Concurrency Utilities for efficient parallel processing
+Exploring CDI event payloads in Java for passing additional data with events
+Implementing CDI extension listeners in Java for customizing CDI behavior
+Using CDI together with Java EE WebSocket for real-time bidirectional communication
+Deep diving into CDI synchronization and concurrency control mechanisms in Java
+Using CDI for dynamic configuration management in Java applications
+Best practices for handling CDI transaction management in Java
+Integrating CDI with Java EE Batch Applications for batch processing tasks
+Leveraging CDI with Java EE Timer Service for scheduled task execution
+Exploring CDI portable dependency injection in non-Java EE environments
+Implementing CDI application events in Java for cross-component communication
+Using CDI together with Java EE websockets for real-time data streaming
+Deep diving into CDI bean specialization in Java for component customization
+Leveraging CDI with Java EE managed beans for efficient dependency management
+An overview of CDI event metadata in Java for event contextual information
+Exploring CDI portable extensions for integrating third-party libraries in Java applications
+Implementing CDI stage-based event propagation in Java for fine-grained control
+Using CDI together with Java EE Connector Architecture for enterprise integration
+Best practices for CDI bean naming conventions in Java applications
+Integrating CDI with Java EE JCA (Java Connector Architecture) for resource adapters
+Leveraging CDI with Java EE CDI DeltaSpike extensions for additional functionality
+Exploring CDI resource injection alternatives in Java for flexible injection options
+Implementing CDI transaction synchronization in Java for coordinated transaction management
+Using CDI together with Java Message Driven Beans (MDB) for asynchronous messaging
+Deep diving into CDI extension activation and deactivation in Java applications
+Leveraging CDI with Java EE SOAP web services for interoperable communication
+An overview of CDI interceptor binding and priority in Java for aspect-oriented programming
+Exploring CDI container and context propagation in Java for cross-component communication
+Implementing CDI runtime permissions for fine-grained security in Java applications
+Using CDI together with Java EE JAX-WS for building SOAP web services
+Best practices for CDI events in Java applications for efficient event handling
+Integrating CDI with Java Batch applications for batch processing and job scheduling
+Leveraging CDI with Java EE common annotations for consistent development patterns
+Deep diving into CDI runtime configuration in Java for customizing behavior
+An overview of CDI event transactional boundaries in Java for event-driven systems
+Exploring CDI injection point metadata in Java for advanced dependency handling
+Implementing CDI context control in Java for efficient resource management
+Using CDI together with Java EE JSON-B for seamless JSON serialization and deserialization
+Leveraging CDI with Java EE EECon Beans for event-driven microservices architecture
+Best practices for CDI alternatives in Java applications for improved development experience
+Integrating CDI with Java concurrency utilities for efficient parallel processing
+Exploring CDI portable extension lifecycle in Java for extension activation and termination
+Implementing CDI event filtering and selective observers in Java for precise event handling
+Using CDI together with Java EE JAX-RS for building RESTful web services
+Deep diving into CDI bean scopes and their usage in Java applications
+Leveraging CDI with Java EE concurrency utilities for efficient thread management
+An overview of CDI event ordering and collision prevention in Java for event-based systems
+Exploring CDI portable extension hooks in Java for customizing CDI behavior
+Implementing CDI in Java EE modules for modular and extensible application development
+Using CDI together with Java EE JASPIC for advanced security mechanisms
+Best practices for CDI event exception handling in Java applications for robust error handling
