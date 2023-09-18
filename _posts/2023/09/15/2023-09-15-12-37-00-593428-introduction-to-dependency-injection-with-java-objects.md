@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to dependency injection with Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

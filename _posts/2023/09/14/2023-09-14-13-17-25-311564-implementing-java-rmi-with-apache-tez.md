@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Java RMI with Apache Tez"
 description: " "
 date: 2023-09-14
-tags: [java, ApacheTez]
+tags: [ApacheTez]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for audio and video processing"
 description: " "
 date: 2023-09-13
-tags: [Java, AudioVideoProcessing]
+tags: [AudioVideoProcessing]
 comments: true
 share: true
 ---

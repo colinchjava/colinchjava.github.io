@@ -3,7 +3,7 @@ layout: post
 title: "Implementing advanced concepts with Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, WrapperClasses]
+tags: [WrapperClasses]
 comments: true
 share: true
 ---

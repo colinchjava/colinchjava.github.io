@@ -3,7 +3,7 @@ layout: post
 title: "Manipulating data using wrapper classes in Java stream API"
 description: " "
 date: 2023-09-14
-tags: [Java, StreamAPI, DataManipulation]
+tags: [StreamAPI, DataManipulation]
 comments: true
 share: true
 ---

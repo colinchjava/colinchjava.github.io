@@ -3,7 +3,7 @@ layout: post
 title: "Implementing pagination with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [java, pagination]
+tags: [pagination]
 comments: true
 share: true
 ---

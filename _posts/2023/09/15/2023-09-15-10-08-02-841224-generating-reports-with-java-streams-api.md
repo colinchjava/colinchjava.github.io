@@ -3,7 +3,7 @@ layout: post
 title: "Generating reports with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, Programming]
+tags: [Programming]
 comments: true
 share: true
 ---

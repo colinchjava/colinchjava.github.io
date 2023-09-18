@@ -3,7 +3,7 @@ layout: post
 title: "Advanced caching strategies with Jib for faster Java container builds"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

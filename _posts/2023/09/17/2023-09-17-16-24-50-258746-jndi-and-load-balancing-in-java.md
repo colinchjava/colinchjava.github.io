@@ -3,7 +3,7 @@ layout: post
 title: "JNDI and Load Balancing in Java"
 description: " "
 date: 2023-09-17
-tags: [java, loadbalancing]
+tags: [loadbalancing]
 comments: true
 share: true
 ---

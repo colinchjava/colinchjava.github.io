@@ -3,7 +3,7 @@ layout: post
 title: "Deep dive into Java object serialization and deserialization"
 description: " "
 date: 2023-09-15
-tags: [Java, Serialization]
+tags: [Serialization]
 comments: true
 share: true
 ---

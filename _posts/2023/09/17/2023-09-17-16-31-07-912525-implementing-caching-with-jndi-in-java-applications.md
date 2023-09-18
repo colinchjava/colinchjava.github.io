@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Caching with JNDI in Java Applications"
 description: " "
 date: 2023-09-17
-tags: [java, caching, JNDI]
+tags: [caching, JNDI]
 comments: true
 share: true
 ---

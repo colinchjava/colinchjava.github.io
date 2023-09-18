@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of reinforcement learning with Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, ReinforcementLearning]
+tags: [ReinforcementLearning]
 comments: true
 share: true
 ---

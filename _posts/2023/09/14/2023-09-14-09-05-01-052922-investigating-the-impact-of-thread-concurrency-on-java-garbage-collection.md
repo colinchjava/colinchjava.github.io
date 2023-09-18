@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of thread concurrency on Java garbage collection"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, ThreadConcurrency]
+tags: [GarbageCollection, ThreadConcurrency]
 comments: true
 share: true
 ---

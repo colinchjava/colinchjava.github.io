@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for maintaining code quality and readability in Java JDK projects"
 description: " "
 date: 2023-09-13
-tags: [Java, CodeConventions, SelfDocumentingCode, CodeFormatting, CodeComments, ErrorHandling, JavaDevelopment, CodeQuality]
+tags: [CodeConventions, SelfDocumentingCode, CodeFormatting, CodeComments, ErrorHandling, JavaDevelopment, CodeQuality]
 comments: true
 share: true
 ---

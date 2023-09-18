@@ -3,7 +3,7 @@ layout: post
 title: "Debugging and troubleshooting Java applications on GlassFish"
 description: " "
 date: 2023-09-17
-tags: [Java, GlassFish]
+tags: [GlassFish]
 comments: true
 share: true
 ---

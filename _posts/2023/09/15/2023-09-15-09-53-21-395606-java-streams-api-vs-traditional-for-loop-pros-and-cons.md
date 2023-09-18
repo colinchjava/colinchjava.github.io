@@ -3,7 +3,7 @@ layout: post
 title: "Java Streams API vs traditional for loop: Pros and cons"
 description: " "
 date: 2023-09-15
-tags: [Java, StreamsAPI, ForLoop]
+tags: [StreamsAPI, ForLoop]
 comments: true
 share: true
 ---

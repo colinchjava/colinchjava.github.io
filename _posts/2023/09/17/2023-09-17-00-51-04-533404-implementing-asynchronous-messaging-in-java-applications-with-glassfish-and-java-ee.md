@@ -3,7 +3,7 @@ layout: post
 title: "Implementing asynchronous messaging in Java applications with GlassFish and Java EE"
 description: " "
 date: 2023-09-17
-tags: [Java, AsynchronousMessaging]
+tags: [AsynchronousMessaging]
 comments: true
 share: true
 ---

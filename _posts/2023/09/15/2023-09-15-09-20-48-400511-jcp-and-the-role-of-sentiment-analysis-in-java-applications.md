@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the role of sentiment analysis in Java applications"
 description: " "
 date: 2023-09-15
-tags: [Java, SentimentAnalysis]
+tags: [SentimentAnalysis]
 comments: true
 share: true
 ---

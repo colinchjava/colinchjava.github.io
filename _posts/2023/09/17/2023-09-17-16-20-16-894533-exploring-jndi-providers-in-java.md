@@ -3,7 +3,7 @@ layout: post
 title: "Exploring JNDI Providers in Java"
 description: " "
 date: 2023-09-17
-tags: [java, jndi, naming, directory, providers]
+tags: [jndi, naming, directory, providers]
 comments: true
 share: true
 ---

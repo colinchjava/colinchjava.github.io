@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing Scalability with JNDI in Java Application Servers"
 description: " "
 date: 2023-09-17
-tags: [java, scalability]
+tags: [scalability]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Java Native Interface (JNI) in Java JDK for native integration"
 description: " "
 date: 2023-09-13
-tags: [Java, NativeIntegration]
+tags: [NativeIntegration]
 comments: true
 share: true
 ---

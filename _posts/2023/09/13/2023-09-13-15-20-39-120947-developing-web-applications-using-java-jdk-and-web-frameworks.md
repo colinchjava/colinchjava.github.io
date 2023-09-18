@@ -3,7 +3,7 @@ layout: post
 title: "Developing web applications using Java JDK and web frameworks"
 description: " "
 date: 2023-09-13
-tags: [java, webdevelopment, springmvc, javawebframeworks]
+tags: [webdevelopment, springmvc, javawebframeworks]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Automating load balancing and scaling with Jib-built Java containers"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

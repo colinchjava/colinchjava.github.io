@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for image recognition and computer vision applications"
 description: " "
 date: 2023-09-13
-tags: [Java, ImageRecognition, ComputerVision]
+tags: [ImageRecognition, ComputerVision]
 comments: true
 share: true
 ---

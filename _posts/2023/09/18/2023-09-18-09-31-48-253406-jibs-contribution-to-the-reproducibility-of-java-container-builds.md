@@ -3,7 +3,7 @@ layout: post
 title: "Jib's contribution to the reproducibility of Java container builds"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

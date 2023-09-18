@@ -3,7 +3,7 @@ layout: post
 title: "Handling exceptions and error handling with Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, Exceptions]
+tags: [Exceptions]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging wrapper classes for multithreading in Java"
 description: " "
 date: 2023-09-14
-tags: [Java, Multithreading]
+tags: [Multithreading]
 comments: true
 share: true
 ---

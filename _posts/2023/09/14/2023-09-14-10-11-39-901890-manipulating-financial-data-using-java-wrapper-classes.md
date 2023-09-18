@@ -3,7 +3,7 @@ layout: post
 title: "Manipulating financial data using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, FinancialData, WrapperClasses]
+tags: [FinancialData, WrapperClasses]
 comments: true
 share: true
 ---

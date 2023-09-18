@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Java object cloning and its practical applications"
 description: " "
 date: 2023-09-15
-tags: [Java, ObjectCloning]
+tags: [ObjectCloning]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to GlassFish application server for Java developers"
 description: " "
 date: 2023-09-17
-tags: [Java, ApplicationServer]
+tags: [ApplicationServer]
 comments: true
 share: true
 ---

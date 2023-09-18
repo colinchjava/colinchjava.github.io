@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the challenges of data streaming and real-time analytics in Java"
 description: " "
 date: 2023-09-15
-tags: [Java, RealTimeAnalytics]
+tags: [RealTimeAnalytics]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the impact of containerization on Java applications"
 description: " "
 date: 2023-09-15
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

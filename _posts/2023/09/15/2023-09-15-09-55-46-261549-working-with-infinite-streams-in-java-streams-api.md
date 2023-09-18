@@ -3,7 +3,7 @@ layout: post
 title: "Working with infinite streams in Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, JavaStreams, InfiniteStreams]
+tags: [JavaStreams, InfiniteStreams]
 comments: true
 share: true
 ---

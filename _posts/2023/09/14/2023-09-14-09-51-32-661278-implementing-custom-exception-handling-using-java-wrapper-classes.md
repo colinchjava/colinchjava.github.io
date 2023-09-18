@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom exception handling using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [java, exceptionhandling]
+tags: [exceptionhandling]
 comments: true
 share: true
 ---

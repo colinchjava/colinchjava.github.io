@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java applications with GlassFish and Apache CXF for SOAP web services"
 description: " "
 date: 2023-09-17
-tags: [Java, SOAP]
+tags: [SOAP]
 comments: true
 share: true
 ---

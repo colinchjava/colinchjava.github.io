@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for network programming and socket-based communication"
 description: " "
 date: 2023-09-13
-tags: [Java, NetworkProgramming, SocketCommunication]
+tags: [NetworkProgramming, SocketCommunication]
 comments: true
 share: true
 ---

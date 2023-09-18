@@ -3,7 +3,7 @@ layout: post
 title: "Handling natural language understanding using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, NaturalLanguageUnderstanding]
+tags: [NaturalLanguageUnderstanding]
 comments: true
 share: true
 ---

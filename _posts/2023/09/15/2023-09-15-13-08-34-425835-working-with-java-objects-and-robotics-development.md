@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and robotics development"
 description: " "
 date: 2023-09-15
-tags: [java, robotics]
+tags: [robotics]
 comments: true
 share: true
 ---

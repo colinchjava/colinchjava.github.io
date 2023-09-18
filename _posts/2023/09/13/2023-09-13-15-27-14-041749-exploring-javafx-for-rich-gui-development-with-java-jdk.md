@@ -3,7 +3,7 @@ layout: post
 title: "Exploring JavaFX for rich GUI development with Java JDK"
 description: " "
 date: 2023-09-13
-tags: [java, JavaFX]
+tags: [JavaFX]
 comments: true
 share: true
 ---

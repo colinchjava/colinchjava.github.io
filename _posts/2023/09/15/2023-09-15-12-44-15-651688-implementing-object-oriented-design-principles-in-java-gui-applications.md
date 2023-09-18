@@ -3,7 +3,7 @@ layout: post
 title: "Implementing object-oriented design principles in Java GUI applications"
 description: " "
 date: 2023-09-15
-tags: [Java, ObjectOrientedDesign]
+tags: [ObjectOrientedDesign]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Java collection framework and objects"
 description: " "
 date: 2023-09-15
-tags: [Java, Collections]
+tags: [Collections]
 comments: true
 share: true
 ---

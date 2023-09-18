@@ -3,7 +3,7 @@ layout: post
 title: "Building real-time data streaming applications with GlassFish and Java EE"
 description: " "
 date: 2023-09-17
-tags: [java, GlassFish, JavaEE, realtime, datastreaming]
+tags: [GlassFish, JavaEE, realtime, datastreaming]
 comments: true
 share: true
 ---

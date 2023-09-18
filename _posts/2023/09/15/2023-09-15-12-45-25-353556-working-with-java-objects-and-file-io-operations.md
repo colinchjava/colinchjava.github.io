@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and file I/O operations"
 description: " "
 date: 2023-09-15
-tags: [Java, FileIO]
+tags: [FileIO]
 comments: true
 share: true
 ---

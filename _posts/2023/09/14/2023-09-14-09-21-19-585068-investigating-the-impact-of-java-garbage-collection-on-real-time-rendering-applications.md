@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of Java garbage collection on real-time rendering applications"
 description: " "
 date: 2023-09-14
-tags: [java, garbagecollection, realtime, rendering, optimization]
+tags: [garbagecollection, realtime, rendering, optimization]
 comments: true
 share: true
 ---

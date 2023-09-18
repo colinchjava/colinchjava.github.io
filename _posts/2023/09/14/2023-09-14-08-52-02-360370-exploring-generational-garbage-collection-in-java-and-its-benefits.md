@@ -3,7 +3,7 @@ layout: post
 title: "Exploring generational garbage collection in Java and its benefits"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection]
+tags: [GarbageCollection]
 comments: true
 share: true
 ---

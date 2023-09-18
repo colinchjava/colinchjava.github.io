@@ -3,7 +3,7 @@ layout: post
 title: "Handling XML and JSON data using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [java, json]
+tags: [json]
 comments: true
 share: true
 ---

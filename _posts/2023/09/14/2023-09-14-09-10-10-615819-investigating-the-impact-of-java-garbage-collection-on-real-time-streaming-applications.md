@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of Java garbage collection on real-time streaming applications"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, RealTimeStreaming, PerformanceOptimization]
+tags: [GarbageCollection, RealTimeStreaming, PerformanceOptimization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing secure communication using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, SecureCommunication]
+tags: [SecureCommunication]
 comments: true
 share: true
 ---

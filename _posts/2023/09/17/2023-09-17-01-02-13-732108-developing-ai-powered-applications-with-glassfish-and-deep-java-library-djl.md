@@ -3,7 +3,7 @@ layout: post
 title: "Developing AI-powered applications with GlassFish and Deep Java Library (DJL)"
 description: " "
 date: 2023-09-17
-tags: [Java, GlassFish, AIapplications]
+tags: [GlassFish, AIapplications]
 comments: true
 share: true
 ---

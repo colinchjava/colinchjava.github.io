@@ -3,7 +3,7 @@ layout: post
 title: "Implementing internationalization and localization in Java objects"
 description: " "
 date: 2023-09-15
-tags: [java, internationalization]
+tags: [internationalization]
 comments: true
 share: true
 ---

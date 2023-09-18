@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for time series analysis and forecasting"
 description: " "
 date: 2023-09-13
-tags: [Java, TimeSeriesAnalysis, Forecasting]
+tags: [TimeSeriesAnalysis, Forecasting]
 comments: true
 share: true
 ---

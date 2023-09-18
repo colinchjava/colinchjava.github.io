@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the JCP: How does it work?"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

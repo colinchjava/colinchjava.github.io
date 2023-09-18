@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing Java code using advanced Java JDK features"
 description: " "
 date: 2023-09-13
-tags: [Java, CodeOptimization]
+tags: [CodeOptimization]
 comments: true
 share: true
 ---

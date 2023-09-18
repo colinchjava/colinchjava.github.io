@@ -3,7 +3,7 @@ layout: post
 title: "Building Java microservices with GlassFish and Eclipse MicroProfile"
 description: " "
 date: 2023-09-17
-tags: [Java, Microservices, GlassFish, EclipseMicroProfile]
+tags: [Microservices, GlassFish, EclipseMicroProfile]
 comments: true
 share: true
 ---

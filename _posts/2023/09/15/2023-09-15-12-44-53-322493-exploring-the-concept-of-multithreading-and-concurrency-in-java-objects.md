@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of multithreading and concurrency in Java objects"
 description: " "
 date: 2023-09-15
-tags: [java, concurrency]
+tags: [concurrency]
 comments: true
 share: true
 ---

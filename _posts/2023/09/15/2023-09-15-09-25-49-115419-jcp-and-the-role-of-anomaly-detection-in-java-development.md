@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the role of anomaly detection in Java development"
 description: " "
 date: 2023-09-15
-tags: [Java, AnomalyDetection]
+tags: [AnomalyDetection]
 comments: true
 share: true
 ---

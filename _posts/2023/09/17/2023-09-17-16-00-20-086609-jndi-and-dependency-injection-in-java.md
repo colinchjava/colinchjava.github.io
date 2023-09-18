@@ -3,7 +3,7 @@ layout: post
 title: "JNDI and Dependency Injection in Java"
 description: " "
 date: 2023-09-17
-tags: [java, JNDI, dependency]
+tags: [JNDI, dependency]
 comments: true
 share: true
 ---

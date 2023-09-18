@@ -3,7 +3,7 @@ layout: post
 title: "Building microservices with GlassFish and Java"
 description: " "
 date: 2023-09-17
-tags: [java, microservices]
+tags: [microservices]
 comments: true
 share: true
 ---

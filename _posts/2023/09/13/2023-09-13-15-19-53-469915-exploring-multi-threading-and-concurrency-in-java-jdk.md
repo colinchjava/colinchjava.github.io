@@ -3,7 +3,7 @@ layout: post
 title: "Exploring multi-threading and concurrency in Java JDK"
 description: " "
 date: 2023-09-13
-tags: [Java, Concurrency]
+tags: [Concurrency]
 comments: true
 share: true
 ---

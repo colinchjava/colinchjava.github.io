@@ -3,7 +3,7 @@ layout: post
 title: "Building a distributed file system with Java RMI"
 description: " "
 date: 2023-09-14
-tags: [java, distributedfilesystem, javarmi]
+tags: [distributedfilesystem, javarmi]
 comments: true
 share: true
 ---

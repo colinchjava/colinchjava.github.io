@@ -3,7 +3,7 @@ layout: post
 title: "JCP legalities: Navigating intellectual property rights in Java standards"
 description: " "
 date: 2023-09-15
-tags: [Java, IntellectualPropertyRights]
+tags: [IntellectualPropertyRights]
 comments: true
 share: true
 ---

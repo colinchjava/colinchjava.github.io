@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed tracing in Java applications with GlassFish and OpenTracing"
 description: " "
 date: 2023-09-17
-tags: [Java, DistributedTracing]
+tags: [DistributedTracing]
 comments: true
 share: true
 ---

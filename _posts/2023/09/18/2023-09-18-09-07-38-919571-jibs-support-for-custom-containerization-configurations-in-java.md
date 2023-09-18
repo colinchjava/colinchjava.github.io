@@ -3,7 +3,7 @@ layout: post
 title: "Jib's support for custom containerization configurations in Java"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

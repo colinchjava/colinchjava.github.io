@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the growing importance of cybersecurity in Java"
 description: " "
 date: 2023-09-15
-tags: [Java, Cybersecurity]
+tags: [Cybersecurity]
 comments: true
 share: true
 ---

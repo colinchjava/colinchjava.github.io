@@ -3,7 +3,7 @@ layout: post
 title: "Integration testing in Java using GlassFish embedded container"
 description: " "
 date: 2023-09-17
-tags: [Java, IntegrationTesting]
+tags: [IntegrationTesting]
 comments: true
 share: true
 ---

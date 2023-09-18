@@ -3,7 +3,7 @@ layout: post
 title: "The role and importance of the Java Community Process (JCP)"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

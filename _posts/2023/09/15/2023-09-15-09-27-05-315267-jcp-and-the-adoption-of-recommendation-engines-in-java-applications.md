@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the adoption of recommendation engines in Java applications"
 description: " "
 date: 2023-09-15
-tags: [Java, RecommendationEngines]
+tags: [RecommendationEngines]
 comments: true
 share: true
 ---

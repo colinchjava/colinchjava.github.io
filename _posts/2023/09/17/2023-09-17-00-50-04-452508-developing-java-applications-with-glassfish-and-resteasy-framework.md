@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java applications with GlassFish and RESTEasy framework"
 description: " "
 date: 2023-09-17
-tags: [Java, GlassFish, RESTEasy]
+tags: [GlassFish, RESTEasy]
 comments: true
 share: true
 ---

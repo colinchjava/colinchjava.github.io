@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for setting up Java JDK on different operating systems"
 description: " "
 date: 2023-09-13
-tags: [Java, Development, JavaDevelopment, OperatingSystems]
+tags: [Development, JavaDevelopment, OperatingSystems]
 comments: true
 share: true
 ---

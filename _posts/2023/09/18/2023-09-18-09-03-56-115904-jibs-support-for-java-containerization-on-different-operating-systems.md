@@ -3,7 +3,7 @@ layout: post
 title: "Jib's support for Java containerization on different operating systems"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

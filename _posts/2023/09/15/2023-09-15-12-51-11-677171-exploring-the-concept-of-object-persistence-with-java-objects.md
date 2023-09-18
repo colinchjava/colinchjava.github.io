@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of object persistence with Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, ObjectPersistence]
+tags: [ObjectPersistence]
 comments: true
 share: true
 ---

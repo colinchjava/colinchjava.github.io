@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java applications with GlassFish and Apache Shiro for security"
 description: " "
 date: 2023-09-17
-tags: [Java, GlassFish, ApacheShiro, ApplicationSecurity]
+tags: [GlassFish, ApacheShiro, ApplicationSecurity]
 comments: true
 share: true
 ---

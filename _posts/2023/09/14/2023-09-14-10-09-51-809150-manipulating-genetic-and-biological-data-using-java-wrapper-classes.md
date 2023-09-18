@@ -3,7 +3,7 @@ layout: post
 title: "Manipulating genetic and biological data using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, GeneticsAndBiology]
+tags: [GeneticsAndBiology]
 comments: true
 share: true
 ---

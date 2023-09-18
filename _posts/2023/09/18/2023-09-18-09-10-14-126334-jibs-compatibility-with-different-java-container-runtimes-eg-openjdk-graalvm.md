@@ -3,7 +3,7 @@ layout: post
 title: "Jib's compatibility with different Java container runtimes (e.g., OpenJDK, GraalVM)"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection optimizations for reducing overall memory usage in Java applications"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, MemoryOptimization]
+tags: [GarbageCollection, MemoryOptimization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK's support for internationalization and localization"
 description: " "
 date: 2023-09-13
-tags: [Java, Internationalization, Localization]
+tags: [Internationalization, Localization]
 comments: true
 share: true
 ---

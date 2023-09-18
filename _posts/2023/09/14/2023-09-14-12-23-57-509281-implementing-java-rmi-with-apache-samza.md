@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Java RMI with Apache Samza"
 description: " "
 date: 2023-09-14
-tags: [Java, ApacheSamza]
+tags: [ApacheSamza]
 comments: true
 share: true
 ---

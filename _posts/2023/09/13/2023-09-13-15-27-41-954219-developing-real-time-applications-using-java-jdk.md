@@ -3,7 +3,7 @@ layout: post
 title: "Developing real-time applications using Java JDK"
 description: " "
 date: 2023-09-13
-tags: [Java, RealTimeApplications]
+tags: [RealTimeApplications]
 comments: true
 share: true
 ---

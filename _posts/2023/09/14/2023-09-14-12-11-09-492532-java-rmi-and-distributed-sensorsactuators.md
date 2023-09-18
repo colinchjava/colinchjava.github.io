@@ -3,7 +3,7 @@ layout: post
 title: "Java RMI and distributed sensors/actuators"
 description: " "
 date: 2023-09-14
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

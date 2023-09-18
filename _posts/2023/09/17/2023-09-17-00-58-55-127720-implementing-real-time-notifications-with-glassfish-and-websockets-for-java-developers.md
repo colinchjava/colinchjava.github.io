@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time notifications with GlassFish and WebSockets for Java developers"
 description: " "
 date: 2023-09-17
-tags: [Java, WebSockets]
+tags: [WebSockets]
 comments: true
 share: true
 ---

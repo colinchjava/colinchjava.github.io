@@ -3,7 +3,7 @@ layout: post
 title: "Implementing failover and high availability in Java RMI"
 description: " "
 date: 2023-09-14
-tags: [Java, Failover, HighAvailability]
+tags: [Failover, HighAvailability]
 comments: true
 share: true
 ---

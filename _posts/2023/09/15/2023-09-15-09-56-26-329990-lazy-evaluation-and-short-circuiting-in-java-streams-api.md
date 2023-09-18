@@ -3,7 +3,7 @@ layout: post
 title: "Lazy evaluation and short-circuiting in Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, JavaStreams, LazyEvaluation, ShortCircuiting]
+tags: [JavaStreams, LazyEvaluation, ShortCircuiting]
 comments: true
 share: true
 ---

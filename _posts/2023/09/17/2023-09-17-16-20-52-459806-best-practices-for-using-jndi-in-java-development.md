@@ -3,7 +3,7 @@ layout: post
 title: "Best Practices for Using JNDI in Java Development"
 description: " "
 date: 2023-09-17
-tags: [java, JNDI, JavaDevelopment]
+tags: [JNDI, JavaDevelopment]
 comments: true
 share: true
 ---

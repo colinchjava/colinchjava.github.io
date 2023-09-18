@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Java object memory model and garbage collection"
 description: " "
 date: 2023-09-15
-tags: [Java, GarbageCollection]
+tags: [GarbageCollection]
 comments: true
 share: true
 ---

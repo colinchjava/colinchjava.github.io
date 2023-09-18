@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java applications with GlassFish and Apache Avro for data serialization"
 description: " "
 date: 2023-09-17
-tags: [java, GlassFish, ApacheAvro]
+tags: [GlassFish, ApacheAvro]
 comments: true
 share: true
 ---

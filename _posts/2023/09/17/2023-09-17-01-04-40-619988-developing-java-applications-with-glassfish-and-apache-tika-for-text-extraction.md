@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java applications with GlassFish and Apache Tika for text extraction"
 description: " "
 date: 2023-09-17
-tags: [Java, TextExtraction, DocumentProcessing]
+tags: [TextExtraction, DocumentProcessing]
 comments: true
 share: true
 ---

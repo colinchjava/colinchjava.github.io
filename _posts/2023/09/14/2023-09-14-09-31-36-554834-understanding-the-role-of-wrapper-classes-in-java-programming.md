@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the role of wrapper classes in Java programming"
 description: " "
 date: 2023-09-14
-tags: [Java, WrapperClasses]
+tags: [WrapperClasses]
 comments: true
 share: true
 ---

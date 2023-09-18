@@ -3,7 +3,7 @@ layout: post
 title: "How Jib simplifies containerizing Java applications"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

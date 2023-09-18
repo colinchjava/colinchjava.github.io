@@ -3,7 +3,7 @@ layout: post
 title: "Building RESTful APIs using Java JDK"
 description: " "
 date: 2023-09-13
-tags: [Java, RESTfulAPIs]
+tags: [RESTfulAPIs]
 comments: true
 share: true
 ---

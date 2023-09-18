@@ -3,7 +3,7 @@ layout: post
 title: "Exploring different data structures available in Java util package"
 description: " "
 date: 2023-09-14
-tags: [Java, DataStructures]
+tags: [DataStructures]
 comments: true
 share: true
 ---

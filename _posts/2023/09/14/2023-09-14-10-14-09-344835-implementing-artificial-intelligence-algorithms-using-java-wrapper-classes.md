@@ -3,7 +3,7 @@ layout: post
 title: "Implementing artificial intelligence algorithms using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, WrapperClasses, ArtificialIntelligence]
+tags: [WrapperClasses, ArtificialIntelligence]
 comments: true
 share: true
 ---

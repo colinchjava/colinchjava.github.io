@@ -3,7 +3,7 @@ layout: post
 title: "Building lightweight Java containers with Jib for edge computing and IoT applications"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

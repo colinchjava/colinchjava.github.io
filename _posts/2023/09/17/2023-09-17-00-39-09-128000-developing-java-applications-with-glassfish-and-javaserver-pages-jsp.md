@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java applications with GlassFish and JavaServer Pages (JSP)"
 description: " "
 date: 2023-09-17
-tags: [Java, GlassFish]
+tags: [GlassFish]
 comments: true
 share: true
 ---

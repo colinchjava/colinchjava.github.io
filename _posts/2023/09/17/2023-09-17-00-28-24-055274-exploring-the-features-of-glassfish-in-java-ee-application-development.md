@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the features of GlassFish in Java EE application development"
 description: " "
 date: 2023-09-17
-tags: [Java, JavaEE]
+tags: [JavaEE]
 comments: true
 share: true
 ---

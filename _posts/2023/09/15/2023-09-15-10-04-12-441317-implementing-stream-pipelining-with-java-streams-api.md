@@ -3,7 +3,7 @@ layout: post
 title: "Implementing stream pipelining with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, StreamPipelining]
+tags: [StreamPipelining]
 comments: true
 share: true
 ---

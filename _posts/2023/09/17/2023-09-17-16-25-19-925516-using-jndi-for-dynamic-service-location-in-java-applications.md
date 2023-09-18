@@ -3,7 +3,7 @@ layout: post
 title: "Using JNDI for Dynamic Service Location in Java applications"
 description: " "
 date: 2023-09-17
-tags: [Java, JNDI, ServiceLocation, DynamicServices]
+tags: [JNDI, ServiceLocation, DynamicServices]
 comments: true
 share: true
 ---

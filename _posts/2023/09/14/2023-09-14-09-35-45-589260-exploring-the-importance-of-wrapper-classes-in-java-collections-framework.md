@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the importance of wrapper classes in Java collections framework"
 description: " "
 date: 2023-09-14
-tags: [Java, CollectionsFramework]
+tags: [CollectionsFramework]
 comments: true
 share: true
 ---

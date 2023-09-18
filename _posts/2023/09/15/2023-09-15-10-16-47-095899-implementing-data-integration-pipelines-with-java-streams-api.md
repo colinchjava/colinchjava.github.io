@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data integration pipelines with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [java, streams, dataintegration, JavaStreamsAPI]
+tags: [streams, dataintegration, JavaStreamsAPI]
 comments: true
 share: true
 ---

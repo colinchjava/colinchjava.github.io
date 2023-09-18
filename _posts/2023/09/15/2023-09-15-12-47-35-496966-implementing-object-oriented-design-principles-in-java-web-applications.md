@@ -3,7 +3,7 @@ layout: post
 title: "Implementing object-oriented design principles in Java web applications"
 description: " "
 date: 2023-09-15
-tags: [java, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

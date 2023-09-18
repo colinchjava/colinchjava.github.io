@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data caching pipelines with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, JavaStreams, DataCaching]
+tags: [JavaStreams, DataCaching]
 comments: true
 share: true
 ---

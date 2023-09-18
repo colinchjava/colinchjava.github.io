@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Java RMI with Apache Calcite"
 description: " "
 date: 2023-09-14
-tags: [Java, ApacheCalcite]
+tags: [ApacheCalcite]
 comments: true
 share: true
 ---

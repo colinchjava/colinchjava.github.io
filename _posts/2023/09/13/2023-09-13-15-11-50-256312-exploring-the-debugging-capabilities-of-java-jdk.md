@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the debugging capabilities of Java JDK"
 description: " "
 date: 2023-09-13
-tags: [java, debugging]
+tags: [debugging]
 comments: true
 share: true
 ---

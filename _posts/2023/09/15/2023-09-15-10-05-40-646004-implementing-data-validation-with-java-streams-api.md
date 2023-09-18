@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data validation with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, DataValidation, JavaStreams]
+tags: [DataValidation, JavaStreams]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java web applications with GlassFish and JavaServer Faces (JSF)"
 description: " "
 date: 2023-09-17
-tags: [Java, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

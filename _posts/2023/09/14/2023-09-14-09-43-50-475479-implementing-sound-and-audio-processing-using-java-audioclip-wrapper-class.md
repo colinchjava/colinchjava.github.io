@@ -3,7 +3,7 @@ layout: post
 title: "Implementing sound and audio processing using Java AudioClip wrapper class"
 description: " "
 date: 2023-09-14
-tags: [java, audio]
+tags: [audio]
 comments: true
 share: true
 ---

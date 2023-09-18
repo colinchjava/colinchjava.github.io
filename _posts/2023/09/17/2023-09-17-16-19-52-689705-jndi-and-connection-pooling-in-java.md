@@ -3,7 +3,7 @@ layout: post
 title: "JNDI and Connection Pooling in Java"
 description: " "
 date: 2023-09-17
-tags: [Java, JNDI]
+tags: [JNDI]
 comments: true
 share: true
 ---

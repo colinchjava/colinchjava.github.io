@@ -3,7 +3,7 @@ layout: post
 title: "JCP Expert Groups: Collaborating with industry experts on Java standards"
 description: " "
 date: 2023-09-15
-tags: [java, expertgroups]
+tags: [expertgroups]
 comments: true
 share: true
 ---

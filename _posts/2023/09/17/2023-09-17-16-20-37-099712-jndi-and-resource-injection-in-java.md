@@ -3,7 +3,7 @@ layout: post
 title: "JNDI and Resource Injection in Java"
 description: " "
 date: 2023-09-17
-tags: [Java, JNDI, ResourceInjection]
+tags: [JNDI, ResourceInjection]
 comments: true
 share: true
 ---

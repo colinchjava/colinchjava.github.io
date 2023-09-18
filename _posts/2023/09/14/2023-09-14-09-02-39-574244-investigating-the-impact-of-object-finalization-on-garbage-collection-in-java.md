@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of object finalization on garbage collection in Java"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection]
+tags: [GarbageCollection]
 comments: true
 share: true
 ---

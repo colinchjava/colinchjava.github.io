@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing Java garbage collection for high-performance applications"
 description: " "
 date: 2023-09-13
-tags: [Java, GarbageCollection, PerformanceOptimization]
+tags: [GarbageCollection, PerformanceOptimization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Integrating external libraries and frameworks with Java JDK"
 description: " "
 date: 2023-09-13
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

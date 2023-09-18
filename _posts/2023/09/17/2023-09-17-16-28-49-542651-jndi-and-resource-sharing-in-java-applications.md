@@ -3,7 +3,7 @@ layout: post
 title: "JNDI and Resource Sharing in Java Applications"
 description: " "
 date: 2023-09-17
-tags: [Java, JNDI, ResourceSharing]
+tags: [JNDI, ResourceSharing]
 comments: true
 share: true
 ---

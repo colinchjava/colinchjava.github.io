@@ -3,7 +3,7 @@ layout: post
 title: "Manipulating images using Java Image wrapper class"
 description: " "
 date: 2023-09-14
-tags: [Java, ImageManipulation]
+tags: [ImageManipulation]
 comments: true
 share: true
 ---

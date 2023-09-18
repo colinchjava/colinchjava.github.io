@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of Java garbage collection in memory management"
 description: " "
 date: 2023-09-13
-tags: [java, garbagecollection]
+tags: [garbagecollection]
 comments: true
 share: true
 ---

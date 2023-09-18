@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java wrapper classes with external APIs and libraries"
 description: " "
 date: 2023-09-14
-tags: [Java, APIIntegration]
+tags: [APIIntegration]
 comments: true
 share: true
 ---

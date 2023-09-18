@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Java RMI with Apache Druid"
 description: " "
 date: 2023-09-14
-tags: [java, apachedruid]
+tags: [apachedruid]
 comments: true
 share: true
 ---

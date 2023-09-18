@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for unit testing in Java JDK projects"
 description: " "
 date: 2023-09-13
-tags: [Java, UnitTesting]
+tags: [UnitTesting]
 comments: true
 share: true
 ---

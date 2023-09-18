@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and image recognition libraries"
 description: " "
 date: 2023-09-15
-tags: [Java, ImageRecognition]
+tags: [ImageRecognition]
 comments: true
 share: true
 ---

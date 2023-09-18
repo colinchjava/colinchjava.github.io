@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java applications with GlassFish and JSON-B"
 description: " "
 date: 2023-09-17
-tags: [java, glassfish, json]
+tags: [glassfish, json]
 comments: true
 share: true
 ---

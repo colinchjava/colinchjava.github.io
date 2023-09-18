@@ -3,7 +3,7 @@ layout: post
 title: "Jib's impact on Java containerization deployment speed and efficiency"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

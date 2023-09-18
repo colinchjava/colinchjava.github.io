@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of design by contract with Java objects"
 description: " "
 date: 2023-09-15
-tags: [java, designbycontract]
+tags: [designbycontract]
 comments: true
 share: true
 ---

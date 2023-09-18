@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and deep learning frameworks"
 description: " "
 date: 2023-09-15
-tags: [Java, DeepLearning]
+tags: [DeepLearning]
 comments: true
 share: true
 ---

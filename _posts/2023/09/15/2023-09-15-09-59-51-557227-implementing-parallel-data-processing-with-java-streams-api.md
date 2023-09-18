@@ -3,7 +3,7 @@ layout: post
 title: "Implementing parallel data processing with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, Streams, ParallelProcessing]
+tags: [Streams, ParallelProcessing]
 comments: true
 share: true
 ---

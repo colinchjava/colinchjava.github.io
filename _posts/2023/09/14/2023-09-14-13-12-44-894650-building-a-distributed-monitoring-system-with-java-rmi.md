@@ -3,7 +3,7 @@ layout: post
 title: "Building a distributed monitoring system with Java RMI"
 description: " "
 date: 2023-09-14
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

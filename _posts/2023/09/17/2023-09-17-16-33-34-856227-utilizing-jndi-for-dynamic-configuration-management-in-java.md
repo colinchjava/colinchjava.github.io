@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing JNDI for Dynamic Configuration Management in Java"
 description: " "
 date: 2023-09-17
-tags: [Java, ConfigurationManagement]
+tags: [ConfigurationManagement]
 comments: true
 share: true
 ---

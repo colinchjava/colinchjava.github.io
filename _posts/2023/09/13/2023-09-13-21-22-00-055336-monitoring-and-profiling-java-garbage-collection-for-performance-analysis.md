@@ -3,7 +3,7 @@ layout: post
 title: "Monitoring and profiling Java garbage collection for performance analysis"
 description: " "
 date: 2023-09-13
-tags: [Java, GarbageCollection, PerformanceAnalysis]
+tags: [GarbageCollection, PerformanceAnalysis]
 comments: true
 share: true
 ---

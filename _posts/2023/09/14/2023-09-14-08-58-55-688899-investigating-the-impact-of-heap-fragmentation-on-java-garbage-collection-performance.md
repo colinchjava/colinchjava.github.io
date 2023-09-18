@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of heap fragmentation on Java garbage collection performance"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, HeapFragmentation]
+tags: [GarbageCollection, HeapFragmentation]
 comments: true
 share: true
 ---

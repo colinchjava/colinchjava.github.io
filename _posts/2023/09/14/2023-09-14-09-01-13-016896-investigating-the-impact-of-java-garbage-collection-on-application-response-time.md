@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of Java garbage collection on application response time"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, Java, GarbageCollection]
+tags: [GarbageCollection, Java, GarbageCollection]
 comments: true
 share: true
 ---

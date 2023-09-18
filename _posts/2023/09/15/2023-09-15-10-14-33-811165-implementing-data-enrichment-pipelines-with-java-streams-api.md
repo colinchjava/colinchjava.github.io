@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data enrichment pipelines with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [java, javastreams, dataenrichment]
+tags: [javastreams, dataenrichment]
 comments: true
 share: true
 ---

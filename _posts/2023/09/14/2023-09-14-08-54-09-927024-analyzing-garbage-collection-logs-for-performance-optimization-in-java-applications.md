@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing garbage collection logs for performance optimization in Java applications"
 description: " "
 date: 2023-09-14
-tags: [Java, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

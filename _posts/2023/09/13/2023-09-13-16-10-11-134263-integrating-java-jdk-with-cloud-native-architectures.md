@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java JDK with cloud-native architectures"
 description: " "
 date: 2023-09-13
-tags: [java, cloudnative]
+tags: [cloudnative]
 comments: true
 share: true
 ---

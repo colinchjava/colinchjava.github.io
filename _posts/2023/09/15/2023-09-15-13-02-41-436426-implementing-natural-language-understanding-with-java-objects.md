@@ -3,7 +3,7 @@ layout: post
 title: "Implementing natural language understanding with Java objects"
 description: " "
 date: 2023-09-15
-tags: [java, naturallanguageunderstanding]
+tags: [naturallanguageunderstanding]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Java RMI with Protocol Buffers"
 description: " "
 date: 2023-09-14
-tags: [Java, ProtocolBuffers]
+tags: [ProtocolBuffers]
 comments: true
 share: true
 ---

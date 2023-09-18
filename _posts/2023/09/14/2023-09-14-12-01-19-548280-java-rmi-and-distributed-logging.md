@@ -3,7 +3,7 @@ layout: post
 title: "Java RMI and distributed logging"
 description: " "
 date: 2023-09-14
-tags: [Java, DistributedLogging]
+tags: [DistributedLogging]
 comments: true
 share: true
 ---

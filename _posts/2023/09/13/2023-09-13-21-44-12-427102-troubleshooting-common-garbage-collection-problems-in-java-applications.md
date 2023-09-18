@@ -3,7 +3,7 @@ layout: post
 title: "Troubleshooting common garbage collection problems in Java applications"
 description: " "
 date: 2023-09-13
-tags: [Java, GarbageCollection, Troubleshooting]
+tags: [GarbageCollection, Troubleshooting]
 comments: true
 share: true
 ---

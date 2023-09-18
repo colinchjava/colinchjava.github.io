@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom stream sources in Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, StreamsAPI]
+tags: [StreamsAPI]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java JDK with cloud-based messaging and event systems"
 description: " "
 date: 2023-09-13
-tags: [Java, CloudMessaging, EventSystems]
+tags: [CloudMessaging, EventSystems]
 comments: true
 share: true
 ---

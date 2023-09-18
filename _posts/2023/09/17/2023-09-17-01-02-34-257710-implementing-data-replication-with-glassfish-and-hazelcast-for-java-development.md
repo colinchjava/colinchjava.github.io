@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data replication with GlassFish and Hazelcast for Java development"
 description: " "
 date: 2023-09-17
-tags: [Java, DataReplication, GlassFish, Hazelcast]
+tags: [DataReplication, GlassFish, Hazelcast]
 comments: true
 share: true
 ---

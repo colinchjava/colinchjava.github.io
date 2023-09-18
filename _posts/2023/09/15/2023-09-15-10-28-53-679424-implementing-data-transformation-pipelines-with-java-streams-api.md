@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data transformation pipelines with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [java, dataengineering]
+tags: [dataengineering]
 comments: true
 share: true
 ---

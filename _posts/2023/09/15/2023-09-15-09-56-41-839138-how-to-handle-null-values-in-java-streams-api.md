@@ -3,7 +3,7 @@ layout: post
 title: "How to handle null values in Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, JavaStreams, NullValues]
+tags: [JavaStreams, NullValues]
 comments: true
 share: true
 ---

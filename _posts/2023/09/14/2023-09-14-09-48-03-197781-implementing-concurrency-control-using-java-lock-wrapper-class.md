@@ -3,7 +3,7 @@ layout: post
 title: "Implementing concurrency control using Java Lock wrapper class"
 description: " "
 date: 2023-09-14
-tags: [Java, ConcurrencyControl, LockInterface, ReentrantLock]
+tags: [ConcurrencyControl, LockInterface, ReentrantLock]
 comments: true
 share: true
 ---

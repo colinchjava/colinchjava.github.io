@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event-driven processing with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, EventDrivenProcessing, JavaStreamsAPI]
+tags: [EventDrivenProcessing, JavaStreamsAPI]
 comments: true
 share: true
 ---

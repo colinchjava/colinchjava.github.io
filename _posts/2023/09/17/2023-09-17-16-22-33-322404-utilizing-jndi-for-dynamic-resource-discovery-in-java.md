@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing JNDI for Dynamic Resource Discovery in Java"
 description: " "
 date: 2023-09-17
-tags: [Java, JNDI, ResourceDiscovery]
+tags: [JNDI, ResourceDiscovery]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the importance of performance optimization in Java development"
 description: " "
 date: 2023-09-15
-tags: [Java, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

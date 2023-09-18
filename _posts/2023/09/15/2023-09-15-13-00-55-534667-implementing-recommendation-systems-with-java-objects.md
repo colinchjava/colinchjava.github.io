@@ -3,7 +3,7 @@ layout: post
 title: "Implementing recommendation systems with Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, RecommendationSystems]
+tags: [RecommendationSystems]
 comments: true
 share: true
 ---

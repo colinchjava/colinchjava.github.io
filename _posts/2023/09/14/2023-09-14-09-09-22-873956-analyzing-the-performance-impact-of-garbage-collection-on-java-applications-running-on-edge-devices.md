@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing the performance impact of garbage collection on Java applications running on edge devices"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, EdgeComputing]
+tags: [GarbageCollection, EdgeComputing]
 comments: true
 share: true
 ---

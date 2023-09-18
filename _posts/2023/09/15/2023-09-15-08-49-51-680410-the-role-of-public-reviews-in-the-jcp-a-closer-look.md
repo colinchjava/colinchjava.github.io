@@ -3,7 +3,7 @@ layout: post
 title: "The role of public reviews in the JCP: A closer look"
 description: " "
 date: 2023-09-15
-tags: [Java, PublicReviews]
+tags: [PublicReviews]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing JNDI Context Factories in Java"
 description: " "
 date: 2023-09-17
-tags: [Java, JNDI]
+tags: [JNDI]
 comments: true
 share: true
 ---

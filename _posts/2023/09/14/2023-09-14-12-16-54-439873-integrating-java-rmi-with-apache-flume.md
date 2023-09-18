@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java RMI with Apache Flume"
 description: " "
 date: 2023-09-14
-tags: [Java, ApacheFlume]
+tags: [ApacheFlume]
 comments: true
 share: true
 ---

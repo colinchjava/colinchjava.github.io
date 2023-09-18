@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the future of Java in the telecommunications industry"
 description: " "
 date: 2023-09-15
-tags: [Java, Telecommunications]
+tags: [Telecommunications]
 comments: true
 share: true
 ---

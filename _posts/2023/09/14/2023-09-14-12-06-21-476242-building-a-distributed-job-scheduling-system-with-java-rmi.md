@@ -3,7 +3,7 @@ layout: post
 title: "Building a distributed job scheduling system with Java RMI"
 description: " "
 date: 2023-09-14
-tags: [java, distributedsystems, jobscheduling]
+tags: [distributedsystems, jobscheduling]
 comments: true
 share: true
 ---

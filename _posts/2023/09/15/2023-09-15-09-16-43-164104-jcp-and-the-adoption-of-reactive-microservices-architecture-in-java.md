@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the adoption of reactive microservices architecture in Java"
 description: " "
 date: 2023-09-15
-tags: [Java, ReactiveMicroservices]
+tags: [ReactiveMicroservices]
 comments: true
 share: true
 ---

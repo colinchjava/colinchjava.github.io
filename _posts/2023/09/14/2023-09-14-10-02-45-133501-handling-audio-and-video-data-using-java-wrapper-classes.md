@@ -3,7 +3,7 @@ layout: post
 title: "Handling audio and video data using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [java, audioprocessing, videoprocessing]
+tags: [audioprocessing, videoprocessing]
 comments: true
 share: true
 ---

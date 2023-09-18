@@ -3,7 +3,7 @@ layout: post
 title: "Creating and using custom annotations with Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, CustomAnnotations]
+tags: [CustomAnnotations]
 comments: true
 share: true
 ---

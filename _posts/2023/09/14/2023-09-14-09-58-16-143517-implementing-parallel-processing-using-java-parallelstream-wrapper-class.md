@@ -3,7 +3,7 @@ layout: post
 title: "Implementing parallel processing using Java ParallelStream wrapper class"
 description: " "
 date: 2023-09-14
-tags: [Java, ParallelProcessing]
+tags: [ParallelProcessing]
 comments: true
 share: true
 ---

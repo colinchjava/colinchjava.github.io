@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Java RMI over WebSocket connections"
 description: " "
 date: 2023-09-14
-tags: [Java, WebSockets, JavaRMI]
+tags: [WebSockets, JavaRMI]
 comments: true
 share: true
 ---

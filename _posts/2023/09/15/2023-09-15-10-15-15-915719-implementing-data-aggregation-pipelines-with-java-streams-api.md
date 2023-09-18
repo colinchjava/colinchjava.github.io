@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data aggregation pipelines with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, StreamsAPI, DataAggregation, JavaDevelopment]
+tags: [StreamsAPI, DataAggregation, JavaDevelopment]
 comments: true
 share: true
 ---

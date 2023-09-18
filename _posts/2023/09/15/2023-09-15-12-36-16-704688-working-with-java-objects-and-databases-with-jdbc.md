@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and databases with JDBC"
 description: " "
 date: 2023-09-15
-tags: [Java, JDBC]
+tags: [JDBC]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java JDK with container orchestration frameworks like Kubernetes"
 description: " "
 date: 2023-09-13
-tags: [Java, Kubernetes]
+tags: [Kubernetes]
 comments: true
 share: true
 ---

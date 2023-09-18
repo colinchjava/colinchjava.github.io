@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the future of Java in the e-commerce industry"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

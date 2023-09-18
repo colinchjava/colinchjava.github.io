@@ -3,7 +3,7 @@ layout: post
 title: "Handling errors and exceptions using Java exception wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, ExceptionWrapper]
+tags: [ExceptionWrapper]
 comments: true
 share: true
 ---

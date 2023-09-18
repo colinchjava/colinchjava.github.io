@@ -3,7 +3,7 @@ layout: post
 title: "Using GlassFish as a RESTful web service provider in Java"
 description: " "
 date: 2023-09-17
-tags: [Java, RESTful, GlassFish]
+tags: [RESTful, GlassFish]
 comments: true
 share: true
 ---

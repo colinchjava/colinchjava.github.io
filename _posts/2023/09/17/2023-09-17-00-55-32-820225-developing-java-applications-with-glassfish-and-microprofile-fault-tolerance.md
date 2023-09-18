@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java applications with GlassFish and MicroProfile Fault Tolerance"
 description: " "
 date: 2023-09-17
-tags: [java, GlassFish, MicroProfileFaultTolerance]
+tags: [GlassFish, MicroProfileFaultTolerance]
 comments: true
 share: true
 ---

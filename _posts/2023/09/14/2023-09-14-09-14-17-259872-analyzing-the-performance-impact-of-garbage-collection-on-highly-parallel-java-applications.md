@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing the performance impact of garbage collection on highly parallel Java applications"
 description: " "
 date: 2023-09-14
-tags: [java, garbagecollection, performance]
+tags: [garbagecollection, performance]
 comments: true
 share: true
 ---

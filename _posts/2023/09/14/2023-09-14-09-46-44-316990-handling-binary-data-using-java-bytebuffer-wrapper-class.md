@@ -3,7 +3,7 @@ layout: post
 title: "Handling binary data using Java ByteBuffer wrapper class"
 description: " "
 date: 2023-09-14
-tags: [Java, Programming]
+tags: [Programming]
 comments: true
 share: true
 ---

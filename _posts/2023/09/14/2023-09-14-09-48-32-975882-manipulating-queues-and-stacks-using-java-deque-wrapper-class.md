@@ -3,7 +3,7 @@ layout: post
 title: "Manipulating queues and stacks using Java Deque wrapper class"
 description: " "
 date: 2023-09-14
-tags: [java, queues, stacks]
+tags: [queues, stacks]
 comments: true
 share: true
 ---

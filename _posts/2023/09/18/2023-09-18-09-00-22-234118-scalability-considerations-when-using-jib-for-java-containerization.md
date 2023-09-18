@@ -3,7 +3,7 @@ layout: post
 title: "Scalability considerations when using Jib for Java containerization"
 description: " "
 date: 2023-09-18
-tags: [java, containerization]
+tags: [containerization]
 comments: true
 share: true
 ---

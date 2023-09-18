@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the relationship between classes and objects in Java"
 description: " "
 date: 2023-09-15
-tags: [java, object]
+tags: [object]
 comments: true
 share: true
 ---

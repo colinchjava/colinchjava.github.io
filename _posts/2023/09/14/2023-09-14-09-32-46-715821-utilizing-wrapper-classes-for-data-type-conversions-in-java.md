@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing wrapper classes for data type conversions in Java"
 description: " "
 date: 2023-09-14
-tags: [java, wrapperclasses, datatypes, conversion]
+tags: [wrapperclasses, datatypes, conversion]
 comments: true
 share: true
 ---

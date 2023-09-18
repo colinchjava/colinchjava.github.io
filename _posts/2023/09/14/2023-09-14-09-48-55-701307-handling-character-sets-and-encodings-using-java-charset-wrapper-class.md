@@ -3,7 +3,7 @@ layout: post
 title: "Handling character sets and encodings using Java Charset wrapper class"
 description: " "
 date: 2023-09-14
-tags: [Java, CharacterSets, Encodings]
+tags: [CharacterSets, Encodings]
 comments: true
 share: true
 ---

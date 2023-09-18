@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging wrapper classes for distributed computing in Java"
 description: " "
 date: 2023-09-14
-tags: [Java, DistributedComputing]
+tags: [DistributedComputing]
 comments: true
 share: true
 ---

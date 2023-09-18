@@ -3,7 +3,7 @@ layout: post
 title: "Building a distributed log aggregation system with Java RMI"
 description: " "
 date: 2023-09-14
-tags: [java, logaggregation, distributedsystems]
+tags: [logaggregation, distributedsystems]
 comments: true
 share: true
 ---

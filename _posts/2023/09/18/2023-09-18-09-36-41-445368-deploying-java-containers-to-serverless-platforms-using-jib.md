@@ -3,7 +3,7 @@ layout: post
 title: "Deploying Java containers to serverless platforms using Jib"
 description: " "
 date: 2023-09-18
-tags: [java, serverless]
+tags: [serverless]
 comments: true
 share: true
 ---

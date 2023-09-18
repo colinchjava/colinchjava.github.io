@@ -3,7 +3,7 @@ layout: post
 title: "JNDI and Remote Method Invocation (RMI) Integration in Java"
 description: " "
 date: 2023-09-17
-tags: [java, distributedcomputing]
+tags: [distributedcomputing]
 comments: true
 share: true
 ---

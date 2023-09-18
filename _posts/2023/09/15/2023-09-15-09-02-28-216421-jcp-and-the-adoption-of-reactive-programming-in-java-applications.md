@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the adoption of reactive programming in Java applications"
 description: " "
 date: 2023-09-15
-tags: [Java, ReactiveProgramming]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

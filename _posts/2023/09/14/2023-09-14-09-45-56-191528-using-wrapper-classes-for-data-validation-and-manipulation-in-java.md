@@ -3,7 +3,7 @@ layout: post
 title: "Using wrapper classes for data validation and manipulation in Java"
 description: " "
 date: 2023-09-14
-tags: [Java, DataValidation, DataManipulation]
+tags: [DataValidation, DataManipulation]
 comments: true
 share: true
 ---

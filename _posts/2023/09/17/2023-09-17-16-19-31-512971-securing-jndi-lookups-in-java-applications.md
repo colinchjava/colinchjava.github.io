@@ -3,7 +3,7 @@ layout: post
 title: "Securing JNDI Lookups in Java Applications"
 description: " "
 date: 2023-09-17
-tags: [java, security]
+tags: [security]
 comments: true
 share: true
 ---

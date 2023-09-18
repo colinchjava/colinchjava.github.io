@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of runtime environment on Java garbage collection behavior"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, RuntimeEnvironment]
+tags: [GarbageCollection, RuntimeEnvironment]
 comments: true
 share: true
 ---

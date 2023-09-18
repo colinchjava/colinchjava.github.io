@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and RESTful web services"
 description: " "
 date: 2023-09-15
-tags: [Java, RESTfulWebServices]
+tags: [RESTfulWebServices]
 comments: true
 share: true
 ---

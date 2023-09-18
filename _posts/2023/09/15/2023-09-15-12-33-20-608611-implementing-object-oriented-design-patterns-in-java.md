@@ -3,7 +3,7 @@ layout: post
 title: "Implementing object-oriented design patterns in Java"
 description: " "
 date: 2023-09-15
-tags: [java, designpatterns]
+tags: [designpatterns]
 comments: true
 share: true
 ---

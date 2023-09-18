@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the future of Java in the financial sector"
 description: " "
 date: 2023-09-15
-tags: [Java, FinancialSector]
+tags: [FinancialSector]
 comments: true
 share: true
 ---

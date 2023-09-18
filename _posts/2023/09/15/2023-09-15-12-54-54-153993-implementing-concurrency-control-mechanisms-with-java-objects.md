@@ -3,7 +3,7 @@ layout: post
 title: "Implementing concurrency control mechanisms with Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, Concurrency]
+tags: [Concurrency]
 comments: true
 share: true
 ---

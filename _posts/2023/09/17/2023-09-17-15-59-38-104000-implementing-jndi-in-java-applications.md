@@ -3,7 +3,7 @@ layout: post
 title: "Implementing JNDI in Java Applications"
 description: " "
 date: 2023-09-17
-tags: [Java, JNDI, JavaApplications]
+tags: [JNDI, JavaApplications]
 comments: true
 share: true
 ---

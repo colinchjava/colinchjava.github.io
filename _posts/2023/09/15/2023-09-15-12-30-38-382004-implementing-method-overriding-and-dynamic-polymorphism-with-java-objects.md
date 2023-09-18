@@ -3,7 +3,7 @@ layout: post
 title: "Implementing method overriding and dynamic polymorphism with Java objects"
 description: " "
 date: 2023-09-15
-tags: [java, methodoverriding]
+tags: [methodoverriding]
 comments: true
 share: true
 ---

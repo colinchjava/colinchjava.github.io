@@ -3,7 +3,7 @@ layout: post
 title: "Profiling and performance tuning Java RMI applications"
 description: " "
 date: 2023-09-14
-tags: [Java, Performance, Profiling, Tuning]
+tags: [Performance, Profiling, Tuning]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of model-view-controller architecture in Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

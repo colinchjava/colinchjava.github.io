@@ -3,7 +3,7 @@ layout: post
 title: "Troubleshooting and resolving memory leaks using Java garbage collection analysis tools"
 description: " "
 date: 2023-09-14
-tags: [java, memoryleaks]
+tags: [memoryleaks]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing file handling operations using Java File wrapper class"
 description: " "
 date: 2023-09-14
-tags: [Java, FileHandling]
+tags: [FileHandling]
 comments: true
 share: true
 ---

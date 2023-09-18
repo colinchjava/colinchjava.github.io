@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and natural language processing libraries"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the JSON serialization and deserialization of Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, JSONSerialization]
+tags: [JSONSerialization]
 comments: true
 share: true
 ---

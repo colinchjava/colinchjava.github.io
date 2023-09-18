@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Java RMI with Apache Beam"
 description: " "
 date: 2023-09-14
-tags: [Java, ApacheBeam]
+tags: [ApacheBeam]
 comments: true
 share: true
 ---

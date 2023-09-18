@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for Java JDK project organization and structure"
 description: " "
 date: 2023-09-13
-tags: [Java, ProjectOrganization]
+tags: [ProjectOrganization]
 comments: true
 share: true
 ---

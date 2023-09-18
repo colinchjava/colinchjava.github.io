@@ -3,7 +3,7 @@ layout: post
 title: "Comparing the performance of wrapper classes and primitive types in Java"
 description: " "
 date: 2023-09-14
-tags: [java, performance]
+tags: [performance]
 comments: true
 share: true
 ---

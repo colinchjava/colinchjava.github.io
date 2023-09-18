@@ -3,7 +3,7 @@ layout: post
 title: "JNDI and Java Management Extensions (JMX) Integration"
 description: " "
 date: 2023-09-17
-tags: [Java, JNDI, Management, Monitoring, JavaApplications]
+tags: [JNDI, Management, Monitoring, JavaApplications]
 comments: true
 share: true
 ---

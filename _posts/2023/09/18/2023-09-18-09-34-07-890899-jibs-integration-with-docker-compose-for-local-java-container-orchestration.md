@@ -3,7 +3,7 @@ layout: post
 title: "Jib's integration with Docker Compose for local Java container orchestration"
 description: " "
 date: 2023-09-18
-tags: [Java, DockerCompose]
+tags: [DockerCompose]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "JCP: An open and inclusive platform for Java developers"
 description: " "
 date: 2023-09-15
-tags: [java]
+tags: []
 comments: true
 share: true
 ---

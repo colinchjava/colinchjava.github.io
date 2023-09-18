@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for natural language understanding and conversation generation"
 description: " "
 date: 2023-09-13
-tags: [Java, NaturalLanguageProcessing, ConversationGeneration]
+tags: [NaturalLanguageProcessing, ConversationGeneration]
 comments: true
 share: true
 ---

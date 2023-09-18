@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing performance in GlassFish for Java applications"
 description: " "
 date: 2023-09-17
-tags: [java, performance]
+tags: [performance]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection optimizations for high-concurrency Java applications"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, Concurrency]
+tags: [GarbageCollection, Concurrency]
 comments: true
 share: true
 ---

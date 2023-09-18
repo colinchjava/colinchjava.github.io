@@ -3,7 +3,7 @@ layout: post
 title: "Manipulating streams of data using Java Stream wrapper class"
 description: " "
 date: 2023-09-14
-tags: [Java, Streams]
+tags: [Streams]
 comments: true
 share: true
 ---

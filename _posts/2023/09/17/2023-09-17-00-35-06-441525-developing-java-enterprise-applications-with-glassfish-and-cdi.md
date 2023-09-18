@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java Enterprise Applications with GlassFish and CDI"
 description: " "
 date: 2023-09-17
-tags: [java, enterprise, development, glassfish]
+tags: [enterprise, development, glassfish]
 comments: true
 share: true
 ---

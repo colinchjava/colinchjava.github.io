@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java RMI with Apache Flink"
 description: " "
 date: 2023-09-14
-tags: [Java, ApacheFlink]
+tags: [ApacheFlink]
 comments: true
 share: true
 ---

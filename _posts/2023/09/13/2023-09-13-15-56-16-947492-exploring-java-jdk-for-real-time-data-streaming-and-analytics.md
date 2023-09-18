@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for real-time data streaming and analytics"
 description: " "
 date: 2023-09-13
-tags: [Java, RealTimeDataAnalytics]
+tags: [RealTimeDataAnalytics]
 comments: true
 share: true
 ---

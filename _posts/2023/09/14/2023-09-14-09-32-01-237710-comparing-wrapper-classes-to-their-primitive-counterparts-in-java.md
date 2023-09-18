@@ -3,7 +3,7 @@ layout: post
 title: "Comparing wrapper classes to their primitive counterparts in Java"
 description: " "
 date: 2023-09-14
-tags: [Java, WrapperClasses, PrimitiveTypes]
+tags: [WrapperClasses, PrimitiveTypes]
 comments: true
 share: true
 ---

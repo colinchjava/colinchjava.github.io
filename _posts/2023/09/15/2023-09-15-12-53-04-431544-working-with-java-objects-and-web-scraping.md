@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and web scraping"
 description: " "
 date: 2023-09-15
-tags: [Java, WebScraping]
+tags: [WebScraping]
 comments: true
 share: true
 ---

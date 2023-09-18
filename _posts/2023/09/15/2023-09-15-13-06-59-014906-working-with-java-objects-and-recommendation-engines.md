@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and recommendation engines"
 description: " "
 date: 2023-09-15
-tags: [Java, RecommendationEngines]
+tags: [RecommendationEngines]
 comments: true
 share: true
 ---

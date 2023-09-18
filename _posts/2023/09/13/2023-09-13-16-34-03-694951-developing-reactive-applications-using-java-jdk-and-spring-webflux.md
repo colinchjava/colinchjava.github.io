@@ -3,7 +3,7 @@ layout: post
 title: "Developing reactive applications using Java JDK and Spring WebFlux"
 description: " "
 date: 2023-09-13
-tags: [Java, ReactiveProgramming]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing JNDI Resource Adapters in Java"
 description: " "
 date: 2023-09-17
-tags: [java, JNDI, ResourceAdapters]
+tags: [JNDI, ResourceAdapters]
 comments: true
 share: true
 ---

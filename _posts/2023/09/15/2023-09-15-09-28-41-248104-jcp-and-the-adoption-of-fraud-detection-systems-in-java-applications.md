@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the adoption of fraud detection systems in Java applications"
 description: " "
 date: 2023-09-15
-tags: [java, frauddetection]
+tags: [frauddetection]
 comments: true
 share: true
 ---

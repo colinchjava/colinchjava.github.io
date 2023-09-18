@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of Java garbage collection on machine learning applications"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, MachineLearning]
+tags: [GarbageCollection, MachineLearning]
 comments: true
 share: true
 ---

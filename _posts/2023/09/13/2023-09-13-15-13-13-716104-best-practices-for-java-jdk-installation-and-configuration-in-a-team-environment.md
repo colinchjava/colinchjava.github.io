@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for Java JDK installation and configuration in a team environment"
 description: " "
 date: 2023-09-13
-tags: [Java, DevelopmentTips]
+tags: [DevelopmentTips]
 comments: true
 share: true
 ---

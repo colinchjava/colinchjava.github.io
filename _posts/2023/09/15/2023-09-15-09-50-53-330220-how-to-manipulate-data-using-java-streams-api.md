@@ -3,7 +3,7 @@ layout: post
 title: "How to manipulate data using Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, Streams]
+tags: [Streams]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of reflection and dynamic class loading in Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, Reflection]
+tags: [Reflection]
 comments: true
 share: true
 ---

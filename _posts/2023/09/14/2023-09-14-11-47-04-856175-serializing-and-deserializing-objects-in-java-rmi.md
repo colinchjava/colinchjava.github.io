@@ -3,7 +3,7 @@ layout: post
 title: "Serializing and deserializing objects in Java RMI"
 description: " "
 date: 2023-09-14
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "JCP: A platform for standardizing Java frameworks and libraries"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

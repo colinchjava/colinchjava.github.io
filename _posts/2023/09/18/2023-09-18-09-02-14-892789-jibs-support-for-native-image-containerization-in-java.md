@@ -3,7 +3,7 @@ layout: post
 title: "Jib's support for native image containerization in Java"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

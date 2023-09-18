@@ -3,7 +3,7 @@ layout: post
 title: "Building scalable and fault-tolerant microservices with GlassFish and Kubernetes in Java."
 description: " "
 date: 2023-09-17
-tags: [Java, Microservices]
+tags: [Microservices]
 comments: true
 share: true
 ---

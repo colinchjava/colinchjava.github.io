@@ -3,7 +3,7 @@ layout: post
 title: "Java garbage collection techniques for large-scale distributed systems"
 description: " "
 date: 2023-09-13
-tags: [Java, GarbageCollection, LargeScaleSystems]
+tags: [GarbageCollection, LargeScaleSystems]
 comments: true
 share: true
 ---

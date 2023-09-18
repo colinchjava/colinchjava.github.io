@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom wrapper classes in Java"
 description: " "
 date: 2023-09-14
-tags: [Java, WrapperClasses]
+tags: [WrapperClasses]
 comments: true
 share: true
 ---

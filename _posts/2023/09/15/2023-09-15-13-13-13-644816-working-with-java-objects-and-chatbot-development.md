@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and chatbot development"
 description: " "
 date: 2023-09-15
-tags: [Java, ChatbotDevelopment]
+tags: [ChatbotDevelopment]
 comments: true
 share: true
 ---

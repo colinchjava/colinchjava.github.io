@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data personalization pipelines with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, DataPersonalization, JavaStreamsAPI]
+tags: [DataPersonalization, JavaStreamsAPI]
 comments: true
 share: true
 ---

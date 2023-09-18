@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the future of Java: What's in store?"
 description: " "
 date: 2023-09-15
-tags: [Java, FutureofJava]
+tags: [FutureofJava]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and machine vision libraries"
 description: " "
 date: 2023-09-15
-tags: [Java, MachineVision]
+tags: [MachineVision]
 comments: true
 share: true
 ---

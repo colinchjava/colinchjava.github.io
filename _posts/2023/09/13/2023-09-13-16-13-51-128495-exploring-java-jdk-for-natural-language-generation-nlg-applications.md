@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for natural language generation (NLG) applications"
 description: " "
 date: 2023-09-13
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Jib to streamline Java container deployment workflows"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

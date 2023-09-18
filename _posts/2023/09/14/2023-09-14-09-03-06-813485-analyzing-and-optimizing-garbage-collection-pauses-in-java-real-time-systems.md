@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing and optimizing garbage collection pauses in Java real-time systems"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, RealTimeOptimization]
+tags: [GarbageCollection, RealTimeOptimization]
 comments: true
 share: true
 ---

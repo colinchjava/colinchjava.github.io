@@ -3,7 +3,7 @@ layout: post
 title: "Implementing continuous integration and delivery (CI/CD) with GlassFish and Jenkins in Java development"
 description: " "
 date: 2023-09-17
-tags: [Java, GlassFish, Jenkins]
+tags: [GlassFish, Jenkins]
 comments: true
 share: true
 ---

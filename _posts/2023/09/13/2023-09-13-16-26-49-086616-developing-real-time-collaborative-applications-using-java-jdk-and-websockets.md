@@ -3,7 +3,7 @@ layout: post
 title: "Developing real-time collaborative applications using Java JDK and WebSockets"
 description: " "
 date: 2023-09-13
-tags: [Java, WebSockets, RealTimeCollaboration]
+tags: [WebSockets, RealTimeCollaboration]
 comments: true
 share: true
 ---

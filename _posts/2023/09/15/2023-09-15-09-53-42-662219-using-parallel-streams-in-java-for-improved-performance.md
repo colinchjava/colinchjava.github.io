@@ -3,7 +3,7 @@ layout: post
 title: "Using parallel streams in Java for improved performance"
 description: " "
 date: 2023-09-15
-tags: [java, parallelstreams]
+tags: [parallelstreams]
 comments: true
 share: true
 ---

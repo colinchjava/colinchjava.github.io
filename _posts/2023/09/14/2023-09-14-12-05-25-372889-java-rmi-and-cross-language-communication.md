@@ -3,7 +3,7 @@ layout: post
 title: "Java RMI and cross-language communication"
 description: " "
 date: 2023-09-14
-tags: [Java, CrossLanguageCommunication]
+tags: [CrossLanguageCommunication]
 comments: true
 share: true
 ---

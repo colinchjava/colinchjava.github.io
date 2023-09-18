@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Callbacks in Java RMI"
 description: " "
 date: 2023-09-14
-tags: [Java, Callbacks]
+tags: [Callbacks]
 comments: true
 share: true
 ---

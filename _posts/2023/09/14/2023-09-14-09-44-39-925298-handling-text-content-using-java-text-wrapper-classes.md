@@ -3,7 +3,7 @@ layout: post
 title: "Handling text content using Java Text wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, TextWrapperClasses]
+tags: [TextWrapperClasses]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying multiple conditions in Java Streams API filtering"
 description: " "
 date: 2023-09-15
-tags: [Java, StreamsAPI, Filtering]
+tags: [StreamsAPI, Filtering]
 comments: true
 share: true
 ---

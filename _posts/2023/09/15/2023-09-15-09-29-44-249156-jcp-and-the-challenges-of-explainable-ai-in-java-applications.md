@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the challenges of explainable AI in Java applications"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

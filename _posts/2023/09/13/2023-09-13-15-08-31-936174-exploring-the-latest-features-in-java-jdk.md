@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the latest features in Java JDK"
 description: " "
 date: 2023-09-13
-tags: [Java, Programming, Development]
+tags: [Programming, Development]
 comments: true
 share: true
 ---

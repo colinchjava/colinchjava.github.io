@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java JDK with cloud platforms and services"
 description: " "
 date: 2023-09-13
-tags: [Java, CloudIntegration]
+tags: [CloudIntegration]
 comments: true
 share: true
 ---

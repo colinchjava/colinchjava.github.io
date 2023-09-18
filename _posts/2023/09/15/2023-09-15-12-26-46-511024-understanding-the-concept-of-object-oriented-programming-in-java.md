@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the concept of object-oriented programming in Java"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

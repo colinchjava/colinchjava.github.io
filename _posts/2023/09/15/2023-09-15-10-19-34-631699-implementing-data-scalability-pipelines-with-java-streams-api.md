@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data scalability pipelines with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [java, streamapi]
+tags: [streamapi]
 comments: true
 share: true
 ---

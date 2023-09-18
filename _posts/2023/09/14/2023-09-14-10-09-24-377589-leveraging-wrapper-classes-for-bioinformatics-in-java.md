@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging wrapper classes for bioinformatics in Java"
 description: " "
 date: 2023-09-14
-tags: [Java, Bioinformatics]
+tags: [Bioinformatics]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing caching strategies in Java applications on GlassFish"
 description: " "
 date: 2023-09-17
-tags: [Java, Caching]
+tags: [Caching]
 comments: true
 share: true
 ---

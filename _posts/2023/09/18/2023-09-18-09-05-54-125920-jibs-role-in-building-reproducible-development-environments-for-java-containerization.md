@@ -3,7 +3,7 @@ layout: post
 title: "Jib's role in building reproducible development environments for Java containerization"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

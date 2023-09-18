@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Connection Pooling with JNDI in Java Applications"
 description: " "
 date: 2023-09-17
-tags: [Java, JNDI, ConnectionPooling]
+tags: [JNDI, ConnectionPooling]
 comments: true
 share: true
 ---

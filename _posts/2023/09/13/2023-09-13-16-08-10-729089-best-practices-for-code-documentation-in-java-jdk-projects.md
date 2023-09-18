@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for code documentation in Java JDK projects"
 description: " "
 date: 2023-09-13
-tags: [Java, Documentation]
+tags: [Documentation]
 comments: true
 share: true
 ---

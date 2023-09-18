@@ -3,7 +3,7 @@ layout: post
 title: "Developing secure authentication and authorization using Java JDK"
 description: " "
 date: 2023-09-13
-tags: [Java, Security]
+tags: [Security]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for code performance profiling in Java JDK projects"
 description: " "
 date: 2023-09-13
-tags: [Java, PerformanceProfiling]
+tags: [PerformanceProfiling]
 comments: true
 share: true
 ---

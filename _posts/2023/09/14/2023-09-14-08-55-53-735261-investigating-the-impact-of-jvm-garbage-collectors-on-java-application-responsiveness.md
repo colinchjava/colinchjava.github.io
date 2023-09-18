@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of JVM garbage collectors on Java application responsiveness"
 description: " "
 date: 2023-09-14
-tags: [Java, garbagecollection, responsiveness]
+tags: [garbagecollection, responsiveness]
 comments: true
 share: true
 ---

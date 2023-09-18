@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data validation and error handling in Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

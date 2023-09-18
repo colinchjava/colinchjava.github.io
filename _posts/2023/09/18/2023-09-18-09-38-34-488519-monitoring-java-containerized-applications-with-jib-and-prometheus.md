@@ -3,7 +3,7 @@ layout: post
 title: "Monitoring Java containerized applications with Jib and Prometheus"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

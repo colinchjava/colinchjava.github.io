@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed transactions with Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, DistributedTransactions]
+tags: [DistributedTransactions]
 comments: true
 share: true
 ---

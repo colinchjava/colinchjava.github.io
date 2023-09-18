@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the Internet of Things (IoT): Enabling Java-powered smart devices"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

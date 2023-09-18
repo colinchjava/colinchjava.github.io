@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Java object class and its methods"
 description: " "
 date: 2023-09-15
-tags: [java, objectclass]
+tags: [objectclass]
 comments: true
 share: true
 ---

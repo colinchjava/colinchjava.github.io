@@ -3,7 +3,7 @@ layout: post
 title: "Managing Remote Resources with JNDI in Java"
 description: " "
 date: 2023-09-17
-tags: [java, JNDI, remote]
+tags: [JNDI, remote]
 comments: true
 share: true
 ---

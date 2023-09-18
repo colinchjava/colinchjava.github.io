@@ -3,7 +3,7 @@ layout: post
 title: "Deep dive into the internals of the Java garbage collector"
 description: " "
 date: 2023-09-13
-tags: [java, garbagecollector]
+tags: [garbagecollector]
 comments: true
 share: true
 ---

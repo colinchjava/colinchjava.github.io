@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data governance pipelines with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, DataGovernance, JavaStreams]
+tags: [DataGovernance, JavaStreams]
 comments: true
 share: true
 ---

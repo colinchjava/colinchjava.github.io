@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the role of recommendation systems in Java applications"
 description: " "
 date: 2023-09-15
-tags: [Java, RecommendationSystems]
+tags: [RecommendationSystems]
 comments: true
 share: true
 ---

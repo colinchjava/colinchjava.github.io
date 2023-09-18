@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of object allocation rates on Java garbage collection"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection]
+tags: [GarbageCollection]
 comments: true
 share: true
 ---

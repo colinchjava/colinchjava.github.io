@@ -3,7 +3,7 @@ layout: post
 title: "Handling Java library dependencies with Jib for containerizing applications"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

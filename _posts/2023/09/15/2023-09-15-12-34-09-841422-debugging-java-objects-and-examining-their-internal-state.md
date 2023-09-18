@@ -3,7 +3,7 @@ layout: post
 title: "Debugging Java objects and examining their internal state"
 description: " "
 date: 2023-09-15
-tags: [Java, Debugging]
+tags: [Debugging]
 comments: true
 share: true
 ---

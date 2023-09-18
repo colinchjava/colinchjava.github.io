@@ -3,7 +3,7 @@ layout: post
 title: "Developing event-driven microservices using Java JDK and Apache Kafka"
 description: " "
 date: 2023-09-13
-tags: [Java, Kafka]
+tags: [Kafka]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing JNDI Lookup Filters in Java"
 description: " "
 date: 2023-09-17
-tags: [java, JNDI, lookup, filter]
+tags: [JNDI, lookup, filter]
 comments: true
 share: true
 ---

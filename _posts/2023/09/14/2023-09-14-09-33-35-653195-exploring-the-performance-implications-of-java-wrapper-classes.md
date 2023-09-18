@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the performance implications of Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, Performance]
+tags: [Performance]
 comments: true
 share: true
 ---

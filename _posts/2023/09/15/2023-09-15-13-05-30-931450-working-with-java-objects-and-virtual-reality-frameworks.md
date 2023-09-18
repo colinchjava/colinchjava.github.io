@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and virtual reality frameworks"
 description: " "
 date: 2023-09-15
-tags: [Java, VirtualReality]
+tags: [VirtualReality]
 comments: true
 share: true
 ---

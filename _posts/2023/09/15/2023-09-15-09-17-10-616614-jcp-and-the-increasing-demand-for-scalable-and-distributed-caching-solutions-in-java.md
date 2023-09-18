@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the increasing demand for scalable and distributed caching solutions in Java"
 description: " "
 date: 2023-09-15
-tags: [Java, Caching, DistributedCaching, Scalability]
+tags: [Caching, DistributedCaching, Scalability]
 comments: true
 share: true
 ---

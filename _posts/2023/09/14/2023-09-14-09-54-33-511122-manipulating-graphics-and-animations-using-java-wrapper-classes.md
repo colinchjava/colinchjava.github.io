@@ -3,7 +3,7 @@ layout: post
 title: "Manipulating graphics and animations using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [java, graphics, animations]
+tags: [graphics, animations]
 comments: true
 share: true
 ---

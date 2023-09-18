@@ -3,7 +3,7 @@ layout: post
 title: "Safely performing arithmetic operations using Java BigDecimal wrapper class"
 description: " "
 date: 2023-09-14
-tags: [java, bigdecimal]
+tags: [bigdecimal]
 comments: true
 share: true
 ---

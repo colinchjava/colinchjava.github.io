@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing wrapper classes in Java network programming"
 description: " "
 date: 2023-09-14
-tags: [Java, NetworkProgramming]
+tags: [NetworkProgramming]
 comments: true
 share: true
 ---

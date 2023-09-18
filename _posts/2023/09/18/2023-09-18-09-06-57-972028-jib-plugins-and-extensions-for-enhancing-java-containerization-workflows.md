@@ -3,7 +3,7 @@ layout: post
 title: "Jib plugins and extensions for enhancing Java containerization workflows"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

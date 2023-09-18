@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the usage of wrapper classes in Java generics"
 description: " "
 date: 2023-09-14
-tags: [Java, Generics]
+tags: [Generics]
 comments: true
 share: true
 ---

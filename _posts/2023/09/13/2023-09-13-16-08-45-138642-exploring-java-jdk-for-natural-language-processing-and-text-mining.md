@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for natural language processing and text mining"
 description: " "
 date: 2023-09-13
-tags: [Java, TextMining]
+tags: [TextMining]
 comments: true
 share: true
 ---

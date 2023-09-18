@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection optimization techniques for Java applications with large object graphs"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, Optimization]
+tags: [GarbageCollection, Optimization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring advanced topics in Java object serialization"
 description: " "
 date: 2023-09-15
-tags: [Java, Serialization]
+tags: [Serialization]
 comments: true
 share: true
 ---

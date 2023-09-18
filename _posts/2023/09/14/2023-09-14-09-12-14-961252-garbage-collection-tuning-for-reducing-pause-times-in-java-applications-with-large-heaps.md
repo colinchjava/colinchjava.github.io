@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection tuning for reducing pause times in Java applications with large heaps"
 description: " "
 date: 2023-09-14
-tags: [java, garbagecollection, performance]
+tags: [garbagecollection, performance]
 comments: true
 share: true
 ---

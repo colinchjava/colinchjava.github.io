@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of Java garbage collection on real-time monitoring systems"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, RealTimeMonitoring, PerformanceOptimization]
+tags: [GarbageCollection, RealTimeMonitoring, PerformanceOptimization]
 comments: true
 share: true
 ---

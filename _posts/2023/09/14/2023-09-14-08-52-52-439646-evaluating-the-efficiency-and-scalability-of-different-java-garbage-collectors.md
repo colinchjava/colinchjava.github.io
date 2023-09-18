@@ -3,7 +3,7 @@ layout: post
 title: "Evaluating the efficiency and scalability of different Java garbage collectors"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, MemoryManagement]
+tags: [GarbageCollection, MemoryManagement]
 comments: true
 share: true
 ---

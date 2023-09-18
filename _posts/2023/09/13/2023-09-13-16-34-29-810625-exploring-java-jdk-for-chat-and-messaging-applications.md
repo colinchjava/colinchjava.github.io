@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for chat and messaging applications"
 description: " "
 date: 2023-09-13
-tags: [Java, ChatApplications]
+tags: [ChatApplications]
 comments: true
 share: true
 ---

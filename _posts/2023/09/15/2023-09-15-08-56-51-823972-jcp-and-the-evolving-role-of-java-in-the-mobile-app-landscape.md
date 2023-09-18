@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the evolving role of Java in the mobile app landscape"
 description: " "
 date: 2023-09-15
-tags: [Java, MobileAppDevelopment]
+tags: [MobileAppDevelopment]
 comments: true
 share: true
 ---

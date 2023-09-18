@@ -3,7 +3,7 @@ layout: post
 title: "Contributing to Java standards through the JCP"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

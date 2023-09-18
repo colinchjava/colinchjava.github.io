@@ -3,7 +3,7 @@ layout: post
 title: "Managing secrets and sensitive data in Java containers built with Jib"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Java RMI with Apache Heron"
 description: " "
 date: 2023-09-14
-tags: [java, apachheron]
+tags: [apachheron]
 comments: true
 share: true
 ---

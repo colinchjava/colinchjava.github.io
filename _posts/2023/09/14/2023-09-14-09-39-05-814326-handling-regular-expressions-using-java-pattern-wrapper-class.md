@@ -3,7 +3,7 @@ layout: post
 title: "Handling regular expressions using Java Pattern wrapper class"
 description: " "
 date: 2023-09-14
-tags: [Java, RegularExpressions]
+tags: [RegularExpressions]
 comments: true
 share: true
 ---

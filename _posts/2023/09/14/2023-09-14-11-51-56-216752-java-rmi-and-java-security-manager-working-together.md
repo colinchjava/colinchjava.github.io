@@ -3,7 +3,7 @@ layout: post
 title: "Java RMI and Java Security Manager: Working together"
 description: " "
 date: 2023-09-14
-tags: [Java, Security]
+tags: [Security]
 comments: true
 share: true
 ---

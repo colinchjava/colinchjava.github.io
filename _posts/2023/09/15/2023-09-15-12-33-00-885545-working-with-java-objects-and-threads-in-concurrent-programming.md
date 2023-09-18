@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and threads in concurrent programming"
 description: " "
 date: 2023-09-15
-tags: [java, concurrency]
+tags: [concurrency]
 comments: true
 share: true
 ---

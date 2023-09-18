@@ -3,7 +3,7 @@ layout: post
 title: "Introducing the Enterprise JavaBean (EJB) technology in GlassFish"
 description: " "
 date: 2023-09-17
-tags: [Java, GlassFish]
+tags: [GlassFish]
 comments: true
 share: true
 ---

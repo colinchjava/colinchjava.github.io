@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging wrapper classes for risk management in Java"
 description: " "
 date: 2023-09-14
-tags: [Java, RiskManagement]
+tags: [RiskManagement]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for error handling and exception management in Java JDK"
 description: " "
 date: 2023-09-13
-tags: [Java, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

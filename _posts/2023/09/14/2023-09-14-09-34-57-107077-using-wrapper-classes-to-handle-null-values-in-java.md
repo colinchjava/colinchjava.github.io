@@ -3,7 +3,7 @@ layout: post
 title: "Using wrapper classes to handle null values in Java"
 description: " "
 date: 2023-09-14
-tags: [java, wrapperClasses, nullValues]
+tags: [wrapperClasses, nullValues]
 comments: true
 share: true
 ---

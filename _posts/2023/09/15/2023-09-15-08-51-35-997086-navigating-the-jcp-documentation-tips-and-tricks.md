@@ -3,7 +3,7 @@ layout: post
 title: "Navigating the JCP documentation: Tips and tricks"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

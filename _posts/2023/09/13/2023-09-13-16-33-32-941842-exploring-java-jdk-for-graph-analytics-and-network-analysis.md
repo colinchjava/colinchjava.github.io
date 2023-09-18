@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for graph analytics and network analysis"
 description: " "
 date: 2023-09-13
-tags: [java, graphanalytics, networkanalysis]
+tags: [graphanalytics, networkanalysis]
 comments: true
 share: true
 ---

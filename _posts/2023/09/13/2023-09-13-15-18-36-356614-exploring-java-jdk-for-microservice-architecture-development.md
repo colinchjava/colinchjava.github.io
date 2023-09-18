@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for microservice architecture development"
 description: " "
 date: 2023-09-13
-tags: [Java, Microservices]
+tags: [Microservices]
 comments: true
 share: true
 ---

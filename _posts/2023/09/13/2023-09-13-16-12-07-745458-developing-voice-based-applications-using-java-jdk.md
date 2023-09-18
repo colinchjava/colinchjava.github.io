@@ -3,7 +3,7 @@ layout: post
 title: "Developing voice-based applications using Java JDK"
 description: " "
 date: 2023-09-13
-tags: [Java, VoiceApplications]
+tags: [VoiceApplications]
 comments: true
 share: true
 ---

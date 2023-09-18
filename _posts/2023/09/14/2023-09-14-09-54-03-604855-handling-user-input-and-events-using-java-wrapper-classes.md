@@ -3,7 +3,7 @@ layout: post
 title: "Handling user input and events using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, InputHandling, EventHandling]
+tags: [InputHandling, EventHandling]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Manipulating files and directories using Java Filesystem wrapper class"
 description: " "
 date: 2023-09-14
-tags: [java, filesystem, filehandling, javaio]
+tags: [filesystem, filehandling, javaio]
 comments: true
 share: true
 ---

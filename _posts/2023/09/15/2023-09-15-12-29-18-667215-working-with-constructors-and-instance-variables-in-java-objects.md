@@ -3,7 +3,7 @@ layout: post
 title: "Working with constructors and instance variables in Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, ObjectOrientedProgramming]
+tags: [ObjectOrientedProgramming]
 comments: true
 share: true
 ---

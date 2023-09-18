@@ -3,7 +3,7 @@ layout: post
 title: "Implementing drag and drop functionality using Java drag and drop wrapper class"
 description: " "
 date: 2023-09-14
-tags: [java, draganddrop]
+tags: [draganddrop]
 comments: true
 share: true
 ---

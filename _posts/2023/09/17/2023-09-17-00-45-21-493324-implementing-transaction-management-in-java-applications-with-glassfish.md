@@ -3,7 +3,7 @@ layout: post
 title: "Implementing transaction management in Java applications with GlassFish"
 description: " "
 date: 2023-09-17
-tags: [java, transactionmanagement, GlassFish]
+tags: [transactionmanagement, GlassFish]
 comments: true
 share: true
 ---

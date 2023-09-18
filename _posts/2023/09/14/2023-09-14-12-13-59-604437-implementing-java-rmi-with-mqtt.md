@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Java RMI with MQTT"
 description: " "
 date: 2023-09-14
-tags: [Java, MQTT]
+tags: [MQTT]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of garbage collection on Java applications with high memory requirements"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, MemoryManagement]
+tags: [GarbageCollection, MemoryManagement]
 comments: true
 share: true
 ---

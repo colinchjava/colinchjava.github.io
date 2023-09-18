@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for scientific simulations and modeling"
 description: " "
 date: 2023-09-13
-tags: [Java, ScientificSimulations, Modeling]
+tags: [ScientificSimulations, Modeling]
 comments: true
 share: true
 ---

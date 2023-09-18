@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for error logging and monitoring in Java JDK projects"
 description: " "
 date: 2023-09-13
-tags: [java, logging, monitoring]
+tags: [logging, monitoring]
 comments: true
 share: true
 ---

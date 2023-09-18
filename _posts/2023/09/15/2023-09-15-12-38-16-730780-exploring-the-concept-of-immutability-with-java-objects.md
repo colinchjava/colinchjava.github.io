@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of immutability with Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, Immutability]
+tags: [Immutability]
 comments: true
 share: true
 ---

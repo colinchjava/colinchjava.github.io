@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing the performance impact of garbage collection on Java applications with high object churn"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, PerformanceImpact]
+tags: [GarbageCollection, PerformanceImpact]
 comments: true
 share: true
 ---

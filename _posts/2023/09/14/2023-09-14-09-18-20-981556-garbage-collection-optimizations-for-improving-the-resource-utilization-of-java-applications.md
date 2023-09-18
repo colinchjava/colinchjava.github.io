@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection optimizations for improving the resource utilization of Java applications"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, ResourceUtilization]
+tags: [GarbageCollection, ResourceUtilization]
 comments: true
 share: true
 ---

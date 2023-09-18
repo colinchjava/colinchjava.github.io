@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the role of microframeworks in Java application development"
 description: " "
 date: 2023-09-15
-tags: [Java, Microframeworks]
+tags: [Microframeworks]
 comments: true
 share: true
 ---

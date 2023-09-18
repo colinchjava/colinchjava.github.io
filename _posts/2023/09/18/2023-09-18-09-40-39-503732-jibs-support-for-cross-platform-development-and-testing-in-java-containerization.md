@@ -3,7 +3,7 @@ layout: post
 title: "Jib's support for cross-platform development and testing in Java containerization"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

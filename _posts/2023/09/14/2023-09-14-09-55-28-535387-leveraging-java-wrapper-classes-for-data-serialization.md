@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Java wrapper classes for data serialization"
 description: " "
 date: 2023-09-14
-tags: [Java, DataSerialization]
+tags: [DataSerialization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and distributed systems"
 description: " "
 date: 2023-09-15
-tags: [Java, DistributedSystems]
+tags: [DistributedSystems]
 comments: true
 share: true
 ---

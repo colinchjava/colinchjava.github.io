@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Basics of Java Naming and Directory Interface (JNDI)"
 description: " "
 date: 2023-09-17
-tags: [java, JNDI]
+tags: [JNDI]
 comments: true
 share: true
 ---

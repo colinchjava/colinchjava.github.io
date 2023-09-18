@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Java objects and their importance in programming"
 description: " "
 date: 2023-09-15
-tags: [Java, ObjectOrientedProgramming]
+tags: [ObjectOrientedProgramming]
 comments: true
 share: true
 ---

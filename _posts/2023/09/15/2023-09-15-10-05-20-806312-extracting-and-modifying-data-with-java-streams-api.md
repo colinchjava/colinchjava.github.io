@@ -3,7 +3,7 @@ layout: post
 title: "Extracting and modifying data with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [java, streamsapi]
+tags: [streamsapi]
 comments: true
 share: true
 ---

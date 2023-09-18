@@ -3,7 +3,7 @@ layout: post
 title: "Managing database connections in Java applications with GlassFish connection pooling"
 description: " "
 date: 2023-09-17
-tags: [Java, GlassFish, ConnectionPooling]
+tags: [GlassFish, ConnectionPooling]
 comments: true
 share: true
 ---

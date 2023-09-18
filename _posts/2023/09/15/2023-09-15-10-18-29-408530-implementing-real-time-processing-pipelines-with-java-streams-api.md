@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time processing pipelines with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [java, java, streamapi]
+tags: [java, streamapi]
 comments: true
 share: true
 ---

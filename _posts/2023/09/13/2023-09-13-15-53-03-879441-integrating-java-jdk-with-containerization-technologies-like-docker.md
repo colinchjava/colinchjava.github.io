@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java JDK with containerization technologies like Docker"
 description: " "
 date: 2023-09-13
-tags: [Java, Docker, Containerization, JavaDevelopment, SoftwareDeployment]
+tags: [Docker, Containerization, JavaDevelopment, SoftwareDeployment]
 comments: true
 share: true
 ---

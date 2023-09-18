@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the role of deep learning in Java development"
 description: " "
 date: 2023-09-15
-tags: [java, deeplearning]
+tags: [deeplearning]
 comments: true
 share: true
 ---

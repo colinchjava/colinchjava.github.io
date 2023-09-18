@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data compression with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [java, compression]
+tags: [compression]
 comments: true
 share: true
 ---

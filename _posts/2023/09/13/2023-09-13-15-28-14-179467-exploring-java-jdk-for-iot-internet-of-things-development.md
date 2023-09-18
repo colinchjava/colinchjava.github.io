@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for IoT (Internet of Things) development"
 description: " "
 date: 2023-09-13
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

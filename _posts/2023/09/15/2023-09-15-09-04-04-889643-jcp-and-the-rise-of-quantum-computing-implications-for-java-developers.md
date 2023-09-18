@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the rise of quantum computing: Implications for Java developers"
 description: " "
 date: 2023-09-15
-tags: [Java, QuantumComputing]
+tags: [QuantumComputing]
 comments: true
 share: true
 ---

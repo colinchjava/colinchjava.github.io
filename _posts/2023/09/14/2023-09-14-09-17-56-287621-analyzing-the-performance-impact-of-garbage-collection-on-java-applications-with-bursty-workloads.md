@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing the performance impact of garbage collection on Java applications with bursty workloads"
 description: " "
 date: 2023-09-14
-tags: [java, garbagecollection, performance, optimization]
+tags: [garbagecollection, performance, optimization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection tuning for improving the scalability of Java applications in distributed systems"
 description: " "
 date: 2023-09-14
-tags: [java, garbagecollection, distributedsystems]
+tags: [garbagecollection, distributedsystems]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Memory management best practices in Java using garbage collection"
 description: " "
 date: 2023-09-13
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

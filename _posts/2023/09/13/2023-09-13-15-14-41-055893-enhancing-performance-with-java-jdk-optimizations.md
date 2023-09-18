@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing performance with Java JDK optimizations"
 description: " "
 date: 2023-09-13
-tags: [Java, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

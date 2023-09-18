@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Connection Pooling with JNDI in Java-Spring Applications"
 description: " "
 date: 2023-09-17
-tags: [java, spring, connectionpool, jndi]
+tags: [spring, connectionpool, jndi]
 comments: true
 share: true
 ---

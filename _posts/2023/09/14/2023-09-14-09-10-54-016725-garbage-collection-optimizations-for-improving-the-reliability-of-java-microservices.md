@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection optimizations for improving the reliability of Java microservices"
 description: " "
 date: 2023-09-14
-tags: [java, garbagecollection, microservices]
+tags: [garbagecollection, microservices]
 comments: true
 share: true
 ---

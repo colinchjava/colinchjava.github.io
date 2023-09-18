@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to garbage collection tuning in Java"
 description: " "
 date: 2023-09-13
-tags: [Java, GarbageCollection, Tuning]
+tags: [GarbageCollection, Tuning]
 comments: true
 share: true
 ---

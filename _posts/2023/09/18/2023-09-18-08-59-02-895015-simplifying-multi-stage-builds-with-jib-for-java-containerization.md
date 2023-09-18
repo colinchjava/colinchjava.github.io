@@ -3,7 +3,7 @@ layout: post
 title: "Simplifying multi-stage builds with Jib for Java containerization"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and NoSQL databases"
 description: " "
 date: 2023-09-15
-tags: [java, NoSQL]
+tags: [NoSQL]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Tips for getting started with Jib for Java containerization"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

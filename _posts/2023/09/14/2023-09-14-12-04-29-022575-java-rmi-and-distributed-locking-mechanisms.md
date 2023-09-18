@@ -3,7 +3,7 @@ layout: post
 title: "Java RMI and distributed locking mechanisms"
 description: " "
 date: 2023-09-14
-tags: [Java, DistributedSystems]
+tags: [DistributedSystems]
 comments: true
 share: true
 ---

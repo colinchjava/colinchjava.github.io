@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed computing with Java RMI"
 description: " "
 date: 2023-09-14
-tags: [Java, DistributedComputing]
+tags: [DistributedComputing]
 comments: true
 share: true
 ---

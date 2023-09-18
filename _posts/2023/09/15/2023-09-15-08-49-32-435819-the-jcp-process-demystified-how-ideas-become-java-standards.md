@@ -3,7 +3,7 @@ layout: post
 title: "The JCP process demystified: How ideas become Java standards"
 description: " "
 date: 2023-09-15
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

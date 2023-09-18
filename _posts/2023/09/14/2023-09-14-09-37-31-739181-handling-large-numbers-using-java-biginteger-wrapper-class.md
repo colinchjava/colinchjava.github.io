@@ -3,7 +3,7 @@ layout: post
 title: "Handling large numbers using Java BigInteger wrapper class"
 description: " "
 date: 2023-09-14
-tags: [java, BigInteger]
+tags: [BigInteger]
 comments: true
 share: true
 ---

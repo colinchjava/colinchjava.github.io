@@ -3,7 +3,7 @@ layout: post
 title: "How to merge and concatenate streams in Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [java, streaming]
+tags: [streaming]
 comments: true
 share: true
 ---

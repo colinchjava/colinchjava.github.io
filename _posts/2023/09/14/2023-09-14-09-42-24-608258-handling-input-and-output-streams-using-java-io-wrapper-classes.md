@@ -3,7 +3,7 @@ layout: post
 title: "Handling input and output streams using Java I/O wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, InputOutput]
+tags: [InputOutput]
 comments: true
 share: true
 ---

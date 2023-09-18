@@ -3,7 +3,7 @@ layout: post
 title: "Handling exceptions in Java Streams API operations"
 description: " "
 date: 2023-09-15
-tags: [java, exceptions]
+tags: [exceptions]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Evaluating the trade-offs between throughput and latency in Java garbage collection"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection]
+tags: [GarbageCollection]
 comments: true
 share: true
 ---

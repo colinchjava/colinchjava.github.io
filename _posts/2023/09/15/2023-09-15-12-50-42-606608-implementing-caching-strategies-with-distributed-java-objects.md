@@ -3,7 +3,7 @@ layout: post
 title: "Implementing caching strategies with distributed Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, DistributedCaching]
+tags: [DistributedCaching]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging JNDI for Context Switching in Java Applications"
 description: " "
 date: 2023-09-17
-tags: [Java, JNDI, ContextSwitching]
+tags: [JNDI, ContextSwitching]
 comments: true
 share: true
 ---

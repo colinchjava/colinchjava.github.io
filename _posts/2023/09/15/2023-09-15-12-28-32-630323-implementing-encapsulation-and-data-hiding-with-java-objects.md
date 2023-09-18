@@ -3,7 +3,7 @@ layout: post
 title: "Implementing encapsulation and data hiding with Java objects"
 description: " "
 date: 2023-09-15
-tags: [java, encapsulation]
+tags: [encapsulation]
 comments: true
 share: true
 ---

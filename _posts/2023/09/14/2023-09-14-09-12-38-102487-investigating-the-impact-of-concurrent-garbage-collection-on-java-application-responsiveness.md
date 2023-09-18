@@ -3,7 +3,7 @@ layout: post
 title: "Investigating the impact of concurrent garbage collection on Java application responsiveness"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, ConcurrentGC]
+tags: [GarbageCollection, ConcurrentGC]
 comments: true
 share: true
 ---

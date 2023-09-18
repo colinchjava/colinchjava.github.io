@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java applications with GlassFish and JavaMail API"
 description: " "
 date: 2023-09-17
-tags: [Java, GlassFish, JavaMail]
+tags: [GlassFish, JavaMail]
 comments: true
 share: true
 ---

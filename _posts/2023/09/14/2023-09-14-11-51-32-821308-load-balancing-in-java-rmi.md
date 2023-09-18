@@ -3,7 +3,7 @@ layout: post
 title: "Load balancing in Java RMI"
 description: " "
 date: 2023-09-14
-tags: [Java, LoadBalancing]
+tags: [LoadBalancing]
 comments: true
 share: true
 ---

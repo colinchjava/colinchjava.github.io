@@ -3,7 +3,7 @@ layout: post
 title: "Java RMI and distributed product recommendations"
 description: " "
 date: 2023-09-14
-tags: [java, distributedcomputing]
+tags: [distributedcomputing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the role of genetic algorithms in Java development"
 description: " "
 date: 2023-09-15
-tags: [java, geneticalgorithms]
+tags: [geneticalgorithms]
 comments: true
 share: true
 ---

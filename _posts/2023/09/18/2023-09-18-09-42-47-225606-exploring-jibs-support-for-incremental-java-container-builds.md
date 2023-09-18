@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Jib's support for incremental Java container builds"
 description: " "
 date: 2023-09-18
-tags: [Java, Containers]
+tags: [Containers]
 comments: true
 share: true
 ---

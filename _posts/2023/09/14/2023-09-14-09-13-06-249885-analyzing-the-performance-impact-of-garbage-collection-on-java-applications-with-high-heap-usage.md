@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing the performance impact of garbage collection on Java applications with high heap usage"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, Performance]
+tags: [GarbageCollection, Performance]
 comments: true
 share: true
 ---

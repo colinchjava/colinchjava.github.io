@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java RMI with Apache Spark"
 description: " "
 date: 2023-09-14
-tags: [Java, ApacheSpark]
+tags: [ApacheSpark]
 comments: true
 share: true
 ---

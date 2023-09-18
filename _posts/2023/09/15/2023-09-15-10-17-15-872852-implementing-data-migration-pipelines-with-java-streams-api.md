@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data migration pipelines with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, DataMigration]
+tags: [DataMigration]
 comments: true
 share: true
 ---

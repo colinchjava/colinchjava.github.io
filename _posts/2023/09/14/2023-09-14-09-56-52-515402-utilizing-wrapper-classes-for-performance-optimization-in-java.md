@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing wrapper classes for performance optimization in Java"
 description: " "
 date: 2023-09-14
-tags: [Java, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

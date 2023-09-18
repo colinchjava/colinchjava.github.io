@@ -3,7 +3,7 @@ layout: post
 title: "Accessibility and inclusivity in the JCP: Challenges and opportunities"
 description: " "
 date: 2023-09-15
-tags: [Java, Accessibility]
+tags: [Accessibility]
 comments: true
 share: true
 ---

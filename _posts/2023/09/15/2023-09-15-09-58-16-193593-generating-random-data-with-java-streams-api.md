@@ -3,7 +3,7 @@ layout: post
 title: "Generating random data with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [java, stream, random]
+tags: [stream, random]
 comments: true
 share: true
 ---

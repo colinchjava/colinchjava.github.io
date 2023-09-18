@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of inner classes in Java objects"
 description: " "
 date: 2023-09-15
-tags: [java, innerclasses]
+tags: [innerclasses]
 comments: true
 share: true
 ---

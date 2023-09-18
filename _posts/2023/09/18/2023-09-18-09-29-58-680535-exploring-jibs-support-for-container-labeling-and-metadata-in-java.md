@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Jib's support for container labeling and metadata in Java"
 description: " "
 date: 2023-09-18
-tags: [Java, Containerization]
+tags: [Containerization]
 comments: true
 share: true
 ---

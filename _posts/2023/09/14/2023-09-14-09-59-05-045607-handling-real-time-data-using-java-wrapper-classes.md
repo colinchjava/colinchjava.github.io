@@ -3,7 +3,7 @@ layout: post
 title: "Handling real-time data using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Java, RealTimeData]
+tags: [RealTimeData]
 comments: true
 share: true
 ---

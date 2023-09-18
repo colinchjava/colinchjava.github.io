@@ -3,7 +3,7 @@ layout: post
 title: "Building reactive microservices with GlassFish and Eclipse MicroProfile Reactive Streams Operators in Java"
 description: " "
 date: 2023-09-17
-tags: [java, microservices, reactive, GlassFish, EclipseMicroProfile]
+tags: [microservices, reactive, GlassFish, EclipseMicroProfile]
 comments: true
 share: true
 ---

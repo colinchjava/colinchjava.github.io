@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and blockchain technology"
 description: " "
 date: 2023-09-15
-tags: [Java, Blockchain]
+tags: [Blockchain]
 comments: true
 share: true
 ---

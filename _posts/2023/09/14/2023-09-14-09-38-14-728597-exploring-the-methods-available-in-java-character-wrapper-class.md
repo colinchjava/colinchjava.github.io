@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the methods available in Java Character wrapper class"
 description: " "
 date: 2023-09-14
-tags: [Java, CharacterClass]
+tags: [CharacterClass]
 comments: true
 share: true
 ---

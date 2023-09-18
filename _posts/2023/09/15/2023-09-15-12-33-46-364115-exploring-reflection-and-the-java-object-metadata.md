@@ -3,7 +3,7 @@ layout: post
 title: "Exploring reflection and the Java object metadata"
 description: " "
 date: 2023-09-15
-tags: [Java, Reflection]
+tags: [Reflection]
 comments: true
 share: true
 ---

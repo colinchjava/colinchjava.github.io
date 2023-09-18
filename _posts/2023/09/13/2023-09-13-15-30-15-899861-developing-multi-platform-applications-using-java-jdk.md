@@ -3,7 +3,7 @@ layout: post
 title: "Developing multi-platform applications using Java JDK"
 description: " "
 date: 2023-09-13
-tags: [Java, CrossPlatformDevelopment]
+tags: [CrossPlatformDevelopment]
 comments: true
 share: true
 ---

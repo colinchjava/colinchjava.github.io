@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing memory leaks in Java applications and fixing them"
 description: " "
 date: 2023-09-13
-tags: [Java, MemoryLeaks]
+tags: [MemoryLeaks]
 comments: true
 share: true
 ---

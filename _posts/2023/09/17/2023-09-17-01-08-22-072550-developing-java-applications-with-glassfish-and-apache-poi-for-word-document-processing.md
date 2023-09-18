@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java applications with GlassFish and Apache POI for Word document processing"
 description: " "
 date: 2023-09-17
-tags: [Java, WordProcessing]
+tags: [WordProcessing]
 comments: true
 share: true
 ---

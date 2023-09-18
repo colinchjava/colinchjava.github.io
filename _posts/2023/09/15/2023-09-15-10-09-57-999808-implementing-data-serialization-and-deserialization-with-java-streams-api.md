@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data serialization and deserialization with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, Serialization, Deserialization]
+tags: [Serialization, Deserialization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java JDK with distributed caching systems like Apache Ignite"
 description: " "
 date: 2023-09-13
-tags: [Java, ApacheIgnite]
+tags: [ApacheIgnite]
 comments: true
 share: true
 ---

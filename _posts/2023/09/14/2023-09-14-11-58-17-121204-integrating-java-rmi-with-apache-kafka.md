@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java RMI with Apache Kafka"
 description: " "
 date: 2023-09-14
-tags: [Java, Kafka]
+tags: [Kafka]
 comments: true
 share: true
 ---

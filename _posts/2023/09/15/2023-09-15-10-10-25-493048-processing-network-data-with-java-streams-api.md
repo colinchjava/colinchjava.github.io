@@ -3,7 +3,7 @@ layout: post
 title: "Processing network data with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, NetworkDataProcessing]
+tags: [NetworkDataProcessing]
 comments: true
 share: true
 ---

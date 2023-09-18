@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging wrapper classes for logging and debugging in Java"
 description: " "
 date: 2023-09-14
-tags: [Java, Logging, Debugging]
+tags: [Logging, Debugging]
 comments: true
 share: true
 ---

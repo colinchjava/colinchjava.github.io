@@ -3,7 +3,7 @@ layout: post
 title: "Mastering the use of Java JDK documentation and resources"
 description: " "
 date: 2023-09-13
-tags: [Java, JavaDevelopmentKit, Documentation, Programming]
+tags: [JavaDevelopmentKit, Documentation, Programming]
 comments: true
 share: true
 ---

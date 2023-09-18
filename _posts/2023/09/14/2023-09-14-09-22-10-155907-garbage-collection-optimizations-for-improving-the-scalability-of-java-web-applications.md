@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection optimizations for improving the scalability of Java web applications"
 description: " "
 date: 2023-09-14
-tags: [Java, Scalability]
+tags: [Scalability]
 comments: true
 share: true
 ---

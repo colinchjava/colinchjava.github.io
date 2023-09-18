@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the module system in Java JDK"
 description: " "
 date: 2023-09-13
-tags: [Java, JavaJDK, JavaModuleSystem]
+tags: [JavaJDK, JavaModuleSystem]
 comments: true
 share: true
 ---

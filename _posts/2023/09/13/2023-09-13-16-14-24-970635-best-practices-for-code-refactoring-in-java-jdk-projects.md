@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for code refactoring in Java JDK projects"
 description: " "
 date: 2023-09-13
-tags: [java, refactoring]
+tags: [refactoring]
 comments: true
 share: true
 ---

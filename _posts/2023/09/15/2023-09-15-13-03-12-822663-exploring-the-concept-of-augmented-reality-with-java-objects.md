@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of augmented reality with Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, AugmentedReality]
+tags: [AugmentedReality]
 comments: true
 share: true
 ---

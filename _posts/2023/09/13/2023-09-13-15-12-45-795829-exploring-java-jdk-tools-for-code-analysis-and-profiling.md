@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK tools for code analysis and profiling"
 description: " "
 date: 2023-09-13
-tags: [Java, CodeAnalysis, Profiling]
+tags: [CodeAnalysis, Profiling]
 comments: true
 share: true
 ---

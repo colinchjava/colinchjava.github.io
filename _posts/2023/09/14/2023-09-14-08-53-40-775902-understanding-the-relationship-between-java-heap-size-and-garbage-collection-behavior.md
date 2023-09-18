@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the relationship between Java heap size and garbage collection behavior"
 description: " "
 date: 2023-09-14
-tags: [java, garbagecollection]
+tags: [garbagecollection]
 comments: true
 share: true
 ---

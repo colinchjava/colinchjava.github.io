@@ -3,7 +3,7 @@ layout: post
 title: "Custom collectors in Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, StreamsAPI, CustomCollectors]
+tags: [StreamsAPI, CustomCollectors]
 comments: true
 share: true
 ---

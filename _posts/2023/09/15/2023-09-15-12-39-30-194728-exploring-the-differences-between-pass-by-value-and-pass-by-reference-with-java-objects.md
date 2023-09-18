@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the differences between pass-by-value and pass-by-reference with Java objects"
 description: " "
 date: 2023-09-15
-tags: [java, programming]
+tags: [programming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Monitoring and tuning garbage collection in Java microservices architectures"
 description: " "
 date: 2023-09-14
-tags: [Java, Microservices, GarbageCollection, Monitoring, Tuning]
+tags: [Microservices, GarbageCollection, Monitoring, Tuning]
 comments: true
 share: true
 ---

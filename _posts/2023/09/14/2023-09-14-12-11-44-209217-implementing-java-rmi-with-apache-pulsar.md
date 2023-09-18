@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Java RMI with Apache Pulsar"
 description: " "
 date: 2023-09-14
-tags: [Java, ApachePulsar]
+tags: [ApachePulsar]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Java object layout and memory allocation strategies"
 description: " "
 date: 2023-09-15
-tags: [Java, MemoryAllocation]
+tags: [MemoryAllocation]
 comments: true
 share: true
 ---

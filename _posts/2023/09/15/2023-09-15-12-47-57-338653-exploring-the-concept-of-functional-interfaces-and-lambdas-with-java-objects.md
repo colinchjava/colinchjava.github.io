@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of functional interfaces and lambdas with Java objects"
 description: " "
 date: 2023-09-15
-tags: [java, functionalprogramming]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

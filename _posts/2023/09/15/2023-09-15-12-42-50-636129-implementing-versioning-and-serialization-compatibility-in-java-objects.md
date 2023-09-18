@@ -3,7 +3,7 @@ layout: post
 title: "Implementing versioning and serialization compatibility in Java objects"
 description: " "
 date: 2023-09-15
-tags: [Java, Serialization]
+tags: [Serialization]
 comments: true
 share: true
 ---

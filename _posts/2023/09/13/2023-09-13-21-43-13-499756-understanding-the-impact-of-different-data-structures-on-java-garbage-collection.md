@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the impact of different data structures on Java garbage collection"
 description: " "
 date: 2023-09-13
-tags: [Java, GarbageCollection, DataStructures]
+tags: [GarbageCollection, DataStructures]
 comments: true
 share: true
 ---

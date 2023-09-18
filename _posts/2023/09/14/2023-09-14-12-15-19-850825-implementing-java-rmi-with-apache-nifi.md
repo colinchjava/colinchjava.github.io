@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Java RMI with Apache NiFi"
 description: " "
 date: 2023-09-14
-tags: [Java, ApacheNiFi]
+tags: [ApacheNiFi]
 comments: true
 share: true
 ---

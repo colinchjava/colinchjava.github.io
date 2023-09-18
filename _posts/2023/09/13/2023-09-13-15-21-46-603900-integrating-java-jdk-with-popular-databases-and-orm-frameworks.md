@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java JDK with popular databases and ORM frameworks"
 description: " "
 date: 2023-09-13
-tags: [java, databases, jdbc, hibernate, springdatajpa]
+tags: [databases, jdbc, hibernate, springdatajpa]
 comments: true
 share: true
 ---

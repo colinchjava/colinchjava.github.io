@@ -3,7 +3,7 @@ layout: post
 title: "Implementing fault tolerance with Java RMI"
 description: " "
 date: 2023-09-14
-tags: [Java, FaultTolerance]
+tags: [FaultTolerance]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Incremental Migration of Legacy Applications to JNDI in Java"
 description: " "
 date: 2023-09-17
-tags: [Java, JNDI, LegacyApplication, IncrementalMigration, ResourceManagement]
+tags: [JNDI, LegacyApplication, IncrementalMigration, ResourceManagement]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of aspect-oriented programming with Java objects"
 description: " "
 date: 2023-09-15
-tags: [java, aspectorientedprogramming]
+tags: [aspectorientedprogramming]
 comments: true
 share: true
 ---

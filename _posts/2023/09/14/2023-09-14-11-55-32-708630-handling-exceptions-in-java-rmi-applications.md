@@ -3,7 +3,7 @@ layout: post
 title: "Handling exceptions in Java RMI applications"
 description: " "
 date: 2023-09-14
-tags: [Java, ExceptionHandling]
+tags: [ExceptionHandling]
 comments: true
 share: true
 ---

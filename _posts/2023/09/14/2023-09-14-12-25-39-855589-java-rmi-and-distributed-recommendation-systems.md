@@ -3,7 +3,7 @@ layout: post
 title: "Java RMI and distributed recommendation systems"
 description: " "
 date: 2023-09-14
-tags: [Java, DistributedRecommendationSystems]
+tags: [DistributedRecommendationSystems]
 comments: true
 share: true
 ---

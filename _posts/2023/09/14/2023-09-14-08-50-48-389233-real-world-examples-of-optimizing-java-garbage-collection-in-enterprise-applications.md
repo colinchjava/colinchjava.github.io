@@ -3,7 +3,7 @@ layout: post
 title: "Real-world examples of optimizing Java garbage collection in enterprise applications"
 description: " "
 date: 2023-09-14
-tags: [java, garbagecollection]
+tags: [garbagecollection]
 comments: true
 share: true
 ---

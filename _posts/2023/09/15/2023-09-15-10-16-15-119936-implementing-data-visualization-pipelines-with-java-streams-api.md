@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data visualization pipelines with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [Java, StreamsAPI, DataVisualization]
+tags: [StreamsAPI, DataVisualization]
 comments: true
 share: true
 ---

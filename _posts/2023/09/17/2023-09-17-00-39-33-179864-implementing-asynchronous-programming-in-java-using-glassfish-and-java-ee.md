@@ -3,7 +3,7 @@ layout: post
 title: "Implementing asynchronous programming in Java using GlassFish and Java EE"
 description: " "
 date: 2023-09-17
-tags: [Java, AsynchronousProgramming]
+tags: [AsynchronousProgramming]
 comments: true
 share: true
 ---

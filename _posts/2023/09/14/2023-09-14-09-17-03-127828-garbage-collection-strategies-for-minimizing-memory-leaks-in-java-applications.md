@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection strategies for minimizing memory leaks in Java applications"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, MemoryLeaks, JavaApplications]
+tags: [GarbageCollection, MemoryLeaks, JavaApplications]
 comments: true
 share: true
 ---

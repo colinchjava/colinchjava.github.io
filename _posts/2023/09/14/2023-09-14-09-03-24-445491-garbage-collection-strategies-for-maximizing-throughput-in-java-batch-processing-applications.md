@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection strategies for maximizing throughput in Java batch processing applications"
 description: " "
 date: 2023-09-14
-tags: [Java, GarbageCollection, BatchProcessing]
+tags: [GarbageCollection, BatchProcessing]
 comments: true
 share: true
 ---

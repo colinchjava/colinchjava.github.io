@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging wrapper classes for exception handling in Java"
 description: " "
 date: 2023-09-14
-tags: [java, exceptionhandling]
+tags: [exceptionhandling]
 comments: true
 share: true
 ---
