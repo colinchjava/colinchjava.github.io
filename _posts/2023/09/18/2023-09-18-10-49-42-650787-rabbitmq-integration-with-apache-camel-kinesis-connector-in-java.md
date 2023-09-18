@@ -61,6 +61,7 @@ rabbitmq.queue=my_queue
 Now, let's configure the Apache Camel routes to consume messages from RabbitMQ and publish them to Kinesis. Create a new Java class and define your Camel route:
 
 ```java
+{% raw %}
 import org.apache.camel.builder.RouteBuilder;
 
 public class RabbitMQToKinesisRoute extends RouteBuilder {
@@ -77,6 +78,7 @@ public class RabbitMQToKinesisRoute extends RouteBuilder {
                 "&region=us-east-1");
     }
 }
+{% endraw %}
 ```
 
 Make sure to replace `streamName`, `YOUR_ACCESS_KEY`, and `YOUR_SECRET_KEY` with your actual Kinesis stream name and AWS access credentials.
