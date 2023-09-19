@@ -1,0 +1,100 @@
+Introduction to Mockito framework
+Mockito vs other testing frameworks in Java
+Understanding the basics of Mockito
+Setting up Mockito in a Java project
+Mockito annotations and their usage
+Creating mock objects using Mockito
+Mocking methods with return values in Mockito
+Mocking void methods using Mockito
+Verifying method invocations with Mockito
+Using Mockito to simulate exceptions
+Mocking static methods with Mockito
+Mocking final classes and methods with Mockito
+Advanced mocking techniques with Mockito
+Using Mockito to test private methods
+Mockito argument matchers and their usage
+Stubbing and mocking in Mockito: What's the difference?
+Handling dependencies and using mock injections with Mockito
+Best practices for using Mockito in Java tests
+Integrating Mockito with other testing frameworks like JUnit
+Mockito alternatives for Java mocking
+Benefits and drawbacks of using Mockito in Java projects
+Mockito spy: Partial mocking with Mockito
+Using Mockito to test asynchronous code
+Using Mockito to test Spring applications
+Mockito and mocking third-party dependencies in Java
+Mockito in legacy code: Strategies and considerations
+Mockito with databases: Mocking JDBC connections
+Using Mockito to test RESTful services in Java
+Mockito deep stubs: Mocking nested objects
+Mockito and code coverage analysis in Java tests
+Mockito and test doubles: Mocks, stubs, and fakes
+Mockito and dependency injection: Pros and cons
+Integration testing with Mockito: Mocking external systems
+Using Mockito to mock time-dependent code
+Mocking network calls with Mockito
+Mockito and code mocking for performance testing
+Using Mockito to simulate user interactions
+Mockito with PowerMock: Mocking static final methods
+Debugging Mockito tests: Common issues and solutions
+Testing concurrent code with Mockito
+Mockito and code coverage tools: Jacoco, Cobertura, etc.
+Using Mockito in Android testing
+Mockito and continuous integration: Automating tests
+Mockito and mocking on Android devices/emulators
+Mockito and code quality metrics: Cyclomatic complexity, etc.
+Unit testing with Mockito: Best practices and patterns
+Mockito and legacy code refactoring
+Using Mockito to simulate edge cases and unusual inputs
+Mockito and test-driven development (TDD)
+Mockito and contract testing: API behavior verification
+Using Mockito to test caching mechanisms
+Mockito with Spring Boot: Mocking auto-configured beans
+Mockito and mocking frameworks for different languages
+Using Mockito to test error-handling and exception scenarios
+Mockito and testing microservices: Mocking service dependencies
+Mockito with Kotlin: Mocking Kotlin classes and functions
+Using Mockito to validate API contracts
+Mockito and performance testing: Mocking high-load scenarios
+Limitations of Mockito: When to consider other mocking frameworks
+Using Mockito to test multi-threaded code
+Mockito and distributed systems: Simulating network failures
+Mockito with reactive programming frameworks: Mocking reactive streams
+Using Mockito to test security features in Java applications
+Mockito and code mutation testing: Assessing test coverage
+Customizing mock behavior in Mockito
+Mockito and scalability testing: Simulating large datasets
+Using Mockito to test data transformation and mapping
+Mockito and cross-platform testing: Mocking across different environments
+Testing with edge cases using Mockito
+Mocking external APIs with Mockito
+Using Mockito to test data persistence and retrieval
+Comparing Mockito and manual mocking in Java tests
+Mockito and mock factories: Creating complex test doubles
+Testing event-driven architectures with Mockito
+Using Mockito to test streaming data processing
+Mockito and Gradle: Setting up Mockito with build automation
+Mocking legacy systems with Mockito
+Mockito and performance benchmarking: Comparing different implementations
+Using Mockito to test system integration points
+Mockito and test data management: Creating test fixtures
+Custom matchers in Mockito
+Using Mockito to test error handling and fallback mechanisms
+Mockito and API versioning: Mocking different API versions
+Mockito and distributed tracing: Simulating distributed systems
+Using Mockito to validate data transformations and calculations
+Matchers in Mockito: anyObject, anyString, eq, etc.
+Using Mockito to test complex business logic
+Mockito and test doubles: Concepts and definitions
+Mockito and continuous delivery: Automating testing in CI/CD pipelines
+Code coverage reports with Mockito
+Verifying method calls order with Mockito
+Using Mockito to test external system integrations
+Mockito and test coverage metrics: Statement coverage, branch coverage, etc.
+Testing with boundary values using Mockito
+Mockito and test data generation: Generating random test data
+Using Mockito to verify SQL queries and database interactions
+Mockito and serverless computing: Mocking serverless function invocations
+Testing race conditions with Mockito
+Custom argument matchers in Mockito
+Using Mockito to test data validation and constraints

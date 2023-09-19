@@ -1,0 +1,100 @@
+What is Java Spring Security?
+Overview of Spring Security architecture
+Key features of Spring Security
+How to configure Spring Security in a Java application
+Implementing user authentication with Spring Security
+Configuring password encryption in Spring Security
+Customizing login and logout processes in Spring Security
+Implementing role-based access control with Spring Security
+Securing REST APIs with Spring Security
+Using JSON Web Tokens (JWT) for authentication with Spring Security
+Implementing two-factor authentication with Spring Security
+Enabling remember me functionality with Spring Security
+How to handle session management with Spring Security
+Implementing CSRF protection in Spring Security
+Integrating Spring Security with Hibernate for user authorization
+Implementing OAuth2 authentication with Spring Security
+Configuring database-backed authentication with Spring Security
+Implementing single sign-on (SSO) with Spring Security
+Customizing error handling in Spring Security
+Using custom filters in Spring Security
+Implementing social login with Spring Security (e.g., Facebook, Google)
+How to secure method-level access with Spring Security
+Creating custom access decision voters in Spring Security
+Implementing password policy enforcement with Spring Security
+Handling account lockout and brute-force attacks with Spring Security
+Using Spring Security ACL for fine-grained access control
+Implementing CAPTCHA for user authentication with Spring Security
+How to secure WebSocket communication with Spring Security
+Implementing custom authentication providers in Spring Security
+Enforcing HTTPS with Spring Security
+Integrating Spring Security with Spring Boot
+How to test Spring Security configurations
+Implementing session fixation protection with Spring Security
+Securing file uploads with Spring Security
+How to implement remember me functionality with persistent tokens
+Integrating Spring Security with LDAP for user authentication
+Implementing password recovery functionality with Spring Security
+Using Spring Security events for auditing and logging
+Implementing multi-factor authentication with Spring Security
+How to configure concurrent session control with Spring Security
+Integrating Spring Security with OpenID Connect for authentication
+Implementing CORS protection with Spring Security
+Using Spring Security expressions for access control
+Implementing SAML-based single sign-on with Spring Security
+Configuring IP-based access control with Spring Security
+Implementing user registration and email verification with Spring Security
+How to handle session fixation attacks with Spring Security
+Using Spring Security headers for security enhancements
+Implementing database auditing with Spring Security
+Configuring session timeout with Spring Security
+How to handle authentication failure and success events in Spring Security
+Integrating Spring Security with JWT for stateless authentication
+Implementing password strength validation with Spring Security
+Enforcing content security policies with Spring Security
+Using Spring Security to secure WebSocket endpoints
+Implementing remember me functionality with persistent tokens and DB storage
+How to enable CORS with Spring Security
+Configuring request throttling with Spring Security
+Implementing role hierarchy with Spring Security
+Using Spring Security to protect sensitive information (e.g., credit card numbers)
+How to customize the login page in Spring Security
+Configuring concurrent session control with Spring Security and database storage
+Implementing brute-force attack detection and prevention with Spring Security
+Using Spring Security to secure servlets and JSP pages
+Integrating Spring Security with Okta for authentication and authorization
+How to handle CSRF token expiration in Spring Security
+Configuring logout handlers with Spring Security
+Implementing rate limiting with Spring Security
+Customizing access denied page in Spring Security
+Using Spring Security to secure static resources (e.g., CSS, JavaScript)
+Integrating Spring Security with Azure Active Directory for user authentication
+How to implement passwordless authentication with Spring Security
+Configuring custom authentication success and failure handlers in Spring Security
+Implementing session fixation protection with Redis in Spring Security
+Using Spring Security to encrypt and decrypt sensitive data in a database
+How to implement IP whitelisting with Spring Security
+Configuring request logging and auditing with Spring Security
+Implementing persistent login with Spring Security and Hibernate
+Integrating Spring Security with Auth0 for authentication and authorization
+How to handle account expiration with Spring Security
+Configuring HTTP response headers with Spring Security
+Implementing CORS protection with Spring Security using filter-based approach
+Using Spring Security to secure static files (e.g., PDF, images)
+Integrating Spring Security with Alibaba Cloud for authentication and authorization
+How to implement conditional access with Spring Security
+Configuring request caching with Spring Security
+Using Spring Security to secure service-to-service communication (e.g., microservices)
+Implementing passwordless authentication with email verification in Spring Security
+How to handle concurrent session expired events in Spring Security
+Configuring request size limit with Spring Security
+Implementing anonymous authentication with Spring Security
+Using Spring Security to secure Apache Kafka topics
+How to implement session tracking with Spring Security
+Configuring HSTS (HTTP Strict Transport Security) with Spring Security
+Implementing dynamic roles and permissions with Spring Security
+Integrating Spring Security with Firebase Authentication for user authentication
+How to handle persistent login expiration with Spring Security
+Configuring response caching with Spring Security
+Using Spring Security to secure outbound HTTP requests (e.g., REST client)
+Implementing session affinity with Spring Security for load balancing

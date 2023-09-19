@@ -1,0 +1,100 @@
+Introduction to Java StringBuffer
+Differences between StringBuffer and String in Java
+Creating a StringBuffer object in Java
+Appending text to a StringBuffer in Java
+Inserting text into a StringBuffer at a specific position
+Deleting characters from a StringBuffer in Java
+Reversing a StringBuffer in Java
+Converting a StringBuffer to a String in Java
+Changing the length of a StringBuffer in Java
+Comparing StringBuffers in Java
+Searching for text within a StringBuffer in Java
+Changing the case of a StringBuffer in Java
+Concatenating StringBuffers in Java
+Removing duplicate characters from a StringBuffer in Java
+Obtaining the capacity and length of a StringBuffer in Java
+Trimming whitespace from a StringBuffer in Java
+Replacing text within a StringBuffer in Java
+Checking if a StringBuffer is empty in Java
+Converting a StringBuffer to lowercase in Java
+Using StringBuffer in multithreaded applications in Java
+Sorting characters within a StringBuffer in Java
+Counting occurrences of a specific character in a StringBuffer in Java
+Formatting a StringBuffer in Java
+Substring operations on a StringBuffer in Java
+Checking if a StringBuffer is equal to a specific value in Java
+Replacing a specific character within a StringBuffer in Java
+Wrapping a StringBuffer around an existing char array in Java
+Making a deep copy of a StringBuffer in Java
+Comparing the content of two StringBuffers in Java
+Getting the index of a specific character within a StringBuffer in Java
+Determining if a StringBuffer contains only numeric characters in Java
+Serializing a StringBuffer in Java
+Using regular expressions with StringBuffers in Java
+Normalizing whitespace in a StringBuffer in Java
+Encrypting and decrypting a StringBuffer in Java
+Tokenizing a StringBuffer in Java
+Converting a StringBuffer to uppercase in Java
+Splitting a StringBuffer into multiple substrings in Java
+Merging multiple StringBuffers in Java
+Displaying a StringBuffer in a specific format in Java
+Searching and replacing using regular expressions in a StringBuffer in Java
+Determining if a StringBuffer contains a specific word in Java
+Generating random text using a StringBuffer in Java
+Counting the number of words in a StringBuffer in Java
+Parsing a StringBuffer as an XML document in Java
+Serializing a StringBuffer to a file in Java
+Finding the longest word in a StringBuffer in Java
+Checking if a StringBuffer starts or ends with a specific substring in Java
+Implementing a custom reverse method for a StringBuffer in Java
+Finding the first non-repeating character in a StringBuffer in Java
+Reversing words within a StringBuffer in Java
+Checking if a StringBuffer contains a palindrome in Java
+Converting a StringBuffer to a byte array in Java
+Determining the number of vowels in a StringBuffer in Java
+Inserting a line break in a StringBuffer in Java
+Escaping special characters in a StringBuffer in Java
+Counting occurrences of words in a StringBuffer in Java
+Checking if a StringBuffer is a substring of another StringBuffer in Java
+Removing HTML tags from a StringBuffer in Java
+Encrypting and decrypting a StringBuffer using a symmetric key in Java
+Performing mathematical operations on numbers within a StringBuffer in Java
+Determining if a StringBuffer is a valid email address in Java
+Reversing the order of elements within a StringBuffer in Java
+Applying a specific formatting style to a StringBuffer in Java
+Generating an auto-incrementing ID for a StringBuffer in Java
+Counting the number of sentences in a StringBuffer in Java
+Replacing special characters in a StringBuffer in Java
+Removing whitespace at the beginning and end of a StringBuffer in Java
+Checking if a StringBuffer contains a specific pattern in Java
+Comparing the case of characters within a StringBuffer in Java
+Converting Roman numerals within a StringBuffer to decimal format in Java
+Checking if a StringBuffer contains a valid URL in Java
+Removing all occurrences of a specific word from a StringBuffer in Java
+Determining if a StringBuffer is a valid JSON object in Java
+Reversing the case of characters within a StringBuffer in Java
+Checking if a StringBuffer contains a specific character sequence in Java
+Padding a StringBuffer with leading zeros in Java
+Determining if a StringBuffer contains a valid XML document in Java
+Converting a StringBuffer to a hexadecimal string in Java
+Checking if a StringBuffer contains a specific substring ignoring case in Java
+Removing duplicate lines from a StringBuffer in Java
+Determining if a StringBuffer contains ASCII characters in Java
+Sorting words within a StringBuffer in alphabetical order in Java
+Checking if a StringBuffer contains only alphabetic characters in Java
+Rotating the characters within a StringBuffer in Java
+Determining if a StringBuffer contains valid HTML content in Java
+Generating a random password using a StringBuffer in Java
+Converting a StringBuffer to a binary string in Java
+Checking if a StringBuffer contains a specific word ignoring case in Java
+Removing duplicate words from a StringBuffer in Java
+Determining if a StringBuffer contains a valid IPv4 address in Java
+Converting a StringBuffer to an ASCII art representation in Java
+Checking if a StringBuffer contains a specific word in a case-sensitive manner in Java
+Replacing multiple occurrences of a specific word with another word in a StringBuffer in Java
+Determining if a StringBuffer contains a valid credit card number in Java
+Converting a StringBuffer to Morse code in Java
+Checking if a StringBuffer contains only hexadecimal characters in Java
+Removing all occurrences of a specific character from a StringBuffer in Java
+Determining if a StringBuffer contains a palindrome word in Java
+Shuffling the characters within a StringBuffer in Java

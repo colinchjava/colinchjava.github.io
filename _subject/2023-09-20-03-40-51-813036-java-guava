@@ -1,0 +1,100 @@
+Immutable collections in Guava
+Using Preconditions in Guava
+Using Optional in Guava
+Guava's functional idioms
+Guava's FluentIterable class
+Caching with Guava
+Difference between Guava's ImmutableList and Java's List
+Using Guava's Joiner class for string concatenation
+Using Guava's Splitter class for string splitting
+Guava's Ordering class for sorting collections
+Using Guava's Range class for working with number ranges
+Guava's Multimaps for handling multiple values per key
+Guava's BiMap for bidirectional mapping of keys and values
+Guava's Table for handling two-dimensional data structures
+Guava's EventBus for event-based programming
+Guava's ListenableFuture for asynchronous programming
+Guava's Predicate interface for filtering collections
+Guava's Function interface for transforming collections
+Guava's Suppliers class for lazy initialization
+Guava's Hashing class for efficient hashing
+Guava's Stopwatch class for measuring execution time
+Guava's Throwables class for handling exceptions
+Guava's Files class for working with files and directories
+Guava's CharMatcher class for character manipulation
+Guava's CaseFormat class for converting between different naming conventions
+Guava's Enums class for working with enums
+Guava's Preconditions class for argument validation
+Guava's Reflection utility class for working with Java reflection
+Guava's Retryer class for retrying failed operations
+Guava's RateLimiter class for rate limiting
+Guava's Strings class for manipulating string values
+Guava's Ranges class for working with ranges of values
+Guava's Graphs class for working with graph data structures
+Guava's ByteStreams class for working with byte inputs and outputs
+Guava's Files class for working with files and IO operations
+Guava's CacheLoader class for cache loading
+Guava's Stopwatch class for measuring time durations
+Guava's Throwables class for handling exceptions and stack traces
+Guava's BloomFilter class for probabilistic data structures
+Guava's ByteSource class for reading bytes from various sources
+Guava's Hashing class for fast and easy hashcode generation
+Guava's Throwables class for handling exceptions in a functional programming style
+Guava's ByteSink class for writing bytes to various sinks
+Guava's RateLimiter class for controlling the rate of events
+Guava's Joiner class for joining iterable objects or arrays of objects
+Guava's Splitter class for splitting strings into substrings
+Guava's Preconditions class for validating method arguments
+Guava's CharMatcher class for matching and manipulating characters
+Guava's CaseFormat class for converting between different naming conventions
+Guava's Enums class for working with Java enums
+Guava's Stopwatch class for measuring elapsed time
+Guava's Retrying class for retrying failed operations
+Guava's Range class for representing ranges of comparable objects
+Guava's Preconditions class for validating method arguments and state
+Guava's Reflection class for working with Java reflection
+Guava's Retryer class for retrying failed operations with backoff strategies
+Guava's RateLimiter class for rate limiting access to resources
+Guava's Strings class for manipulating strings
+Guava's Throwables class for working with exceptions and stack traces
+Guava's CacheLoader class for loading values into a cache
+Guava's ByteStreams class for working with byte streams
+Guava's Files class for working with files and directories in a functional way
+Guava's Hashing class for generating hash codes and CRC32 checksums
+Guava's Throwables class for working with exceptions and stack traces in a functional style
+Guava's ByteSink class for writing bytes to various sinks
+Guava's RateLimiter class for rate limiting access to resources with a bursty behavior
+Guava's Joiner class for joining iterable objects or arrays of objects with a specified separator
+Guava's Splitter class for splitting strings into substrings based on a delimiter
+Guava's Preconditions class for validating method arguments and state with assertions
+Guava's CharMatcher class for matching and manipulating characters with various predicates
+Guava's CaseFormat class for converting between different naming conventions (e.g., camel case, snake case)
+Guava's Enums class for working with Java enums, including retrieving enum constants and converting strings to enum values
+Guava's Stopwatch class for measuring elapsed time in a convenient way
+Guava's Retryer class for retrying failed operations with configurable retry policies and wait strategies
+Guava's RateLimiter class for controlling the rate of events (e.g., limiting the number of requests per second)
+Guava's Strings class for performing common string operations, such as padding, trimming, and splitting
+Guava's Throwables class for working with exceptions and stack traces, including rethrowing checked exceptions as unchecked exceptions
+Guava's CacheLoader class for loading values into a cache, either synchronously or asynchronously
+Guava's ByteStreams class for working with byte streams, such as copying, reading, and writing
+Guava's Files class for working with files and directories in a functional style, including creating, deleting, and navigating files
+Guava's Hashing class for generating hash codes and CRC32 checksums, including consistent hash codes for collections of objects
+Guava's Throwables class for working with exceptions and stack traces in a functional style, including chaining and propagating exceptions
+Guava's ByteSink class for writing bytes to various sinks, such as files, output streams, and appendable objects
+Guava's RateLimiter class for rate limiting access to resources, including smooth and bursty behavior modes
+Guava's Joiner class for joining iterable objects or arrays of objects with a specified separator, skipping null elements
+Guava's Splitter class for splitting strings into substrings based on a delimiter, optionally trimming whitespace and allowing empty elements
+Guava's Preconditions class for validating method arguments and state with assertions, throwing exceptions with specific error messages
+Guava's CharMatcher class for matching and manipulating characters with various predicates, including whitespace, digits, and letters
+Guava's CaseFormat class for converting between different naming conventions, such as camel case, snake case, and constant case
+Guava's Enums class for working with Java enums, including retrieving enum constants by string value and converting strings to enum values
+Guava's Stopwatch class for measuring elapsed time in a convenient and accurate manner, including starting, stopping, and resetting
+Guava's Retryer class for retrying failed operations with configurable retry policies and wait strategies, including exponential backoff
+Guava's RateLimiter class for controlling the rate of events, such as limiting the number of requests per second or per minute
+Guava's Strings class for performing common string operations, such as padding, trimming, concatenating, and splitting
+Guava's Throwables class for working with exceptions and stack traces, including propagating, wrapping, and extracting information from exceptions
+Guava's CacheLoader class for loading values into a cache, either synchronously or asynchronously, with support for refreshing expired values
+Guava's ByteStreams class for working with byte streams, such as copying, reading, writing, and compressing streams
+Guava's Files class for working with files and directories in a functional style, including creating, deleting, and copying files
+Guava's Hashing class for generating hash codes and CRC32 checksums, including consistent hash codes for collections of objects and secure hashing
+Guava's Preconditions class for validating method arguments and state with assertions, including support for custom error messages and exception types

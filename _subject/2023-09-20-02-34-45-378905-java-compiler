@@ -1,0 +1,100 @@
+Compilation process in Java
+Java bytecode
+Java virtual machine (JVM)
+Main components of a Java compiler
+Syntax analysis in Java compilation
+Semantic analysis in Java compilation
+Optimization techniques in Java compilation
+Error handling in Java compilation
+Linking phase in Java compilation
+Overview of just-in-time (JIT) compilation in Java
+Differences between interpreter and compiler in Java
+Intermediate representations in Java compilation
+Front-end and back-end stages in Java compilation
+Java compiler flags and options
+Debugging compiled Java code
+Java compiler warnings and "unchecked" warnings
+Java compiler optimizations
+Java compiler plugins and extensions
+Java bytecode verifier
+Bytecode manipulation tools for Java
+Java compiler API and programmatically compiling Java code
+Cross-compiling Java code for different platforms
+Java compiler version compatibility
+Compilation modes in Java: development vs. production
+Java compiler options for targeting specific Java versions
+Achieving platform independence using the Java compiler
+Java compiler and package structure
+Profiling and benchmarking compiled Java code
+Best practices for Java compilation
+Java compiler and build automation tools (e.g., Maven, Gradle)
+Incremental compilation in Java
+Java compiler error messages and common syntax errors
+Java compiler warnings and best practices to resolve them
+Optimizing Java code for better compilation performance
+Conditional compilation in Java using preprocessor directives
+Compiling multiple Java files into a single executable or JAR file
+Java language features and their impact on compilation
+Using different Java compilers (e.g., Oracle JDK, OpenJDK)
+Java compiler source code organization and architecture
+Java modules and their impact on compilation
+Java compiler and compatibility with third-party libraries
+Java compiler and support for multi-threading
+Java compiler and support for exception handling
+Compiling Java code with external dependencies
+Java compiler options for code size optimization
+Java compiler and integration with IDEs (e.g., Eclipse, IntelliJ)
+Java compiler and support for reflection
+Java compiler and support for annotations
+Java compiler optimizations for loops and conditionals
+Java compiler and support for generics
+Compiling Java code with native methods
+Java compiler and support for dynamic class loading
+Java compiler options for controlling output directory structure
+Java compiler and support for internationalization and localization
+Java compiler and support for runtime type information (RTTI)
+Java compiler and support for method overloading
+Java compiler options for controlling classpath
+Java compiler and support for inner classes
+Java compiler and support for lambda expressions
+Java compiler options for controlling warning messages
+Java compiler and support for annotations processors
+Java compiler options for controlling debug information
+Java compiler and support for method references
+Java compiler options for controlling class file format
+Java compiler and support for generics type erasure
+Java compiler and support for default methods in interfaces
+Java compiler options for controlling assertion checks
+Java compiler and support for varargs (variable arguments)
+Java compiler options for enforcing coding conventions and style
+Java compiler and support for Java Native Interface (JNI)
+Java compiler options for profiling and performance analysis
+Java compiler and support for autoboxing and unboxing
+Java compiler options for controlling generated documentation (Javadoc)
+Java compiler and support for enumeration types
+Java compiler options for input/output control
+Java compiler and support for synchronized keyword
+Java compiler options for controlling class file version
+Java compiler and support for functional interfaces
+Java compiler options for controlling method inlining
+Java compiler and support for checked and unchecked exceptions
+Java compiler options for controlling class loader behavior
+Java compiler and support for serialization
+Java compiler options for controlling static analysis checks
+Java compiler and support for package-private access
+Java compiler options for controlling deprecation warnings
+Java compiler and support for method overriding
+Java compiler options for controlling error checks
+Java compiler and support for final keyword
+Java compiler options for controlling code generation
+Java compiler and support for class literals
+Java compiler options for controlling access level restrictions
+Java compiler and support for thread synchronization
+Java compiler options for controlling optimization levels
+Java compiler and support for method hiding
+Java compiler options for controlling class initialization
+Java compiler and support for strictfp keyword
+Java compiler options for controlling exception processing
+Java compiler and support for object cloning
+Java compiler options for controlling garbage collection behavior
+Java compiler and support for anonymous inner classes.

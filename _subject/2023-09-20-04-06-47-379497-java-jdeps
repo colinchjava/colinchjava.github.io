@@ -1,0 +1,100 @@
+Introduction to Java jdeps tool
+Understanding Java jdeps command and its usage
+Analyzing dependencies with Java jdeps
+Handling circular dependencies with Java jdeps
+Understanding class-level dependencies in Java
+Package-level dependencies in Java using jdeps
+Analyzing dependency between modules with Java jdeps
+Using Java jdeps to identify missing dependencies
+Excluding certain dependencies with Java jdeps
+Generating dependency graphs with Java jdeps
+Using Java jdeps to generate a dependency tree
+Analyzing JDK dependencies with Java jdeps
+Analyzing third-party library dependencies with Java jdeps
+Identifying transitive dependencies in Java with jdeps
+Analyzing dependencies in multi-module projects with Java jdeps
+Exploring API dependencies with Java jdeps
+Understanding required and provided dependencies with jdeps
+Analyzing dependency conflicts with Java jdeps
+Using Java jdeps with Maven projects
+Using Java jdeps with Gradle projects
+Analyzing dependencies in Spring Boot applications with Java jdeps
+Analyzing dependencies in Android applications with Java jdeps
+Analyzing dependencies in Java Enterprise applications with jdeps
+Analyzing dependencies in JavaFX applications with jdeps
+Analyzing dependencies in JUnit test suites with Java jdeps
+Analyzing dependencies in Java servlets and JSPs with jdeps
+Analyzing dependencies in Java web services with Java jdeps
+Using Java jdeps for code refactoring and modularization
+Analyzing compiled Java bytecode with jdeps
+Analyzing dependencies in Java archives (JAR files) with jdeps
+Analyzing dependencies in Java WAR files with Java jdeps
+Analyzing dependencies in Java EAR files with jdeps
+Analyzing dependencies in Java Applet projects with jdeps
+Analyzing dependencies in JavaFX projects with Java jdeps
+Analyzing dependencies in Android library projects with jdeps
+Analyzing dependencies in Java annotations with Java jdeps
+Analyzing dependencies in Java reflection with jdeps
+Analyzing dependencies in Java serialization with Java jdeps
+Analyzing dependencies in Java Native Interface (JNI) with jdeps
+Analyzing dependencies in Java Database Connectivity (JDBC) with Java jdeps
+Analyzing dependencies in Java Persistence API (JPA) with jdeps
+Analyzing dependencies in Java Server Pages (JSP) with Java jdeps
+Analyzing dependencies in Java Remote Method Invocation (RMI) with jdeps
+Analyzing dependencies in Java XML processing with Java jdeps
+Analyzing dependencies in Java JSON processing with jdeps
+Analyzing dependencies in Java concurrency with Java jdeps
+Analyzing dependencies in Java networking with jdeps
+Analyzing dependencies in Java multithreading with Java jdeps
+Analyzing dependencies in Java security with jdeps
+Analyzing dependencies in Java logging with Java jdeps
+Analyzing dependencies in Java annotations with jdeps
+Analyzing dependencies in Java exceptions with Java jdeps
+Analyzing dependencies in Java generics with jdeps
+Analyzing dependencies in Java collections with Java jdeps
+Analyzing dependencies in Java streams with jdeps
+Analyzing dependencies in Java lambda expressions with Java jdeps
+Analyzing dependencies in Java date and time with jdeps
+Analyzing dependencies in Java regular expressions with Java jdeps
+Analyzing dependencies in Java filesystem operations with jdeps
+Analyzing dependencies in Java concurrency utilities with Java jdeps
+Analyzing dependencies in Java IO operations with jdeps
+Analyzing dependencies in Java GUI applications with Java jdeps
+Analyzing dependencies in Java Swing applications with jdeps
+Analyzing dependencies in JavaFX applications with Java jdeps
+Analyzing dependencies in Java AWT applications with jdeps
+Analyzing dependencies in Java XML processing with Java jdeps
+Analyzing dependencies in Java JSON processing with jdeps
+Analyzing dependencies in Java serialization with Java jdeps
+Analyzing dependencies in Java Native Interface (JNI) with jdeps
+Analyzing dependencies in Java Database Connectivity (JDBC) with Java jdeps
+Analyzing dependencies in Java Server Pages (JSP) with jdeps
+Analyzing dependencies in Java Remote Method Invocation (RMI) with Java jdeps
+Analyzing dependencies in Java XML processing with jdeps
+Analyzing dependencies in Java JSON processing with Java jdeps
+Analyzing dependencies in Java concurrency with jdeps
+Analyzing dependencies in Java networking with Java jdeps
+Analyzing dependencies in Java multithreading with jdeps
+Analyzing dependencies in Java security with Java jdeps
+Analyzing dependencies in Java logging with jdeps
+Analyzing dependencies in Java annotations with Java jdeps
+Analyzing dependencies in Java exceptions with jdeps
+Analyzing dependencies in Java generics with Java jdeps
+Analyzing dependencies in Java collections with jdeps
+Analyzing dependencies in Java streams with Java jdeps
+Analyzing dependencies in Java lambda expressions with jdeps
+Analyzing dependencies in Java date and time with Java jdeps
+Analyzing dependencies in Java regular expressions with jdeps
+Analyzing dependencies in Java filesystem operations with Java jdeps
+Analyzing dependencies in Java concurrency utilities with jdeps
+Analyzing dependencies in Java IO operations with Java jdeps
+Analyzing dependencies in Java GUI applications with jdeps
+Analyzing dependencies in Java Swing applications with Java jdeps
+Analyzing dependencies in JavaFX applications with jdeps
+Analyzing dependencies in Java AWT applications with Java jdeps
+Analyzing dependencies in Java XML processing with jdeps
+Analyzing dependencies in Java JSON processing with Java jdeps
+Analyzing dependencies in Java serialization with jdeps
+Analyzing dependencies in Java Native Interface (JNI) with Java jdeps
+Analyzing dependencies in Java Database Connectivity (JDBC) with jdeps
+Analyzing dependencies in Java Server Pages (JSP) with Java jdeps

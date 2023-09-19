@@ -1,0 +1,100 @@
+Basics of Java Apache Shiro
+Installing Java Apache Shiro
+Introduction to security frameworks
+Understanding authentication in Java Apache Shiro
+Configuring realms in Java Apache Shiro
+Role-based access control in Java Apache Shiro
+Managing authorization in Java Apache Shiro
+Enabling session management with Java Apache Shiro
+Implementing password hashing with Java Apache Shiro
+Using cryptographic operations in Java Apache Shiro
+Implementing Remember Me in Java Apache Shiro
+Configuring multi-factor authentication in Java Apache Shiro
+Implementing OAuth 2.0 authentication with Java Apache Shiro
+Integrating Java Apache Shiro with Spring Framework
+Implementing custom authentication and authorization in Java Apache Shiro
+Enforcing security constraints with Java Apache Shiro
+Using annotations for securing methods and classes in Java Apache Shiro
+Implementing LDAP authentication in Java Apache Shiro
+Using JWT tokens with Java Apache Shiro
+Implementing single sign-on (SSO) with Java Apache Shiro
+Using Apache Cassandra as a data store for Java Apache Shiro
+Implementing two-factor authentication with Java Apache Shiro
+Implementing captcha validation in Java Apache Shiro
+Configuring session idle timeout with Java Apache Shiro
+Implementing logout functionality with Java Apache Shiro
+Restricting access to specific IP addresses with Java Apache Shiro
+Encrypting sensitive data with Java Apache Shiro
+Implementing password strength validation with Java Apache Shiro
+Handling CSRF attacks with Java Apache Shiro
+Configuring session persistence with Java Apache Shiro
+Implementing secure password reset functionality with Java Apache Shiro
+Securing RESTful APIs with Java Apache Shiro
+Implementing multi-tenancy security with Java Apache Shiro
+Using Java Apache Shiro in a microservices architecture
+Implementing fine-grained access control with Java Apache Shiro
+Configuring cache management with Java Apache Shiro
+Implementing cross-domain authentication with Java Apache Shiro
+Threat modeling and security considerations with Java Apache Shiro
+Implementing brute force protection with Java Apache Shiro
+Integrating Java Apache Shiro with Hibernate ORM
+Implementing secure password storage with Java Apache Shiro
+Implementing password policy enforcement with Java Apache Shiro
+Configuring multi-threading with Java Apache Shiro
+Implementing role-based dynamic permissions with Java Apache Shiro
+Using Spring Boot with Java Apache Shiro
+Implementing session clustering with Java Apache Shiro
+Integrating Java Apache Shiro with AngularJS
+Implementing secure file uploads with Java Apache Shiro
+Using OAuth 2.0 for authorization with Java Apache Shiro
+Implementing secure cookie handling with Java Apache Shiro
+Configuring secure communication with Java Apache Shiro
+Integrating Java Apache Shiro with Apache Struts
+Implementing password encryption and decryption with Java Apache Shiro
+Handling concurrent sessions with Java Apache Shiro
+Implementing social login with Java Apache Shiro
+Configuring authentication caching with Java Apache Shiro
+Implementing secure form input handling with Java Apache Shiro
+Using Java Apache Shiro with Spring Security
+Implementing secure file downloads with Java Apache Shiro
+Auditing and logging in Java Apache Shiro
+Implementing secure RESTful communication with Java Apache Shiro
+Configuring password expiration with Java Apache Shiro
+Integrating Java Apache Shiro with Apache Tomcat
+Implementing secure error handling with Java Apache Shiro
+Using Java Apache Shiro with Java Server Faces (JSF)
+Implementing secure session management with Java Apache Shiro
+Configuring secure password recovery with Java Apache Shiro
+Implementing secure object serialization with Java Apache Shiro
+Using Java Apache Shiro in a cloud-native environment
+Implementing secure file system access with Java Apache Shiro
+Configuring secure cookie handling with Java Apache Shiro
+Integrating Java Apache Shiro with Apache Wicket
+Implementing secure data validation with Java Apache Shiro
+Handling cross-site scripting (XSS) attacks with Java Apache Shiro
+Implementing secure RESTful communication with Java Apache Shiro
+Configuring brute force protection with Java Apache Shiro
+Integrating Java Apache Shiro with Java Servlet API
+Implementing secure database access with Java Apache Shiro
+Using Java Apache Shiro with Apache Camel
+Implementing secure file encryption with Java Apache Shiro
+Configuring secure CORS (Cross-Origin Resource Sharing) with Java Apache Shiro
+Integrating Java Apache Shiro with Apache Maven
+Implementing secure user session tracking with Java Apache Shiro
+Using Java Apache Shiro with Apache JSP
+Implementing secure RESTful APIs with Java Apache Shiro
+Configuring secure JWT token handling with Java Apache Shiro
+Integrating Java Apache Shiro with Apache CXF
+Implementing secure data masking with Java Apache Shiro
+Handling session fixation attacks with Java Apache Shiro
+Implementing secure form validation with Java Apache Shiro
+Configuring secure protocol support with Java Apache Shiro
+Integrating Java Apache Shiro with Apache ActiveMQ
+Implementing secure file deletion with Java Apache Shiro
+Using Java Apache Shiro with Apache Axis
+Implementing secure request parameter handling with Java Apache Shiro
+Configuring secure remember me functionality with Java Apache Shiro
+Integrating Java Apache Shiro with Apache Kafka
+Implementing secure email communication with Java Apache Shiro
+Using Java Apache Shiro with Apache Jersey
+Implementing secure password policy enforcement with Java Apache Shiro

@@ -1,0 +1,100 @@
+Introduction to LinkedList in Java
+Differences between ArrayList and LinkedList in Java
+Advantages of using LinkedList in Java
+Disadvantages of using LinkedList in Java
+Inserting elements at the beginning of a LinkedList in Java
+Inserting elements at the end of a LinkedList in Java
+Inserting elements at a specific position in a LinkedList in Java
+Deleting elements from the beginning of a LinkedList in Java
+Deleting elements from the end of a LinkedList in Java
+Deleting elements at a specific position in a LinkedList in Java
+Searching for elements in a LinkedList in Java
+Reversing a LinkedList in Java
+Getting the size of a LinkedList in Java
+Checking if a LinkedList is empty in Java
+Converting a LinkedList to an Array in Java
+Iterating over a LinkedList in Java using an iterator
+Iterating over a LinkedList in Java using a for loop
+Finding the last occurrence of an element in a LinkedList in Java
+Removing duplicates from a LinkedList in Java
+Sorting a LinkedList in Java
+Merging two LinkedLists in Java
+Creating a custom LinkedList class in Java
+Implementing a queue using LinkedList in Java
+Implementing a stack using LinkedList in Java
+Implementing a circular LinkedList in Java
+Removing all elements from a LinkedList in Java
+Checking if two LinkedLists are equal in Java
+Clone a LinkedList in Java
+Getting the first element in a LinkedList in Java
+Getting the last element in a LinkedList in Java
+Checking if an element exists in a LinkedList in Java
+Adding all elements of another collection to a LinkedList in Java
+Creating a deep copy of a LinkedList in Java
+Getting a sublist from a LinkedList in Java
+Shuffling a LinkedList in Java
+Swapping elements at different positions in a LinkedList in Java
+Checking if a LinkedList contains a specific range of elements in Java
+Getting the nth element from the end of a LinkedList in Java
+Replacing an element in a LinkedList with another element in Java
+Mapping elements of a LinkedList to another list in Java
+Implementing a LinkedHashSet using LinkedList in Java
+Implementing a LinkedHashMap using LinkedList in Java
+Implementing a doubly linked list in Java
+Implementing a circular doubly linked list in Java
+Getting the middle element of a LinkedList in Java
+Getting the frequency of an element in a LinkedList in Java
+Getting a stream of elements from a LinkedList in Java
+Using LinkedList as a queue in Java
+Using LinkedList as a stack in Java
+Using LinkedList as a deque in Java
+Checking if a LinkedList is a palindrome in Java
+Getting the element at a specific index in a LinkedList in Java
+Removing the first occurrence of an element in a LinkedList in Java
+Removing the last occurrence of an element in a LinkedList in Java
+Joining two LinkedLists in Java
+Checking if a LinkedList is sorted in Java
+Union of two LinkedLists in Java
+Intersection of two LinkedLists in Java
+Removing elements satisfying a condition from a LinkedList in Java
+Getting the next element in a LinkedList in Java
+Getting the previous element in a LinkedList in Java
+Getting the index of an element in a LinkedList in Java
+Getting the maximum element in a LinkedList in Java
+Getting the minimum element in a LinkedList in Java
+Rotating a LinkedList in Java
+Getting a random element from a LinkedList in Java
+Getting the frequency count of all elements in a LinkedList in Java
+Replacing all occurrences of an element in a LinkedList in Java
+Filtering a LinkedList to remove certain elements in Java
+Reversing the order of elements in a LinkedList in Java
+Finding the largest and smallest elements in a LinkedList in Java
+Creating a LinkedList from an array in Java
+Sorting a LinkedList without using the Collections.sort() method in Java
+Checking if two LinkedLists have any common elements in Java
+Getting the sum of all elements in a LinkedList in Java
+Getting the average of all elements in a LinkedList in Java
+Removing all occurrences of an element from a LinkedList in Java
+Getting the maximum and minimum values in a LinkedList in Java
+Removing duplicate elements and preserving the order in a LinkedList in Java
+Deleting elements from a LinkedList using a given condition in Java
+Checking if all elements in a LinkedList satisfy a given condition in Java
+Inserting elements into a sorted LinkedList in Java
+Sorting a LinkedList using a custom comparator in Java
+Checking if a LinkedList is a subset of another LinkedList in Java
+Creating a LinkedList from a set of elements in Java
+Checking if a LinkedList is a superset of another LinkedList in Java
+Deleting multiple elements from a LinkedList in Java
+Swapping values of two elements in a LinkedList in Java
+Finding the longest consecutive sequence in a LinkedList in Java
+Finding the second largest element in a LinkedList in Java
+Creating a LinkedList with unique elements from another LinkedList in Java
+Determining the overlap of two LinkedLists in Java
+Removing elements from a LinkedList in Java while iterating
+Counting the number of null elements in a LinkedList in Java
+Finding the number of elements less than a given value in a LinkedList in Java
+Moving the last element to the front of a LinkedList in Java
+Implementing a priority queue using LinkedList in Java
+Creating a LinkedList from a LinkedList and an ArrayList in Java
+Joining multiple LinkedLists in Java
+Reversing alternate groups of k nodes in a LinkedList in Java

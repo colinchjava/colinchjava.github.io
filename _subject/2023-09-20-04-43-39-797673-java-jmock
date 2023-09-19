@@ -1,0 +1,100 @@
+Introduction to Java JMock framework.
+Differences between JMock and other mocking frameworks in Java.
+Setting up JMock in a Java project.
+Writing your first JMock test case.
+Mocking objects and methods using JMock.
+Understanding JMock expectations and matchers.
+Verifying method calls with JMock.
+Configuring JMock expectations for different scenarios.
+Creating dynamic mock objects with JMock.
+Working with JMock annotations.
+Using JMock to test exception handling.
+Mocking static methods with JMock.
+Mocking private methods with JMock.
+Using JMock for dependency injection in unit tests.
+Writing data-driven tests with JMock.
+Using JMock in test-driven development (TDD).
+Integrating JMock with other testing frameworks (JUnit, TestNG).
+Mocking database interactions with JMock.
+Mocking web service responses with JMock.
+Testing multi-threaded code with JMock.
+Using JMock to test concurrent algorithms and data structures.
+Mocking external dependencies with JMock.
+Testing asynchronous code with JMock.
+Working with JMock's stubbing features.
+JMock's support for parameterized tests.
+Using JMock's built-in assertions.
+Combining JMock with code coverage tools.
+Mocking network interactions with JMock.
+Testing distributed systems with JMock.
+JMock's support for testing APIs and libraries.
+Mocking file I/O operations with JMock.
+JMock support for testing GUI applications.
+Using JMock for performance testing and benchmarking.
+Mocking time and date related operations with JMock.
+JMock's support for testing security features.
+Using JMock for fault injection testing.
+Mocking database transactions with JMock.
+Testing caching mechanisms with JMock.
+Writing parameterized JMock tests.
+JMock support for testing Spring Framework components.
+Mocking HTTP requests and responses with JMock.
+JMock support for testing RESTful APIs.
+Working with JMock's built-in test doubles (Dummy, Fake, Spy).
+Using JMock for testing event-driven architectures.
+Mocking external APIs and services with JMock.
+JMock support for testing message queues and pub/sub systems.
+Testing logging and error handling with JMock.
+Using JMock in legacy codebases.
+Mocking database migrations with JMock.
+JMock's support for testing multi-module projects.
+Mocking time-based events with JMock.
+Using JMock for testing machine learning models.
+JMock support for testing microservices.
+Mocking hardware interactions with JMock.
+Testing data validation and error handling with JMock.
+Using JMock for testing streaming data pipelines.
+JMock support for testing IoT applications.
+Mocking AI and ML model predictions with JMock.
+Testing real-time systems with JMock.
+JMock support for testing blockchain applications.
+Mocking data encryption and decryption with JMock.
+Using JMock for testing distributed caching systems.
+JMock support for testing chatbots and virtual assistants.
+Mocking user interactions and inputs with JMock.
+Testing machine vision and image processing algorithms with JMock.
+JMock support for testing voice recognition systems.
+Mocking audio and video streaming with JMock.
+Using JMock for testing embedded systems.
+JMock support for testing cloud-based applications.
+Mocking cloud service responses with JMock.
+Testing performance and scalability with JMock.
+Using JMock for testing augmented reality applications.
+JMock support for testing virtual reality experiences.
+Mocking sensor data with JMock.
+Testing self-driving car systems with JMock.
+JMock support for testing robotics applications.
+Mocking biometric inputs with JMock.
+Using JMock for testing natural language processing systems.
+JMock support for testing recommendation engines.
+Mocking machine learning training and evaluation with JMock.
+Testing game mechanics and AI with JMock.
+Using JMock for test-driven development of game features.
+JMock support for testing game physics simulations.
+Mocking game network interactions with JMock.
+Testing game balance and progression with JMock.
+Using JMock for testing game audio and visuals.
+JMock support for testing game user interfaces.
+Mocking game input devices with JMock.
+Testing game save and loading systems with JMock.
+JMock support for testing game localization.
+Mocking game monetization features with JMock.
+Using JMock for testing game accessibility.
+JMock support for testing game analytics and telemetry.
+Mocking game AI opponents with JMock.
+Testing game multiplayer functionality with JMock.
+Using JMock for testing game asset management.
+JMock support for testing game storytelling and narratives.
+Mocking game leaderboards and achievements with JMock.
+Testing game compatibility and platform support with JMock.
+Using JMock for testing game updates and patches.

@@ -1,0 +1,100 @@
+Introduction to Java Spring Boot JPA
+Setting up a Java Spring Boot JPA project
+Spring Boot vs. Java EE for JPA
+An overview of JPA (Java Persistence API)
+Advantages of using JPA in Spring Boot
+Understanding entity classes in JPA
+Mapping database tables to JPA entities
+Configuring JPA in Spring Boot application
+CRUD operations with JPA in Spring Boot
+Using JPA repositories in Spring Boot
+Querying with JPA using JPQL (Java Persistence Query Language)
+Using JPA criteria queries in Spring Boot
+Implementing pagination and sorting with JPA in Spring Boot
+Handling associations in JPA entities
+One-to-one relationship mapping with JPA in Spring Boot
+One-to-many relationship mapping with JPA in Spring Boot
+Many-to-one relationship mapping with JPA in Spring Boot
+Many-to-many relationship mapping with JPA in Spring Boot
+Lazy loading vs. eager loading in JPA associations
+Cascading operations in JPA relationships
+Transaction management in JPA with Spring Boot
+Using JPA inheritance strategies in Spring Boot
+Working with embedded objects in JPA entities
+Auditing entities with JPA in Spring Boot
+Validating JPA entities in Spring Boot
+Handling optimistic locking with JPA in Spring Boot
+Spring Data JPA vs. Native JPA in Spring Boot
+Using custom SQL statements with JPA in Spring Boot
+Auditing using JPA event listeners in Spring Boot
+Implementing auditing with Spring Data JPA in Spring Boot
+Using JPA with multiple data sources in Spring Boot
+JPA caching in Spring Boot applications
+Performance tuning JPA queries in Spring Boot
+Testing JPA repositories in Spring Boot applications
+Migrating an existing Java Spring project to Spring Boot JPA
+Generating database schema from JPA entities in Spring Boot
+Using JPA named queries in Spring Boot
+Handling database constraints with JPA in Spring Boot
+Using JPA with different database vendors in Spring Boot
+Auditing changes with JPA entity listeners in Spring Boot
+Securing JPA repositories in Spring Boot
+Using JPA with NoSQL databases in Spring Boot
+Optimizing JPA performance in Spring Boot applications
+Handling optimistic locking conflicts in JPA with Spring Boot
+Customizing JPA entity mappings in Spring Boot
+Using JPA specifications for dynamic queries in Spring Boot
+Implementing a generic repository with JPA in Spring Boot
+Using JPA with Spring Data Rest in Spring Boot
+Integration testing JPA repositories in Spring Boot
+Implementing soft deletes with JPA in Spring Boot
+Handling schema updates with JPA and Liquibase in Spring Boot
+Using composite keys in JPA entities with Spring Boot
+Implementing event listeners with JPA in Spring Boot
+Using JPA projections in Spring Boot
+Implementing batch processing with JPA in Spring Boot
+Handling concurrency issues with JPA in Spring Boot
+Synchronizing two JPA entities in Spring Boot
+Using Spring Data JPA specifications in Spring Boot
+Using JPA with Elasticsearch in Spring Boot
+Implementing event sourcing with JPA in Spring Boot
+Using JPA with GraphQL in Spring Boot applications
+Implementing custom validation with JPA in Spring Boot
+Working with multi-tenancy in JPA with Spring Boot
+Using JPA event listeners for auditing in Spring Boot
+Integrating JPA with message brokers in Spring Boot
+Implementing soft deletes with JPA and Hibernate in Spring Boot
+Using JPA with Apache Kafka in Spring Boot applications
+Scheduling JPA tasks with Spring Boot
+Implementing full-text search with JPA and Hibernate Search in Spring Boot
+Handling parallel processing with JPA in Spring Boot
+Implementing JPA caching with Redis in Spring Boot
+Using JPA with Apache Solr in Spring Boot applications
+Securing JPA entities with Spring Security in Spring Boot
+Implementing a data access layer with JPA and Spring Boot
+Using JPA with Apache Cassandra in Spring Boot applications
+Implementing JPA pagination with Spring Boot
+Handling error conditions with JPA in Spring Boot
+Using JPA with Apache Spark in Spring Boot applications
+Implementing JPA query hints with Spring Boot
+Handling composite primary keys with JPA in Spring Boot
+Using JPA with Apache Hadoop in Spring Boot applications
+Implementing JPA optimistic locking with Redis in Spring Boot
+Handling transactions with JPA in Spring Boot
+Using JPA with Apache Hive in Spring Boot applications
+Implementing JPA auditing with Redis in Spring Boot
+Hierarchical data modeling with JPA and Spring Boot
+Using JPA with Apache Flink in Spring Boot applications
+Implementing JPA projections with Spring Boot
+Working with database views in JPA with Spring Boot
+Using JPA with Apache Beam in Spring Boot applications
+Implementing JPA pessimistic locking with Spring Boot
+Advanced query optimization with JPA and Spring Boot
+Using JPA with Apache NiFi in Spring Boot applications
+Implementing JPA optimistic concurrency control with Spring Boot
+Data migration with Flyway and JPA in Spring Boot
+Using JPA with Apache Zeppelin in Spring Boot applications
+Implementing JPA dynamic query generation with Spring Boot
+Stream processing with JPA and Spring Boot
+Using JPA with Apache Druid in Spring Boot applications
+Implementing JPA auditing event sourcing with Spring Boot

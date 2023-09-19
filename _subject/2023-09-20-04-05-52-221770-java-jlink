@@ -1,0 +1,100 @@
+Introduction to Java Jlink
+Benefits of using Java Jlink
+How to install Java Jlink
+Basic command line options in Java Jlink
+Java Jlink vs. Java Jar
+Creating modular runtime images using Java Jlink
+Using Java Jlink with application modules
+Customizing the runtime image with Java Jlink
+How to include necessary dependencies with Java Jlink
+Deploying Java applications using Java Jlink
+Monitoring and troubleshooting Java Jlink runtime images
+Building optimized Java Jlink runtime images
+Java Jlink in the context of Java Platform Module System (JPMS)
+Java Jlink and Java 9 modules
+Cross-platform deployment with Java Jlink
+Using Java Jlink with different build tools (e.g., Maven, Gradle)
+Java Jlink and classpath vs. module path
+Configuring Java Jlink for different target platforms (e.g., Windows, Linux)
+Dynamic modules and Java Jlink
+Java Jlink for Java microservices
+Securing Java Jlink runtime images
+Updating Java Jlink runtime images
+Java Jlink for embedded systems
+Java Jlink for containerized applications
+Java Jlink for cloud-native applications
+Java Jlink for desktop applications
+Java Jlink for mobile applications
+Java Jlink for web applications
+Java Jlink and resource management
+Java Jlink for optimizing startup time
+Java Jlink for reducing memory footprint
+Java Jlink for efficient application distribution
+Java Jlink for improving application security
+Java Jlink for isolating application dependencies
+Java Jlink for managing application upgrades
+Java Jlink for modularizing legacy Java applications
+Java Jlink for code obfuscation
+Java Jlink for code size optimization
+Java Jlink for reducing build time
+Java Jlink for creating lightweight Java runtimes
+Java Jlink for AOT (Ahead-of-Time) compilation
+Java Jlink for native image generation
+Java Jlink for cross-compiling Java applications
+Java Jlink for optimizing resource usage
+Java Jlink for improving application performance
+Java Jlink for reducing dependency conflicts
+Java Jlink for faster application deployment
+Java Jlink for creating personalized Java runtimes
+Java Jlink for creating self-contained Java applications
+Java Jlink for creating executable Java binaries
+Java Jlink for creating Java modules
+Java Jlink for creating distributable Java packages
+Java Jlink for creating Java libraries
+Java Jlink for creating Java frameworks
+Java Jlink for creating Java plugins
+Java Jlink for creating Java APIs
+Java Jlink for creating Java SDKs
+Java Jlink for creating Java toolchains
+Java Jlink for creating Java applications with reduced dependencies
+Java Jlink for optimizing class loading
+Java Jlink for reducing startup overhead
+Java Jlink for modularizing third-party libraries
+Java Jlink for optimizing resource loading
+Java Jlink for managing classpath issues
+Java Jlink for minimizing application footprint
+Java Jlink for reducing application complexity
+Java Jlink for improving application scalability
+Java Jlink for simplifying deployment process
+Java Jlink for faster application startup
+Java Jlink for creating reproducible Java builds
+Java Jlink for managing Java framework dependencies
+Java Jlink for creating command-line Java tools
+Java Jlink for creating JavaFX applications
+Java Jlink for creating Swing applications
+Java Jlink for creating Java web services
+Java Jlink for creating Java RESTful APIs
+Java Jlink for creating Java microframeworks
+Java Jlink for creating Java server applications
+Java Jlink for creating Java desktop utilities
+Java Jlink for creating Java command-line interfaces
+Java Jlink for creating Java batch processing applications
+Java Jlink for creating Java multithreaded applications
+Java Jlink for creating Java socket-based applications
+Java Jlink for creating Java database applications
+Java Jlink for creating Java messaging applications
+Java Jlink for creating Java web crawlers
+Java Jlink for creating Java image processing applications
+Java Jlink for creating Java artificial intelligence applications
+Java Jlink for creating Java data analytics applications
+Java Jlink for creating Java machine learning applications
+Java Jlink for creating Java game development applications
+Java Jlink for creating Java virtual reality applications
+Java Jlink for creating Java Internet of Things (IoT) applications
+Java Jlink for creating Java blockchain applications
+Java Jlink for creating Java cryptocurrency applications
+Java Jlink for creating Java chat applications
+Java Jlink for creating Java social media applications
+Java Jlink for creating Java e-commerce applications
+Java Jlink for creating Java banking applications
+Java Jlink for creating Java healthcare applications

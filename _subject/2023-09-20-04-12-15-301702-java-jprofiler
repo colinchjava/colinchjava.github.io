@@ -1,0 +1,100 @@
+Introduction to Java JProfiler
+Installation and setup of JProfiler
+Profiling techniques and methodologies using JProfiler
+Creating and running a profiling session in JProfiler
+Analyzing CPU usage with JProfiler
+Memory profiling with JProfiler
+Thread profiling in JProfiler
+Profiling SQL queries with JProfiler
+Monitoring database connections with JProfiler
+Optimizing JDBC code using JProfiler
+Profiling web applications with JProfiler
+Profiling Java EE applications using JProfiler
+Profiling Spring Framework applications with JProfiler
+Analyzing performance bottlenecks with JProfiler
+Identifying memory leaks with JProfiler
+Detecting thread contention and deadlock in JProfiler
+Monitoring JVM garbage collection with JProfiler
+Analyzing object reference graphs with JProfiler
+Analyzing CPU hotspots using JProfiler
+Optimizing method calls and code paths with JProfiler
+Analyzing memory allocations and object lifecycles with JProfiler
+Profiling Java applications in remote environments with JProfiler
+Using JProfiler in a continuous integration environment
+Analyzing thread synchronization issues with JProfiler
+Profiling multi-threaded applications with JProfiler
+Profiling performance of Java Swing applications with JProfiler
+Tracking memory usage of JavaFX applications with JProfiler
+Profiling socket and network communication in JProfiler
+Monitoring I/O operations with JProfiler
+Creating custom probes and metrics in JProfiler
+Monitoring CPU and memory usage of external processes with JProfiler
+Analyzing performance of distributed systems with JProfiler
+Profiling Java microservices with JProfiler
+Optimizing RESTful API performance with JProfiler
+Profiling and optimizing Hibernate ORM with JProfiler
+Analyzing performance of Java caching frameworks with JProfiler
+Optimizing performance of Apache Tomcat using JProfiler
+Profiling and tuning Java web services with JProfiler
+Analyzing performance of Java messaging systems with JProfiler
+Profiling performance of Java I/O operations with JProfiler
+Analyzing performance of Java threads and thread pools with JProfiler
+Optimizing performance of Java collections using JProfiler
+Profiling and optimizing Java encryption and hashing algorithms with JProfiler
+Analyzing performance of Java reflection with JProfiler
+Detecting and fixing performance issues in Java Regular Expressions with JProfiler
+Profiling and optimizing performance of Java serialization with JProfiler
+Analyzing performance of Java XML parsing and manipulation with JProfiler
+Profiling performance of JSON processing in Java with JProfiler
+Analyzing performance of Java image processing with JProfiler
+Profiling performance of Java cryptography with JProfiler
+Analyzing performance of Java compression and decompression algorithms with JProfiler
+Profiling and optimizing performance of Java networking with JProfiler
+Analyzing performance of Java file I/O operations with JProfiler
+Profiling performance of Java database connection pooling with JProfiler
+Optimizing performance of Java date and time processing with JProfiler
+Analyzing performance of Java logging frameworks with JProfiler
+Profiling and tuning performance of Java caching libraries with JProfiler
+Analyzing performance of Java web scraping with JProfiler
+Profiling and optimizing performance of Java regular expression libraries with JProfiler
+Analyzing performance of Java data processing and transformation libraries with JProfiler
+Profiling performance of Java dependency injection frameworks with JProfiler
+Analyzing performance of Java ORM frameworks with JProfiler
+Profiling and optimizing performance of Java JSON processing libraries with JProfiler
+Analyzing performance of Java XML processing libraries with JProfiler
+Profiling and optimizing performance of Java image processing libraries with JProfiler
+Analyzing performance of Java graph processing libraries with JProfiler
+Profiling and optimizing performance of Java machine learning libraries with JProfiler
+Analyzing performance of Java natural language processing libraries with JProfiler
+Profiling and optimizing performance of Java streaming libraries with JProfiler
+Analyzing performance of Java big data processing frameworks with JProfiler
+Profiling and optimizing performance of Java web frameworks with JProfiler
+Analyzing performance of Java testing frameworks with JProfiler
+Profiling and optimizing performance of Java build tools with JProfiler
+Analyzing performance of Java logging frameworks with JProfiler
+Profiling and optimizing performance of Java messaging libraries with JProfiler
+Analyzing performance of Java web scraping libraries with JProfiler
+Profiling and optimizing performance of Java PDF processing libraries with JProfiler
+Analyzing performance of Java networking libraries with JProfiler
+Profiling and optimizing performance of Java security libraries with JProfiler
+Analyzing performance of Java JSON-RPC libraries with JProfiler
+Profiling and optimizing performance of Java XML-RPC libraries with JProfiler
+Analyzing performance of Java SOAP libraries with JProfiler
+Profiling and optimizing performance of Java RESTful API libraries with JProfiler
+Analyzing performance of Java socket libraries with JProfiler
+Profiling and optimizing performance of Java RMI libraries with JProfiler
+Analyzing performance of Java FTP libraries with JProfiler
+Profiling and optimizing performance of Java email libraries with JProfiler
+Analyzing performance of Java messaging queue libraries with JProfiler
+Profiling and optimizing performance of Java compression libraries with JProfiler
+Analyzing performance of Java encryption libraries with JProfiler
+Profiling and optimizing performance of Java hashing libraries with JProfiler
+Analyzing performance of Java sorting and searching algorithms with JProfiler
+Profiling and optimizing performance of Java data structures with JProfiler
+Analyzing performance of Java concurrency libraries with JProfiler
+Profiling and optimizing performance of Java thread-safe collections with JProfiler
+Analyzing performance of Java concurrency patterns with JProfiler
+Profiling and optimizing performance of Java parallel programming with JProfiler
+Analyzing performance of Java distributed computing frameworks with JProfiler
+Profiling and optimizing performance of Java transaction processing with JProfiler
+Analyzing performance of Java batch processing with JProfiler

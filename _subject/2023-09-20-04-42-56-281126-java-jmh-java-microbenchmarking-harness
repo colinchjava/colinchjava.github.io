@@ -1,0 +1,100 @@
+Overview of Java JMH
+Installation and setup of JMH
+Understanding benchmarking in Java
+Key features of JMH
+Writing microbenchmarks using JMH
+Configuring parameters in JMH benchmarks
+Running JMH benchmarks
+Interpreting JMH benchmark results
+Benchmarking CPU performance with JMH
+Benchmarking memory usage with JMH
+Benchmarking method execution time with JMH
+Benchmarking concurrent code with JMH
+Profiling Java applications with JMH
+Comparing different JVM implementations with JMH
+Benchmarking Java collections with JMH
+Benchmarking different data structures with JMH
+Measuring GC (Garbage Collection) impact with JMH
+Benchmarking I/O operations with JMH
+Benchmarking network latency with JMH
+Benchmarking database query performance with JMH
+Benchmarking multi-threaded code with JMH
+Tuning JVM options for better benchmarking with JMH
+Continuous integration testing with JMH
+Creating reliable benchmarks with JMH
+Best practices for benchmarking with JMH
+Benchmarking Java streams with JMH
+Benchmarking Java lambdas with JMH
+Benchmarking Java concurrency utilities with JMH
+Benchmarking Java synchronization primitives with JMH
+Benchmarking Java thread pools with JMH
+Benchmarking Java parallel streams with JMH
+Benchmarking Java CompletableFuture with JMH
+Benchmarking Java CompletableFuture in different scenarios with JMH
+Benchmarking Java CompletableFuture performance with different thread pools using JMH
+Benchmarking Java CompletableFuture with different error handling strategies using JMH
+Benchmarking Java CompletableFuture composition with JMH
+Benchmarking Java CompletableFuture cancellation with JMH
+Benchmarking Java CompletableFuture timeouts with JMH
+Benchmarking Java CompletableFuture exception handling with JMH
+Benchmarking Java CompletableFuture chaining with JMH
+Benchmarking Java CompletableFuture asynchronous execution with JMH
+Benchmarking Java CompletableFuture thread execution with JMH
+Benchmarking Java CompletableFuture exception propagation with JMH
+Benchmarking Java CompletableFuture fanout with JMH
+Benchmarking Java CompletableFuture CompletableFuture.allOf() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.anyOf() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.delayedExecutor() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenCompose() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenCombine() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenAccept() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenApply() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.acceptEither() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.applyToEither() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.runAfterBoth() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.runAfterEither() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.completedFuture() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.failedFuture() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.isDone() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.allOf() variations with JMH
+Benchmarking Java CompletableFuture CompletableFuture.anyOf() variations with JMH
+Benchmarking Java CompletableFuture CompletableFuture.getNow() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.get() variations with JMH
+Benchmarking Java CompletableFuture CompletableFuture.join() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.complete() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.completeExceptionally() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.obtrudeValue() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.obtrudeException() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenRun() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenRunAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.whenComplete() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.whenCompleteAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.exceptionally() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.handle() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.handleAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.toCompletableFuture() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.copy() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.getNumberOfDependents() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.orTimeout() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.run() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.then() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenComposeAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenComposeAsync() with custom executor using JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenCombineAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenAcceptAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenApplyAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.acceptEitherAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.applyToEitherAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.runAfterBothAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.runAfterEitherAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenRunAsync() with custom executor using JMH
+Benchmarking Java CompletableFuture CompletableFuture.whenCompleteAsync() with custom executor using JMH
+Benchmarking Java CompletableFuture CompletableFuture.handleAsync() with custom executor using JMH
+Benchmarking Java CompletableFuture CompletableFuture.supplyAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.supplyAsync() with custom executor using JMH
+Benchmarking Java CompletableFuture CompletableFuture.runAsync() with JMH
+Benchmarking Java CompletableFuture CompletableFuture.runAsync() with custom executor using JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenComposeAsync() variations with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenCombineAsync() variations with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenAcceptAsync() variations with JMH
+Benchmarking Java CompletableFuture CompletableFuture.thenApplyAsync() variations with JMH

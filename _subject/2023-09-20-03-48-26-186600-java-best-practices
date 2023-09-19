@@ -1,0 +1,100 @@
+Code formatting and indentation
+Using meaningful variable and method names
+Proper commenting and documentation
+Avoiding magic numbers and hardcoding
+Consistent coding style and conventions
+Using exception handling appropriately
+Avoiding unnecessary code duplication
+Effective use of data structures and collections
+Modularizing code through classes and functions
+Testing code thoroughly using JUnit or other frameworks
+Using version control and branching effectively
+Proper error handling and logging
+Using appropriate access modifiers for variables and methods
+Following the Single Responsibility Principle (SRP)
+Writing maintainable and readable code
+Handling null values and avoiding NullPointerExceptions
+Properly handling file input and output
+Efficient memory management and garbage collection
+Utilizing design patterns when appropriate
+Avoiding unnecessary complexity and simplifying code
+Properly handling and validating user input
+Respecting naming conventions and package structure
+Minimizing the use of global variables
+Creating easily testable code
+Following the Open/Closed Principle (OCP)
+Properly handling time and dates
+Using object-oriented principles effectively
+Avoiding unnecessary type casting
+Using the appropriate data types for variables
+Properly handling concurrency and multi-threading
+Following the Dependency Inversion Principle (DIP)
+Properly handling exceptions and error conditions
+Following the Liskov Substitution Principle (LSP)
+Using appropriate tools and IDEs for development
+Optimizing code for performance
+Avoiding code smells and anti-patterns
+Properly handling encryption and security
+Writing modular and maintainable unit tests
+Following the Interface Segregation Principle (ISP)
+Using appropriate logging frameworks and levels
+Avoiding unnecessary casting and instanceof checks
+Properly handling input validation and sanitization
+Writing efficient loops and conditionals
+Following the Don't Repeat Yourself (DRY) principle
+Properly handling network communication
+Using appropriate data structures for performance optimization
+Avoiding deadlocks and race conditions
+Following the Law of Demeter (LoD)
+Handling logging and debugging effectively
+Writing clear and understandable error messages
+Properly handling data persistence and storage
+Using immutability and thread safety when needed
+Handling internationalization and localization
+Following the Composition Over Inheritance principle
+Handling and preventing memory leaks
+Using appropriate data validation techniques
+Properly handling and logging runtime exceptions
+Following the Principle of Least Astonishment (POLA)
+Properly handling business rules and validation
+Using appropriate algorithms and data structures
+Properly handling and validating API inputs and outputs
+Following the Separation of Concerns (SoC) principle
+Handling and logging security-related events
+Following the Single Level of Abstraction principle (SLA)
+Properly handling database connections and transactions
+Using appropriate caching techniques
+Properly validating and handling user authentication
+Following the Convention Over Configuration principle
+Handling and logging performance-related issues
+Properly handling and logging system errors and crashes
+Following the Tell, Don't Ask principle (TDA)
+Properly handling and logging database errors
+Using appropriate serialization and deserialization techniques
+Following the Rule of Three (RoT) for code duplication
+Handling and logging input/output errors
+Properly handling and logging network errors
+Using appropriate error codes and error handling mechanisms
+Following the Principle of Least Privilege (PoLP) in security
+Handling and logging timeouts and connection failures
+Properly handling and logging parsing errors
+Using appropriate data transformation and mapping techniques
+Following the Command-Query Separation principle (CQS)
+Handling and logging authentication and authorization errors
+Properly handling and logging configuration errors
+Following the Least Astonishment principle for API design
+Using appropriate data compression and decompression techniques
+Handling and logging resource allocation and management errors
+Properly handling and logging transaction errors
+Following the Interface Segregation principle for APIs
+Handling and logging permission and access control errors
+Using appropriate logging and monitoring tools
+Following the Composition and Aggregation principle for class design
+Handling and logging input validation errors
+Properly handling and logging serialization and deserialization errors
+Following the Dependency Injection principle for loose coupling
+Handling and logging database connection and query errors
+Using appropriate data validation libraries and frameworks
+Following the Open-Closed principle for extensibility
+Handling and logging external service integration errors
+Properly handling and logging thread synchronization errors

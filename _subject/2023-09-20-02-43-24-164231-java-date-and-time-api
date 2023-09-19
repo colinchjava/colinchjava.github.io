@@ -1,0 +1,100 @@
+Introduction to Java Date and Time API
+Benefits of using Java Date and Time API
+Basic concepts of date and time in Java
+Creating a date using LocalDate class
+Creating a time using LocalTime class
+Creating a date and time using LocalDateTime class
+Parsing and formatting dates using DateTimeFormatter
+Manipulating dates and times using ChronoUnit
+Getting the current date and time using Clock class
+Comparing dates and times using compareTo method
+Checking if a date is before or after another using isBefore and isAfter methods
+Calculating the difference between two dates using Duration class
+Calculating the difference between two times using Period class
+Converting between date formats using DateTimeFormatter
+Formatting dates for display using DateTimeFormatter
+Parsing dates from strings using DateTimeFormatter
+Working with time zones using ZoneId class
+Converting dates and times between time zones
+Obtaining the current time in a specific time zone
+Converting between LocalDateTime and ZonedDateTime
+Adjusting dates and times using TemporalAdjusters
+Adding or subtracting a period of time to a date using TemporalAmount
+Working with different calendar systems using Chronology class
+Handling leap years using Year class
+Checking for daylight saving time using DaylightSavingTime class
+Formatting and parsing dates with localized information using Locale
+Getting the week number of a date using WeekFields class
+Calculating the number of days between two dates
+Calculating the number of weeks between two dates
+Calculating the number of months between two dates
+Calculating the number of years between two dates
+Setting the time on a date using LocalTime.of methods
+Setting the date on a time using LocalDate.of methods
+Calculating the difference between two dates in weeks
+Calculating the difference between two dates in months
+Calculating the difference between two dates in years
+Calculating the difference between two times in milliseconds
+Calculating the difference between two times in seconds
+Calculating the difference between two times in minutes
+Calculating the difference between two times in hours
+Formatting dates and times for database storage
+Parsing dates and times from database queries
+Converting between java.util.Date and java.time.LocalDateTime
+Converting between java.util.Calendar and java.time.LocalDateTime
+Converting between java.util.GregorianCalendar and java.time.LocalDateTime
+Converting between java.sql.Date and java.time.LocalDate
+Converting between java.sql.Time and java.time.LocalTime
+Converting between java.sql.Timestamp and java.time.LocalDateTime
+Representing date intervals using java.time.Period
+Representing time intervals using java.time.Duration
+Handling date and time arithmetic using java.time.temporal.Temporal
+Handling time zones in date and time calculations
+Enumerating available time zones using java.time.ZoneId
+Obtaining the time zone offset from UTC
+Obtaining the current time zone using java.time.ZoneId
+Handling daylight saving time transitions using java.time.zone.ZoneRules
+Adjusting dates and times to different time zones
+Taking into account daylight saving time when calculating date and time differences
+Handling recurring events using recurring date patterns
+Calculating the number of days in a month using java.time.YearMonth
+Calculating the number of days in a year using java.time.Year
+Formatting dates and times for specific locales
+Parsing dates and times from strings with specific locales
+Working with different calendar systems using java.time.Chronology
+Calculating the number of days between two dates using specific calendar systems
+Converting between different calendar systems using java.time.chrono.ChronoLocalDate
+Handling Hijri calendar dates using java.time.chrono.HijrahDate
+Handling Japanese calendar dates using java.time.chrono.JapaneseDate
+Handling Minguo calendar dates using java.time.chrono.MinguoDate
+Handling Thai Buddhist calendar dates using java.time.chrono.ThaiBuddhistDate
+Setting the time on a date in specific calendar systems
+Setting the date in specific calendar systems
+Calculating the difference between two dates in specific calendar systems
+Formatting dates and times in different time zones
+Parsing dates and times from strings in different time zones
+Handling different time zones in date and time calculations
+Enumerating available time zones in specific countries using java.time.ZoneId
+Obtaining the current time zone based on the user's location
+Handling daylight saving time transitions in specific time zones
+Adjusting dates and times to different time zones in specific countries
+Handling recurring events in specific time zones
+Calculating the number of days in a month in specific time zones
+Calculating the number of days in a year in specific time zones
+Formatting dates and times for specific locales and time zones
+Parsing dates and times from strings with specific locales and time zones
+Working with different calendar systems in specific time zones
+Calculating the number of days between two dates in specific time zones
+Converting between different calendar systems in specific time zones
+Handling specific calendar systems and time zones in date and time calculations
+Handling Hijri calendar dates in specific time zones
+Handling Japanese calendar dates in specific time zones
+Handling Minguo calendar dates in specific time zones
+Handling Thai Buddhist calendar dates in specific time zones
+Setting the time on a date in specific calendar systems and time zones
+Setting the date in specific calendar systems and time zones
+Calculating the difference between two dates in specific calendar systems and time zones
+Formatting dates and times in different calendar systems and time zones
+Parsing dates and times from strings in different calendar systems and time zones
+Displaying date and time information in different formats and time zones
+Handling different date and time scenarios using Java Date and Time API

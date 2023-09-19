@@ -1,0 +1,100 @@
+Introduction to Java StringBuilder
+Advantages of using StringBuilder in Java
+Usage and syntax of StringBuilder
+Creating a StringBuilder object in Java
+Appending strings with StringBuilder
+Inserting strings with StringBuilder
+Deleting characters with StringBuilder
+Replacing characters with StringBuilder
+Retrieving the length of a StringBuilder object
+Checking if a StringBuilder is empty
+Converting a StringBuilder to a string in Java
+Comparing two StringBuilder objects in Java
+Concatenating strings using StringBuilder
+Performing reverse operation with StringBuilder
+Appending special characters with StringBuilder
+Using StringBuilder for URL building operations
+Differences between StringBuilder and StringBuffer in Java
+Performance comparison of StringBuilder and String concatenation
+Converting numbers to strings using StringBuilder
+Checking if a substring exists in a StringBuilder
+Removing duplicate characters in a StringBuilder
+Trimming whitespace from a StringBuilder
+Converting StringBuilder to uppercase or lowercase
+Converting StringBuilder to a character array
+Deleting words from a StringBuilder
+Reversing words in a StringBuilder
+Converting StringBuilder to a byte array
+Reversing the order of elements in a StringBuilder
+Counting occurrences of a character in a StringBuilder
+Finding the index of a substring in a StringBuilder
+Replacing multiple occurrences of a character in a StringBuilder
+Pasting text from one StringBuilder to another
+Converting StringBuilder to a hex string
+Removing leading zeros from a StringBuilder
+Converting a StringBuilder to a list of substrings
+Reordering characters in a StringBuilder alphabetically
+Extracting numbers from a StringBuilder
+Reversing the order of lines in a StringBuilder
+Converting a StringBuilder to a formatted string
+Removing duplicate lines from a StringBuilder
+Repeating a StringBuilder N times
+Splitting a StringBuilder into multiple substrings
+Converting a StringBuilder to a decimal number
+Checking if a StringBuilder ends with a specific substring
+Converting a StringBuilder to a binary string
+Inserting a string at a specific position in a StringBuilder
+Checking if a StringBuilder starts with a specific substring
+Replacing all occurrences of a substring in a StringBuilder
+Wrapping a StringBuilder to a fixed length
+Reversing the case (upper to lower and vice versa) in a StringBuilder
+Extracting email addresses from a StringBuilder
+Swapping characters in a StringBuilder at specific positions
+Generating a random string using StringBuilder
+Reading a StringBuilder from a file
+Converting a StringBuilder to an integer
+Converting a StringBuilder to a float
+Removing punctuation marks from a StringBuilder
+Extracting URLs from a StringBuilder
+Capitalizing the first letter of each word in a StringBuilder
+Converting a StringBuilder to a boolean
+Extracting dates from a StringBuilder
+Encrypting a StringBuilder using a specific algorithm
+Generating a random password using StringBuilder
+Finding the longest word in a StringBuilder
+Counting the number of words in a StringBuilder
+Sorting words in a StringBuilder alphabetically
+Extracting domain names from a StringBuilder
+Counting the number of lines in a StringBuilder
+Removing HTML tags from a StringBuilder
+Extracting file extensions from a StringBuilder
+Removing whitespace from a StringBuilder
+Replacing non-alphanumeric characters in a StringBuilder
+Extracting phone numbers from a StringBuilder
+Removing duplicate words from a StringBuilder
+Extracting hashtags from a StringBuilder
+Generating anagrams of a StringBuilder
+Counting the number of vowels in a StringBuilder
+Extracting usernames from a StringBuilder
+Removing empty lines from a StringBuilder
+Replacing accented characters in a StringBuilder
+Extracting unique words from a StringBuilder
+Generating random sentences using StringBuilder
+Extracting special characters from a StringBuilder
+Reversing words in a sentence using StringBuilder
+Removing specific words from a StringBuilder
+Extracting mentions from a StringBuilder
+Converting a StringBuilder to a long integer
+Extracting emoticons from a StringBuilder
+Replacing newlines with spaces in a StringBuilder
+Removing duplicate characters in a specific sequence from a StringBuilder
+Extracting hashtags and mentions from a StringBuilder
+Replacing specific words with synonyms in a StringBuilder
+Removing non-printable characters from a StringBuilder
+Extracting URLs and their titles from a StringBuilder
+Replacing specific words with capitalized versions in a StringBuilder
+Removing consecutive duplicate characters from a StringBuilder
+Extracting email addresses and domains from a StringBuilder
+Replacing words with asterisks in a StringBuilder
+Removing empty spaces between words in a StringBuilder
+Extracting currency values from a StringBuilder

@@ -1,0 +1,100 @@
+Introduction to Java HotSpot
+History of Java HotSpot
+Differences between Java HotSpot and other Java virtual machines
+Java HotSpot architecture
+Java HotSpot performance optimizations
+Features of Java HotSpot
+Heap structure in Java HotSpot
+Garbage collection in Java HotSpot
+JIT (Just-In-Time) compilation in Java HotSpot
+Java HotSpot and multi-threading
+Java HotSpot memory management
+Java HotSpot bytecode interpretation
+Java HotSpot runtime statistics
+Java HotSpot monitoring and profiling
+Java HotSpot debugging tools
+Java HotSpot memory leak detection and prevention
+Java HotSpot and class loading
+Java HotSpot and finalization process
+HotSpot Adaptive Compiler
+HotSpot C1 compiler
+HotSpot C2 compiler
+HotSpot compiler optimizations
+Java HotSpot interpreter vs. compiler
+Java HotSpot performance monitoring and tuning
+HotSpot bytecode representation
+Java HotSpot and interpreter invocations
+Java HotSpot JIT compilation thresholds
+HotSpot inlining optimizations
+HotSpot method handle mechanics
+Java HotSpot and speculative optimizations
+Java HotSpot and escape analysis
+HotSpot tiered compilation
+Java HotSpot class redefinition
+Java HotSpot and object layout optimization
+HotSpot biased locking
+Java HotSpot and memory barriers
+Garbage collection tuning in Java HotSpot
+Java HotSpot incremental mode
+HotSpot profiling and safepoints
+Java HotSpot and thread synchronization
+Java HotSpot crash handling and analysis
+HotSpot on different operating systems
+Java HotSpot and platform-specific optimizations
+Java HotSpot and off-heap memory usage
+HotSpot virtual method table
+Java HotSpot reference processing
+Java HotSpot and thread-local storage
+HotSpot on embedded systems
+Java HotSpot and metaspace management
+HotSpot contention profiling
+Java HotSpot and concurrent mark sweep (CMS) garbage collector
+Java HotSpot and parallel garbage collector
+HotSpot runtime compilation thresholds
+Java HotSpot and object serialization
+HotSpot code storage and execution
+Java HotSpot and class unloading
+HotSpot signal handling and fatal errors
+Java HotSpot and method dispatch
+Java HotSpot and bytecode verification
+HotSpot object allocation profiling
+Java HotSpot and loop optimizations
+HotSpot global optimization techniques
+Java HotSpot and stack unwinding
+HotSpot memory allocation and promotion
+Java HotSpot lock-free synchronization mechanisms
+Java HotSpot and thin locks
+HotSpot profile-guided optimization
+Java HotSpot and code cache management
+HotSpot concurrent marking
+Java HotSpot and method compilation thresholds
+HotSpot biased locking statistics
+Java HotSpot and concurrent class unloading
+Java HotSpot and asynchronous exceptions
+HotSpot heap resizing
+Java HotSpot and floating-point optimizations
+HotSpot call graph analysis
+Java HotSpot and native method invocation
+HotSpot execution modes
+Java HotSpot and method inlining thresholds
+HotSpot adaptive spin locking
+Java HotSpot speculative inlining
+Java HotSpot and dynamic class loading
+HotSpot code profiling
+Java HotSpot and performance counters
+HotSpot on heterogeneous systems
+Java HotSpot and parallel object initialization
+HotSpot tiered compilation thresholds
+Java HotSpot and array optimizations
+Java HotSpot and stack allocation
+HotSpot runtime compilation monitoring
+Java HotSpot and object finalization
+Java HotSpot and object copying
+HotSpot compilation logging
+Java HotSpot and deoptimization
+HotSpot remote monitoring and management
+Java HotSpot and class data sharing
+Java HotSpot and garbage-first garbage collector
+HotSpot escape analysis optimization statistics
+Java HotSpot and speculative inlining thresholds
+Java HotSpot and thread affinity

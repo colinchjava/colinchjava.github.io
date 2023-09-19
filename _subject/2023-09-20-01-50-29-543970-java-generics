@@ -1,0 +1,100 @@
+Introduction to Java Generics
+Why use Generics in Java?
+Type Inference in Java Generics
+Generic Classes in Java
+Generic Methods in Java
+Bounded Type Parameters in Java Generics
+Unbounded Wildcards in Java Generics
+Upper Bounded Wildcards in Java Generics
+Lower Bounded Wildcards in Java Generics
+Generic Interfaces in Java
+Type Erasure in Java Generics
+Bridge Methods in Java Generics
+Generic Enums in Java
+Wildcards vs Type Parameters in Java Generics
+Parameterized Types in Java Generics
+Raw Types in Java Generics
+Type Bounds in Java Generics
+Covariant vs Contravariant Types in Java Generics
+Recursive Generics in Java
+Nested Generics in Java
+Multiple Type Parameters in Java Generics
+Type Variables in Java Generics
+Wildcard Capture in Java Generics
+PECS (Producer Extends, Consumer Super) Principle in Java Generics
+Generic Arrays in Java
+Reflection and Java Generics
+Type Tokens in Java Generics
+The diamond operator in Java Generics
+Type Safety and Java Generics
+Type Checking and Java Generics
+Generic Collections in Java
+Generic Maps in Java
+Type Inference with Method References in Java Generics
+Type Inference with Lambda Expressions in Java Generics
+Collection Framework and Java Generics
+Java Generics and Exception Handling
+Java Generics and ClassCastException
+Java Generics and Inheritance
+Java Generics and Interfaces
+Java Generics and Method Overloading
+Java Generics and Method Overriding
+Java Generics and Varargs
+Java Generics and Covariant Return Types
+Java Generics and Covariant Arrays
+Java Generics and Enums
+Java Generics and Anonymous Inner Classes
+Java Generics and Non-Reifiable Types
+Java Generics and Covariant Generic Types
+Java Generics and Type Erasure
+Java Generics and Wildcard Types
+Java Generics and Capture Conversion
+Java Generics and Supertype Tokens
+Java Generics and Contravariant Method Parameters
+Java Generics and Type Constraints
+Java Generics and Type Checking
+Java Generics and Wildcard Usage Restrictions
+Java Generics and Bridge Methods
+Java Generics and Diamond Syntax
+Java Generics and Static Members
+Java Generics and Autoboxing
+Java Generics and Enums with Generics
+Java Generics and Inner Class Type Parameters
+Java Generics and Inherited Type Parameters
+Java Generics and Recursive Type Bounds
+Java Generics and Reifiable Types
+Java Generics and Self-Referential Types
+Java Generics and Type Compatibility
+Java Generics and Covariant Inheritance
+Java Generics and Raw Concrete Types
+Java Generics and Instanceof Operator
+Java Generics and Raw Versus Parameterized Types
+Java Generics and Multiple Bounds
+Java Generics and Nullability
+Java Generics and Unchecked Casts
+Java Generics and Functional Interfaces
+Java Generics and Return Type Covariance
+Java Generics and Non-Resolvable Type Parameters
+Java Generics and Upper Bounds
+Java Generics and Instance Creation
+Java Generics and Wildcard Capture Conversion
+Java Generics and Extending Classes
+Java Generics and Diamond Syntax in Method Calls
+Java Generics and Anonymous Subclasses
+Java Generics and Class Objects
+Java Generics and Anonymous Classes
+Java Generics and Supertypes
+Java Generics and Generic Return Types
+Java Generics and Redeclared Type Parameters
+Java Generics and Raw Supertypes
+Java Generics and Raw Wildcard Types
+Java Generics and Generic Exceptions
+Java Generics and Return Type Inference
+Java Generics and Unspecified Type Arguments
+Java Generics and Non-Reifiable Method Parameters
+Java Generics and Bridge Method Removal
+Java Generics and Class Type Variables
+Java Generics and Capturing Wildcards
+Java Generics and Comparing Generic Types
+Java Generics and Capturing with Inheritance
+Java Generics and Generic Array Creation

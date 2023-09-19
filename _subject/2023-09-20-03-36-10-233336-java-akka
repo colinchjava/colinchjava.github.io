@@ -1,0 +1,100 @@
+Introduction to Akka framework in Java
+Key features of Akka framework in Java
+Actors in Akka framework for Java
+Concurrency and parallelism in Akka framework for Java
+Message passing in Akka framework for Java
+Fault tolerance in Akka framework for Java
+Supervision and monitoring in Akka framework for Java
+Routing and load balancing in Akka framework for Java
+Event sourcing and persistence in Akka framework for Java
+Cluster and distributed computing in Akka framework for Java
+Reactive programming with Akka framework in Java
+Integration of Akka framework with Spring in Java
+Building scalable and resilient applications with Akka in Java
+Testing and debugging Akka applications in Java
+Akka Streams and Reactive Streams in Java
+Using Akka HTTP for building RESTful APIs in Java
+Akka persistence and CQRS in Java
+Event-driven architecture with Akka actors in Java
+Implementing actor-based microservices with Akka in Java
+Akka Typed and Akka Typed Persistence in Java
+Akka Clustering and Akka Sharding in Java
+Reactive Streams with Akka Streams in Java
+Akka Actor Discovery and Akka Cluster Bootstrap in Java
+Websockets and Akka HTTP integration in Java
+Akka Coordinated Shutdown and graceful termination in Java
+Using Akka Persistence Query in Java
+Akka Distributed Data and CRDTs in Java
+Akka Routing and Load balancing strategies in Java
+Distributed Pub-Sub messaging with Akka in Java
+Akka Persistence Query Patterns in Java
+Akka Stream Graphs and Complex stream processing in Java
+Akka Remoting and Remote Actors in Java
+Akka Scheduler and Timers in Java
+Akka Persistence Events and Commands in Java
+Akka Persistence Query API in Java
+Akka Streams Fault Tolerance in Java
+Akka Testing with TestKit in Java
+Akka Cluster Singleton and Cluster Tools in Java
+Akka HTTP marshalling and unmarshalling in Java
+Akka Coordinated Shutdown and graceful termination in Java
+Akka HTTP Server-Sent Events (SSE) in Java
+Akka Streams Graph Stages in Java
+Cluster Sharding and Shard Region in Akka Java
+Akka HTTP client and request handling in Java
+Akka Persistence Snapshot and Snapshotting in Java
+Distributed Publish-Subscribe pattern in Akka Java
+Akka Distributed Data Replication and Conflict resolution in Java
+Akka Cluster Split Brain Resolver in Java
+Akka.io and low-level I/O in Java
+Akka Typed and Migration Guide in Java
+Akka Stream Source and Sink in Java
+Akka Distributed Pub-Sub and Subscribing to Topics in Java
+Dealing with Java Futures in Akka applications
+Akka Serialization and Serialization bindings in Java
+Akka Cluster HTTP management routes in Java
+Akka Remoting Configuration and Secure communication in Java
+Akka HTTP request logging and metrics in Java
+Akka Streams Custom Graph Stages in Java
+Akka Stream Broadcast, Merge and Zip operators in Java
+Akka Persistence plugins and datastores in Java
+Akka Typed and Testing in Java
+Akka FSM (Finite State Machine) in Java
+Akka Patterns: Singleton Actor, FSM, Pub-Sub, etc. in Java
+Akka Typed Persistence Plugin in Java
+Using Akka Cluster Tools in Java
+Akka HTTP JSON Support in Java
+Akka Clustering: Seed Nodes and joining a cluster in Java
+Akka Stream Custom Stream processing in Java
+Akka Persistence multi-journal and multi-snapshot support in Java
+Akka Typed Cluster Sharding in Java
+Akka Typed Persistence Query in Java
+Akka Cluster Membership Events and Cluster Metrics in Java
+Akka HTTP OAuth2 authentication and authorization in Java
+Akka Typed Supervision and Fault tolerance in Java
+Akka Stream Backpressure and Rate limiting in Java
+Akka Persistence ACL and Authorization in Java
+Akka Typed and Dependency Injection in Java
+Akka Remoting and JVM Performance tuning in Java
+Akka HTTP WebSocket support and bi-directional communication in Java
+Akka HTTP File Upload and Streaming in Java
+Akka Typed and Testing with Akka TestKit in Java
+Akka Stream Window, Grouped and Sliding operators in Java
+Akka Persistence Event Sourcing and CQRS in Java
+Akka Distributed Data CRDT Replicated Data Types in Java
+Akka Typed Cluster Singleton in Java
+Akka Persistence Query with JDBC and SQL databases in Java
+Akka Reactive Streams TCK Compliance in Java
+Akka Stream Alpakka Kafka connector in Java
+Akka Distributed Pub-Sub with Kafka in Java
+Akka Typed Routing and Cluster Sharding in Java
+Akka HTTP Error handling and Exception handling in Java
+Akka Typed Actor Behavior and Lifecycle in Java
+Akka Stream custom Graph stages for data transformation in Java
+Akka Persistence Query ReactiveMongoDB Plugin in Java
+Akka Clustering and Dynamic Adaptive Systems in Java
+Akka Typed and Configuration in Java
+Akka Stream Graph DSL and Composite operators in Java
+Akka Persistence JDBC plugin in Java
+Akka Cluster Governance and Split Brain Resolver in Java
+Akka Typed and Akka Stream interoperability in Java

@@ -1,0 +1,109 @@
+Lambda expressions in Java 8
+Streams in Java 8
+Date and time API in Java 8
+Method references in Java 8
+Optional class in Java 8
+Default methods in interfaces in Java 8
+CompletableFuture in Java 8
+Functional interfaces in Java 8
+Parallel streams in Java 8
+Type inference in Java 8
+
+Java 9 module system
+Reactive streams in Java 9
+Java 9 process API improvements
+Private methods in interfaces in Java 9
+JShell (Java REPL) in Java 9
+HTTP 2 client in Java 9
+Multi-release JARs in Java 9
+Enhancements to Streams API in Java 9
+Improved garbage collection in Java 9
+Java 9 compact strings
+
+Local variable type inference in Java 10
+Application class data sharing (CDS) in Java 10
+Time-based versions for JDK releases starting from Java 10
+JVM JIT compiler interface in Java 10
+Improved container awareness in Java 10
+Experimental JIT compiler (Graal) in Java 10
+Code-based JIT compilation in Java 10
+Enhanced garbage collection in Java 10
+Consolidation of JDK repositories in Java 10
+Java application performance monitoring in Java 10
+
+Pattern matching for instanceof in Java 12
+Switch expressions in Java 12
+Compact number formatting in Java 12
+Raw String literals in Java 12
+Teeing collector in Java 12
+Preview features in Java 12
+Garbage collector improvements in Java 12
+API additions in the java.time package in Java 12
+JDK Flight Recorder (JFR) enhancements in Java 12
+Performance improvements in Java 12
+
+Records (immutable data classes) in Java 14
+Text blocks in Java 14
+Pattern matching for instanceof in Java 14
+Switch expressions (enhancements) in Java 14
+Improved null handling with NPE messages in Java 14
+Garbage collector improvements in Java 14
+Improvements in Java Flight Recorder (JFR) in Java 14
+Enhanced pattern matching in Java 14
+API additions in the java.time package in Java 14
+Performance improvements in Java 14
+
+Foreign function and memory API in Java 16
+Pattern matching for switch in Java 16
+Sealed classes in Java 16
+Vector API (Incubator) in Java 16
+Unix socket channel in Java 16
+New features in the java.time package in Java 16
+Enhanced Pseudo-Random Number Generators (PRNGs) in Java 16
+Improved garbage collector in Java 16
+Security enhancements in Java 16
+Performance improvements in Java 16
+
+Pattern matching for switch in Java 17
+Sealed classes improvements in Java 17
+Foreign function and memory API updates in Java 17
+Enhanced Pseudo-Random Number Generators (PRNGs) in Java 17
+Strong encapsulation of JDK internals in Java 17
+API enhancements in the java.time package in Java 17
+Enhanced garbage collector in Java 17
+Performance improvements in Java 17
+Security enhancements in Java 17
+Updates to preview features in Java 17
+
+Pattern matching for switch (updates) in Java 18
+Enhanced records (immutable data classes) in Java 18
+Updates to Sealed classes in Java 18
+Foreign function and memory API enhancements in Java 18
+Extended support for vector API in Java 18
+Enhanced garbage collector in Java 18
+Performance improvements in Java 18
+Security enhancements in Java 18
+API additions in the java.time package in Java 18
+Updates to preview features in Java 18
+
+Pattern matching for sealed classes in Java 20
+Enhancements to pattern matching for switch in Java 20
+Foreign function and memory API updates in Java 20
+Extended support for vector API in Java 20
+Enhanced garbage collector in Java 20
+Performance improvements in Java 20
+Security enhancements in Java 20
+Updates to the java.time package in Java 20
+API additions for modular programming in Java 20
+Updates to preview features in Java 20
+
+Pattern matching for sealed classes (updates) in Java 22
+Pattern matching for switch (further enhancements) in Java 22
+Extended support for foreign function and memory API in Java 22
+Enhanced support for vector API in Java 22
+Improved garbage collector in Java 22
+Performance improvements in Java 22
+Security enhancements in Java 22
+Updates to the java.time package in Java 22
+API additions for modular programming in Java 22
+Updates to preview features in Java 22

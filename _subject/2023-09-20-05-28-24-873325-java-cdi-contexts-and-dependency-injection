@@ -1,0 +1,100 @@
+Introduction to Java CDI
+CDI vs. other dependency injection frameworks
+Benefits of using CDI in Java applications
+Core concepts and components of CDI
+Contexts in CDI: Request, Session, Conversation
+Dependency Injection in CDI
+Qualifiers and qualifiers in CDI
+Bean scopes in CDI: Application, Singleton, Request, Session, Conversation
+Producers and Disposers in CDI
+Stereotypes in CDI
+Eventing in CDI
+Interceptors in CDI
+Decorators in CDI
+Bean Validation in CDI
+Integrating CDI with other Java EE technologies
+CDI in web applications
+CDI in desktop applications
+Testing CDI components
+CDI in microservices architecture
+Integrating CDI with RESTful services
+Managing transactions with CDI
+CDI in JavaFX applications
+CDI in Spring Boot applications
+CDI in Java Persistence API (JPA)
+CDI in Java Messaging Service (JMS)
+CDI in Java Naming and Directory Interface (JNDI)
+CDI in Java EE Security
+CDI in Java EE Concurrency
+CDI in Java EE Management
+CDI in Java EE Internationalization and Localization
+CDI in Java EE Bean Validation
+CDI in Java EE Message-Driven Beans
+CDI in Java EE WebSockets
+CDI in Java EE Batch Processing
+CDI in Java EE WebSocket
+CDI in Java EE JSON-P
+CDI in Java EE Servlets
+CDI in Java EE Security
+Developing scalable applications with CDI
+Implementing cross-cutting concerns with CDI
+CDI extension development
+Integrating CDI with Spring framework
+CDI in Java EE RESTful web services
+Integration testing CDI components
+CDI in JavaServer Faces (JSF) applications
+CDI in JavaMail applications
+CDI performance tuning techniques
+CDI integration patterns in enterprise applications
+Configuring CDI in Java EE containers
+Using CDI in modular Java applications
+CDI in Java EE caching
+CDI in web services
+Handling exceptions with CDI
+CDI in Android development
+CDI in reactive programming
+CDI in serverless architectures
+CDI in cloud-native applications
+CDI in event sourcing architectures
+CDI in CQRS (Command Query Responsibility Segregation)
+CDI in micro frontends
+CDI in event-driven architectures
+CDI in GraphQL applications
+CDI in Apache Kafka applications
+CDI in Apache Camel applications
+CDI in Spring Cloud applications
+CDI in reactive streams programming
+CDI in distributed systems
+CDI in actor model programming
+CDI in reactive web frameworks (Spring WebFlux, Vert.x, etc.)
+CDI in machine learning applications
+CDI in rule-based systems
+CDI in distributed cache systems
+CDI in composite UIs
+CDI in modular monolith development
+CDI in service mesh architectures
+CDI in Spring Cloud Data Flow applications
+CDI in Apache Nifi applications
+CDI in Apache Flink applications
+CDI in Apache Storm applications
+CDI in Apache Ignite applications
+CDI in Apache Beam applications
+CDI in Apache Pulsar applications
+CDI in Apache Spark applications
+CDI in Apache Hadoop applications
+CDI in distributed databases
+CDI in cloud-native data processing
+CDI in data streaming applications
+CDI in container orchestration platforms (Kubernetes, Docker Swarm, etc.)
+CDI in service discovery and registry systems
+CDI in distributed tracing and observability
+CDI in reactive stream processing
+CDI in audit logging and compliance
+CDI in secure coding practices
+CDI in continuous integration and deployment pipelines
+CDI in event sourcing and CQRS
+CDI in business process management systems
+CDI in data integration and ETL (Extract, Transform, Load)
+CDI in microservices security
+CDI in serverless function composition
+CDI in AI-driven applications.

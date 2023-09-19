@@ -1,0 +1,100 @@
+Introduction to Java
+History of Java language
+Java Virtual Machine (JVM) and its role
+Java programming language features
+Object-oriented programming in Java
+Data types in Java
+Variables and constants in Java
+Control flow statements in Java
+Arrays in Java
+Java exceptions and error handling
+Java classes and objects
+Inheritance and polymorphism in Java
+Interfaces in Java
+Abstraction and encapsulation in Java
+Java packages and modules
+File handling in Java
+Multithreading in Java
+Java synchronization and locks
+Java I/O streams
+Java networking and socket programming
+Java JDBC for database connectivity
+Java GUI development using Swing
+JavaFX for building desktop applications
+Java server-side programming with Servlets
+JavaServer Pages (JSP) for web development
+Java RESTful web services
+Java XML processing
+Java JSON processing
+Java regular expressions
+Java security concepts
+OWASP (Open Web Application Security Project) Introduction
+OWASP Top 10 vulnerabilities
+Cross-site scripting (XSS) attacks and prevention in Java
+SQL injection attacks and prevention in Java
+Cross-Site Request Forgery (CSRF) attacks and prevention in Java
+Input validation and output encoding in Java
+Security headers in Java applications
+Secure session management in Java
+Secure password storage and handling in Java
+File upload security in Java applications
+Secure coding practices in Java
+OWASP dependency check in Java projects
+HTML sanitization in Java
+Benefits of using HTML sanitizer in Java applications
+OWASP Java HTML Sanitizer library introduction
+Basic usage of OWASP Java HTML Sanitizer
+Configuration options in OWASP Java HTML Sanitizer
+Whitelisting and blacklisting HTML tags using OWASP Java HTML Sanitizer
+Sanitizing user-generated HTML input in Java applications
+Preventing Cross-Site Scripting (XSS) attacks with OWASP Java HTML Sanitizer
+Customizing HTML sanitizer behavior in Java
+OWASP Java HTML Sanitizer performance considerations
+Integrating OWASP Java HTML Sanitizer with existing Java frameworks
+OWASP Java HTML Sanitizer best practices
+OWASP Java HTML Sanitizer community and support
+HTML parsing and DOM manipulation in Java
+HTML templating in Java
+HTML to PDF conversion in Java
+HTML to image conversion in Java
+HTML to plain text conversion in Java
+HTML email generation in Java
+HTML reporting in Java applications
+HTML form processing in Java
+HTML scraping in Java
+HTML to Excel conversion in Java
+HTML validation in Java
+HTML/CSS beautification in Java
+HTML to Markdown conversion in Java
+HTML localization and internationalization in Java
+HTML form validation in Java
+HTML rendering in Java applications
+HTML5 support in Java
+HTML5 canvas manipulation in Java
+HTML5 audio and video playback in Java
+HTML5 drag and drop in Java
+HTML5 geolocation in Java applications
+HTML5 web storage in Java
+HTML5 offline applications in Java
+HTML5 responsive design in Java applications
+HTML5 accessibility features in Java
+HTML5 web sockets in Java applications
+HTML5 mobile app development in Java
+HTML5 game development in Java
+HTML5 data visualization in Java
+HTML5 animation in Java
+HTML5 integration with JavaFX
+HTML5 compatibility issues with Java
+HTML5 performance optimization in Java applications
+HTML5 security considerations in Java
+HTML5 frameworks and libraries for Java
+HTML5 vs JavaFX for web development
+HTML5 vs Java for mobile app development
+HTML5 vs Java for game development
+HTML5 vs native Java GUI development
+HTML5 vs Java Servlets/JSP for web development
+HTML5 vs Java RESTful web services
+HTML5 vs JavaFX for desktop application development
+HTML5 vs JavaFX for multimedia applications
+HTML5 vs Java for data processing and analytics applications
+HTML5 vs Java for IoT (Internet of Things) applications

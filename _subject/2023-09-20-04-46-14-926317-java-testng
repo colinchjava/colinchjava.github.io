@@ -1,0 +1,100 @@
+Introduction to TestNG framework in Java
+Setting up TestNG in a Java project
+Understanding TestNG annotations in Java
+Writing and executing basic TestNG test cases in Java
+Running TestNG tests using command line in Java
+Creating and using TestNG test suites in Java
+Prioritizing test methods in TestNG
+Grouping and executing tests by groups in TestNG
+Parameterizing tests in TestNG using data providers
+Data-driven testing with TestNG in Java
+Using TestNG listeners in Java
+Configuring and using TestNG dependencies in Java
+Parallel test execution in TestNG using parallel attribute
+TestNG assertions and verifications in Java
+TestNG error reporting and logging in Java
+Skipping and disabling tests in TestNG
+TestNG HTML reports generation in Java
+TestNG integration with Jenkins for continuous integration in Java
+TestNG integration with Maven in Java projects
+TestNG integration with Gradle in Java projects
+TestNG integration with Eclipse IDE for Java development
+TestNG integration with IntelliJ IDEA IDE for Java development
+Configuring TestNG listeners and reporters in Java
+TestNG listeners for taking screenshots on test failure in Java
+TestNG listeners for sending test result notifications in Java
+Using TestNG testng.xml configuration file in Java
+TestNG XML configuration options for test execution control
+TestNG XML configuration options for parallel execution control
+TestNG XML configuration options for test suite grouping and prioritization
+TestNG XML configuration options for test data parameterization
+TestNG XML configuration options for test dependencies management
+TestNG XML configuration options for test reporting and logging
+TestNG XML configuration options for test exclusion and inclusion
+TestNG XML configuration options for test timeout and retries
+TestNG XML configuration options for test parallelization strategies
+TestNG XML configuration options for test data providers and data sources
+TestNG XML configuration options for test execution listeners and reporters
+Best practices for writing effective TestNG test cases in Java
+Using TestNG annotations for setup and teardown methods in Java
+Grouping and executing test methods based on test priorities in TestNG
+Writing parameterized tests using TestNG data providers in Java
+Running TestNG tests in different browsers or platforms using testng.xml
+Configuring custom TestNG listeners for specific test scenarios in Java
+Configuring TestNG data providers for fetching test data from different sources
+Configuring TestNG test suites for executing tests in specific order
+Configuring TestNG test reports and logs for better test result analysis
+Running TestNG tests in parallel for faster test execution in Java
+Comparing TestNG with other testing frameworks in Java (JUnit, Selenium)
+Handling test failures and errors in TestNG test cases in Java
+Debugging TestNG test failures using logging and assertions in Java
+Handling test dependencies and execution order in TestNG test suites
+Implementing data-driven testing using Excel or CSV files in TestNG
+Integrating TestNG with test management tools like TestRail or Zephyr
+Configuring TestNG testNG.xml for running tests in different environments
+Using TestNG listeners for generating custom test reports in Java
+Implementing test retry logic in TestNG for flaky tests in Java
+Automating page object model (POM) framework with TestNG in Java
+Running TestNG tests on cloud-based testing platforms (Sauce Labs, BrowserStack)
+Implementing TestNG data providers for fetching data from databases in Java
+Setting up continuous integration and deployment pipelines with TestNG
+Implementing parallel test execution using testng.xml strategies in Java
+Using TestNG for API testing and validation in Java
+Implementing TestNG test case management and categorization in Java
+Configuring TestNG for running tests on different operating systems in Java
+Using TestNG factory pattern for test object creation in Java
+Handling test data generation and cleanup in TestNG test cases
+Writing TestNG tests for testing RESTful web services in Java
+Implementing TestNG test execution listeners for custom test reports in Java
+Configuring TestNG for running tests on different web browsers in Java
+Using TestNG for end-to-end testing of web applications in Java
+Writing TestNG tests for testing database interactions in Java
+Implementing TestNG testNG.xml for running tests with specific parameters
+Using TestNG for load testing and performance testing in Java
+Configuring TestNG for running tests on different mobile devices in Java
+Implementing TestNG test annotations for test case documentation in Java
+Using TestNG for regression testing and test suite management in Java
+Configuring TestNG for running tests using different data providers in Java
+Implementing TestNG test groups for selective test execution in Java
+Using TestNG for cross-browser testing and compatibility testing in Java
+Writing TestNG tests for testing GUI interactions in Java
+Implementing TestNG test listeners for report generation and analysis in Java
+Configuring TestNG for running tests on cloud-based testing platforms in Java
+Using TestNG for GUI automation testing in Java
+Writing TestNG tests for testing security vulnerabilities in Java
+Implementing TestNG testNG.xml for running tests on specific dates and times
+Configuring TestNG for running tests with specific test data parameters in Java
+Using TestNG for integration testing and system testing in Java
+Writing TestNG tests for testing asynchronous operations in Java
+Implementing TestNG test execution listeners for test environment setup in Java
+Configuring TestNG for running tests in headless browsers in Java
+Using TestNG for usability testing and accessibility testing in Java
+Writing TestNG tests for testing file operations and input/output in Java
+Implementing TestNG testNG.xml for running tests with distributed test execution
+Configuring TestNG for running tests with different JVM arguments in Java
+Using TestNG for testing microservices and web APIs in Java
+Writing TestNG tests for testing performance and scalability in Java
+Implementing TestNG testNG.xml for running tests on remote machines in Java
+Configuring TestNG for running tests with specific environment variables in Java
+Using TestNG for compatibility testing and interoperability testing in Java
+Writing TestNG tests for testing multi-threaded and concurrent applications in Java

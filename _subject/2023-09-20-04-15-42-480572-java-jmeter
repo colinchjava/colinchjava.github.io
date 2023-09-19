@@ -1,0 +1,100 @@
+Introduction to Java JMeter
+Installing Java JMeter on different operating systems
+Understanding Java JMeter components
+Creating and running test plans in Java JMeter
+Configuring Java JMeter for load testing
+Using Java JMeter for performance testing
+Analyzing and interpreting Java JMeter test results
+Implementing assertions in Java JMeter
+Using Java JMeter for distributed load testing
+Integrating Java JMeter with Jenkins for continuous integration
+Parameterization in Java JMeter tests
+Handling cookies and sessions in Java JMeter tests
+Creating variables and functions in Java JMeter
+Setting up and using Java JMeter plugins
+Using Java JMeter for API testing
+Load testing web applications with Java JMeter
+Load testing RESTful APIs with Java JMeter
+Load testing SOAP web services with Java JMeter
+Using Java JMeter for database load testing
+Load testing file uploads with Java JMeter
+Simulating user behavior with Java JMeter
+Configuring thread groups in Java JMeter
+Using timers in Java JMeter tests
+Running Java JMeter tests in non-GUI mode
+Monitoring server resources during load testing with Java JMeter
+Configuring Java JMeter for distributed testing on multiple machines
+Generating and analyzing HTML reports in Java JMeter
+Correlating dynamic parameters in Java JMeter tests
+Understanding and using Java JMeter listeners
+Using Java JMeter for stress testing
+Using Java JMeter for endurance testing
+Using Java JMeter for spike testing
+Using Java JMeter for soak testing
+Using Java JMeter for capacity testing
+Using Java JMeter for scalability testing
+Using Java JMeter for failover testing
+Using Java JMeter for security testing
+Using Java JMeter for cross-browser testing
+Using Java JMeter for mobile app testing
+Using Java JMeter for cloud-based load testing
+Integrating Java JMeter with Selenium WebDriver
+Using Java JMeter for headless browser testing
+Modifying and reusing Java JMeter test scripts
+Debugging Java JMeter tests
+Automating Java JMeter tests with scripts or CI/CD tools
+Best practices for efficient Java JMeter testing
+Handling dynamic data in Java JMeter tests
+Using regular expressions in Java JMeter tests
+Using assertions for data validation in Java JMeter tests
+Parameterizing test data in Java JMeter tests
+Validating response times in Java JMeter tests
+Managing test data and data files in Java JMeter
+Using Java JMeter for distributed performance testing
+Using Java JMeter for cloud load testing
+Recording HTTP traffic with Java JMeter
+Configuring Java JMeter for HTTPS testing
+Using Java JMeter for AJAX and JavaScript-based applications
+Using Java JMeter for testing web services with different protocols
+Using Java JMeter for testing web applications with single sign-on (SSO)
+Load testing web services with Java JMeter and SOAPUI
+Monitoring server performance during load testing with Java JMeter
+Introducing Java JMeter plugins for additional functionality
+Using Java JMeter for testing microservices architectures
+Using Java JMeter for testing distributed systems
+Using Java JMeter for testing real-time applications
+Load testing message-based systems with Java JMeter
+Using Java JMeter for testing web applications with AJAX calls
+Debugging and troubleshooting issues in Java JMeter tests
+Integrating Java JMeter with APM (application performance monitoring) tools
+Using Java JMeter for capacity planning and forecasting
+Using Java JMeter for testing streaming media applications
+Using Java JMeter in a CI/CD pipeline for performance testing
+Analyzing and optimizing Java JMeter test scripts
+Using Java JMeter for testing mobile APIs
+Using Java JMeter for testing IoT applications
+Using Java JMeter for testing blockchain applications
+Testing real-time messaging protocols with Java JMeter
+Using Java JMeter for testing e-commerce applications
+Using Java JMeter for testing chat applications
+Using Java JMeter for testing social media applications
+Using Java JMeter for testing gaming applications
+Using Java JMeter for testing video streaming applications
+Using Java JMeter for testing financial applications
+Configuring Java JMeter for testing cloud-based applications
+Using Java JMeter for testing machine learning applications
+Integrating Java JMeter with log analysis tools for performance monitoring
+Using Java JMeter for testing virtualized applications
+Using Java JMeter for testing containerized applications
+Using Java JMeter for testing serverless applications
+Using Java JMeter for testing server-side rendering applications
+Using Java JMeter for testing API gateways
+Using Java JMeter for testing message queues
+Using Java JMeter for testing event-driven architectures
+Using Java JMeter for testing microfrontend architectures
+Using Java JMeter for testing server-to-server communication
+Using Java JMeter for testing GraphQL APIs
+Using Java JMeter for testing data streaming applications
+Using Java JMeter for testing image and video processing applications
+Using Java JMeter for testing voice and speech recognition applications
+Using Java JMeter for testing AI and machine learning models.

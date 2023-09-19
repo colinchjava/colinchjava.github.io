@@ -1,0 +1,100 @@
+Introduction to Java programming language
+Object-oriented programming in Java
+Java syntax and basic data types
+Control flow statements in Java
+Arrays in Java
+Classes and objects in Java
+Inheritance and polymorphism in Java
+Exception handling in Java
+Java interfaces and abstract classes
+File handling in Java
+Multithreading in Java
+Java collections framework
+Generics in Java
+Lambda expressions in Java
+Java input/output (I/O) operations
+Reflection and annotations in Java
+Java networking and socket programming
+Java database connectivity (JDBC)
+Java servlets and JavaServer Pages (JSP)
+JavaServer Faces (JSF) framework
+Java Persistence API (JPA)
+Java Enterprise Edition (Java EE) architecture
+Web services in Java
+JavaFX for desktop application development
+Android app development with Java
+Java development tools (IDEs, build tools)
+Gradle vs Maven in Java projects
+Debugging techniques in Java
+Unit testing in Java (JUnit)
+Performance tuning in Java applications
+Secure coding practices in Java
+Best practices for Java code documentation
+Java design patterns (singleton, factory, observer, etc.)
+Garbage collection in Java
+Java memory management
+Java virtual machine (JVM) internals
+Differences between Java SE, Java EE, and Java ME
+Comparison of Java and other programming languages
+Introduction to Scala programming language
+Functional programming in Scala
+Scala syntax and basic data types
+Control flow statements in Scala
+Scala collections and higher-order functions
+Pattern matching in Scala
+Classes and objects in Scala
+Inheritance and mixins in Scala
+Traits in Scala
+Implicits in Scala
+Type system in Scala
+Concurrency and parallel programming in Scala
+Actor model in Scala
+Futures and promises in Scala
+Scala futures vs Java threads
+Type inference in Scala
+Case classes and case objects in Scala
+Scala options and either types for error handling
+Scala testing frameworks (ScalaTest, Specs2)
+Scala macros and metaprogramming
+Scala build tools (sbt)
+Interoperability between Scala and Java
+Play Framework for web development in Scala
+Akka toolkit in Scala for reactive applications
+Scalaz library for functional programming in Scala
+Scala parallel collections and parallel computing
+Scala database access (slick, scalikejdbc)
+Reactive programming with RxScala
+Big data processing with Scala (Spark, Hadoop)
+Microservices development in Scala
+Scala web frameworks (Lift, Finch, Scalatra)
+Integration testing in Scala applications
+Best practices for Scala code organization and style
+Debugging Scala applications
+Scala type classes and implicits
+Scalability challenges in Scala applications
+Performance optimization in Scala code
+Scala futures vs Java CompletableFuture
+JVM performance tuning for Scala applications
+Kotlin vs Scala - a comparison
+Groovy vs Scala - a comparison
+Clojure vs Scala - a comparison
+Scala vs Python - a comparison
+Scala vs JavaScript - a comparison
+Scala vs Ruby - a comparison
+Scala vs Go - a comparison
+Scala frameworks for data science and machine learning
+Scala vs R for data analysis
+Spark Streaming vs Akka Streams in Scala
+ReactiveMongo vs Casbah for MongoDB access in Scala
+Scala vs Java for Android app development
+Logging frameworks in Scala
+Reactive web development with Scala.js
+Play Framework vs Akka HTTP for web development in Scala
+Scala.js vs JavaScript frameworks for front-end development
+JSON processing in Scala (Play JSON, Circe)
+Scala vs Haskell - a comparison
+Scala vs C# - a comparison
+Scala vs Rust - a comparison
+Scalability and fault-tolerance with the Scala ecosystem
+Best practices for building microservices with Scala and Akka
+Machine learning libraries in Scala (Breeze, Smile, etc.)

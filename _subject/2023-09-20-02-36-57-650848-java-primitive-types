@@ -1,0 +1,100 @@
+Integer
+Byte
+Short
+Long
+Float
+Double
+Boolean
+Character
+Void
+String
+Arrays
+Wrapper classes
+Type casting
+Bitwise operations
+Arithmetic operations
+Comparison operators
+Logical operators
+Access modifiers
+Variable declaration
+Variable initialization
+Type inference
+Constants
+Scope of variables
+Default values
+Overflow and underflow
+Aliasing
+Immutable types
+Pass-by-value
+String concatenation
+String formatting
+String methods
+StringBuilder vs. StringBuffer
+Memory allocation for primitives
+Boxing and unboxing
+Autoboxing and autounboxing
+Garbage collection for primitives
+Printing formatted numbers
+Random numbers
+Enumerations
+Conversion between numeric types
+Boolean expressions
+Conditional statements
+Loop statements
+Numeric type conversion errors
+Number formatting
+Type promotion in expressions
+Infinity and NaN
+BigInteger and BigDecimal
+Date and time using primitives
+Regular expressions with primitives
+Default methods in interfaces
+Method overloading with primitives
+Pass-by-reference in Java
+Command-line arguments with primitives
+Reading and writing binary files
+File handling with primitives
+Streams for primitive types
+Exception handling with primitives
+Multidimensional arrays
+Jagged arrays
+Arrays vs. ArrayLists
+foreach loop with primitives
+Generics with primitive types
+Collections and primitive types
+Stack and queue implementations
+Searching in arrays
+Sorting arrays
+Insertion and deletion in arrays
+Palindrome check for primitive types
+Prime number calculations
+Fibonacci sequence with primitives
+Matrix operations with primitives
+Bit manipulation with primitives
+Finding the maximum and minimum in an array
+Binary search using primitives
+Linear search using primitives
+Reverse an array using primitives
+Copying arrays using primitives
+Sorting algorithms for primitive types
+Selection sort with primitives
+Bubble sort with primitives
+Insertion sort with primitives
+Merge sort with primitives
+Quick sort with primitives
+Binary tree implementations with primitives
+Graph algorithms with primitives
+Euclidean algorithm with primitives
+Matrix multiplication using primitives
+Bitwise operations for numerical calculations
+Primality testing algorithms
+File input and output with primitive types
+Big O notation for primitive operations
+Mathematical calculations with primitives
+Converting between number bases
+Generating random numbers with primitives
+Collatz conjecture with primitives
+Finding the largest prime factor of a number using primitives
+Factorial calculation using primitives
+Encryption and decryption using primitives
+Monte Carlo simulations with primitive types

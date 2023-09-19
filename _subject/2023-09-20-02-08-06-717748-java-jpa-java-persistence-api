@@ -1,0 +1,100 @@
+Introduction to Java Persistence API (JPA)
+History and evolution of JPA
+Advantages of using JPA in Java development
+Difference between JPA and JDBC (Java Database Connectivity)
+Overview of JPA architecture
+JPA entities and entity classes
+JPA annotations and their usage
+Understanding JPA EntityManager and EntityManagerFactory
+JPA Entity lifecycle and state transitions
+Persistence context and its significance in JPA
+Mapping entities to database tables in JPA
+Handling primary keys and JPA entity identity
+JPA relationships and associations between entities
+One-to-many relationship mapping in JPA
+Many-to-one relationship mapping in JPA
+Many-to-many relationship mapping in JPA
+Cascade types and their usage in JPA relationships
+Fetch types in JPA and their impact on performance
+JPA queries using JPQL (Java Persistence Query Language)
+Basic CRUD operations using JPA
+JPA criteria queries and dynamic queries
+Native SQL queries in JPA
+Pagination and sorting in JPA queries
+JPA caching and query result caching
+JPA transaction management and isolation levels
+Optimistic and pessimistic locking in JPA
+Handling concurrent access and data inconsistency in JPA
+Bulk update and delete operations in JPA
+JPA inheritance mapping strategies
+Table per class hierarchy mapping in JPA
+Table per subclass mapping in JPA
+Table per concrete class mapping in JPA
+JPA embedded objects and attribute overrides
+JPA auditing and entity listeners
+JPA named queries and query hints
+JPA validation using Bean Validation API
+JPA and Spring integration
+JPA and Hibernate integration
+JPA and EclipseLink integration
+JPA and TopLink integration
+JPA and Open JPA integration
+JPA and MyBatis integration
+JPA and Spring Data integration
+JPA and MongoDB integration
+JPA and NoSQL databases
+JPA best practices and coding guidelines
+Handling lazy fetching and N+1 select issue in JPA
+JPA open-session-in-view pattern
+Handling JPA exceptions and error handling
+JPA and database locking mechanisms
+JPA auditing and change tracking
+JPA and distributed systems
+JPA and cloud-native applications
+JPA and microservices architecture
+JPA and transaction management in distributed systems
+JPA and performance tuning tips
+JPA and database connection pooling
+JPA and connection management strategies
+JPA and caching strategies
+JPA and database schema evolution
+JPA and data migration techniques
+JPA and stored procedures integration
+JPA and optimistic concurrency control
+JPA and pessimistic concurrency control
+JPA and auditing using database triggers
+JPA and data encryption techniques
+JPA and data compression techniques
+JPA and data synchronization strategies
+JPA and distributed caching solutions
+JPA and full-text search integration
+JPA and sharding strategies for scalability
+JPA and multi-tenancy support
+JPA and dynamic schema management
+JPA and data access performance monitoring
+JPA and database replication techniques
+JPA and database partitioning techniques
+JPA and optimistic locking strategies
+JPA and pessimistic locking strategies
+JPA and connection pooling configuration
+JPA and connection timeout handling
+JPA and bulk data loading techniques
+JPA and data synchronization with external systems
+JPA and distributed caching for high availability
+JPA and distributed transaction management
+JPA and cluster computing for scalability
+JPA and distributed database architectures
+JPA and object-relational impedance mismatch
+JPA and database performance monitoring
+JPA and indexing strategies for efficient querying
+JPA and data replication techniques
+JPA and data security best practices
+JPA and caching proxy pattern
+JPA and lazy loading optimization techniques
+JPA and connection failover handling
+JPA and connection pooling with connection validation
+JPA and distributed deadlock detection
+JPA and data compression for storage optimization
+JPA and database backup and recovery strategies
+JPA and transaction retry strategies
+JPA and big data integration

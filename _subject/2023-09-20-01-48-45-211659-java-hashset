@@ -1,0 +1,100 @@
+Definition of HashSet in Java
+How to create a HashSet in Java
+Adding elements to a HashSet in Java
+Removing elements from a HashSet in Java
+Checking if an element exists in a HashSet in Java
+Checking the size of a HashSet in Java
+Accessing elements in a HashSet in Java
+Looping through a HashSet in Java
+HashSet vs ArrayList in Java
+HashSet vs TreeSet in Java
+HashSet vs LinkedHashSet in Java
+HashSet vs HashMap in Java
+Iterating over a HashSet in Java
+Adding a collection to a HashSet in Java
+Clearing a HashSet in Java
+Converting a HashSet to an array in Java
+Converting a HashSet to a List in Java
+Sorting a HashSet in Java
+Cloning a HashSet in Java
+Checking if two HashSets are equal in Java
+Union of two HashSets in Java
+Intersection of two HashSets in Java
+Difference of two HashSets in Java
+Symmetric difference of two HashSets in Java
+Finding common elements in multiple HashSets in Java
+Creating a synchronized HashSet in Java
+Creating an immutable HashSet in Java
+Performance considerations of HashSet in Java
+HashSet with custom objects in Java
+HashSet with primitive data types in Java
+HashSet with String elements in Java
+HashSet with enum elements in Java
+HashSet with null elements in Java
+HashSet with duplicate elements in Java
+HashSet with case-insensitive string elements in Java
+Finding the maximum element in a HashSet in Java
+Finding the minimum element in a HashSet in Java
+Finding the sum of elements in a HashSet in Java
+Finding the average of elements in a HashSet in Java
+Finding the median of elements in a HashSet in Java
+Finding the mode of elements in a HashSet in Java
+Checking if a HashSet is empty in Java
+Checking if a HashSet is subset of another HashSet in Java
+Checking if a HashSet is superset of another HashSet in Java
+Checking if a HashSet is disjoint with another HashSet in Java
+Checking if two HashSets have any common elements in Java
+Merging two HashSets in Java
+Removing duplicate elements from a HashSet in Java
+Creating a synchronized wrapper for a HashSet in Java
+Creating an unmodifiable view of a HashSet in Java
+Creating a thread-safe HashSet in Java
+Removing all elements from a HashSet that satisfy a given condition in Java
+Finding the index of an element in a HashSet in Java
+Replacing an element in a HashSet in Java
+Shuffling the elements in a HashSet in Java
+Finding the element with maximum frequency in a HashSet in Java
+Finding the element with minimum frequency in a HashSet in Java
+Finding the first occurrence of an element in a HashSet in Java
+Finding the last occurrence of an element in a HashSet in Java
+Finding distinct elements from multiple HashSets in Java
+Converting a HashSet to a HashSet of a different type in Java
+Converting a HashSet to a HashSet of a different generic type in Java
+Converting a HashSet to a HashSet of a different type using a mapper function in Java
+Converting a HashSet to a HashSet of a different generic type using a mapper function in Java
+Finding the element with maximum length in a HashSet of Strings in Java
+Finding the element with minimum length in a HashSet of Strings in Java
+Finding the longest element in a HashSet of Strings in Java
+Finding the shortest element in a HashSet of Strings in Java
+Reversing the order of elements in a HashSet in Java
+Checking if a HashSet contains a subsequence in Java
+Finding the average length of elements in a HashSet of Strings in Java
+Counting occurrences of each element in a HashSet in Java
+Finding the element that appears most frequently in a HashSet in Java
+Checking if all elements in a HashSet satisfy a given condition in Java
+Finding the first element that satisfies a given condition in a HashSet in Java
+Finding the last element that satisfies a given condition in a HashSet in Java
+Calculating the sum of integers in a HashSet in Java
+Calculating the product of integers in a HashSet in Java
+Finding the second largest element in a HashSet in Java
+Finding the second smallest element in a HashSet in Java
+Checking if a HashSet is a proper subset of another HashSet in Java
+Checking if a HashSet is a proper superset of another HashSet in Java
+Checking if a HashSet is a non-empty subset of another HashSet in Java
+Checking if a HashSet is a non-empty superset of another HashSet in Java
+Finding the longest common prefix in a HashSet of Strings in Java
+Finding the most common prefix in a HashSet of Strings in Java
+Counting the number of elements between two given elements in a HashSet in Java
+Finding the union of multiple HashSets in Java
+Finding the intersection of multiple HashSets in Java
+Finding the difference of multiple HashSets in Java
+Finding the symmetric difference of multiple HashSets in Java
+Checking if a given element occurs exactly once in a HashSet in Java
+Counting the number of duplicate elements in a HashSet in Java
+Replacing duplicate elements in a HashSet with unique elements in Java
+Finding the average value of elements in a HashSet of integers in Java
+Finding the sum of all elements in a HashSet of floating-point numbers in Java
+Finding the element that occurs most frequently in a HashSet of characters in Java
+Checking if a HashSet contains an element ignoring case in Java
+Sorting a HashSet of strings in alphabetical order in Java
+Sorting a HashSet of integers in ascending order in Java

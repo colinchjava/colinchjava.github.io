@@ -1,0 +1,100 @@
+if statement
+if-else statement
+nested if-else statement
+switch statement
+while loop
+do-while loop
+for loop
+enhanced for loop
+break statement
+continue statement
+return statement
+throw statement
+try-catch statement
+finally block
+multiple catch blocks
+labeled statements
+infinite loop
+nested loops
+iteration control
+conditional statements
+compound statements
+logical operators
+relational operators
+arithmetic operators
+bitwise operators
+assignment operators
+ternary operator
+short-circuit evaluation
+scope of variables
+block statements
+control flow
+decision making
+loop control
+control structures
+conditional execution
+selecting statements
+looping statements
+code branching
+logical conditions
+iteration control structures
+controlling program flow
+executing statements conditionally
+iterating over a collection
+controlling the flow of execution
+performing different actions based on a condition
+counting loop iterations
+stopping a loop prematurely
+skipping iteration using continue
+terminating a loop using break
+handling exceptional cases
+catching and handling specific exceptions
+gracefully handling error conditions
+preventing code execution when an error occurs
+performing cleanup actions after handling exceptions
+handling multiple types of exceptions
+executing code regardless of whether an exception occurs
+propagating exceptions to caller methods
+stopping execution and throwing a custom exception
+validating input and throwing an exception
+catching and handling checked exceptions
+catching and handling unchecked exceptions
+using a finally block for cleanup actions
+grouping multiple statements under a single label
+breaking out of nested loops using labeled statements
+executing code conditionally based on multiple conditions
+executing different actions based on multiple conditions
+combining multiple conditions using logical operators
+short-circuit evaluation in conditional statements
+evaluating expressions in a specific order
+comparing values using relational operators
+performing arithmetic calculations
+performing bitwise operations on integers
+assigning values to variables
+updating variables using compound assignment operators
+performing different actions based on a condition using the ternary operator
+determining the scope of a variable
+limiting the visibility of variables using block statements
+controlling the flow of execution using control statements
+executing multiple statements together using a block
+controlling program flow based on logical conditions
+making decisions based on the result of a condition
+repeating a set of statements until a condition is met using a loop
+controlling the number of iterations in a loop
+executing statements based on a condition or iteration count
+executing statements conditionally within a loop
+executing statements repeatedly using a loop
+iterating over elements of an array or collection
+performing different actions on each element using a loop
+exiting a loop prematurely using a break statement
+skipping an iteration using a continue statement
+returning a value from a method
+terminating execution of a method and returning to the caller
+throwing an exception to indicate an error condition
+handling exceptions using try-catch blocks
+finalizing resources using a finally block
+catching and handling specific types of exceptions
+handling exceptions by propagating them to caller methods
+stopping execution and throwing a custom exception
+validating input and throwing an exception if it is invalid
+handling exceptions that arise during execution

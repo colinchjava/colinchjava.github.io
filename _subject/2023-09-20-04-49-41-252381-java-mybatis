@@ -1,0 +1,100 @@
+Introduction to MyBatis in Java
+Configuration and setup of MyBatis in a Java project
+Connecting and querying MySQL database using MyBatis
+Connecting and querying Oracle database using MyBatis
+Connecting and querying PostgreSQL database using MyBatis
+Connecting and querying SQL Server database using MyBatis
+Performing CRUD operations with MyBatis in Java
+Working with annotations in MyBatis
+Using XML mappings in MyBatis for database operations
+Configuring MyBatis with Spring framework in Java
+Understanding MyBatis type handlers and their usage
+Caching strategies in MyBatis for better performance
+Advanced querying techniques in MyBatis using dynamic SQL
+Using MyBatis plugins to extend its functionality
+Implementing transaction management in MyBatis
+Working with MyBatis result sets and result maps
+Using MyBatis with Spring Boot for rapid application development
+Using MyBatis batch inserts for efficient database operations
+Handling stored procedures and functions with MyBatis
+Using MyBatis for pagination in Java applications
+Implementing complex mapping relationships with MyBatis
+Using MyBatis with JPA for persistence management
+Migrating from Hibernate to MyBatis in a Java project
+Using MyBatis with Spring MVC for web application development
+Using MyBatis with Spring Security for secure database operations
+Implementing custom type handlers in MyBatis
+Using MyBatis with Spring Data JPA for data access layer
+Using MyBatis with Spring Cloud for distributed systems
+Implementing MyBatis multi-tenancy for handling multiple databases
+Handling optimistic locking with MyBatis in Java
+Using MyBatis with Apache Kafka for event-driven architecture
+Implementing MyBatis auditing for tracking database changes
+Integrating MyBatis with Elasticsearch for full-text search
+Using MyBatis with Redis for caching database queries
+Performance tuning techniques for MyBatis applications
+Using MyBatis in a microservices architecture
+Implementing MyBatis in a Spring Boot REST API project
+Testing MyBatis applications using JUnit and Mockito
+Deploying MyBatis applications on a cloud platform
+Monitoring MyBatis applications for better performance
+Security best practices for MyBatis applications
+Implementing logging in MyBatis applications
+Using MyBatis with Docker for containerization
+Implementing MyBatis in a reactive programming framework
+Using MyBatis with GraphQL for efficient data fetching
+Implementing a search functionality using MyBatis and Apache Solr
+Implementing database sharding with MyBatis
+Using MyBatis with Apache Cassandra for NoSQL data handling
+Implementing data encryption in MyBatis applications
+Using MyBatis with Apache Hadoop for big data processing
+Implementing MyBatis in a cloud-native Java application
+Using MyBatis with Apache Kafka Streams for real-time data processing
+Implementing MyBatis in a serverless architecture
+Building a scalable microservices architecture with MyBatis
+Using MyBatis with Akka for concurrent and distributed systems
+Implementing change data capture with MyBatis and Apache Kafka
+Using MyBatis with Apache Flink for stream processing
+Implementing MyBatis in a machine learning application
+Using MyBatis with Apache Beam for batch processing
+Implementing MyBatis in a blockchain application
+Using MyBatis with Apache NiFi for data integration
+Implementing MyBatis in an event-driven microservices architecture
+Using MyBatis with Apache Hive for SQL querying of Hadoop data
+Implementing MyBatis in a real-time analytics application
+Using MyBatis with Apache Ignite for caching and data grid capabilities
+Implementing MyBatis in a chatbot application
+Using MyBatis with Apache Zeppelin for interactive data analysis
+Implementing MyBatis in an IoT (Internet of Things) application
+Using MyBatis with Apache Calcite for SQL optimization
+Implementing MyBatis in a recommendation system application
+Using MyBatis with Apache Kafka Connect for data pipeline integration
+Implementing MyBatis in a stream processing application
+Using MyBatis with Apache Pulsar for event streaming
+Implementing MyBatis in a natural language processing (NLP) application
+Using MyBatis with Apache Atlas for metadata management
+Implementing MyBatis in a data warehouse application
+Using MyBatis with Apache Camel for integration patterns
+Implementing MyBatis in a financial services application
+Using MyBatis with Apache NiFi Registry for version control
+Implementing MyBatis in a recommendation engine application
+Using MyBatis with Apache Phoenix for SQL querying of HBase data
+Implementing MyBatis in a fraud detection system application
+Using MyBatis with Apache Kylin for OLAP (Online Analytical Processing)
+Implementing MyBatis in a supply chain management application
+Using MyBatis with Apache TinkerPop for graph database querying
+Implementing MyBatis in a social media analytics application
+Using MyBatis with Apache Sqoop for data import/export
+Implementing MyBatis in a healthcare information system application
+Using MyBatis with Apache Kudu for fast analytics on fast data
+Implementing MyBatis in a logistics management application
+Using MyBatis with Apache Ranger for fine-grained access control
+Implementing MyBatis in a customer relationship management (CRM) application
+Using MyBatis with Apache Heron for real-time stream processing
+Implementing MyBatis in an e-commerce recommendation system application
+Using MyBatis with Apache SAMOA for distributed stream mining
+Implementing MyBatis in a sentiment analysis application
+Using MyBatis with Apache Nutch for web crawling and indexing
+Implementing MyBatis in an online gaming application
+Using MyBatis with Apache Avro for data serialization
+Implementing MyBatis in a content management system (CMS) application.

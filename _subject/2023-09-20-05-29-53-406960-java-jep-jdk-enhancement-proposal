@@ -1,0 +1,100 @@
+JEP 1: JEP Process
+JEP 2: JDK Release Train
+JEP 3: JDK Release Models
+JEP 4: JDK Build Process
+JEP 5: Metadata Format
+JEP 6: Module System
+JEP 7: Project Jigsaw
+JEP 8: Modular Run-Time Images
+JEP 9: Modular Source Code
+JEP 10: Application Class-Data Sharing
+JEP 11: Deprecate the Security Manager for Removal
+JEP 12: Use Unicode 7.0.0
+JEP 13: Unicode Collation Algorithm
+JEP 14: Unicode 6.2
+JEP 15: Additions to the Class-Loader Subsystem
+JEP 16: Address some Unfulfilled Module System Requirements
+JEP 17: Allow Constructor Handle to Trusted Types
+JEP 18: Annotation on Java Types
+JEP 19: Execute Java Clicks
+JEP 20: IPV6 Effectively
+JEP 21: Let Robots no longer Search
+JEP 22: Java Mutual feelings
+JEP 23: SWT Javadoc for Primary Types
+JEP 24: Javadoc Tag Preservation
+JEP 25: Multi-Release JAR Files
+JEP 26: Unique DOT environment
+JEP 27: GCC-compatible __attribute__
+JEP 28: JDK Release Notes
+JEP 29: Java Network Launch Protocol & API
+JEP 30: HTTP upgrade mechanism
+JEP 31: Developer Workflow
+JEP 32: PDF Render Engine
+JEP 33: XML Packaging
+JEP 34: XML Integration APIs
+JEP 35: Modular Source/Header Files
+JEP 36: Parsing-only Archive/CAR File
+JEP 37: Modifiability Upgrade
+JEP 38: Wider Network Protocols
+JEP 39: Gradual Typing
+JEP 40: A Data Source for Esse
+JEP 41: Ready for Building
+JEP 42: Repackage the Compiler
+JEP 43: XML-Repairing Mode
+JEP 44: OS X Native Look & Feel
+JEP 45: Thermodynamics-based Restore
+JEP 46: Politics and Java are near
+JEP 47: Equivalent Matrix
+JEP 48: Platform JMX APIs
+JEP 49: Mutually Required Components
+JEP 50: Speed Up Dynamic Linking
+JEP 51: Another Rewrite of Time
+JEP 52: Another Second Intuition
+JEP 53: Another Route Finder
+JEP 54: More of The API
+JEP 55: Some reflections on input outputs
+JEP 56: The Data Object
+JEP 57: Expanded Casts
+JEP 58: New primitive numeric format
+JEP 59: Alternate Memory Model
+JEP 60: Language Model Simplification
+JEP 61: Road Cone for Semaphore
+JEP 62: Catlist Multiplexer
+JEP 63: The Integer Spiral
+JEP 64: Enlarged Inner Sums
+JEP 65: The Zip Bomb
+JEP 66: The Perfect Game
+JEP 67: Electrostatic Cereal
+JEP 68: Autoregressive Image Stabilization
+JEP 69: Translation by Conga Line
+JEP 70: The Medieval Joust
+JEP 71: Decaffeinated Vienna Coffee
+JEP 72: Optical Interference Filter
+JEP 73: Cascading Reflection
+JEP 74: Sierpinski Decompression
+JEP 75: Intermediate Hashing
+JEP 76: Continuously Interpreted Language
+JEP 77: Millisecond Resolution Clock
+JEP 78: Simple Extended Methods
+JEP 79: Incremental Immutable Collections
+JEP 80: ASCII Escape Sequences
+JEP 81: Properties format
+JEP 82: NoOverrides Exception
+JEP 83: Extension Deserialization
+JEP 84: Sound Range Detection
+JEP 85: Compiled Language Extensions
+JEP 86: Git Integration
+JEP 87: Cooperative Rearrangement of Objects
+JEP 88: Cross-Stitch Algorithm
+JEP 89: Cloud Integration
+JEP 90: Resource Reconfiguration
+JEP 91: Capitalized Letters
+JEP 92: Binary Integer Arithmetic
+JEP 93: IP Over DNS
+JEP 94: Multi-Dimensional Aligning
+JEP 95: Multiple Predicate Truth
+JEP 96: New Connection Protocol
+JEP 97: Continuous Advancement to Zero Division
+JEP 98: Personal Finance Management System
+JEP 99: Autonomous Vehicle Control
+JEP 100: Quantum Computing Integration

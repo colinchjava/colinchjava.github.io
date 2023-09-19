@@ -1,0 +1,100 @@
+Single Responsibility Principle (SRP) in Java
+Open/Closed Principle (OCP) in Java
+Liskov Substitution Principle (LSP) in Java
+Interface Segregation Principle (ISP) in Java
+Dependency Inversion Principle (DIP) in Java
+Applying SOLID principles to Java code
+Benefits of using SOLID principles in Java development
+SOLID principles and maintainable Java code
+Implementing SRP in Java classes
+Using interfaces to enforce OCP in Java
+Applying LSP in Java inheritance hierarchy
+Breaking down large classes with ISP in Java
+Inversion of Control and DIP in Java
+SOLID design patterns in Java
+SOLID principles and unit testing in Java
+Encapsulation and SRP in Java
+Polymorphism and LSP in Java
+Using SOLID principles to manage dependencies in Java projects
+The importance of SRP in Java architecture
+OCP and Java extension points
+Inheritance and LSP violations in Java code
+ISP and interface design in Java
+DIP and dependency injection frameworks in Java
+SOLID vs. procedural programming in Java
+SOLID principles for error handling in Java applications
+Applying SRP to Java servlets
+OCP and Java frameworks with plugin architectures
+Avoiding LSP violations in Java overloading
+ISP and Java class design
+Utilizing DIP with Java frameworks and libraries
+SOLID principles and concurrency in Java
+Singletons and SRP in Java
+OCP and adding new features to Java applications
+LSP and Java abstract classes
+Applying ISP to Java GUIs
+DIP and inversion of control containers in Java
+SOLID principles and API design in Java
+Composition over inheritance and SRP in Java
+Polymorphism and OCP in Java generics
+LSP and Java exceptions
+ISP and Java event handling
+Abstract factories and DIP in Java
+SOLID principles for database access in Java
+SRP and modular Java applications
+OCP and Java annotations
+LSP and Java reflection
+ISP and interfaces in Java web services
+Dependency injection and DIP in Java Spring framework
+SOLID principles for logging in Java
+SRP and Java multithreading
+OCP and Java code reusability
+LSP and method overriding in Java
+ISP and service-oriented architectures in Java
+DIP and Java inversion of control patterns
+SOLID principles for error reporting in Java applications
+SRP and Java package organization
+OCP and Java maven modules
+LSP and design patterns in Java
+ISP and Java servlet filters
+DIP and Java ORM frameworks
+SOLID principles and internationalization/localization in Java
+SRP and Java exception handling strategies
+OCP and Java polymorphism
+LSP and Java immutable objects
+ISP and Java command pattern
+DIP and Java dependency injection frameworks comparison
+SOLID principles for input validation in Java
+SRP and Java logging frameworks
+OCP and Java inheritance pitfalls
+LSP and Java collections hierarchy
+ISP and Java web service contracts
+DIP and Java persistence frameworks
+SOLID principles for security in Java applications
+SRP and Java concurrency patterns
+OCP and Java code modularity
+LSP and Java performance considerations
+ISP and Java API documentation
+DIP and Java serialization frameworks
+SOLID principles for handling file I/O in Java
+SRP and Java code maintainability
+OCP and Java code extensibility
+LSP and Java anonymous classes
+ISP and Java event-driven programming
+DIP and Java service location frameworks
+SOLID principles for input/output streams in Java
+SRP and Java code readability
+OCP and Java method overriding
+LSP and Java concurrency utilities
+ISP and Java frontend/backend separation
+DIP and Java transaction management frameworks
+SOLID principles for thread safety in Java
+SRP and Java naming conventions
+OCP and Java class design principles
+LSP and Java equals/hashCode contract
+ISP and Java authentication/authorization frameworks
+DIP and Java modularization with Jigsaw
+SOLID principles for error handling in Java GUIs
+SRP and Java dependency management
+OCP and Java code versioning
+LSP and Java method overloading

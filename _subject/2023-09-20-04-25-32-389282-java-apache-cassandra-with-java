@@ -1,0 +1,100 @@
+Introduction to Apache Cassandra
+Why use Apache Cassandra in Java applications?
+Installing Apache Cassandra in Java
+Configuring Apache Cassandra in Java
+Connecting to Apache Cassandra from Java
+Creating a keyspace in Apache Cassandra using Java
+Creating a table in Apache Cassandra using Java
+Inserting data into an Apache Cassandra table using Java
+Querying data from an Apache Cassandra table using Java
+Updating data in an Apache Cassandra table using Java
+Deleting data from an Apache Cassandra table using Java
+Batch operations in Apache Cassandra using Java
+Working with composite keys in Apache Cassandra using Java
+Using secondary indexes in Apache Cassandra with Java
+Managing consistency levels in Apache Cassandra with Java
+Handling time-based data with Apache Cassandra and Java
+Dealing with distributed data with Apache Cassandra and Java
+Implementing data replication in Apache Cassandra with Java
+Creating materialized views in Apache Cassandra with Java
+Implementing transactions in Apache Cassandra with Java
+Working with collections and user-defined types in Apache Cassandra with Java
+Using Apache Cassandra for time series data in Java applications
+Integrating Apache Cassandra with Spring Boot in Java applications
+Implementing pagination in Apache Cassandra with Java
+Monitoring and performance tuning Apache Cassandra in Java applications
+Handling failures and recovery in Apache Cassandra with Java
+Implementing security in Apache Cassandra with Java
+Exporting and importing data in Apache Cassandra with Java
+Backup and restore strategies for Apache Cassandra in Java
+Using Apache Cassandra for real-time analytics in Java applications
+Implementing caching with Apache Cassandra and Java
+Using Apache Cassandra with Java-based microservices
+An overview of data modeling in Apache Cassandra with Java
+Choosing the right data types in Apache Cassandra with Java
+Data modeling techniques for time series data in Apache Cassandra with Java
+Designing denormalized schemas in Apache Cassandra with Java
+Implementing counter columns in Apache Cassandra with Java
+Working with wide rows in Apache Cassandra with Java
+Implementing collections and user-defined types in data modeling with Apache Cassandra in Java
+Handling data updates and deletions in Apache Cassandra with Java
+Implementing data partitioning and distribution in Apache Cassandra with Java
+Optimizing read and write performance in Apache Cassandra with Java
+Handling data replication and consistency in multi-datacenter deployments with Apache Cassandra and Java
+Implementing high availability and fault tolerance in Apache Cassandra with Java
+Data compaction strategies in Apache Cassandra with Java
+Using compaction strategies for time series data in Apache Cassandra with Java
+Working with hinted handoff and read repairs in Apache Cassandra with Java
+Implementing data compaction and repair operations in Apache Cassandra with Java
+Data compression techniques in Apache Cassandra with Java
+Using data compression for large data sets in Apache Cassandra with Java
+Implementing data archiving and lifecycle management in Apache Cassandra with Java
+Introduction to data streaming in Apache Cassandra with Java
+Using data streaming for real-time data processing with Apache Cassandra and Java
+Implementing batch processing with Apache Cassandra in Java
+Working with DRY-RUN mode in Apache Cassandra with Java
+Introduction to Apache Cassandra Query Language (CQL) in Java
+Basic CQL operations in Apache Cassandra with Java
+Filtering and sorting data in CQL queries with Apache Cassandra and Java
+Working with functions and aggregates in CQL queries with Apache Cassandra and Java
+Multiget and batch operations in CQL queries with Apache Cassandra and Java
+Introduction to Apache Cassandra drivers for Java
+Using the DataStax Java Driver for Apache Cassandra
+Connecting to Apache Cassandra using the DataStax Java Driver
+Executing basic CRUD operations with the DataStax Java Driver for Apache Cassandra
+Handling query parameters and binding with the DataStax Java Driver
+Querying data with the DataStax Java Driver for Apache Cassandra
+Using asynchronous queries with the DataStax Java Driver for Apache Cassandra
+Implementing query pagination with the DataStax Java Driver for Apache Cassandra
+Applying query options and consistency levels with the DataStax Java Driver
+Working with prepared statements and batch operations in the DataStax Java Driver
+Using the Apache Cassandra JDBC Driver in Java applications
+Connecting to Apache Cassandra using the JDBC driver in Java
+Executing basic CRUD operations with the JDBC driver for Apache Cassandra in Java
+Querying data with the JDBC driver for Apache Cassandra in Java
+Handling query parameters and binding with the JDBC driver for Apache Cassandra in Java
+Implementing query pagination with the JDBC driver for Apache Cassandra in Java
+Applying query options and consistency levels with the JDBC driver for Apache Cassandra in Java
+Working with prepared statements and batch operations in the JDBC driver for Apache Cassandra in Java
+Introduction to Apache Cassandra ORM frameworks for Java
+Using Kundera as an Apache Cassandra ORM framework in Java applications
+Connecting to Apache Cassandra using Kundera ORM in Java
+Executing basic CRUD operations with Kundera ORM for Apache Cassandra in Java
+Querying data with Kundera ORM for Apache Cassandra in Java
+Using Spring Data for Apache Cassandra in Java applications
+Connecting to Apache Cassandra using Spring Data Cassandra in Java
+Executing basic CRUD operations with Spring Data Cassandra for Apache Cassandra in Java
+Querying data with Spring Data Cassandra for Apache Cassandra in Java
+Optimizing performance with Spring Data Cassandra in Apache Cassandra with Java
+Introduction to Apache Cassandra monitoring tools for Java applications
+Using Prometheus and Grafana to monitor Apache Cassandra in Java applications
+Using JConsole to monitor Apache Cassandra in Java applications
+Using Cassandra nodetool for monitoring and management in Java applications
+Introduction to Apache Cassandra benchmarks for Java applications
+Using Apache Cassandra's integrated stress tool for benchmarking in Java
+Using YCSB (Yahoo! Cloud Serving Benchmark) with Apache Cassandra for benchmarking in Java
+Performance tuning techniques for Apache Cassandra in Java applications
+Configuring JVM settings for Apache Cassandra in Java applications
+Scaling Apache Cassandra with Java applications
+Data partitioning and replica placement strategies in Apache Cassandra with Java
+Advanced tuning and optimization techniques for Apache Cassandra with Java

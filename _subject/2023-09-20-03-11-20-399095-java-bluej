@@ -1,0 +1,100 @@
+Introduction to Java programming
+Features of the Java language
+History and evolution of Java
+Introduction to BlueJ IDE
+Setting up BlueJ on your computer
+Creating a new project in BlueJ
+Understanding the BlueJ interface
+The concept of classes in Java
+Creating and implementing classes in BlueJ
+Working with objects in Java
+Instantiating objects in BlueJ
+Understanding variables and data types in Java
+Declaring and initializing variables in BlueJ
+Operators and expressions in Java
+Using operators and expressions in BlueJ
+Control flow statements in Java
+Using control flow statements in BlueJ
+Arrays in Java
+Using arrays in BlueJ
+Object-oriented programming concepts in Java
+Inheritance in Java
+Implementing inheritance in BlueJ
+Polymorphism in Java
+Using polymorphism in BlueJ
+Abstraction and encapsulation in Java
+Implementing abstraction and encapsulation in BlueJ
+Interfaces and abstract classes in Java
+Implementing interfaces and abstract classes in BlueJ
+Exception handling in Java
+Handling exceptions in BlueJ
+File handling in Java
+Reading and writing files in BlueJ
+Generics in Java
+Using generics in BlueJ
+Java collections framework
+Working with collections in BlueJ
+Multithreading in Java
+Implementing multithreading in BlueJ
+Networking in Java
+Creating network applications in BlueJ
+Database connectivity in Java
+Implementing database connectivity in BlueJ
+GUI development in Java
+Creating GUI applications in BlueJ
+Event handling in Java
+Handling events in BlueJ
+Applet development in Java
+Creating applets in BlueJ
+JavaFX programming
+Developing JavaFX applications in BlueJ
+Servlets in Java
+Creating servlets in BlueJ
+JSP (JavaServer Pages) in Java
+Creating JSP websites in BlueJ
+JavaBeans in Java
+Creating and using JavaBeans in BlueJ
+Reflection in Java
+Using reflection in BlueJ
+JDBC (Java Database Connectivity) in Java
+Accessing databases using JDBC in BlueJ
+XML processing in Java
+Parsing and manipulating XML in BlueJ
+Java web services
+Creating and consuming web services in BlueJ
+Java security
+Implementing security features in BlueJ
+Debugging techniques in Java
+Debugging Java programs in BlueJ
+Testing and code coverage in Java
+Writing unit tests and measuring code coverage in BlueJ
+Version control with Git in Java
+Working with Git in BlueJ
+Performance tuning in Java
+Optimizing Java code in BlueJ
+Design patterns in Java
+Utilizing design patterns in BlueJ
+JavaFX scene graph
+Manipulating the JavaFX scene graph in BlueJ
+Internationalization and localization in Java
+Implementing internationalization and localization in BlueJ
+Lambda expressions and functional programming in Java
+Utilizing lambda expressions and functional programming in BlueJ
+Java modules
+Creating and using Java modules in BlueJ
+Concurrency in Java
+Dealing with concurrency in BlueJ
+JVM (Java Virtual Machine) internals
+Understanding JVM internals in BlueJ
+Performance profiling in Java
+Profiling Java applications in BlueJ
+Microservices architecture in Java
+Developing microservices in BlueJ
+Reactive programming in Java
+Implementing reactive programming in BlueJ
+Docker and containerization in Java
+Containerizing Java applications using Docker in BlueJ
+Android development in Java
+Creating Android apps in BlueJ
+Machine learning with Java
+Implementing machine learning algorithms in BlueJ

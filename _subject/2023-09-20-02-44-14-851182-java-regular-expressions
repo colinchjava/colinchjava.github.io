@@ -1,0 +1,100 @@
+Basic syntax of Java regular expressions
+Pattern matching in Java regular expressions
+Regular expression metacharacters in Java
+Anchors in Java regular expressions
+Quantifiers in Java regular expressions
+Character classes in Java regular expressions
+Predefined character classes in Java regular expressions
+Negated character classes in Java regular expressions
+Boundary matchers in Java regular expressions
+Grouping and backreferences in Java regular expressions
+Greedy and lazy quantifiers in Java regular expressions
+String replacement using Java regular expressions
+Splitting strings using Java regular expressions
+Looking ahead and looking behind in Java regular expressions
+Capturing and non-capturing groups in Java regular expressions
+Find and replace with Java regular expressions
+Matching email addresses with Java regular expressions
+Matching URLs with Java regular expressions
+Validating phone numbers with Java regular expressions
+Extracting numbers from a string using Java regular expressions
+Extracting words from a string using Java regular expressions
+Removing whitespace using Java regular expressions
+Parsing CSV files using Java regular expressions
+Validate IP addresses with Java regular expressions
+Match hexadecimal numbers with Java regular expressions
+Match floating point numbers with Java regular expressions
+Match dates in various formats with Java regular expressions
+Matching XML tags with Java regular expressions
+Matching HTML tags with Java regular expressions
+Extracting domain names from URLs using Java regular expressions
+Matching specific characters in a string using Java regular expressions
+Extracting email addresses from a string using Java regular expressions
+Case-insensitive matching with Java regular expressions
+Matching word boundaries with Java regular expressions
+Matching multiple lines with Java regular expressions
+Matching whitespace characters with Java regular expressions
+Matching non-word characters with Java regular expressions
+Matching digits with Java regular expressions
+Matching non-digits with Java regular expressions
+Matching word characters with Java regular expressions
+Matching non-word characters with Java regular expressions
+Matching alphabetic characters with Java regular expressions
+Matching non-alphabetic characters with Java regular expressions
+Matching alphanumeric characters with Java regular expressions
+Matching non-alphanumeric characters with Java regular expressions
+Matching specific Unicode characters with Java regular expressions
+Matching specific control characters with Java regular expressions
+Matching file paths with Java regular expressions
+Matching specific word patterns with Java regular expressions
+Matching specific sentence patterns with Java regular expressions
+Matching specific paragraph patterns with Java regular expressions
+Matching specific URL patterns with Java regular expressions
+Matching specific HTML patterns with Java regular expressions
+Matching specific date patterns with Java regular expressions
+Matching specific time patterns with Java regular expressions
+Matching specific currency patterns with Java regular expressions
+Matching specific phone number patterns with Java regular expressions
+Matching specific social security number patterns with Java regular expressions
+Matching specific IP address patterns with Java regular expressions
+Matching specific email address patterns with Java regular expressions
+Matching specific username patterns with Java regular expressions
+Matching specific password patterns with Java regular expressions
+Matching specific credit card number patterns with Java regular expressions
+Matching specific postal code patterns with Java regular expressions
+Matching specific zip code patterns with Java regular expressions
+Matching specific license plate patterns with Java regular expressions
+Matching specific ISBN patterns with Java regular expressions
+Matching specific MAC address patterns with Java regular expressions
+Matching specific VIN number patterns with Java regular expressions
+Matching specific URL slug patterns with Java regular expressions
+Matching specific hashtag patterns with Java regular expressions
+Matching specific domain name patterns with Java regular expressions
+Matching specific filename patterns with Java regular expressions
+Matching specific file extension patterns with Java regular expressions
+Matching specific XML tag patterns with Java regular expressions
+Matching specific HTML tag patterns with Java regular expressions
+Matching specific CSS class name patterns with Java regular expressions
+Matching specific JavaScript function name patterns with Java regular expressions
+Matching specific SQL query patterns with Java regular expressions
+Matching specific Markdown format patterns with Java regular expressions
+Matching specific JSON format patterns with Java regular expressions
+Matching specific YAML format patterns with Java regular expressions
+Matching specific FTP URL patterns with Java regular expressions
+Matching specific SSH URL patterns with Java regular expressions
+Matching specific Git URL patterns with Java regular expressions
+Matching specific HTTP URL patterns with Java regular expressions
+Matching specific HTTPS URL patterns with Java regular expressions
+Matching specific TCP/IP URL patterns with Java regular expressions
+Matching specific UDP URL patterns with Java regular expressions
+Matching specific ICMP URL patterns with Java regular expressions
+Matching specific ICMPv6 URL patterns with Java regular expressions
+Matching specific binary number patterns with Java regular expressions
+Matching specific octal number patterns with Java regular expressions
+Matching specific decimal number patterns with Java regular expressions
+Matching specific hexadecimal number patterns with Java regular expressions
+Matching specific Roman numeral patterns with Java regular expressions
+Matching specific fraction patterns with Java regular expressions
+Matching specific percentage patterns with Java regular expressions
+Matching specific temperature patterns with Java regular expressions
+Matching specific time zone patterns with Java regular expressions

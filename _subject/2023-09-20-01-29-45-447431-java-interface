@@ -1,0 +1,100 @@
+Introduction to interfaces in Java
+Syntax for declaring an interface in Java
+Implementing an interface in Java
+Multiple inheritance using interfaces in Java
+Default methods in Java interfaces
+Static methods in Java interfaces
+Difference between interfaces and abstract classes in Java
+Encapsulation and interfaces in Java
+Polymorphism and interfaces in Java
+Advantages of using interfaces in Java programming
+Access modifiers for interface members in Java
+Creating custom annotations using interfaces in Java
+Marker interfaces in Java
+Functional interfaces in Java 8
+Inheritance hierarchy of interfaces in Java
+Interface evolution in Java 9 onwards
+Nested interfaces in Java
+Type casting with interfaces in Java
+Interfaces as method parameters in Java
+Interfaces as return types in Java methods
+Interface inheritance in Java
+Abstract classes implementing interfaces in Java
+Implementing multiple interfaces with conflicting methods in Java
+Interface constants in Java
+Serialization and interfaces in Java
+Cloning objects using interfaces in Java
+Implementing equals() and hashCode() methods using interfaces in Java
+Implementing compareTo() method using interfaces in Java
+Using interfaces to achieve loose coupling in Java
+Interface-based programming in Java
+Interface testing in Java
+Interface documentation using Javadoc in Java
+Interface design best practices in Java
+Interface naming conventions in Java
+Using interfaces in Java libraries and frameworks
+Lambda expressions and interfaces in Java
+Type erasure and interfaces in Java generics
+Interfaces and method overloading in Java
+Implementing data structures using interfaces in Java
+Using interfaces in multithreaded programming in Java
+Proxy pattern and interfaces in Java
+Decorator pattern and interfaces in Java
+Observer pattern and interfaces in Java
+Adapter pattern and interfaces in Java
+Factory pattern and interfaces in Java
+Strategy pattern and interfaces in Java
+Command pattern and interfaces in Java
+Singleton pattern and interfaces in Java
+Iterator pattern and interfaces in Java
+Template method pattern and interfaces in Java
+Visitor pattern and interfaces in Java
+Composite pattern and interfaces in Java
+Bridge pattern and interfaces in Java
+Facade pattern and interfaces in Java
+Flyweight pattern and interfaces in Java
+Interpreter pattern and interfaces in Java
+Memento pattern and interfaces in Java
+Null object pattern and interfaces in Java
+Builder pattern and interfaces in Java
+Mediator pattern and interfaces in Java
+Observer pattern and interfaces in Java
+State pattern and interfaces in Java
+Chain of responsibility pattern and interfaces in Java
+Command pattern and interfaces in Java
+Visitor pattern and interfaces in Java
+Proxy pattern and interfaces in Java
+MVC pattern and interfaces in Java
+Factory method pattern and interfaces in Java
+Builder pattern and interfaces in Java
+Prototype pattern and interfaces in Java
+Singleton pattern and interfaces in Java
+Object oriented design principles and interfaces in Java
+SOLID principles and interfaces in Java
+Dependency injection and interfaces in Java
+Service locator pattern and interfaces in Java
+Domain-driven design and interfaces in Java
+Test-driven development and interfaces in Java
+Behavioral design patterns and interfaces in Java
+Structural design patterns and interfaces in Java
+Creational design patterns and interfaces in Java
+Introduction to functional interfaces in Java
+Predicate functional interface in Java
+Consumer functional interface in Java
+Function functional interface in Java
+Supplier functional interface in Java
+Operator functional interface in Java
+BiPredicate functional interface in Java
+BiConsumer functional interface in Java
+BiFunction functional interface in Java
+UnaryOperator functional interface in Java
+Collectors functional interface in Java
+Comparator functional interface in Java
+Stream API and interfaces in Java
+Optional API and interfaces in Java
+CompletableFuture API and interfaces in Java
+Concurrency and interfaces in Java
+Parallel programming and interfaces in Java
+Handling exceptions with interfaces in Java
+Design patterns and interfaces in Java
+Unit testing and interfaces in Java

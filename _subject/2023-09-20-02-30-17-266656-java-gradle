@@ -1,0 +1,100 @@
+Introduction to Gradle
+Setting up Gradle in Java project
+Understanding Gradle build scripts
+Configuring Gradle dependencies
+Using Gradle plugins in Java projects
+Running Java applications with Gradle
+Building and packaging Java projects with Gradle
+Publishing artifacts with Gradle
+Creating multi-module projects with Gradle in Java
+Managing project versions with Gradle
+Configuring project tasks in Gradle
+Writing custom Gradle tasks in Java projects
+Continuous integration with Gradle
+Gradle vs Maven for Java project builds
+Gradle wrapper for distributing project builds
+Executing tests with Gradle in Java projects
+Managing project properties with Gradle
+Gradle build caching for faster builds
+Incremental builds with Gradle in Java
+Debugging Gradle build issues in Java projects
+Customizing the project structure with Gradle
+Configuring project repositories in Gradle
+Setting up a local repository with Gradle
+Configuring project build flavors with Gradle
+Gradle build profiles for different environments
+Analyzing project dependencies with Gradle
+Building Java projects with Gradle in different IDEs
+Working with external libraries in Gradle
+Managing third-party dependencies in Gradle
+Configuring project build options in Gradle
+Continuous delivery with Gradle for Java projects
+Gradle build scans for build performance analysis
+Managing project resources with Gradle
+Customizing project artifacts with Gradle
+Using source code generators with Gradle in Java projects
+Deploying Java applications with Gradle
+Version control integration with Gradle
+Configuring project documentation with Gradle
+Gradle build notifications and alerts
+Running code analysis tools with Gradle
+Code coverage reporting with Gradle in Java projects
+Handling project dependencies conflicts with Gradle
+Gradle task parallelization for faster build execution
+Generating API documentation with Gradle
+Multi-platform builds with Gradle in Java projects
+Customizing project build lifecycle with Gradle
+Building native installers with Gradle for Java applications
+Gradle build insights and analytics
+Managing project configurations with Gradle
+Creating command-line interface (CLI) tools with Gradle
+Gradle build caching for Docker containerization
+Configuring project localization with Gradle
+Advanced Gradle build techniques for Java projects
+Configuring project code quality checks with Gradle
+Gradle build environments for different deployment stages
+Managing test resources with Gradle in Java projects
+Dependency resolution strategies in Gradle
+Configuring project version control integration with Gradle
+Building microservices with Gradle in Java projects
+Gradle build profiling and optimization
+Separating application and library modules with Gradle
+Building Android applications with Gradle
+Handling project assets with Gradle
+Gradle build statistics and monitoring
+Configuring project logging with Gradle
+Using build scans for debugging Gradle build issues
+Optimizing Gradle build times for large projects
+Creating custom build tasks with Gradle
+Using Gradle for dependency management in Java projects
+Gradle build reports and metrics
+Configuring project code formatting with Gradle
+Dynamic task generation with Gradle in Java projects
+Polishing and optimizing Gradle build scripts
+Creating build profiles with Gradle for different deployment environments
+Gradle build orchestration and automation
+Incremental annotation processing with Gradle
+Configuring project test automation with Gradle
+Advanced Gradle build flavors and product flavors
+Building Spring Boot applications with Gradle
+Using Gradle for continuous integration and deployment
+Configuring project code style enforcement with Gradle
+Building web applications with Gradle in Java projects
+Creating distributable packages with Gradle
+Gradle build caching for faster Java compilation
+Configuring project profiling and benchmarking with Gradle
+Managing project assets and resources in Gradle
+Deploying Java web applications with Gradle
+Gradle build visualization and insights
+Configuring project security and access control with Gradle
+Building reactive applications with Gradle and Java
+Gradle build scripts best practices for Java projects
+Configuring project documentation generation with Gradle
+Incremental code recompilation with Gradle in Java projects
+Building GraphQL APIs with Gradle and Java
+Configuring project backup and restore with Gradle
+Gradle composite builds for complex project structures
+Building modularized Java applications with Gradle
+Using Gradle for project performance testing and profiling
+Configuring project dependency injection with Gradle
+Deploying Java applications to cloud platforms with Gradle

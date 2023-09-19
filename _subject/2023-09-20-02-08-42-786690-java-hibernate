@@ -1,0 +1,100 @@
+Introduction to Hibernate
+Object-relational mapping with Hibernate
+Setting up Hibernate configuration
+Hibernate session and transaction management
+Mapping entities with Hibernate annotations
+Mapping entities with Hibernate XML configuration
+Hibernate query language (HQL)
+Criteria queries in Hibernate
+Native SQL queries in Hibernate
+Hibernate caching mechanisms
+Hibernate lazy loading and eager fetching
+Hibernate inheritance mapping strategies
+Working with associations in Hibernate
+One-to-one mapping in Hibernate
+One-to-many mapping in Hibernate
+Many-to-one mapping in Hibernate
+Many-to-many mapping in Hibernate
+Cascading operations in Hibernate
+Hibernate life cycle events and listeners
+Hibernate and Spring integration
+Hibernate and JPA integration
+Hibernate and Servlet integration
+Hibernate validation and constraint checking
+Working with composite keys in Hibernate
+Hibernate with MySQL database
+Hibernate with Oracle database
+Hibernate with PostgreSQL database
+Hibernate with SQL Server database
+Hibernate with H2 database
+Hibernate with MongoDB
+Hibernate with NoSQL databases
+Hibernate and connection pooling
+Hibernate and batch processing
+Hibernate and database transactions
+Hibernate and optimistic locking
+Hibernate and pessimistic locking
+Hibernate and caching strategies
+Hibernate and multitenancy
+Hibernate and dynamic SQL generation
+Hibernate and stored procedures
+Hibernate object state inspection and manipulation
+Hibernate LazyInitializationException and solutions
+Hibernate and concurrency control
+Hibernate and database schema creation
+Hibernate and schema migration
+Hibernate and database performance tuning
+Hibernate and session management in multi-threaded environments
+Hibernate and distributed transactions
+Hibernate and data access patterns
+Hibernate and data synchronization
+Hibernate and connection failover
+Hibernate and object versioning
+Hibernate and session replication in clustered environments
+Hibernate and distributed caching
+Hibernate and connection monitoring
+Hibernate and stored procedure calls
+Hibernate and named queries
+Hibernate and query caching
+Hibernate and query hints
+Hibernate and database locking
+Hibernate and SQL injection prevention
+Hibernate and database schema validation
+Hibernate and auto-generated primary keys
+Hibernate and composite foreign keys
+Hibernate and database connection pooling techniques
+Hibernate and lazy loading of collections
+Hibernate and performance tuning guidelines
+Hibernate and connection leak prevention
+Hibernate and data access performance optimization
+Hibernate and multi-tenancy strategies
+Hibernate and optimistic concurrency control
+Hibernate and pessimistic concurrency control
+Hibernate and transaction isolation levels
+Hibernate and bulk operations
+Hibernate and non-transactional operations
+Hibernate and data caching
+Hibernate and unit testing
+Hibernate and integration testing
+Hibernate and functional testing
+Hibernate and performance testing
+Hibernate and security aspects
+Hibernate and logging
+Hibernate and error handling
+Hibernate and data validation
+Hibernate and error reporting
+Hibernate and data migration
+Hibernate and data synchronization
+Hibernate and data replication
+Hibernate and distributed computing
+Hibernate and cloud computing
+Hibernate and microservices architecture
+Hibernate and service-oriented architecture
+Hibernate and event-driven architecture
+Hibernate and reactive programming
+Hibernate and message queues
+Hibernate and RESTful web services
+Hibernate and SOAP web services
+Hibernate and JSON data processing
+Hibernate and XML data processing
+Hibernate and data transformation

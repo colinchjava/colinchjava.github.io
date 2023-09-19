@@ -1,0 +1,100 @@
+Creating a string in Java
+Concatenating strings in Java
+Accessing individual characters in a string in Java
+Comparing strings in Java
+Checking if a string is empty in Java
+Finding the length of a string in Java
+Trimming whitespace from a string in Java
+Converting a string to uppercase in Java
+Converting a string to lowercase in Java
+Reversing a string in Java
+Extracting a substring from a string in Java
+Splitting a string into an array in Java
+Replacing characters in a string in Java
+Checking if a string contains a specific character in Java
+Checking if a string starts with a specific character in Java
+Checking if a string ends with a specific character in Java
+Checking if a string contains a specific substring in Java
+Checking if a string starts with a specific substring in Java
+Checking if a string ends with a specific substring in Java
+Removing a specific character from a string in Java
+Removing whitespace from a string in Java
+Finding the index of a specific character in a string in Java
+Finding the index of a specific substring in a string in Java
+Checking if a string is a palindrome in Java
+Formatting a string in Java
+Combining strings using StringBuilder in Java
+Checking if two strings are equal in Java
+Checking if two strings are equal ignoring case in Java
+Checking if a string matches a specific regular expression in Java
+Searching for a specific character in a string in Java
+Searching for a specific substring in a string in Java
+Inserting a substring into a string in Java
+Padding a string with a specific character in Java
+Removing leading or trailing whitespace from a string in Java
+Removing leading or trailing specific characters from a string in Java
+Getting the Unicode value of a character in a string in Java
+Checking if a string contains only alphabetic characters in Java
+Checking if a string contains only numeric characters in Java
+Checking if a string contains only alphanumeric characters in Java
+Checking if a string contains only lowercase characters in Java
+Checking if a string contains only uppercase characters in Java
+Checking if a string contains a specific word in Java
+Counting the occurrences of a specific character in a string in Java
+Counting the occurrences of a specific substring in a string in Java
+Removing duplicate characters from a string in Java
+Removing duplicate words from a string in Java
+Making the first letter uppercase in a string in Java
+Making the first letter of each word uppercase in a string in Java
+Checking if a string starts with a vowel in Java
+Checking if a string ends with a vowel in Java
+Checking if a string contains only vowels in Java
+Counting the number of vowels in a string in Java
+Checking if a string is an anagram in Java
+Encrypting a string in Java
+Decrypting a string in Java
+Sorting strings in Java
+Checking if a string is a valid email address in Java
+Checking if a string is a valid URL in Java
+Checking if a string is a valid phone number in Java
+Checking if a string is a valid IP address in Java
+Checking if a string is a valid date in Java
+Checking if a string is a valid time in Java
+Checking if a string is a valid social security number in Java
+Checking if a string is a valid credit card number in Java
+Checking if a string is a valid ISBN number in Java
+Checking if a string is a valid password in Java
+Checking if a string is a valid username in Java
+Checking if a string is a valid file path in Java
+Checking if a string is a valid directory path in Java
+Checking if a string is a valid XML document in Java
+Checking if a string is a valid JSON document in Java
+Checking if a string is a valid HTML document in Java
+Counting the number of words in a string in Java
+Counting the number of sentences in a string in Java
+Counting the number of paragraphs in a string in Java
+Checking if a string contains a specific emoji in Java
+Checking if a string contains only emoji characters in Java
+Generating a random string in Java
+Checking if a string is numeric in Java
+Checking if a string is a valid integer in Java
+Checking if a string is a valid floating-point number in Java
+Checking if a string is a valid boolean value in Java
+Checking if a string is a valid hexadecimal number in Java
+Checking if a string is a valid binary number in Java
+Checking if a string is a valid octal number in Java
+Checking if a string is a valid Roman numeral in Java
+Checking if a string is a valid Morse code in Java
+Checking if a string is a valid barcode in Java
+Checking if a string is a valid UUID in Java
+Checking if a string is a valid MAC address in Java
+Checking if a string is a valid IPv4 address in Java
+Checking if a string is a valid IPv6 address in Java
+Checking if a string is a valid domain name in Java
+Checking if a string is a valid file name in Java
+Checking if a string is a valid class name in Java
+Checking if a string is a valid method name in Java
+Checking if a string is a valid variable name in Java
+Checking if a string is a valid color code in Java
+Checking if a string is a valid HTML tag in Java
+Checking if a string is a valid XML tag in Java

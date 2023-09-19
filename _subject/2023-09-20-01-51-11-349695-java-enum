@@ -1,0 +1,100 @@
+Introduction to Java Enum
+Enum basics in Java
+Declaring and using Enum in Java
+Enum constructors in Java
+Enum methods in Java
+Enum constants in Java
+Enum values() method in Java
+Enum valueOf() method in Java
+Enum with fields in Java
+Enum with methods in Java
+Enumset in Java
+Enummap in Java
+Comparable enum in Java
+Customizing enum constants in Java
+Using enum in switch statement in Java
+Enum iteration in Java
+Enum in collections in Java
+Enum in stream operations in Java
+Enum as the alternative to constants in Java
+Enum in Java 8
+Enum best practices in Java
+Using Enum in multithreading in Java
+Enum versus static final constants in Java
+Enum versus class hierarchy in Java
+Enum versus interface in Java
+Using Enum with generics in Java
+Enum constants as objects in Java
+Enum as a singleton in Java
+Enum in annotations in Java
+Enum in exception handling in Java
+Implementing EnumMap in Java
+Implementing EnumSet in Java
+Enum serialization in Java
+Enum deserialization in Java
+Enum reflection in Java
+Enum with different data types in Java
+Enum inheritance in Java
+Implementing a safe enum pattern in Java
+Enum type safety in Java
+Enum as parameter in methods in Java
+Enum as return type in methods in Java
+Enum caching in Java
+Overriding methods in Enum in Java
+Passing Enum as arguments in Java
+Enum internal representation in Java
+Enum as a method argument in Java
+Using Enum in bitwise operations in Java
+Enum constants as default values in Java
+Enum as a replacement for boolean in Java
+Enum with custom types in Java
+Enum as a configuration holder in Java
+Enum with command-line parsing in Java
+Enum usage in user interfaces in Java
+Implementing Enum as state machine in Java
+Enum as a strategy pattern in Java
+Enum as a decorator pattern in Java
+Refactoring constants to Enum in Java
+Enum for handling error codes in Java
+Enum for handling status codes in Java
+Implementing Enum as a data structure in Java
+Enum for handling options in Java
+Enum for handling flags in Java
+Implementing Enum as stateful objects in Java
+Enum for handling HTTP methods in Java
+Enum for handling days of the week in Java
+Enum for handling months of the year in Java
+Enum for handling colors in Java
+Enum for handling directions in Java
+Enum for handling file formats in Java
+Enum for handling logging levels in Java
+Enum for handling permission levels in Java
+Enum for handling sorting orders in Java
+Enum for handling currency codes in Java
+Enum for handling country codes in Java
+Enum for handling language codes in Java
+Enum for handling time zones in Java
+Enum for handling gender in Java
+Enum for handling user roles in Java
+Enum for handling HTTP status codes in Java
+Enum for handling message codes in Java
+Enum for handling error types in Java
+Enum for handling network protocols in Java
+Enum for handling database types in Java
+Enum for handling operating systems in Java
+Enum for handling file permissions in Java
+Enum for handling character encoding in Java
+Enum for handling color palettes in Java
+Enum for handling font styles in Java
+Enum for handling exception types in Java
+Enum for handling alignment options in Java
+Enum for handling date formats in Java
+Enum for handling time formats in Java
+Enum for handling currency symbols in Java
+Enum for handling measurement units in Java
+Enum for handling temperature scales in Java
+Enum for handling sensor types in Java
+Enum for handling animal species in Java
+Enum for handling music genres in Java
+Enum for handling card suits in Java
+Enum for handling geometric shapes in Java

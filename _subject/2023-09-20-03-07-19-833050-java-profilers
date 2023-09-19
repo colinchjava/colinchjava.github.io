@@ -1,0 +1,100 @@
+Introduction to Java profilers
+Types of Java profilers
+Choosing the right Java profiler for your needs
+Setting up a Java profiler
+Profiling tools for Java development
+Performance analysis with Java profilers
+Memory management with Java profilers
+CPU profiling with Java profilers
+Heap profiling with Java profilers
+Thread profiling with Java profilers
+Method profiling with Java profilers
+Garbage collection analysis with Java profilers
+Hotspot analysis with Java profilers
+Performance tuning with Java profilers
+JVM monitoring with Java profilers
+Code coverage analysis with Java profilers
+Memory leak detection with Java profilers
+Deadlock detection with Java profilers
+Bottleneck identification with Java profilers
+CPU usage analysis with Java profilers
+Memory usage analysis with Java profilers
+Profiling multi-threaded applications with Java profilers
+Analyzing lock contention with Java profilers
+Database query analysis with Java profilers
+HTTP request analysis with Java profilers
+Web application profiling with Java profilers
+Profiling servlets and JSPs with Java profilers
+Profiling RESTful APIs with Java profilers
+Profiling Spring applications with Java profilers
+Profiling Hibernate applications with Java profilers
+Profiling JavaFX applications with Java profilers
+Profiling Android applications with Java profilers
+Profiling enterprise Java applications with Java profilers
+Dynamic code analysis with Java profilers
+Method call visualization with Java profilers
+Object allocation analysis with Java profilers
+Profiling memory leaks with Java profilers
+Analyzing CPU bottlenecks with Java profilers
+Code profiling best practices with Java profilers
+Profiling in development vs production environments with Java profilers
+Profiling distributed systems with Java profilers
+Load testing with Java profilers
+Analysing performance degradation with Java profilers
+Profiling memory-intensive applications with Java profilers
+Optimizing garbage collection with Java profilers
+Analyzing I/O bottlenecks with Java profilers
+Analyzing network latency with Java profilers
+Analyzing thread contention with Java profilers
+Profiling AWT/Swing applications with Java profilers
+Profiling Java applets with Java profilers
+Profiling Java servlet containers with Java profilers
+Memory allocation analysis with Java profilers
+Memory leak prevention with Java profilers
+Profiling unit tests with Java profilers
+Profiling integration tests with Java profilers
+Profiling performance tests with Java profilers
+Profiling database connections with Java profilers
+Monitoring database access with Java profilers
+Analyzing JDBC performance with Java profilers
+Detecting database connection leaks with Java profilers
+Profiling reflection usage with Java profilers
+CPU utilization analysis with Java profilers
+Analyzing network performance with Java profilers
+Profiling distributed caching with Java profilers
+Profiling thread pools with Java profilers
+Analyzing database connection pooling with Java profilers
+Analyzing HTTP client performance with Java profilers
+Profiling message queues with Java profilers
+Profiling MapReduce applications with Java profilers
+Benchmarking with Java profilers
+Profiling performance bottlenecks in microservices with Java profilers
+Profiling memory usage in microservices with Java profilers
+Profiling thread synchronization overhead with Java profilers
+Profiling code hotspots with Java profilers
+Analyzing object serialization performance with Java profilers
+Profiling resource utilization with Java profilers
+Profiling asynchronous programming with Java profilers
+Visualizing profiling results with Java profilers
+Profiling code coverage in test suites with Java profilers
+Profiling memory allocation in real-time applications with Java profilers
+Profiling performance of data structures with Java profilers
+Profiling performance of algorithms with Java profilers
+Profiling lambda expressions and functional programming with Java profilers
+Profiling logging frameworks with Java profilers
+Profiling XML parsing and transformation with Java profilers
+Analyzing JIT compiler optimizations with Java profilers
+Profiling dynamic class loading with Java profilers
+Profiling security-related aspects with Java profilers
+Analyzing buffer overflows and memory corruption with Java profilers
+Profiling Apache Tomcat applications with Java profilers
+Profiling Java web services with Java profilers
+Profiling Java batch processing with Java profilers
+Analyzing database lock contention with Java profilers
+Profiling caching mechanisms with Java profilers
+Analyzing performance of distributed caching systems with Java profilers
+Profiling network protocols with Java profilers
+Analyzing distributed transactions with Java profilers
+Profiling JNI (Java Native Interface) calls with Java profilers
+Profiling multi-module Maven projects with Java profilers
+Profiling RMI (Remote Method Invocation) applications with Java profilers

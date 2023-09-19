@@ -1,0 +1,100 @@
+Introduction to Java Spring Data
+Overview of Spring Data projects
+Benefits of using Spring Data
+Getting started with Java Spring Data
+Spring Data JPA
+Spring Data JDBC
+Spring Data MongoDB
+Spring Data Redis
+Spring Data Cassandra
+Spring Data Couchbase
+Spring Data Elasticsearch
+Spring Data Neo4j
+Spring Data Solr
+Spring Data for Apache Geode
+Spring Data for Apache Hadoop
+Spring Data for Apache Ignite
+Spring Data for Apache Kafka
+Spring Data for Apache Pulsar
+Spring Data for Apache RocketMQ
+Spring Data for Apache ZooKeeper
+Spring Data for Azure Cosmos DB
+Spring Data for Google Cloud Spanner
+Spring Data for Google Cloud Firestore
+Spring Data for AWS DynamoDB
+Spring Data for AWS S3
+Spring Data for AWS DocumentDB
+Spring Data for Oracle Database
+Spring Data for PostgreSQL
+Spring Data for MySQL
+Spring Data for Microsoft SQL Server
+Spring Data for IBM Db2
+Spring Data for Sybase ASE
+Spring Data for SQLite
+Spring Data for H2 Database
+Spring Data for HSQLDB
+Spring Data for Apache Derby
+Spring Data for Apache Hive
+Spring Data for Apache Phoenix
+Spring Data for Apache HBase
+Spring Data for Apache Accumulo
+Spring Data for Apache SolrCloud
+Spring Data for Apache CouchDB
+Spring Data for Hazelcast
+Spring Data for Infinispan
+Spring Data for Ehcache
+Spring Data for MapDB
+Spring Data for Guava
+Spring Data for JobRunr
+Spring Data REST
+Spring Data Neo4j OGM
+Spring Data Vaadin
+Spring Data Cassandra Query Builder
+Spring Data JDBC Extensions
+Spring Data DB4O
+Spring Data XML
+Spring Data Criteria
+Spring Data Cache
+Spring Data Transactions
+Spring Data Auditing
+Spring Data Conversions
+Spring Data Query Methods
+Spring Data Projections
+Spring Data SpEL Expressions
+Spring Data Sort and Pagination
+Spring Data Event Handling
+Spring Data Lifecycle Events
+Spring Data Validation
+Spring Data QueryDSL
+Spring Data Query by Example
+Spring Data Specifications
+Spring Data Mapping Context
+Spring Data DataNucleus
+Spring Data R2DBC
+Spring Data JDBC To R2DBC
+Spring Data MockModule
+Spring Data TestUtils
+Spring Data RepositoryFactoryBean
+Spring Data Repository
+Spring Data CrudRepository
+Spring Data PagingAndSortingRepository
+Spring Data QueryByExampleExecutor
+Spring Data Neo4jRepository
+Spring Data RedisRepository
+Spring Data ElasticsearchRepository
+Spring Data reactive repositories
+Spring Data projections and DTOs
+Spring Data auditing and tracking changes
+Spring Data custom repository methods
+Spring Data query methods with dynamic filtering
+Spring Data pagination and sorting
+Spring Data performance tuning
+Spring Data best practices
+Spring Data integration with Spring Framework
+Spring Data integration with Spring Boot
+Spring Data integration with other Spring projects (e.g., Spring MVC)
+Spring Data integration with Hibernate ORM
+Spring Data integration with JPA
+Spring Data integration with JDBC
+Spring Data integration with NoSQL databases
+Spring Data integration with cloud-based data storage services

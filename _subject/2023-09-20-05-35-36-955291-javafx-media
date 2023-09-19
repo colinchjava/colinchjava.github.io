@@ -1,0 +1,100 @@
+Introduction to JavaFX Media
+Features of JavaFX Media
+Overview of JavaFX Media API
+Playing audio files in JavaFX
+Playing video files in JavaFX
+Supported audio formats in JavaFX
+Supported video formats in JavaFX
+Creating a simple audio player in JavaFX
+Creating a simple video player in JavaFX
+Controlling audio playback in JavaFX
+Controlling video playback in JavaFX
+Adding media controls to a JavaFX application
+Customizing media controls in JavaFX
+Handling media events in JavaFX
+Playing audio streams in JavaFX
+Streaming video in JavaFX
+Loading media asynchronously in JavaFX
+Handling multimedia resources in a JavaFX application
+Applying visual effects to video playback in JavaFX
+Applying audio effects to audio playback in JavaFX
+Creating a playlist in JavaFX
+Shuffling and looping media in JavaFX
+Synchronizing media playback in JavaFX
+Capturing audio input in JavaFX
+Integrating JavaFX Media with JavaFX Animation
+Using JavaFX Media with JavaFX WebView component
+Creating a media gallery app in JavaFX
+Implementing a video streaming client in JavaFX
+Implementing a radio player in JavaFX
+Implementing a karaoke app in JavaFX
+Embedding media in a JavaFX WebView
+Creating a video conferencing app in JavaFX
+Implementing a video editing tool in JavaFX
+Creating a media player with equalizer in JavaFX
+Implementing a music visualization app in JavaFX
+Using the MediaPlayer class in JavaFX
+Using the MediaView class in JavaFX
+Loading media from a URL in JavaFX
+Creating a video recorder in JavaFX
+Creating a media slideshow in JavaFX
+Implementing a media streaming server in JavaFX
+Creating a media player with subtitle support in JavaFX
+Customizing media playback controls in JavaFX
+Implementing video playback controls in JavaFX
+Implementing audio playback controls in JavaFX
+Implementing media search functionality in JavaFX
+Creating a media player with visualizations in JavaFX
+Creating a media player with a playlist in JavaFX
+Implementing media playback in fullscreen mode in JavaFX
+Creating a media player with time-shift functionality in JavaFX
+Implementing a media player with audio visualization in JavaFX
+Creating a media player with advanced video codecs support in JavaFX
+Implementing a media player with gesture control in JavaFX
+Creating a media player with synchronized lyrics display in JavaFX
+Implementing a media player with picture-in-picture mode in JavaFX
+Creating a media player with chromecast support in JavaFX
+Implementing a media player with audio equalizer in JavaFX
+Creating a media player with 360-degree video playback in JavaFX
+Implementing a media player with subtitle selection in JavaFX
+Creating a media player with live streaming support in JavaFX
+Implementing a media player with video recording functionality in JavaFX
+Creating a media player with multiple audio tracks support in JavaFX
+Implementing a media player with audio crossfading in JavaFX
+Creating a media player with audio pitch shifting in JavaFX
+Implementing a media player with video zooming functionality in JavaFX
+Creating a media player with video effects in JavaFX
+Implementing a media player with video frame extraction in JavaFX
+Creating a media player with audio visualizer in JavaFX
+Implementing a media player with media subtitle synchronization in JavaFX
+Creating a media player with media thumbnail generation in JavaFX
+Implementing a media player with audio resampling in JavaFX
+Creating a media player with video cropping functionality in JavaFX
+Implementing a media player with video rotation in JavaFX
+Creating a media player with video time-lapse functionality in JavaFX
+Implementing a media player with video slow motion in JavaFX
+Creating a media player with audio merging in JavaFX
+Implementing a media player with audio splitting in JavaFX
+Creating a media player with video merging in JavaFX
+Implementing a media player with video splitting in JavaFX
+Creating a media player with video overlay in JavaFX
+Implementing a media player with video mirroring in JavaFX
+Creating a media player with audio effects in JavaFX
+Implementing a media player with audio filtering in JavaFX
+Creating a media player with video effects in JavaFX
+Implementing a media player with video transitions in JavaFX
+Creating a media player with video watermarking in JavaFX
+Implementing a media player with video subtitles in JavaFX
+Creating a media player with video captioning in JavaFX
+Implementing a media player with video time stretching in JavaFX
+Creating a media player with video mirroring in JavaFX
+Implementing a media player with video time-lapse in JavaFX
+Creating a media player with video slow motion in JavaFX
+Implementing a media player with video cropping in JavaFX
+Creating a media player with video rotation in JavaFX
+Implementing a media player with video zooming in JavaFX
+Creating a media player with video panning in JavaFX
+Implementing a media player with video scaling in JavaFX
+Creating a media player with video flipping in JavaFX
+Implementing a media player with video blending in JavaFX
+Creating a media player with video transition effects in JavaFX

@@ -1,0 +1,100 @@
+Introduction to Apache PDFBox
+Features of Apache PDFBox
+Installing Apache PDFBox
+Getting started with Apache PDFBox
+Creating a new PDF document with Apache PDFBox
+Loading an existing PDF document with Apache PDFBox
+Reading text from a PDF document using Apache PDFBox
+Extracting images from a PDF document using Apache PDFBox
+Extracting metadata from a PDF document using Apache PDFBox
+Creating text-based watermarks in PDF documents using Apache PDFBox
+Creating image-based watermarks in PDF documents using Apache PDFBox
+Adding annotations and comments to a PDF document using Apache PDFBox
+Adding bookmarks to a PDF document using Apache PDFBox
+Encrypting a PDF document using Apache PDFBox
+Decrypting a PDF document using Apache PDFBox
+Merging multiple PDF documents into a single document using Apache PDFBox
+Splitting a PDF document into multiple documents using Apache PDFBox
+Adding headers and footers to a PDF document using Apache PDFBox
+Extracting text from specific pages of a PDF document using Apache PDFBox
+Adding digital signatures to a PDF document using Apache PDFBox
+Validating digital signatures in a PDF document using Apache PDFBox
+Creating PDF forms using Apache PDFBox
+Filling PDF forms using Apache PDFBox
+Flattening PDF forms using Apache PDFBox
+Extracting form field data from a PDF document using Apache PDFBox
+Converting PDF to other file formats using Apache PDFBox
+Converting images to PDF using Apache PDFBox
+Handling PDF fonts using Apache PDFBox
+Generating barcodes in PDF documents using Apache PDFBox
+Extracting tables from a PDF document using Apache PDFBox
+Manipulating page content in a PDF document using Apache PDFBox
+Creating interactive PDF documents using Apache PDFBox
+Adding hyperlinks to a PDF document using Apache PDFBox
+Extracting text coordinates from a PDF document using Apache PDFBox
+Extracting metadata using XMP with Apache PDFBox
+Redacting sensitive information in a PDF document using Apache PDFBox
+OCR (Optical Character Recognition) with Apache PDFBox
+Extracting images with OCR from a PDF document using Apache PDFBox
+Rotating pages in a PDF document using Apache PDFBox
+Extracting text from scanned PDF documents using Apache PDFBox
+Extracting images from scanned PDF documents using Apache PDFBox
+Adding and manipulating layers in a PDF document using Apache PDFBox
+Extracting images with transparent backgrounds from a PDF document using Apache PDFBox
+Removing pages from a PDF document using Apache PDFBox
+Combining multiple PDF documents preserving bookmarks using Apache PDFBox
+Extracting tables with structure from a PDF document using Apache PDFBox
+Extracting audio and video from a PDF document using Apache PDFBox
+Extending Apache PDFBox with custom functionality
+Parsing PDF document content with Apache PDFBox
+Generating PDF/A compliant documents using Apache PDFBox
+Extracting text and images from password-protected PDF documents using Apache PDFBox
+Adding digital timestamps to a PDF document using Apache PDFBox
+Extracting text and images from encrypted PDF documents using Apache PDFBox
+Creating tagged PDF documents for accessibility using Apache PDFBox
+Extracting embedded files from a PDF document using Apache PDFBox
+Extracting table of contents from a PDF document using Apache PDFBox
+Creating 3D PDF documents using Apache PDFBox
+Extracting and editing form fields from a PDF document using Apache PDFBox
+Adding multimedia content to a PDF document using Apache PDFBox
+Extracting highlighted text from a PDF document using Apache PDFBox
+Creating dynamic stamps in PDF documents using Apache PDFBox
+Extracting fonts from a PDF document using Apache PDFBox
+Adding transparent images in a PDF document using Apache PDFBox
+Extracting hyperlinks from a PDF document using Apache PDFBox
+Creating PDF portfolios using Apache PDFBox
+Embedding audio and video in a PDF document using Apache PDFBox
+Extracting text from PDF documents in different languages using Apache PDFBox
+Adding page transitions in a PDF document using Apache PDFBox
+Converting HTML to PDF using Apache PDFBox
+Extracting text from compressed PDF documents using Apache PDFBox
+Creating thumbnail images of PDF pages using Apache PDFBox
+Extracting vector graphics from a PDF document using Apache PDFBox
+Adding watermarks to specific pages of a PDF document using Apache PDFBox
+Extracting images with specific DPI from a PDF document using Apache PDFBox
+Creating PDF/A-3 documents with embedded files using Apache PDFBox
+Extracting text and images from rotated PDF documents using Apache PDFBox
+Adding headers and footers to specific pages of a PDF document using Apache PDFBox
+Extracting metadata from password-protected PDF documents using Apache PDFBox
+Creating encrypted PDF documents with different permissions using Apache PDFBox
+Extracting interactive form fields from a PDF document using Apache PDFBox
+Adding custom fonts to a PDF document using Apache PDFBox
+Extracting text and images from digitally signed PDF documents using Apache PDFBox
+Creating custom annotations in a PDF document using Apache PDFBox
+Extracting text and images from PDF documents in bulk using Apache PDFBox
+Adding background images or colors to a PDF document using Apache PDFBox
+Extracting text and images from PDF portfolios using Apache PDFBox
+Creating searchable PDF documents using Apache PDFBox
+Extracting metadata from corrupted PDF documents using Apache PDFBox
+Adding expiry dates to a PDF document using Apache PDFBox
+Extracting text and images from password-protected and encrypted PDF documents using Apache PDFBox
+Creating invoices and receipts with Apache PDFBox
+Extracting text from scanned invoices and receipts using Apache PDFBox
+Adding table of contents to a PDF document using Apache PDFBox
+Extracting text and images from damaged PDF documents using Apache PDFBox
+Creating PDF documents with different page sizes using Apache PDFBox
+Extracting embedded files from password-protected PDF documents using Apache PDFBox
+Adding watermarks with opacity and rotation to a PDF document using Apache PDFBox
+Extracting text from specific regions of a PDF document using Apache PDFBox
+Creating PDF documents with custom page numbering using Apache PDFBox
+Extracting text and images from PDF documents with irregular layouts using Apache PDFBox

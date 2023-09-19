@@ -1,0 +1,100 @@
+Introduction to Java JFreeChart
+Installation and setup of JFreeChart library in Java
+Basic bar chart using JFreeChart in Java
+Line chart using JFreeChart in Java
+Pie chart using JFreeChart in Java
+Area chart using JFreeChart in Java
+Scatter plot using JFreeChart in Java
+Time series chart using JFreeChart in Java
+Combination chart using JFreeChart in Java
+3D chart using JFreeChart in Java
+Different types of charts available in JFreeChart
+Customizing chart appearance in JFreeChart
+Adding title and axis labels to a chart using JFreeChart
+Adding legends to a chart using JFreeChart
+Adding tooltips and mouse interactions to a chart using JFreeChart
+Creating multiple series in a chart using JFreeChart
+Saving a chart as an image or PDF file using JFreeChart
+Printing a chart using JFreeChart
+Plotting real-time data in a chart using JFreeChart
+Creating a dynamic chart using JFreeChart
+Exporting data from a chart using JFreeChart
+Handling exceptions and errors in JFreeChart
+Creating custom chart themes in JFreeChart
+Using JFreeChart with Swing GUI components in Java
+Using JFreeChart with JavaFX applications
+Creating stacked bar charts using JFreeChart
+Creating stacked area charts using JFreeChart
+Creating stacked line charts using JFreeChart
+Creating logarithmic scale charts using JFreeChart
+Creating dual axis charts using JFreeChart
+Adding annotations to a chart using JFreeChart
+Creating multiple chart panels in a single frame using JFreeChart
+Creating combined charts using JFreeChart
+Creating overlaid charts using JFreeChart
+Creating dynamic charts with live data updates using JFreeChart
+Creating statistical charts using JFreeChart
+Creating financial charts using JFreeChart
+Creating heat maps using JFreeChart
+Creating box and whisker plots using JFreeChart
+Creating candlestick charts using JFreeChart
+Creating Gantt charts using JFreeChart
+Creating waterfall charts using JFreeChart
+Creating radar charts using JFreeChart
+Creating polar charts using JFreeChart
+Creating spider charts using JFreeChart
+Creating bubble charts using JFreeChart
+Creating range axis charts using JFreeChart
+Creating date axis charts using JFreeChart
+Creating multiple axis charts using JFreeChart
+Creating logarithmic axis charts using JFreeChart
+Adding custom markers to a chart using JFreeChart
+Adding custom renderers to a chart using JFreeChart
+Adding custom labels to a chart using JFreeChart
+Adding custom tooltips to a chart using JFreeChart
+Adding custom axis labels to a chart using JFreeChart
+Adding custom legends to a chart using JFreeChart
+Creating interactive charts using JFreeChart
+Creating animated charts using JFreeChart
+Handling user interactions with a chart using JFreeChart
+Creating drill-down charts using JFreeChart
+Creating zoomable charts using JFreeChart
+Creating pannable charts using JFreeChart
+Creating printing-friendly charts using JFreeChart
+Creating high-resolution charts using JFreeChart
+Creating accessible charts for visually impaired users using JFreeChart
+Creating scalable vector graphics (SVG) charts using JFreeChart
+Creating charts with internationalization (i18n) support using JFreeChart
+Creating responsive charts using JFreeChart
+Creating charts with real-time data streaming using JFreeChart
+Creating charts with server-side scripting using JFreeChart
+Creating mobile-friendly charts using JFreeChart
+Creating charts with data aggregation using JFreeChart
+Creating charts with data filters using JFreeChart
+Creating charts with data sorting and grouping using JFreeChart
+Creating charts with data manipulation using JFreeChart
+Creating charts with data labeling using JFreeChart
+Creating charts with drill-through capabilities using JFreeChart
+Creating charts with data export and import capabilities using JFreeChart
+Creating charts with data validation using JFreeChart
+Creating charts with data analysis using JFreeChart
+Creating charts with data forecasting using JFreeChart
+Creating charts with data clustering using JFreeChart
+Creating charts with data interpolation using JFreeChart
+Creating charts with data smoothing using JFreeChart
+Creating charts with data transformation using JFreeChart
+Creating charts with data aggregation using JFreeChart
+Creating charts with data filtering using JFreeChart
+Creating charts with data sorting using JFreeChart
+Creating charts with data grouping using JFreeChart
+Creating charts with statistical analysis using JFreeChart
+Creating charts with regression analysis using JFreeChart
+Creating charts with correlation analysis using JFreeChart
+Creating charts with time series analysis using JFreeChart
+Creating charts with trend analysis using JFreeChart
+Creating charts with outlier analysis using JFreeChart
+Creating charts with clustering analysis using JFreeChart
+Creating charts with classification analysis using JFreeChart
+Creating charts with sentiment analysis using JFreeChart
+Creating charts with anomaly detection using JFreeChart
+Creating charts with predictive modeling using JFreeChart

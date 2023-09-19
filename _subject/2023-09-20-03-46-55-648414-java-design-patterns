@@ -1,0 +1,100 @@
+Singleton pattern
+Factory pattern
+Abstract factory pattern
+Builder pattern
+Prototype pattern
+Adapter pattern
+Decorator pattern
+Facade pattern
+Proxy pattern
+Composite pattern
+Iterator pattern
+Observer pattern
+Mediator pattern
+Visitor pattern
+Strategy pattern
+Template method pattern
+Command pattern
+Chain of Responsibility pattern
+State pattern
+Interpreter pattern
+Flyweight pattern
+Memento pattern
+Bridge pattern
+MVC pattern
+Data Access Object (DAO) pattern
+Business Delegate pattern
+Front Controller pattern
+Value Object pattern
+Dependency Injection pattern
+Inversion of Control (IoC) pattern
+Active Object pattern
+Null Object pattern
+Command Processor pattern
+Transaction Script pattern
+Unit of Work pattern
+Object Pool pattern
+Subclass Sandbox pattern
+Monostate pattern
+Module pattern
+Balking pattern
+Extension Object pattern
+Registry pattern
+Type Object pattern
+Double Checked Locking pattern
+Immutable pattern
+Semaphore pattern
+Half - Sync/Half - Async pattern
+Thread Local Storage pattern
+Guarded Suspension pattern
+Fluent Interface pattern
+Chain of Command pattern
+CQRS pattern
+Event Sourcing pattern
+Specification pattern
+Aggregate pattern
+Domain Event pattern
+Repository pattern
+Unit of Work pattern
+Domain Driven Design (DDD) pattern
+Saga pattern
+Circuit Breaker pattern
+Bulkhead pattern
+Retry pattern
+Timeout pattern
+Compensation pattern
+Load Balancer pattern
+Service Registry pattern
+API Gateway pattern
+Interprocess Communication pattern
+Gatekeeper pattern
+Circuit Breaker pattern
+Event Driven architecture
+Lambda architecture
+Microservices pattern
+Cloud Computing pattern
+Big Data pattern
+Real-Time pattern
+Reactive programming pattern
+Actor model pattern
+Peer-to-peer pattern
+Publish/Subscribe pattern
+Batching pattern
+MapReduce pattern
+Parallel computing pattern
+Data Streaming pattern
+Map-Reduce-Merge pattern
+Producer/Consumer pattern
+Asynchronous pattern
+Scheduling pattern
+Fork/Join pattern
+Producer/Consumer pattern
+Work-Stealing pattern
+MapReduce pattern
+Thread Pool pattern
+Barrier pattern
+Read-Write Lock pattern
+Synchronizer pattern
+Mutex pattern
+Semaphore pattern
+CountDownLatch pattern
