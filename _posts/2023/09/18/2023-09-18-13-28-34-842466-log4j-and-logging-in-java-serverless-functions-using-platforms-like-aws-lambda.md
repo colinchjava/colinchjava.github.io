@@ -31,6 +31,7 @@ To start logging with Log4j in your Java serverless functions on AWS Lambda, fol
 2. Create a Log4j configuration file (e.g., `log4j2.xml`) in the resources directory of your project. Here's a sample configuration to get you started:
 
    ```xml
+   {% raw %}
    <?xml version="1.0" encoding="UTF-8"?>
    <Configuration status="info" name="MyApp" packages="">
        <Appenders>
@@ -44,6 +45,7 @@ To start logging with Log4j in your Java serverless functions on AWS Lambda, fol
            </Root>
        </Loggers>
    </Configuration>
+   {% endraw %}
    ```
 
    Note: This configuration writes log messages to the console using a predefined pattern layout. You can modify it based on your requirements.

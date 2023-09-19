@@ -37,7 +37,9 @@ If you must log sensitive information, consider **masking or encrypting** it bef
 To configure log masking, you need to define a regular expression pattern and a replacement string. The pattern matches the sensitive information, and the replacement string defines how it should be masked in the log. Here's an example:
 
 ```xml
+{% raw %}
 <Property name="log4j2.PatternLayout" value="%replace{%m}{(?i)password=([^,]+)}{password=****}"/>
+{% endraw %}
 ```
 
 This configuration will mask any occurrence of `password=` followed by any characters until a comma is encountered.

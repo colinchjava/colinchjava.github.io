@@ -19,6 +19,7 @@ The first step is to create a Log4j configuration file, typically named `log4j2.
 Here is an example `log4j2.xml` configuration file:
 
 ```xml
+{% raw %}
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="WARN">
     <Appenders>
@@ -32,6 +33,7 @@ Here is an example `log4j2.xml` configuration file:
         </Root>
     </Loggers>
 </Configuration>
+{% endraw %}
 ```
 
 In this example, we have a single appender (`Console`) that outputs logs to the console (`SYSTEM_OUT`). The log pattern includes the timestamp, log level, and the log message. The log level is also highlighted based on severity.
