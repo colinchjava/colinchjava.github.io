@@ -46,11 +46,13 @@ Most logging frameworks support thread context logging, where you can associate 
 In Log4j2, you can use the `ThreadContext` class to add and retrieve thread-specific attributes. Here's an example of how to use it:
 
 ```java
+{% raw %}
 ThreadContext.put("userId", "12345");
 LOG.info("User login successful");
 
 // Retrieve the userId attribute in log messages
 %replace{%message}{userId=%X{userId}}{}
+{% endraw %}
 ```
 
 ### Conclusion
