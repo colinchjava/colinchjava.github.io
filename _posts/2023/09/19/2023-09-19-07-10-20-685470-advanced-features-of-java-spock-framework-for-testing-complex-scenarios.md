@@ -3,7 +3,7 @@ layout: post
 title: "Advanced features of Java Spock framework for testing complex scenarios"
 description: " "
 date: 2023-09-19
-tags: [Java, Testing]
+tags: [Testing]
 comments: true
 share: true
 ---

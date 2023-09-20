@@ -3,7 +3,7 @@ layout: post
 title: "Logging performance tips and best practices for Java applications"
 description: " "
 date: 2023-09-20
-tags: [Java, LoggingPerformanceTips]
+tags: [LoggingPerformanceTips]
 comments: true
 share: true
 ---

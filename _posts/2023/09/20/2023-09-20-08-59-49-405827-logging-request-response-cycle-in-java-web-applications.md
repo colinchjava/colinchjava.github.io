@@ -3,7 +3,7 @@ layout: post
 title: "Logging request-response cycle in Java web applications"
 description: " "
 date: 2023-09-20
-tags: [Java, Logging]
+tags: [Logging]
 comments: true
 share: true
 ---

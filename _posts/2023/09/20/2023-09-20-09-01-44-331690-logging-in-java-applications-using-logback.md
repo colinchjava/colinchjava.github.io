@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java applications using Logback"
 description: " "
 date: 2023-09-20
-tags: [Java, Logback]
+tags: [Logback]
 comments: true
 share: true
 ---

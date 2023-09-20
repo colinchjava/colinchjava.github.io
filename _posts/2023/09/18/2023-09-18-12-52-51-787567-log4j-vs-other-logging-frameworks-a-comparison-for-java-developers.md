@@ -3,7 +3,7 @@ layout: post
 title: "Log4j vs. other logging frameworks: a comparison for Java developers"
 description: " "
 date: 2023-09-18
-tags: [java, logging]
+tags: [logging]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java applications using Elasticsearch"
 description: " "
 date: 2023-09-20
-tags: [java, logging]
+tags: [logging]
 comments: true
 share: true
 ---

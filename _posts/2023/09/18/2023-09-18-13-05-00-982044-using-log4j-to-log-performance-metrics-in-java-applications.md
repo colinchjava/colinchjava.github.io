@@ -3,7 +3,7 @@ layout: post
 title: "Using Log4j to log performance metrics in Java applications"
 description: " "
 date: 2023-09-18
-tags: [Java, Logging]
+tags: [Logging]
 comments: true
 share: true
 ---

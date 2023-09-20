@@ -3,7 +3,7 @@ layout: post
 title: "How to use Log4j for logging in a multi-threaded Java application"
 description: " "
 date: 2023-09-18
-tags: [Java, Logging]
+tags: [Logging]
 comments: true
 share: true
 ---

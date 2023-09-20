@@ -3,7 +3,7 @@ layout: post
 title: "Logging for fraud detection and prevention in Java applications"
 description: " "
 date: 2023-09-20
-tags: [Java, FraudDetection]
+tags: [FraudDetection]
 comments: true
 share: true
 ---

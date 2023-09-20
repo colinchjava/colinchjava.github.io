@@ -3,7 +3,7 @@ layout: post
 title: "Exploring mutation analysis in Java Spock tests"
 description: " "
 date: 2023-09-19
-tags: [Java, SoftwareTesting]
+tags: [SoftwareTesting]
 comments: true
 share: true
 ---

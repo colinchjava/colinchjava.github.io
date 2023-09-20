@@ -3,7 +3,7 @@ layout: post
 title: "How to effectively integrate Java Spock with continuous integration tools"
 description: " "
 date: 2023-09-19
-tags: [Java, Spock, ContinuousIntegration]
+tags: [Spock, ContinuousIntegration]
 comments: true
 share: true
 ---

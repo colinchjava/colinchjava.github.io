@@ -3,7 +3,7 @@ layout: post
 title: "Log4j configuration for logging in Java applications running in Kubernetes clusters"
 description: " "
 date: 2023-09-18
-tags: [Java, Kubernetes]
+tags: [Kubernetes]
 comments: true
 share: true
 ---

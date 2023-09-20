@@ -3,7 +3,7 @@ layout: post
 title: "Exploring contract-first testing with Java Spock framework"
 description: " "
 date: 2023-09-19
-tags: [java, Spock, contractfirsttesting]
+tags: [Spock, contractfirsttesting]
 comments: true
 share: true
 ---

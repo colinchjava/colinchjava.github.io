@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java applications using Graylog"
 description: " "
 date: 2023-09-20
-tags: [Java, Graylog]
+tags: [Graylog]
 comments: true
 share: true
 ---

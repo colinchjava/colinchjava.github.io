@@ -3,7 +3,7 @@ layout: post
 title: "Step-by-step guide on how to configure Log4j for a Java project"
 description: " "
 date: 2023-09-18
-tags: [Java, Log4j]
+tags: [Log4j]
 comments: true
 share: true
 ---

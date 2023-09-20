@@ -3,7 +3,7 @@ layout: post
 title: "Handling log messages in multi-threaded Java applications"
 description: " "
 date: 2023-09-20
-tags: [Java, MultiThreading]
+tags: [MultiThreading]
 comments: true
 share: true
 ---

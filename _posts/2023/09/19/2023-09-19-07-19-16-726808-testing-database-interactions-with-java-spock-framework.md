@@ -3,7 +3,7 @@ layout: post
 title: "Testing database interactions with Java Spock framework"
 description: " "
 date: 2023-09-19
-tags: [Java, Spock, Testing, Database]
+tags: [Spock, Testing, Database]
 comments: true
 share: true
 ---

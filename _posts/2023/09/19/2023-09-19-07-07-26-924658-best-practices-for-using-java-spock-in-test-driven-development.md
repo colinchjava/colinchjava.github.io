@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for using Java Spock in test-driven development"
 description: " "
 date: 2023-09-19
-tags: [Java, Spock]
+tags: [Spock]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Testing streaming analytics with Java Spock"
 description: " "
 date: 2023-09-19
-tags: [Java, Spock]
+tags: [Spock]
 comments: true
 share: true
 ---

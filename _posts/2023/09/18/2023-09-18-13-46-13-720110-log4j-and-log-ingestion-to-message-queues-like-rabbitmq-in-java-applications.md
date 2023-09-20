@@ -3,7 +3,7 @@ layout: post
 title: "Log4j and log ingestion to message queues like RabbitMQ in Java applications"
 description: " "
 date: 2023-09-18
-tags: [Java, Logging]
+tags: [Logging]
 comments: true
 share: true
 ---

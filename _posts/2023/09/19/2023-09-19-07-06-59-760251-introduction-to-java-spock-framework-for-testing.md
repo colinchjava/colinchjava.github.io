@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Java Spock framework for testing"
 description: " "
 date: 2023-09-19
-tags: [Java, Testing]
+tags: [Testing]
 comments: true
 share: true
 ---

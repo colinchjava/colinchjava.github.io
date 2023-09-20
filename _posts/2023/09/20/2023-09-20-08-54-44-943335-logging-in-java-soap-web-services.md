@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java SOAP web services"
 description: " "
 date: 2023-09-20
-tags: [Java, SOAP]
+tags: [SOAP]
 comments: true
 share: true
 ---

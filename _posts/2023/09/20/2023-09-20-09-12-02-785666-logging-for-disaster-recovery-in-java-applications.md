@@ -3,7 +3,7 @@ layout: post
 title: "Logging for disaster recovery in Java applications"
 description: " "
 date: 2023-09-20
-tags: [java, logging]
+tags: [logging]
 comments: true
 share: true
 ---

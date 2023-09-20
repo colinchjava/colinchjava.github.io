@@ -3,7 +3,7 @@ layout: post
 title: "Log4j MDC (Mapped Diagnostic Context): its importance and practical usage in Java applications"
 description: " "
 date: 2023-09-18
-tags: [java, logging]
+tags: [logging]
 comments: true
 share: true
 ---

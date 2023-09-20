@@ -3,7 +3,7 @@ layout: post
 title: "Testing performance bottlenecks with Java Spock"
 description: " "
 date: 2023-09-19
-tags: [Java, PerformanceTesting]
+tags: [PerformanceTesting]
 comments: true
 share: true
 ---

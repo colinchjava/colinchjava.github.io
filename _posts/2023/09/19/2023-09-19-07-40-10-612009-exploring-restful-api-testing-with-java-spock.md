@@ -3,7 +3,7 @@ layout: post
 title: "Exploring RESTful API testing with Java Spock"
 description: " "
 date: 2023-09-19
-tags: [java, restfulapi, testing]
+tags: [restfulapi, testing]
 comments: true
 share: true
 ---

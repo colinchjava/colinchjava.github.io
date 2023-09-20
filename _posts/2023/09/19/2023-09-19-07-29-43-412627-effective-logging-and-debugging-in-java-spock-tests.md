@@ -3,7 +3,7 @@ layout: post
 title: "Effective logging and debugging in Java Spock tests"
 description: " "
 date: 2023-09-19
-tags: [java, Spock, logging, debugging]
+tags: [Spock, logging, debugging]
 comments: true
 share: true
 ---

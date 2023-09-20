@@ -3,7 +3,7 @@ layout: post
 title: "Effective use of fixtures and setup/teardown in Java Spock"
 description: " "
 date: 2023-09-19
-tags: [Java, Spock]
+tags: [Spock]
 comments: true
 share: true
 ---

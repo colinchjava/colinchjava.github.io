@@ -3,7 +3,7 @@ layout: post
 title: "Exploring security testing with Java Spock"
 description: " "
 date: 2023-09-19
-tags: [Java, Spock, SecurityTesting]
+tags: [Spock, SecurityTesting]
 comments: true
 share: true
 ---

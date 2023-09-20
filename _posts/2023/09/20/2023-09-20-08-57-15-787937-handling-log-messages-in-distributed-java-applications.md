@@ -3,7 +3,7 @@ layout: post
 title: "Handling log messages in distributed Java applications"
 description: " "
 date: 2023-09-20
-tags: [java, distributed]
+tags: [distributed]
 comments: true
 share: true
 ---

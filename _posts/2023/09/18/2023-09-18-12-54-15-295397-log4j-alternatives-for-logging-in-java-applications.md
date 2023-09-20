@@ -3,7 +3,7 @@ layout: post
 title: "Log4j alternatives for logging in Java applications"
 description: " "
 date: 2023-09-18
-tags: [java, logging)]
+tags: [logging)]
 comments: true
 share: true
 ---

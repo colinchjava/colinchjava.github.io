@@ -3,7 +3,7 @@ layout: post
 title: "How to integrate Log4j with popular Java testing frameworks like JUnit and TestNG"
 description: " "
 date: 2023-09-18
-tags: [Java, Log4j]
+tags: [Log4j]
 comments: true
 share: true
 ---

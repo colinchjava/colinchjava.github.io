@@ -3,7 +3,7 @@ layout: post
 title: "Enabling and disabling logging in Java applications"
 description: " "
 date: 2023-09-20
-tags: [Java, Logging]
+tags: [Logging]
 comments: true
 share: true
 ---

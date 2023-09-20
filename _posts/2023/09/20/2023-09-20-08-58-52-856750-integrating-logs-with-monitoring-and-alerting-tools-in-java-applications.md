@@ -3,7 +3,7 @@ layout: post
 title: "Integrating logs with monitoring and alerting tools in Java applications"
 description: " "
 date: 2023-09-20
-tags: [Java, Logs]
+tags: [Logs]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java Spring Framework applications"
 description: " "
 date: 2023-09-20
-tags: [Java, SpringFramework]
+tags: [SpringFramework]
 comments: true
 share: true
 ---

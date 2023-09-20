@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java applications using Logstash"
 description: " "
 date: 2023-09-20
-tags: [java, logstash]
+tags: [logstash]
 comments: true
 share: true
 ---

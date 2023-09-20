@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java Servlets and JSPs"
 description: " "
 date: 2023-09-20
-tags: [Java, Logging]
+tags: [Logging]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring visualization tools for Java Spock test results"
 description: " "
 date: 2023-09-19
-tags: [Java, Spock, TestResults, Visualization, Java, Spock, TestResults, Visualization]
+tags: [Spock, TestResults, Visualization, Java, Spock, TestResults, Visualization]
 comments: true
 share: true
 ---

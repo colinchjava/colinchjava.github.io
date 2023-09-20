@@ -3,7 +3,7 @@ layout: post
 title: "Effective error handling in Java Spock tests"
 description: " "
 date: 2023-09-19
-tags: [Java, SpockTesting]
+tags: [SpockTesting]
 comments: true
 share: true
 ---

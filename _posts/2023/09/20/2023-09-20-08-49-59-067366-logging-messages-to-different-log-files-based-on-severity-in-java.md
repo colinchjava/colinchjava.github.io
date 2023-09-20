@@ -3,7 +3,7 @@ layout: post
 title: "Logging messages to different log files based on severity in Java"
 description: " "
 date: 2023-09-20
-tags: [Java, Logging]
+tags: [Logging]
 comments: true
 share: true
 ---

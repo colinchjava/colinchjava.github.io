@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java Hibernate applications"
 description: " "
 date: 2023-09-20
-tags: [Java, Hibernate]
+tags: [Hibernate]
 comments: true
 share: true
 ---

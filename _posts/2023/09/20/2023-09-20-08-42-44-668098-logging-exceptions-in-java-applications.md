@@ -3,7 +3,7 @@ layout: post
 title: "Logging exceptions in Java applications"
 description: " "
 date: 2023-09-20
-tags: [Java, ExceptionHandling]
+tags: [ExceptionHandling]
 comments: true
 share: true
 ---

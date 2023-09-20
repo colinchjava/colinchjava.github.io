@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java Android applications"
 description: " "
 date: 2023-09-20
-tags: [Java, Android]
+tags: [Android]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Writing compact and expressive tests using Java Spock"
 description: " "
 date: 2023-09-19
-tags: [java, testing]
+tags: [testing]
 comments: true
 share: true
 ---

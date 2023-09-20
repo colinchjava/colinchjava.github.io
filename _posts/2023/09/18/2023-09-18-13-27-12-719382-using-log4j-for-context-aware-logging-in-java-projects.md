@@ -3,7 +3,7 @@ layout: post
 title: "Using Log4j for context-aware logging in Java projects"
 description: " "
 date: 2023-09-18
-tags: [java, logging]
+tags: [logging]
 comments: true
 share: true
 ---

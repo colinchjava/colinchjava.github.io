@@ -3,7 +3,7 @@ layout: post
 title: "Logging performance and metrics in Java applications using the Logging API"
 description: " "
 date: 2023-09-20
-tags: [java, logging]
+tags: [logging]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Log4j and logging in Java APIs: techniques for providing meaningful logs to developers"
 description: " "
 date: 2023-09-18
-tags: [Java, Logging]
+tags: [Logging]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Logging for memory and resource usage analysis in Java applications"
 description: " "
 date: 2023-09-20
-tags: [Java, LoggingBestPractices]
+tags: [LoggingBestPractices]
 comments: true
 share: true
 ---

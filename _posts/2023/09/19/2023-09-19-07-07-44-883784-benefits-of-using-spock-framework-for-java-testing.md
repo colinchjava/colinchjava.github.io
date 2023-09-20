@@ -3,7 +3,7 @@ layout: post
 title: "Benefits of using Spock framework for Java testing"
 description: " "
 date: 2023-09-19
-tags: [Java, Testing]
+tags: [Testing]
 comments: true
 share: true
 ---

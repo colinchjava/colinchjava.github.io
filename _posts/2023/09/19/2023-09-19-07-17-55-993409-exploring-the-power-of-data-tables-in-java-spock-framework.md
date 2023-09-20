@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the power of data tables in Java Spock framework"
 description: " "
 date: 2023-09-19
-tags: [Java, SpockFramework]
+tags: [SpockFramework]
 comments: true
 share: true
 ---

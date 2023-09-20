@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java command-line applications"
 description: " "
 date: 2023-09-20
-tags: [Java, Logging]
+tags: [Logging]
 comments: true
 share: true
 ---

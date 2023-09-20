@@ -3,7 +3,7 @@ layout: post
 title: "Configuring log file size limitations using the Java Logging API"
 description: " "
 date: 2023-09-20
-tags: [Java, Logger]
+tags: [Logger]
 comments: true
 share: true
 ---

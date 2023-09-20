@@ -3,7 +3,7 @@ layout: post
 title: "Logging for monitoring and optimizing database interactions in Java applications"
 description: " "
 date: 2023-09-20
-tags: [Java, DatabaseMonitoring]
+tags: [DatabaseMonitoring]
 comments: true
 share: true
 ---

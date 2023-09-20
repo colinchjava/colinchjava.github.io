@@ -3,7 +3,7 @@ layout: post
 title: "Logging security-related events in Java applications"
 description: " "
 date: 2023-09-20
-tags: [java, security]
+tags: [security]
 comments: true
 share: true
 ---

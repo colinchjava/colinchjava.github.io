@@ -3,7 +3,7 @@ layout: post
 title: "Logging messages in Java using the Logging API"
 description: " "
 date: 2023-09-20
-tags: [Java, LoggingAPI]
+tags: [LoggingAPI]
 comments: true
 share: true
 ---

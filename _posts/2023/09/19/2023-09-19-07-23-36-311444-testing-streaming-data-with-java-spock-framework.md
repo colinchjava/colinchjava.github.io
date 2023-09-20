@@ -3,7 +3,7 @@ layout: post
 title: "Testing streaming data with Java Spock framework"
 description: " "
 date: 2023-09-19
-tags: [Java, Spock, StreamingData, Testing]
+tags: [Spock, StreamingData, Testing]
 comments: true
 share: true
 ---

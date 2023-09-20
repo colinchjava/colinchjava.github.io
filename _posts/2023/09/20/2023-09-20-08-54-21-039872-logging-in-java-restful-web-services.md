@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java RESTful web services"
 description: " "
 date: 2023-09-20
-tags: [Java, RESTfulServices]
+tags: [RESTfulServices]
 comments: true
 share: true
 ---

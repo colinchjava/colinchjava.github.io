@@ -3,7 +3,7 @@ layout: post
 title: "Logging for user behavior analysis in Java applications"
 description: " "
 date: 2023-09-20
-tags: [Java, UserBehaviorAnalysis]
+tags: [UserBehaviorAnalysis]
 comments: true
 share: true
 ---

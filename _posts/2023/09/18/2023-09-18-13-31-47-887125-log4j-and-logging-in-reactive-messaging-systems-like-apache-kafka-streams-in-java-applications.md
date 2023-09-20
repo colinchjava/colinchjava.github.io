@@ -3,7 +3,7 @@ layout: post
 title: "Log4j and logging in reactive messaging systems like Apache Kafka Streams in Java applications"
 description: " "
 date: 2023-09-18
-tags: [Java, Log4j]
+tags: [Log4j]
 comments: true
 share: true
 ---

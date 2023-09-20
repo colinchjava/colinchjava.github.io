@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java Spock with popular Java IDEs for seamless testing"
 description: " "
 date: 2023-09-19
-tags: [Java, Spock, testing]
+tags: [Spock, testing]
 comments: true
 share: true
 ---

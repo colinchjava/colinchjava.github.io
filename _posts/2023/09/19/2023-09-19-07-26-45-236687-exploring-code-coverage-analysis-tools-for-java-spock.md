@@ -3,7 +3,7 @@ layout: post
 title: "Exploring code coverage analysis tools for Java Spock"
 description: " "
 date: 2023-09-19
-tags: [Exploring, #Conclusion, Java, Spock, CodeCoverage, Testing]
+tags: [Exploring, Conclusion, Java, Spock, CodeCoverage, Testing]
 comments: true
 share: true
 ---

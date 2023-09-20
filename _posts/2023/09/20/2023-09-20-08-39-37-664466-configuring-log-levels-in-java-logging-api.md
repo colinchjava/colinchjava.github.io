@@ -3,7 +3,7 @@ layout: post
 title: "Configuring log levels in Java Logging API"
 description: " "
 date: 2023-09-20
-tags: [java, logging]
+tags: [logging]
 comments: true
 share: true
 ---

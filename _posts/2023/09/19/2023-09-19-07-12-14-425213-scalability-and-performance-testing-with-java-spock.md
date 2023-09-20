@@ -3,7 +3,7 @@ layout: post
 title: "Scalability and performance testing with Java Spock"
 description: " "
 date: 2023-09-19
-tags: [java, testing, scalability, performance]
+tags: [testing, scalability, performance]
 comments: true
 share: true
 ---

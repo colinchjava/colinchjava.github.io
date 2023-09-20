@@ -3,7 +3,7 @@ layout: post
 title: "Test-driven development using Java Spock and Mockito"
 description: " "
 date: 2023-09-19
-tags: [Java, Spock, Mockito]
+tags: [Spock, Mockito]
 comments: true
 share: true
 ---

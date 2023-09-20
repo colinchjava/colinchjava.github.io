@@ -3,7 +3,7 @@ layout: post
 title: "Comparing Java Spock with other testing frameworks"
 description: " "
 date: 2023-09-19
-tags: [Java, Spock, JUnit, TestNG]
+tags: [Spock, JUnit, TestNG]
 comments: true
 share: true
 ---

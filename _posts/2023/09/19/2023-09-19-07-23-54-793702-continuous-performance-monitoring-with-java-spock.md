@@ -3,7 +3,7 @@ layout: post
 title: "Continuous performance monitoring with Java Spock"
 description: " "
 date: 2023-09-19
-tags: [Java, PerformanceMonitoring]
+tags: [PerformanceMonitoring]
 comments: true
 share: true
 ---

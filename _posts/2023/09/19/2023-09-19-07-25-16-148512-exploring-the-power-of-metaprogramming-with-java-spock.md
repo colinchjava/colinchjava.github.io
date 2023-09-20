@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the power of metaprogramming with Java Spock"
 description: " "
 date: 2023-09-19
-tags: [java, metaprogramming, spock]
+tags: [metaprogramming, spock]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java applications using JUL (Java Util Logging)"
 description: " "
 date: 2023-09-20
-tags: [Java, logging]
+tags: [logging]
 comments: true
 share: true
 ---

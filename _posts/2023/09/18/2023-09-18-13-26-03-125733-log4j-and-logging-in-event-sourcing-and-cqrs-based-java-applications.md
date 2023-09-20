@@ -3,7 +3,7 @@ layout: post
 title: "Log4j and logging in event sourcing and CQRS-based Java applications"
 description: " "
 date: 2023-09-18
-tags: [Java, EventSourcing]
+tags: [EventSourcing]
 comments: true
 share: true
 ---
