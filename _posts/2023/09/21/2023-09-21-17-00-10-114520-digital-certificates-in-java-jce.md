@@ -3,7 +3,7 @@ layout: post
 title: "Digital certificates in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, DigitalCertificates, DataSecurity]
+tags: [DigitalCertificates, DataSecurity]
 comments: true
 share: true
 ---

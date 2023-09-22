@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a file using FileDescriptor in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, FileDescriptor]
+tags: [FileDescriptor]
 comments: true
 share: true
 ---

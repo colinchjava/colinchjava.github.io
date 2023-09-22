@@ -3,7 +3,7 @@ layout: post
 title: "Writing to standard error in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, StandardError]
+tags: [StandardError]
 comments: true
 share: true
 ---

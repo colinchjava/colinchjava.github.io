@@ -3,7 +3,7 @@ layout: post
 title: "Writing Java custom class to a file using Writer"
 description: " "
 date: 2023-09-22
-tags: [Java, FileWriting]
+tags: [FileWriting]
 comments: true
 share: true
 ---

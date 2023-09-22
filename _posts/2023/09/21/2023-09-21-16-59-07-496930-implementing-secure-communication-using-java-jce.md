@@ -3,7 +3,7 @@ layout: post
 title: "Implementing secure communication using Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, SecureCommunication]
+tags: [SecureCommunication]
 comments: true
 share: true
 ---

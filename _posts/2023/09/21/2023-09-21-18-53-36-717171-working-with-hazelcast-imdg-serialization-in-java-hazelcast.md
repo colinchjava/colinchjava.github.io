@@ -3,7 +3,7 @@ layout: post
 title: "Working with Hazelcast IMDG serialization in Java Hazelcast"
 description: " "
 date: 2023-09-21
-tags: [Java, Hazelcast, IMDG, Serialization]
+tags: [Hazelcast, IMDG, Serialization]
 comments: true
 share: true
 ---

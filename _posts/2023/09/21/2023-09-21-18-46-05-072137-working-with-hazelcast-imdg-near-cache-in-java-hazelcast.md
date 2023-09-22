@@ -3,7 +3,7 @@ layout: post
 title: "Working with Hazelcast IMDG near cache in Java Hazelcast"
 description: " "
 date: 2023-09-21
-tags: [Java, HazelcastIMDG, NearCache]
+tags: [HazelcastIMDG, NearCache]
 comments: true
 share: true
 ---

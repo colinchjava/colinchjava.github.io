@@ -3,7 +3,7 @@ layout: post
 title: "Digital signatures in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, DigitalSignatures]
+tags: [DigitalSignatures]
 comments: true
 share: true
 ---

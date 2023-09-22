@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a file using MemoryMappedBuffer in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, MemoryMappedBuffer]
+tags: [MemoryMappedBuffer]
 comments: true
 share: true
 ---

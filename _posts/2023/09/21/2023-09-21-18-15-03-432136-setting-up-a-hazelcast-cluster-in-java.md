@@ -3,7 +3,7 @@ layout: post
 title: "Setting up a Hazelcast cluster in Java"
 description: " "
 date: 2023-09-21
-tags: [Java, Hazelcast]
+tags: [Hazelcast]
 comments: true
 share: true
 ---

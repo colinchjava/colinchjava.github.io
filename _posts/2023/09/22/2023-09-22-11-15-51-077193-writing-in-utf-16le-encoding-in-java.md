@@ -3,7 +3,7 @@ layout: post
 title: "Writing in UTF-16LE encoding in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, Encoding]
+tags: [Encoding]
 comments: true
 share: true
 ---

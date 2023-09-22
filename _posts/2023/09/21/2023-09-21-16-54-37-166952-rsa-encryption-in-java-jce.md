@@ -3,7 +3,7 @@ layout: post
 title: "RSA encryption in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, RSAEncryption]
+tags: [RSAEncryption]
 comments: true
 share: true
 ---

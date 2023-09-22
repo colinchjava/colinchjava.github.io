@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast distributed event listeners with topics in Java applications"
 description: " "
 date: 2023-09-21
-tags: [Java, Hazelcast]
+tags: [Hazelcast]
 comments: true
 share: true
 ---

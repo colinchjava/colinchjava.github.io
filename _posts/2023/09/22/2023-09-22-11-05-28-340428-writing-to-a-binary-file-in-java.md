@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a binary file in Java"
 description: " "
 date: 2023-09-22
-tags: [java, programming]
+tags: [programming]
 comments: true
 share: true
 ---

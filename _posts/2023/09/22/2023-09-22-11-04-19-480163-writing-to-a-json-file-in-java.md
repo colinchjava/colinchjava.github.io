@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a JSON file in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

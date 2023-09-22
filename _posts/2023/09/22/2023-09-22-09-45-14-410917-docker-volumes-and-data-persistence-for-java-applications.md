@@ -3,7 +3,7 @@ layout: post
 title: "Docker volumes and data persistence for Java applications"
 description: " "
 date: 2023-09-22
-tags: [Java, DockerVolumes]
+tags: [DockerVolumes]
 comments: true
 share: true
 ---

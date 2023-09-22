@@ -3,7 +3,7 @@ layout: post
 title: "Symmetric encryption in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [java, encryption]
+tags: [encryption]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java Docker containers with service discovery tools"
 description: " "
 date: 2023-09-22
-tags: [java, docker]
+tags: [docker]
 comments: true
 share: true
 ---

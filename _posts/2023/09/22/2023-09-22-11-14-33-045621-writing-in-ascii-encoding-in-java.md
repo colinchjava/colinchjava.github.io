@@ -3,7 +3,7 @@ layout: post
 title: "Writing in ASCII encoding in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, ASCIIEncoding]
+tags: [ASCIIEncoding]
 comments: true
 share: true
 ---

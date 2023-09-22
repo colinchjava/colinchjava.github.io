@@ -3,7 +3,7 @@ layout: post
 title: "Writing in ISO-8859-4 encoding in Java"
 description: " "
 date: 2023-09-22
-tags: [java, character]
+tags: [character]
 comments: true
 share: true
 ---

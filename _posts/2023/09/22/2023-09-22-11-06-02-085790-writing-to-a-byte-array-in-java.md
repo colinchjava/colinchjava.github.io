@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a byte array in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, Bytearray]
+tags: [Bytearray]
 comments: true
 share: true
 ---

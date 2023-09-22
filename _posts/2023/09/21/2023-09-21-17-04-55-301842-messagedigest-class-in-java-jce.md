@@ -3,7 +3,7 @@ layout: post
 title: "MessageDigest class in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, MessageDigest]
+tags: [MessageDigest]
 comments: true
 share: true
 ---

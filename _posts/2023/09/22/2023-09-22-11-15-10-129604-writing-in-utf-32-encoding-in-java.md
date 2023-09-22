@@ -3,7 +3,7 @@ layout: post
 title: "Writing in UTF-32 encoding in Java"
 description: " "
 date: 2023-09-22
-tags: [java, utf32]
+tags: [utf32]
 comments: true
 share: true
 ---

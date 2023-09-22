@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast distributed semaphores in Java applications"
 description: " "
 date: 2023-09-21
-tags: [Java, Hazelcast, DistributedSemaphores]
+tags: [Hazelcast, DistributedSemaphores]
 comments: true
 share: true
 ---

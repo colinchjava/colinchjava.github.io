@@ -3,7 +3,7 @@ layout: post
 title: "OutputStreamWriter in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, OutputStreamWriter]
+tags: [OutputStreamWriter]
 comments: true
 share: true
 ---

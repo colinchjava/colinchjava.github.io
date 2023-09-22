@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a file using PipedWriter in Java"
 description: " "
 date: 2023-09-22
-tags: [java, fileio]
+tags: [fileio]
 comments: true
 share: true
 ---

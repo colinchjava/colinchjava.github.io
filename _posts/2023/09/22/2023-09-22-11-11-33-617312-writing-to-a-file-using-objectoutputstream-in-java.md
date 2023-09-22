@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a file using ObjectOutputStream in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, FileHandling]
+tags: [FileHandling]
 comments: true
 share: true
 ---

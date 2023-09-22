@@ -10,7 +10,7 @@ share: true
 title: Implementing JNDI Data Sources in Java Web Applications
 description: Learn how to implement JNDI data sources in Java web applications for efficient database connectivity.
 date: 2022-01-20
-categories: [Java, JNDI, Web Development]
+categories: [JNDI, Web Development]
 tags: #JNDI, #JavaWebApplications
 ---
 

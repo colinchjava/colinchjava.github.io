@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Java Hazelcast"
 description: " "
 date: 2023-09-21
-tags: [Java, Hazelcast]
+tags: [Hazelcast]
 comments: true
 share: true
 ---

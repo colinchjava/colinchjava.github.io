@@ -3,7 +3,7 @@ layout: post
 title: "Deploying Java applications with Docker secrets"
 description: " "
 date: 2023-09-22
-tags: [Java, DockerSecrets]
+tags: [DockerSecrets]
 comments: true
 share: true
 ---

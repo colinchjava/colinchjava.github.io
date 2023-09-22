@@ -3,7 +3,7 @@ layout: post
 title: "Java JCE and data integrity verification"
 description: " "
 date: 2023-09-21
-tags: [java, dataintegrity, security]
+tags: [dataintegrity, security]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Writing Java boolean to a file using Writer"
 description: " "
 date: 2023-09-22
-tags: [Java, FileWriter]
+tags: [FileWriter]
 comments: true
 share: true
 ---

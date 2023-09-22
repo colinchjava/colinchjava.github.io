@@ -3,7 +3,7 @@ layout: post
 title: "Orchestrating Java Docker containers with Kubernetes"
 description: " "
 date: 2023-09-22
-tags: [java, docker]
+tags: [docker]
 comments: true
 share: true
 ---

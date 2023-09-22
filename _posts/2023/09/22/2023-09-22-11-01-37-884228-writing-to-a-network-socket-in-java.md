@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a network socket in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, Networking]
+tags: [Networking]
 comments: true
 share: true
 ---

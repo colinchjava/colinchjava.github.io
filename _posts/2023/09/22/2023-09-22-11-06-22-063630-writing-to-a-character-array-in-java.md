@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a character array in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, CharacterArray]
+tags: [CharacterArray]
 comments: true
 share: true
 ---

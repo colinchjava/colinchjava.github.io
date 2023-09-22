@@ -3,7 +3,7 @@ layout: post
 title: "X.509 certificate format in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, X509Certificates]
+tags: [X509Certificates]
 comments: true
 share: true
 ---

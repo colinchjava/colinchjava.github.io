@@ -3,7 +3,7 @@ layout: post
 title: "Working with Hazelcast IMDG statistics in Java Hazelcast"
 description: " "
 date: 2023-09-21
-tags: [Java, Hazelcast, IMDG, Statistics]
+tags: [Hazelcast, IMDG, Statistics]
 comments: true
 share: true
 ---

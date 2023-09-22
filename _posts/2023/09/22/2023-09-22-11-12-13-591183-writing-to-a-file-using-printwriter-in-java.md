@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a file using PrintWriter in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, FileIO]
+tags: [FileIO]
 comments: true
 share: true
 ---

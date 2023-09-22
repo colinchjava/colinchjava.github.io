@@ -3,7 +3,7 @@ layout: post
 title: "Continuous integration and deployment with Java Docker containers"
 description: " "
 date: 2023-09-22
-tags: [java, docker]
+tags: [docker]
 comments: true
 share: true
 ---

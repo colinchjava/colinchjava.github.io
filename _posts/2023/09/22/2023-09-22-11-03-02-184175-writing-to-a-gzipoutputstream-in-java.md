@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a GZIPOutputStream in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, Compression]
+tags: [Compression]
 comments: true
 share: true
 ---

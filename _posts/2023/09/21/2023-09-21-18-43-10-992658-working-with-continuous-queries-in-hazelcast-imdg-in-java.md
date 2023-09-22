@@ -3,7 +3,7 @@ layout: post
 title: "Working with continuous queries in Hazelcast IMDG in Java"
 description: " "
 date: 2023-09-21
-tags: [Java, ContinuousQueries, Hazelcast]
+tags: [ContinuousQueries, Hazelcast]
 comments: true
 share: true
 ---

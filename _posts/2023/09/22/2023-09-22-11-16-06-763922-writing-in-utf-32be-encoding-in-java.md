@@ -3,7 +3,7 @@ layout: post
 title: "Writing in UTF-32BE encoding in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, UTF32BE]
+tags: [UTF32BE]
 comments: true
 share: true
 ---

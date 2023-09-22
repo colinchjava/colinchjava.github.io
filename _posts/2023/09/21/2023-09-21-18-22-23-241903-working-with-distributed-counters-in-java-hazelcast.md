@@ -3,7 +3,7 @@ layout: post
 title: "Working with distributed counters in Java Hazelcast"
 description: " "
 date: 2023-09-21
-tags: [Java, Hazelcast, DistributedCounters]
+tags: [Hazelcast, DistributedCounters]
 comments: true
 share: true
 ---

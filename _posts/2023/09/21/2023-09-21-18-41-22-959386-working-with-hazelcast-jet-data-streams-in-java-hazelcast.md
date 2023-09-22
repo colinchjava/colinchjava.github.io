@@ -3,7 +3,7 @@ layout: post
 title: "Working with Hazelcast Jet data streams in Java Hazelcast"
 description: " "
 date: 2023-09-21
-tags: [Java, HazelcastJet, DataStreams]
+tags: [HazelcastJet, DataStreams]
 comments: true
 share: true
 ---

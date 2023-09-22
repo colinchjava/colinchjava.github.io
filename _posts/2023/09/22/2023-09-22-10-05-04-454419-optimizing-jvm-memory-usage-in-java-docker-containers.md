@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing JVM memory usage in Java Docker containers"
 description: " "
 date: 2023-09-22
-tags: [Java, Docker]
+tags: [Docker]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Deploying Java microservices with Docker and Amazon ECS"
 description: " "
 date: 2023-09-22
-tags: [Java, Docker]
+tags: [Docker]
 comments: true
 share: true
 ---

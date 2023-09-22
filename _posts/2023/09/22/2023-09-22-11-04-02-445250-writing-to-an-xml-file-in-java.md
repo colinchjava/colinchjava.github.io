@@ -3,7 +3,7 @@ layout: post
 title: "Writing to an XML file in Java"
 description: " "
 date: 2023-09-22
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

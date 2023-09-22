@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast Jet stateful aggregation in Java applications"
 description: " "
 date: 2023-09-21
-tags: [java, bigdata]
+tags: [bigdata]
 comments: true
 share: true
 ---

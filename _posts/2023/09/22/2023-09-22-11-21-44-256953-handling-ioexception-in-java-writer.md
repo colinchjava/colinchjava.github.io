@@ -3,7 +3,7 @@ layout: post
 title: "Handling IOException in Java Writer"
 description: " "
 date: 2023-09-22
-tags: [Java, IOException]
+tags: [IOException]
 comments: true
 share: true
 ---

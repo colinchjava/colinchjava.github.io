@@ -3,7 +3,7 @@ layout: post
 title: "Running Java batch processing jobs in Docker for scalability"
 description: " "
 date: 2023-09-22
-tags: [java, docker]
+tags: [docker]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a file using CharArrayWriter in Java"
 description: " "
 date: 2023-09-22
-tags: [java, filewriting]
+tags: [filewriting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a network socket using UDP protocol in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, NetworkProgramming]
+tags: [NetworkProgramming]
 comments: true
 share: true
 ---

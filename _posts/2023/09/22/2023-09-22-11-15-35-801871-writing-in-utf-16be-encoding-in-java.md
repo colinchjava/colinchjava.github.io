@@ -3,7 +3,7 @@ layout: post
 title: "Writing in UTF-16BE encoding in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, UTF16BEEncoding]
+tags: [UTF16BEEncoding]
 comments: true
 share: true
 ---

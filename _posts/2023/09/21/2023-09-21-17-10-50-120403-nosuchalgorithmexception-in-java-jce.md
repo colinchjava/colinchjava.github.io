@@ -3,7 +3,7 @@ layout: post
 title: "NoSuchAlgorithmException in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, NoSuchAlgorithmException]
+tags: [NoSuchAlgorithmException]
 comments: true
 share: true
 ---

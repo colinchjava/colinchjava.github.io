@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast distributed sets in Java applications"
 description: " "
 date: 2023-09-21
-tags: [Java, DistributedSets, Hazelcast]
+tags: [DistributedSets, Hazelcast]
 comments: true
 share: true
 ---

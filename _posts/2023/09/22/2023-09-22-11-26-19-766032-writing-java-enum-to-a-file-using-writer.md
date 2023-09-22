@@ -3,7 +3,7 @@ layout: post
 title: "Writing Java enum to a file using Writer"
 description: " "
 date: 2023-09-22
-tags: [Java, Enum]
+tags: [Enum]
 comments: true
 share: true
 ---

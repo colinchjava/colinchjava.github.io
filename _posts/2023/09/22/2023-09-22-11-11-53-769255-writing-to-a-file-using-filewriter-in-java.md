@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a file using FileWriter in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, FileWriter]
+tags: [FileWriter]
 comments: true
 share: true
 ---

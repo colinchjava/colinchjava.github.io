@@ -3,7 +3,7 @@ layout: post
 title: "Key size selection in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, Encryption, Cryptography, KeySize]
+tags: [Encryption, Cryptography, KeySize]
 comments: true
 share: true
 ---

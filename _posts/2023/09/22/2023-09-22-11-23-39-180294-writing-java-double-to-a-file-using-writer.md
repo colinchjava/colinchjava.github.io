@@ -3,7 +3,7 @@ layout: post
 title: "Writing Java double to a file using Writer"
 description: " "
 date: 2023-09-22
-tags: [Java, FileIO]
+tags: [FileIO]
 comments: true
 share: true
 ---

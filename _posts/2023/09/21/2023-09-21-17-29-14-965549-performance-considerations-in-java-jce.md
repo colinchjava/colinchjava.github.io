@@ -3,7 +3,7 @@ layout: post
 title: "Performance considerations in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, Performance, Encryption]
+tags: [Performance, Encryption]
 comments: true
 share: true
 ---

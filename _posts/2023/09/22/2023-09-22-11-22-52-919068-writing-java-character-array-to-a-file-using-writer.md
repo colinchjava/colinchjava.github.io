@@ -3,7 +3,7 @@ layout: post
 title: "Writing Java character array to a file using Writer"
 description: " "
 date: 2023-09-22
-tags: [Java, FileOperations]
+tags: [FileOperations]
 comments: true
 share: true
 ---

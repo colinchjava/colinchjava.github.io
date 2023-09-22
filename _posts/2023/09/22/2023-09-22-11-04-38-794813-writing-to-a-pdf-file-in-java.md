@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a PDF file in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, iText]
+tags: [iText]
 comments: true
 share: true
 ---

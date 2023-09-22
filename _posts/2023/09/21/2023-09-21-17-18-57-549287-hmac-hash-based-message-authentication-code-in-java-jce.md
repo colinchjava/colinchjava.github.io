@@ -3,7 +3,7 @@ layout: post
 title: "HMAC (Hash-based Message Authentication Code) in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, HMAC]
+tags: [HMAC]
 comments: true
 share: true
 ---

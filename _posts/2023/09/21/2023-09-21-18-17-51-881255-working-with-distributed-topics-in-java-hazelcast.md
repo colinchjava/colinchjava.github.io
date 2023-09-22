@@ -3,7 +3,7 @@ layout: post
 title: "Working with distributed topics in Java Hazelcast"
 description: " "
 date: 2023-09-21
-tags: [Java, Hazelcast, DistributedTopics, PublishSubscribe]
+tags: [Hazelcast, DistributedTopics, PublishSubscribe]
 comments: true
 share: true
 ---

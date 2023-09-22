@@ -3,7 +3,7 @@ layout: post
 title: "Deploying Java applications on Docker for offline and isolated environments"
 description: " "
 date: 2023-09-22
-tags: [Java, Docker]
+tags: [Docker]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed task scheduling with Hazelcast in Java"
 description: " "
 date: 2023-09-21
-tags: [java, hazelcast]
+tags: [hazelcast]
 comments: true
 share: true
 ---

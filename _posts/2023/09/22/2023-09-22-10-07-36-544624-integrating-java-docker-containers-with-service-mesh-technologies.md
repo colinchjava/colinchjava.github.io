@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java Docker containers with service mesh technologies"
 description: " "
 date: 2023-09-22
-tags: [Java, Docker]
+tags: [Docker]
 comments: true
 share: true
 ---

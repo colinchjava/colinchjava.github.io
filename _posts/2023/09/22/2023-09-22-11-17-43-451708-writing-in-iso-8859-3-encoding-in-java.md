@@ -3,7 +3,7 @@ layout: post
 title: "Writing in ISO-8859-3 encoding in Java"
 description: " "
 date: 2023-09-22
-tags: [java, ISO88593]
+tags: [ISO88593]
 comments: true
 share: true
 ---

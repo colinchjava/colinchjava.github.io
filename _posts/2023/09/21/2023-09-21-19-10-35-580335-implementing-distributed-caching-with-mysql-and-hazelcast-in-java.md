@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed caching with MySQL and Hazelcast in Java"
 description: " "
 date: 2023-09-21
-tags: [Java, DistributedCaching]
+tags: [DistributedCaching]
 comments: true
 share: true
 ---

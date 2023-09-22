@@ -3,7 +3,7 @@ layout: post
 title: "Writing in Shift-JIS encoding in Java"
 description: " "
 date: 2023-09-22
-tags: [java, encoding]
+tags: [encoding]
 comments: true
 share: true
 ---

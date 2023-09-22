@@ -3,7 +3,7 @@ layout: post
 title: "Working with Hazelcast IMDG cluster discovery in Java Hazelcast"
 description: " "
 date: 2023-09-21
-tags: [Java, Hazelcast, ClusterDiscovery]
+tags: [Hazelcast, ClusterDiscovery]
 comments: true
 share: true
 ---

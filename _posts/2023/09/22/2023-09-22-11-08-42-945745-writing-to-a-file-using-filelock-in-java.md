@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a file using FileLock in Java"
 description: " "
 date: 2023-09-22
-tags: [java, filehandling]
+tags: [filehandling]
 comments: true
 share: true
 ---

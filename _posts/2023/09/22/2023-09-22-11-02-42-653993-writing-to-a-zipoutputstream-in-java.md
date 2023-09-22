@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a ZipOutputStream in Java"
 description: " "
 date: 2023-09-22
-tags: [java, file]
+tags: [file]
 comments: true
 share: true
 ---

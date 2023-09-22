@@ -3,7 +3,7 @@ layout: post
 title: "Writing Java date to a file using Writer"
 description: " "
 date: 2023-09-22
-tags: [java, filewriting]
+tags: [filewriting]
 comments: true
 share: true
 ---

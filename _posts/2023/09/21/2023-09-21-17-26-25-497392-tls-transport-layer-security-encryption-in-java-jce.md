@@ -3,7 +3,7 @@ layout: post
 title: "TLS (Transport Layer Security) encryption in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, Encryption]
+tags: [Encryption]
 comments: true
 share: true
 ---

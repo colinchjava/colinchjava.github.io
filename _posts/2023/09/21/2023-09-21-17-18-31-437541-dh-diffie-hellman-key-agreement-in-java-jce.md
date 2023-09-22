@@ -3,7 +3,7 @@ layout: post
 title: "DH (Diffie-Hellman) key agreement in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, DiffieHellman, Cryptography]
+tags: [DiffieHellman, Cryptography]
 comments: true
 share: true
 ---

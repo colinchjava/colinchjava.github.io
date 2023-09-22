@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a log file in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, Logging]
+tags: [Logging]
 comments: true
 share: true
 ---

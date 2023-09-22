@@ -3,7 +3,7 @@ layout: post
 title: "DSA (Digital Signature Algorithm) in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, DigitalSignatureAlgorithm]
+tags: [DigitalSignatureAlgorithm]
 comments: true
 share: true
 ---

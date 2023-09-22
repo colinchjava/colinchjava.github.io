@@ -3,7 +3,7 @@ layout: post
 title: "Setting the character encoding for Java Writer"
 description: " "
 date: 2023-09-22
-tags: [Java, CharacterEncoding]
+tags: [CharacterEncoding]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "AlgorithmParameterGenerator class in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, Cryptography]
+tags: [Cryptography]
 comments: true
 share: true
 ---

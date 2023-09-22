@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a file using FileChannel in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, FileChannel]
+tags: [FileChannel]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Running Java applications with real-time communication in Docker"
 description: " "
 date: 2023-09-22
-tags: [Java, Docker]
+tags: [Docker]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Writing to a database using JDBC in Java"
 description: " "
 date: 2023-09-22
-tags: [Java, Database]
+tags: [Database]
 comments: true
 share: true
 ---

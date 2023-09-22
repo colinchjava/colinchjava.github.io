@@ -3,7 +3,7 @@ layout: post
 title: "Working with Hazelcast distributed event journals in Java"
 description: " "
 date: 2023-09-21
-tags: [Java, Hazelcast]
+tags: [Hazelcast]
 comments: true
 share: true
 ---

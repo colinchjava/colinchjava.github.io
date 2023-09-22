@@ -3,7 +3,7 @@ layout: post
 title: "Secure random number generation in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [Java, SecureRandom, Security]
+tags: [SecureRandom, Security]
 comments: true
 share: true
 ---

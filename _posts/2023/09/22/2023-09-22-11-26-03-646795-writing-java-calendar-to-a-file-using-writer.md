@@ -3,7 +3,7 @@ layout: post
 title: "Writing Java calendar to a file using Writer"
 description: " "
 date: 2023-09-22
-tags: [java, calendar]
+tags: [calendar]
 comments: true
 share: true
 ---

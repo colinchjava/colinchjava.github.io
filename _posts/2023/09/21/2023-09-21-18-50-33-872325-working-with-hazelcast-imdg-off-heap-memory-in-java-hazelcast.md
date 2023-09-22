@@ -3,7 +3,7 @@ layout: post
 title: "Working with Hazelcast IMDG off-heap memory in Java Hazelcast"
 description: " "
 date: 2023-09-21
-tags: [java, HazelcastIMDG, offheap, memory]
+tags: [HazelcastIMDG, offheap, memory]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Configuring Hazelcast data structures in Java"
 description: " "
 date: 2023-09-21
-tags: [java, hazelcast, distributedstorage, configuration]
+tags: [hazelcast, distributedstorage, configuration]
 comments: true
 share: true
 ---

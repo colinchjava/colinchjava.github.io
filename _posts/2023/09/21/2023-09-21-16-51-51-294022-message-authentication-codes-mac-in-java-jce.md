@@ -3,7 +3,7 @@ layout: post
 title: "Message authentication codes (MAC) in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [java]
+tags: []
 comments: true
 share: true
 ---
