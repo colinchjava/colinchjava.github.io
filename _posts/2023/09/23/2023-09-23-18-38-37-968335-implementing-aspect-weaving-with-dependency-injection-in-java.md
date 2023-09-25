@@ -3,7 +3,7 @@ layout: post
 title: "Implementing aspect weaving with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [Java, AspectWeaving]
+tags: [AspectWeaving]
 comments: true
 share: true
 ---

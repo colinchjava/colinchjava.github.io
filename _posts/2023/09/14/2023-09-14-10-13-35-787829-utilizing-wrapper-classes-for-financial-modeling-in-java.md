@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing wrapper classes for financial modeling in Java"
 description: " "
 date: 2023-09-14
-tags: [finance, Java]
+tags: [finance]
 comments: true
 share: true
 ---

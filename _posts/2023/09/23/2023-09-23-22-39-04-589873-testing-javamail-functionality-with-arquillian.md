@@ -3,7 +3,7 @@ layout: post
 title: "Testing JavaMail functionality with Arquillian"
 description: " "
 date: 2023-09-23
-tags: [java, Arquillian]
+tags: [Arquillian]
 comments: true
 share: true
 ---

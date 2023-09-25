@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast IMDG eviction policies in Java applications"
 description: " "
 date: 2023-09-21
-tags: [Hazelcast, IMDG, eviction, Java]
+tags: [Hazelcast, IMDG, eviction]
 comments: true
 share: true
 ---

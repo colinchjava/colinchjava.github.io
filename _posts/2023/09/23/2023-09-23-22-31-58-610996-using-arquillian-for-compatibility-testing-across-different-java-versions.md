@@ -3,7 +3,7 @@ layout: post
 title: "Using Arquillian for compatibility testing across different Java versions"
 description: " "
 date: 2023-09-23
-tags: [Java, Arquillian]
+tags: [Arquillian]
 comments: true
 share: true
 ---

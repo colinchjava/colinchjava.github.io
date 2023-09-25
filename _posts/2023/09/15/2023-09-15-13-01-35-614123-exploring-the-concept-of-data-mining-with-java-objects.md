@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of data mining with Java objects"
 description: " "
 date: 2023-09-15
-tags: [datamining, java]
+tags: [datamining]
 comments: true
 share: true
 ---

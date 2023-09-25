@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based message queues"
 description: " "
 date: 2023-09-24
-tags: [Java, MessageQueues]
+tags: [MessageQueues]
 comments: true
 share: true
 ---

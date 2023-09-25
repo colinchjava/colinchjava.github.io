@@ -3,7 +3,7 @@ layout: post
 title: "Test fixtures and setup in Java unit testing"
 description: " "
 date: 2023-09-24
-tags: [Java, UnitTesting]
+tags: [UnitTesting]
 comments: true
 share: true
 ---

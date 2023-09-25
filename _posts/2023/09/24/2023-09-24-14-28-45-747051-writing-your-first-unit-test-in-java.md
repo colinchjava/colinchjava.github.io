@@ -3,7 +3,7 @@ layout: post
 title: "Writing your first unit test in Java"
 description: " "
 date: 2023-09-24
-tags: [java, unittesting]
+tags: [unittesting]
 comments: true
 share: true
 ---

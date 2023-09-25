@@ -3,7 +3,7 @@ layout: post
 title: "Parameterized tests in Java"
 description: " "
 date: 2023-09-24
-tags: [Java, JUnit]
+tags: [JUnit]
 comments: true
 share: true
 ---

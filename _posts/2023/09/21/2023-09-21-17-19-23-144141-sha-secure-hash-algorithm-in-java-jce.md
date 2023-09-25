@@ -3,7 +3,7 @@ layout: post
 title: "SHA (Secure Hash Algorithm) in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [cryptography, java]
+tags: [cryptography]
 comments: true
 share: true
 ---

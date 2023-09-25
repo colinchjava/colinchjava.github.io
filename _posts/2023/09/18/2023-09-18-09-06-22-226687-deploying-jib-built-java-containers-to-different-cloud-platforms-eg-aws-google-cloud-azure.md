@@ -3,7 +3,7 @@ layout: post
 title: "Deploying Jib-built Java containers to different cloud platforms (e.g., AWS, Google Cloud, Azure)"
 description: " "
 date: 2023-09-18
-tags: [containers, java]
+tags: [containers]
 comments: true
 share: true
 ---

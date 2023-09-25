@@ -3,7 +3,7 @@ layout: post
 title: "Implementing JNDI Lookups in Java-Spring Applications"
 description: " "
 date: 2023-09-17
-tags: [techblog, JNDI, Java]
+tags: [techblog, JNDI]
 comments: true
 share: true
 ---

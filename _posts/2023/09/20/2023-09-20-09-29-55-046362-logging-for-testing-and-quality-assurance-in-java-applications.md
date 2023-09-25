@@ -3,7 +3,7 @@ layout: post
 title: "Logging for testing and quality assurance in Java applications"
 description: " "
 date: 2023-09-20
-tags: [logging, java]
+tags: [logging]
 comments: true
 share: true
 ---

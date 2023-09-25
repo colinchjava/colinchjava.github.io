@@ -3,7 +3,7 @@ layout: post
 title: "Using Docker multi-stage builds for Java applications"
 description: " "
 date: 2023-09-22
-tags: [docker, java]
+tags: [docker]
 comments: true
 share: true
 ---

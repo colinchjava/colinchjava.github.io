@@ -3,7 +3,7 @@ layout: post
 title: "PGP (Pretty Good Privacy) encryption in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [encryption, java]
+tags: [encryption]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing reactive programming with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [java, reactiveprogramming]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based financial applications"
 description: " "
 date: 2023-09-24
-tags: [Java, FinancialApplications]
+tags: [FinancialApplications]
 comments: true
 share: true
 ---

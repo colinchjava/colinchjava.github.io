@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event-driven architecture with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [EventDrivenArchitecture, Java]
+tags: [EventDrivenArchitecture]
 comments: true
 share: true
 ---

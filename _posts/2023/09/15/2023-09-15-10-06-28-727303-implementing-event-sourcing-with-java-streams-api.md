@@ -3,7 +3,7 @@ layout: post
 title: "Implementing event sourcing with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [eventSourcing, Java]
+tags: [eventSourcing]
 comments: true
 share: true
 ---

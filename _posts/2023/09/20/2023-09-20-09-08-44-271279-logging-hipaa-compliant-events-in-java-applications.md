@@ -3,7 +3,7 @@ layout: post
 title: "Logging HIPAA-compliant events in Java applications"
 description: " "
 date: 2023-09-20
-tags: [HIPAA, Java]
+tags: [HIPAA]
 comments: true
 share: true
 ---

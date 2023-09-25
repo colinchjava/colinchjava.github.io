@@ -3,7 +3,7 @@ layout: post
 title: "Working with Hazelcast IMDG distributed computing framework in Java"
 description: " "
 date: 2023-09-21
-tags: [distributedcomputing, HazelcastIMDG, Java]
+tags: [distributedcomputing, HazelcastIMDG]
 comments: true
 share: true
 ---

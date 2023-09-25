@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based security frameworks"
 description: " "
 date: 2023-09-24
-tags: [Java, SecurityFrameworks]
+tags: [SecurityFrameworks]
 comments: true
 share: true
 ---

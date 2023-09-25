@@ -3,7 +3,7 @@ layout: post
 title: "Differences between Dependency Injection and Inversion of Control in Java."
 description: " "
 date: 2023-09-23
-tags: [hashtags, Java]
+tags: [hashtags]
 comments: true
 share: true
 ---

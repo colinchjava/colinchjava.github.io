@@ -3,7 +3,7 @@ layout: post
 title: "Rolling deployments and zero-downtime updates with Jib in Java containerization"
 description: " "
 date: 2023-09-18
-tags: [containerization, Java]
+tags: [containerization]
 comments: true
 share: true
 ---

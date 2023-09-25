@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based speech recognition systems"
 description: " "
 date: 2023-09-24
-tags: [Java, SpeechRecognition]
+tags: [SpeechRecognition]
 comments: true
 share: true
 ---

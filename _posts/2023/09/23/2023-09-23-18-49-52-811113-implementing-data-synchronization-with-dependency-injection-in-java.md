@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data synchronization with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [tech, java]
+tags: [tech]
 comments: true
 share: true
 ---

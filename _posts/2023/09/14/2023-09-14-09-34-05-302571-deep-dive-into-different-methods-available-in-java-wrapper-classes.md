@@ -3,7 +3,7 @@ layout: post
 title: "Deep dive into different methods available in Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [programming, java]
+tags: [programming]
 comments: true
 share: true
 ---

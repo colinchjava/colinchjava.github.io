@@ -3,7 +3,7 @@ layout: post
 title: "Understanding test containers in Java Arquillian"
 description: " "
 date: 2023-09-23
-tags: [TestContainers, Java]
+tags: [TestContainers]
 comments: true
 share: true
 ---

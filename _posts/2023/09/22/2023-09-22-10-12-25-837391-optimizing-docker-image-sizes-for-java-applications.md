@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing Docker image sizes for Java applications"
 description: " "
 date: 2023-09-22
-tags: [docker, Java]
+tags: [docker]
 comments: true
 share: true
 ---

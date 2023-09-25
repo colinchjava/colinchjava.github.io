@@ -3,7 +3,7 @@ layout: post
 title: "Documenting API error handling and exception mapping with Java Spring REST Docs"
 description: " "
 date: 2023-09-24
-tags: [techblogs, java]
+tags: [techblogs]
 comments: true
 share: true
 ---

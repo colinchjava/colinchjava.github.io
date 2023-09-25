@@ -3,7 +3,7 @@ layout: post
 title: "Managing container networking for Java Docker applications"
 description: " "
 date: 2023-09-22
-tags: [docker, java]
+tags: [docker]
 comments: true
 share: true
 ---

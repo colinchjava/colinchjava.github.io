@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for writing effective unit tests in Java"
 description: " "
 date: 2023-09-24
-tags: [unittesting, Java]
+tags: [unittesting]
 comments: true
 share: true
 ---

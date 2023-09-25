@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Jib with container orchestration frameworks beyond Kubernetes (e.g., Docker Swarm)"
 description: " "
 date: 2023-09-18
-tags: [DevOps, Java]
+tags: [DevOps]
 comments: true
 share: true
 ---

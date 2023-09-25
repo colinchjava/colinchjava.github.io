@@ -3,7 +3,7 @@ layout: post
 title: "Writing Arquillian tests for Java EE Security"
 description: " "
 date: 2023-09-23
-tags: [java, security]
+tags: [security]
 comments: true
 share: true
 ---

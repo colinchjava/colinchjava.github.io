@@ -3,7 +3,7 @@ layout: post
 title: "Implementing rolling updates for Java applications in Docker"
 description: " "
 date: 2023-09-22
-tags: [docker, java]
+tags: [docker]
 comments: true
 share: true
 ---

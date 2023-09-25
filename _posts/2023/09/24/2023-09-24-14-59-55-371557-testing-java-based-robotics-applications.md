@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based robotics applications"
 description: " "
 date: 2023-09-24
-tags: [Java, RoboticsTesting]
+tags: [RoboticsTesting]
 comments: true
 share: true
 ---

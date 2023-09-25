@@ -3,7 +3,7 @@ layout: post
 title: "Implementing caching strategies with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [Java, Caching]
+tags: [Caching]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Running Arquillian tests using JUnit"
 description: " "
 date: 2023-09-23
-tags: [testing, java]
+tags: [testing]
 comments: true
 share: true
 ---

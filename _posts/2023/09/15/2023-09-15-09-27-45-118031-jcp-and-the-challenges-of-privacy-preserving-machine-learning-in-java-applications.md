@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the challenges of privacy-preserving machine learning in Java applications"
 description: " "
 date: 2023-09-15
-tags: [privacy, Java]
+tags: [privacy]
 comments: true
 share: true
 ---

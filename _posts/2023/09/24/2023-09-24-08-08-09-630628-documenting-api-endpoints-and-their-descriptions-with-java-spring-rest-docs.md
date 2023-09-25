@@ -3,7 +3,7 @@ layout: post
 title: "Documenting API endpoints and their descriptions with Java Spring REST Docs"
 description: " "
 date: 2023-09-24
-tags: [hashtags, Java]
+tags: [hashtags]
 comments: true
 share: true
 ---

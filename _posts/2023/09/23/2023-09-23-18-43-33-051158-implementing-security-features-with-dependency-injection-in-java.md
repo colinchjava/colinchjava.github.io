@@ -3,7 +3,7 @@ layout: post
 title: "Implementing security features with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [java, security]
+tags: [security]
 comments: true
 share: true
 ---

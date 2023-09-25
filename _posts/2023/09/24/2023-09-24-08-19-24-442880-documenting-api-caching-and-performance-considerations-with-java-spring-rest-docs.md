@@ -3,7 +3,7 @@ layout: post
 title: "Documenting API caching and performance considerations with Java Spring REST Docs"
 description: " "
 date: 2023-09-24
-tags: [Caching, Java]
+tags: [Caching]
 comments: true
 share: true
 ---

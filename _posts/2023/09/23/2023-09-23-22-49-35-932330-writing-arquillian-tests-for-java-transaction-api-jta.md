@@ -3,7 +3,7 @@ layout: post
 title: "Writing Arquillian tests for Java Transaction API (JTA)"
 description: " "
 date: 2023-09-23
-tags: [Java, Arquillian]
+tags: [Arquillian]
 comments: true
 share: true
 ---

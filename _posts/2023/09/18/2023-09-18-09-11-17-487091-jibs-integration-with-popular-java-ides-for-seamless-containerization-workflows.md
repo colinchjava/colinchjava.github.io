@@ -3,7 +3,7 @@ layout: post
 title: "Jib's integration with popular Java IDEs for seamless containerization workflows"
 description: " "
 date: 2023-09-18
-tags: [containerization, Java]
+tags: [containerization]
 comments: true
 share: true
 ---

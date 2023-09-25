@@ -3,7 +3,7 @@ layout: post
 title: "Using dependency injection in Apache Wicket applications"
 description: " "
 date: 2023-09-25
-tags: [Java, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building event-driven microservices with GlassFish and Eclipse MicroProfile Reactive Messaging in Java"
 description: " "
 date: 2023-09-17
-tags: [microservices, eventdriven, Java]
+tags: [microservices, eventdriven]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Documenting error responses and status codes with Java Spring REST Docs"
 description: " "
 date: 2023-09-24
-tags: [java, springrest]
+tags: [springrest]
 comments: true
 share: true
 ---

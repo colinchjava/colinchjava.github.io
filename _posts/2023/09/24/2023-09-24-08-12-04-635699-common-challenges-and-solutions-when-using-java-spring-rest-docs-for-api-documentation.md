@@ -3,7 +3,7 @@ layout: post
 title: "Common challenges and solutions when using Java Spring REST Docs for API documentation"
 description: " "
 date: 2023-09-24
-tags: [java, documentation]
+tags: [documentation]
 comments: true
 share: true
 ---

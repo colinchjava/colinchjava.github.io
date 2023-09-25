@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the future of Java in the energy sector"
 description: " "
 date: 2023-09-15
-tags: [energysector, Java]
+tags: [energysector]
 comments: true
 share: true
 ---

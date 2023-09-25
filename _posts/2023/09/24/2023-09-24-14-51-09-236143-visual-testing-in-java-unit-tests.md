@@ -3,7 +3,7 @@ layout: post
 title: "Visual testing in Java unit tests"
 description: " "
 date: 2023-09-24
-tags: [java, testing]
+tags: [testing]
 comments: true
 share: true
 ---

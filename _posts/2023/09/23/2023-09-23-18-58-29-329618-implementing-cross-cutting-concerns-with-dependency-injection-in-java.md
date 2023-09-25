@@ -3,7 +3,7 @@ layout: post
 title: "Implementing cross-cutting concerns with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [Java, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

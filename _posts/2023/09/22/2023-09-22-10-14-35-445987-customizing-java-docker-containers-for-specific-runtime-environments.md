@@ -3,7 +3,7 @@ layout: post
 title: "Customizing Java Docker containers for specific runtime environments"
 description: " "
 date: 2023-09-22
-tags: [Docker, Java]
+tags: [Docker]
 comments: true
 share: true
 ---

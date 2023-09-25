@@ -3,7 +3,7 @@ layout: post
 title: "Implementing sentiment analysis in social media using Java objects"
 description: " "
 date: 2023-09-15
-tags: [Tech, Java]
+tags: [Tech]
 comments: true
 share: true
 ---

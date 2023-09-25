@@ -3,7 +3,7 @@ layout: post
 title: "Advanced data manipulation in Java Spock tests"
 description: " "
 date: 2023-09-19
-tags: [testing, java]
+tags: [testing]
 comments: true
 share: true
 ---

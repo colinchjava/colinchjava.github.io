@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to unit testing in Java"
 description: " "
 date: 2023-09-24
-tags: [UnitTesting, Java]
+tags: [UnitTesting]
 comments: true
 share: true
 ---

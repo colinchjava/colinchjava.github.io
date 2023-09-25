@@ -3,7 +3,7 @@ layout: post
 title: "Adding code examples and snippets in Java Spring REST Docs documentation"
 description: " "
 date: 2023-09-24
-tags: [java, springrest]
+tags: [springrest]
 comments: true
 share: true
 ---

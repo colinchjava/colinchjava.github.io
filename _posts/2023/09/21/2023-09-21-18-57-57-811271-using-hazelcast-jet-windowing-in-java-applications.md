@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast Jet windowing in Java applications"
 description: " "
 date: 2023-09-21
-tags: [HazelcastJet, Java, HazelcastJet, Java]
+tags: [HazelcastJet, Java, HazelcastJet]
 comments: true
 share: true
 ---

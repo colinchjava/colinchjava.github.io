@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the concept of expert systems with Java objects"
 description: " "
 date: 2023-09-15
-tags: [ExpertSystems, Java]
+tags: [ExpertSystems]
 comments: true
 share: true
 ---

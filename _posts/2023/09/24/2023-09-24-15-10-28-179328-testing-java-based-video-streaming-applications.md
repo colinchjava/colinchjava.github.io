@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based video streaming applications"
 description: " "
 date: 2023-09-24
-tags: [Java, VideoStreaming]
+tags: [VideoStreaming]
 comments: true
 share: true
 ---

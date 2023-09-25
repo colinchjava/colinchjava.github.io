@@ -3,7 +3,7 @@ layout: post
 title: "RabbitMQ integration with Apache Camel-Spring Kafka connector in Java"
 description: " "
 date: 2023-09-18
-tags: [Tech, Java]
+tags: [Tech]
 comments: true
 share: true
 ---

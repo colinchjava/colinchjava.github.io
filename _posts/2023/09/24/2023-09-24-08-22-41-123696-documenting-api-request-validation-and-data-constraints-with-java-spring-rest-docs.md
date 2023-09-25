@@ -3,7 +3,7 @@ layout: post
 title: "Documenting API request validation and data constraints with Java Spring REST Docs"
 description: " "
 date: 2023-09-24
-tags: [Java, SpringRESTDocs]
+tags: [SpringRESTDocs]
 comments: true
 share: true
 ---

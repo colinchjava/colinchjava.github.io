@@ -3,7 +3,7 @@ layout: post
 title: "Features of Java Arquillian"
 description: " "
 date: 2023-09-23
-tags: [Java, Arquillian]
+tags: [Arquillian]
 comments: true
 share: true
 ---

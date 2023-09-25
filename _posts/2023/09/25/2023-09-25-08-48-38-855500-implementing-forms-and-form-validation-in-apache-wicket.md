@@ -3,7 +3,7 @@ layout: post
 title: "Implementing forms and form validation in Apache Wicket"
 description: " "
 date: 2023-09-25
-tags: [Java, ApacheWicket]
+tags: [ApacheWicket]
 comments: true
 share: true
 ---

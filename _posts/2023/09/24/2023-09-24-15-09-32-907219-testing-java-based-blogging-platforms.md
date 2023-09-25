@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based blogging platforms"
 description: " "
 date: 2023-09-24
-tags: [blogging, Java]
+tags: [blogging]
 comments: true
 share: true
 ---

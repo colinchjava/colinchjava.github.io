@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection tuning strategies for improving the startup time of Java applications"
 description: " "
 date: 2023-09-14
-tags: [GCAlgorithms, GCAlgorithms), GCAlgorithms, Java]
+tags: [GCAlgorithms, GCAlgorithms), GCAlgorithms]
 comments: true
 share: true
 ---

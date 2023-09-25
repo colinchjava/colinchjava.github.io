@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast Jet fault tolerance mechanisms in Java applications"
 description: " "
 date: 2023-09-21
-tags: [snapshot(), setEnabled(true), HazelcastJet, FaultTolerance, Java]
+tags: [snapshot(), setEnabled(true), HazelcastJet, FaultTolerance]
 comments: true
 share: true
 ---

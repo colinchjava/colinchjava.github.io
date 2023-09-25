@@ -3,7 +3,7 @@ layout: post
 title: "Developing desktop applications with Java JDK"
 description: " "
 date: 2023-09-13
-tags: [programming, Java]
+tags: [programming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing multithreading with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [Java, Multithreading]
+tags: [Multithreading]
 comments: true
 share: true
 ---

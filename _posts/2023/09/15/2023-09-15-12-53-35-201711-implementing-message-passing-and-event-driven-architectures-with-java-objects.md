@@ -3,7 +3,7 @@ layout: post
 title: "Implementing message passing and event-driven architectures with Java objects"
 description: " "
 date: 2023-09-15
-tags: [TechBlog, Java]
+tags: [TechBlog]
 comments: true
 share: true
 ---

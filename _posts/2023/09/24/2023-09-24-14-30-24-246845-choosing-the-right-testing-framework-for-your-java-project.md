@@ -3,7 +3,7 @@ layout: post
 title: "Choosing the right testing framework for your Java project"
 description: " "
 date: 2023-09-24
-tags: [Java, TestingFrameworks]
+tags: [TestingFrameworks]
 comments: true
 share: true
 ---

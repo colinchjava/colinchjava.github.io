@@ -3,7 +3,7 @@ layout: post
 title: "Implementing authentication and authorization with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [Java, Authentication]
+tags: [Authentication]
 comments: true
 share: true
 ---

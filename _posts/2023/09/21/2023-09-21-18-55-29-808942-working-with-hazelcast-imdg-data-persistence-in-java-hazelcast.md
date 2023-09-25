@@ -3,7 +3,7 @@ layout: post
 title: "Working with Hazelcast IMDG data persistence in Java Hazelcast"
 description: " "
 date: 2023-09-21
-tags: [Hazelcast, Java]
+tags: [Hazelcast]
 comments: true
 share: true
 ---

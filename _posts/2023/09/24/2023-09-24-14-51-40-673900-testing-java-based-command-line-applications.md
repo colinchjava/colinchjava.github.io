@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based command line applications"
 description: " "
 date: 2023-09-24
-tags: [java, commandline]
+tags: [commandline]
 comments: true
 share: true
 ---

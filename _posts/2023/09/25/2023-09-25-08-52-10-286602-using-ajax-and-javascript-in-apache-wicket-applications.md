@@ -3,7 +3,7 @@ layout: post
 title: "Using Ajax and JavaScript in Apache Wicket applications"
 description: " "
 date: 2023-09-25
-tags: [Java, ApacheWicket]
+tags: [ApacheWicket]
 comments: true
 share: true
 ---

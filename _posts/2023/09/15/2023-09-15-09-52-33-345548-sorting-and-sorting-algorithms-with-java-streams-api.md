@@ -3,7 +3,7 @@ layout: post
 title: "Sorting and sorting algorithms with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [sorting, streams, java]
+tags: [sorting, streams]
 comments: true
 share: true
 ---

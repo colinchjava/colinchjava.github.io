@@ -3,7 +3,7 @@ layout: post
 title: "Database testing in Java unit tests"
 description: " "
 date: 2023-09-24
-tags: [Java, DatabaseTesting]
+tags: [DatabaseTesting]
 comments: true
 share: true
 ---

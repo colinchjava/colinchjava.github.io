@@ -3,7 +3,7 @@ layout: post
 title: "Integration testing libraries for Java"
 description: " "
 date: 2023-09-24
-tags: [java, integrationtesting]
+tags: [integrationtesting]
 comments: true
 share: true
 ---

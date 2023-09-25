@@ -3,7 +3,7 @@ layout: post
 title: "Test doubles in Java unit testing: fakes, mocks, spies"
 description: " "
 date: 2023-09-24
-tags: [Java, UnitTesting]
+tags: [UnitTesting]
 comments: true
 share: true
 ---

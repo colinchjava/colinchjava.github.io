@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast query capabilities in Java applications"
 description: " "
 date: 2023-09-21
-tags: [Hazelcast, Java]
+tags: [Hazelcast]
 comments: true
 share: true
 ---

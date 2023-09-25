@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for logging sensitive information with Log4j in Java applications"
 description: " "
 date: 2023-09-18
-tags: [log4j, Java]
+tags: [log4j]
 comments: true
 share: true
 ---

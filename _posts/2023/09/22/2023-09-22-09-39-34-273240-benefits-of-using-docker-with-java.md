@@ -3,7 +3,7 @@ layout: post
 title: "Benefits of using Docker with Java"
 description: " "
 date: 2023-09-22
-tags: [docker, java]
+tags: [docker]
 comments: true
 share: true
 ---

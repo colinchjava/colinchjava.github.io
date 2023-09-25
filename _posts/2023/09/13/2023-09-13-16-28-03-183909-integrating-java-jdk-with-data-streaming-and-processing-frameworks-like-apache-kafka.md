@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java JDK with data streaming and processing frameworks like Apache Kafka"
 description: " "
 date: 2023-09-13
-tags: [datastreaming, Kafka, Java]
+tags: [datastreaming, Kafka]
 comments: true
 share: true
 ---

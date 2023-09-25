@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the integration of Java Spring REST Docs with code generation and scaffolding tools"
 description: " "
 date: 2023-09-24
-tags: [java, Spring]
+tags: [Spring]
 comments: true
 share: true
 ---

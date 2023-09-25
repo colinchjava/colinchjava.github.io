@@ -3,7 +3,7 @@ layout: post
 title: "Implementing authentication and authorization in Java applications with GlassFish and Keycloak"
 description: " "
 date: 2023-09-17
-tags: [tech, Java]
+tags: [tech]
 comments: true
 share: true
 ---

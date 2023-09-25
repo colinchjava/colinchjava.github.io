@@ -3,7 +3,7 @@ layout: post
 title: "RabbitMQ management plugin and GUI in Java"
 description: " "
 date: 2023-09-18
-tags: [rabbitmq, java]
+tags: [rabbitmq]
 comments: true
 share: true
 ---

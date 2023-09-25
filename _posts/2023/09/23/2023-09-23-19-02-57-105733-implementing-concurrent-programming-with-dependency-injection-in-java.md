@@ -3,7 +3,7 @@ layout: post
 title: "Implementing concurrent programming with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [java, concurrency]
+tags: [concurrency]
 comments: true
 share: true
 ---

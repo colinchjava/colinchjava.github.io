@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Java Arquillian"
 description: " "
 date: 2023-09-23
-tags: [java, testing]
+tags: [testing]
 comments: true
 share: true
 ---

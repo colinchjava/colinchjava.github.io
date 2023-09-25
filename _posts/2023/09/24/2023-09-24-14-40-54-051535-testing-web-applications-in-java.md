@@ -3,7 +3,7 @@ layout: post
 title: "Testing web applications in Java"
 description: " "
 date: 2023-09-24
-tags: [Java, WebTesting]
+tags: [WebTesting]
 comments: true
 share: true
 ---

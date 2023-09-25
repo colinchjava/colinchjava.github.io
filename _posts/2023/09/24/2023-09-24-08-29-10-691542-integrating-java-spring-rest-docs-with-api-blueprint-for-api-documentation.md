@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java Spring REST Docs with API Blueprint for API documentation"
 description: " "
 date: 2023-09-24
-tags: [Java, Spring]
+tags: [Spring]
 comments: true
 share: true
 ---

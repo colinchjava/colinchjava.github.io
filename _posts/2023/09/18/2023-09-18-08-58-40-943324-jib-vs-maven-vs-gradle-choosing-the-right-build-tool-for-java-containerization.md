@@ -3,7 +3,7 @@ layout: post
 title: "Jib vs. Maven vs. Gradle: Choosing the right build tool for Java containerization"
 description: " "
 date: 2023-09-18
-tags: [Conclusion, Java]
+tags: [Conclusion]
 comments: true
 share: true
 ---

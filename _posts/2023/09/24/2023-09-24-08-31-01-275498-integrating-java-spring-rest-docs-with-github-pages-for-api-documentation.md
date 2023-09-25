@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java Spring REST Docs with GitHub Pages for API documentation"
 description: " "
 date: 2023-09-24
-tags: [Java, RESTDocs]
+tags: [RESTDocs]
 comments: true
 share: true
 ---

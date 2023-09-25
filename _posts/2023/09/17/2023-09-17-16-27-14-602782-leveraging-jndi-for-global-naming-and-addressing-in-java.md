@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging JNDI for Global Naming and Addressing in Java"
 description: " "
 date: 2023-09-17
-tags: [JNDI, Java]
+tags: [JNDI]
 comments: true
 share: true
 ---

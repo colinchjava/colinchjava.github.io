@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java Spring REST Docs with Swagger for API documentation"
 description: " "
 date: 2023-09-24
-tags: [Java, SpringRESTDocs]
+tags: [SpringRESTDocs]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based caching mechanisms"
 description: " "
 date: 2023-09-24
-tags: [java, caching]
+tags: [caching]
 comments: true
 share: true
 ---

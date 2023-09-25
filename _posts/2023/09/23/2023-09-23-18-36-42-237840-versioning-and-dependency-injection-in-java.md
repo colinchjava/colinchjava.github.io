@@ -3,7 +3,7 @@ layout: post
 title: "Versioning and Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [Java, Versioning]
+tags: [Versioning]
 comments: true
 share: true
 ---

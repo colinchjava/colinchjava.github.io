@@ -3,7 +3,7 @@ layout: post
 title: "Comparing different garbage collection algorithms in Java"
 description: " "
 date: 2023-09-13
-tags: [garbagecollection, java]
+tags: [garbagecollection]
 comments: true
 share: true
 ---

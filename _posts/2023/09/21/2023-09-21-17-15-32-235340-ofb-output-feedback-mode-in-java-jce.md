@@ -3,7 +3,7 @@ layout: post
 title: "OFB (Output Feedback) mode in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [encryption, Java]
+tags: [encryption]
 comments: true
 share: true
 ---

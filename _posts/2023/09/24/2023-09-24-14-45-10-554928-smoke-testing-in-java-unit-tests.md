@@ -3,7 +3,7 @@ layout: post
 title: "Smoke testing in Java unit tests"
 description: " "
 date: 2023-09-24
-tags: [Java, UnitTesting]
+tags: [UnitTesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Testing and validating API documentation using Java Spring REST Docs"
 description: " "
 date: 2023-09-24
-tags: [java, documentation]
+tags: [documentation]
 comments: true
 share: true
 ---

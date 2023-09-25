@@ -3,7 +3,7 @@ layout: post
 title: "How to integrate Log4j with Java web frameworks like Spring Boot and JavaServer Faces"
 description: " "
 date: 2023-09-18
-tags: [log4j, Java]
+tags: [log4j]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based image recognition models"
 description: " "
 date: 2023-09-24
-tags: [Java, ImageRecognition]
+tags: [ImageRecognition]
 comments: true
 share: true
 ---

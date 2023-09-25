@@ -3,7 +3,7 @@ layout: post
 title: "Cross-platform testing in Java"
 description: " "
 date: 2023-09-24
-tags: [crossplatformtesting, java]
+tags: [crossplatformtesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Organizing and structuring API documentation using Java Spring REST Docs"
 description: " "
 date: 2023-09-24
-tags: [documentation, Java]
+tags: [documentation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Customizing the output and styling of Java Spring REST Docs documentation"
 description: " "
 date: 2023-09-24
-tags: [Java, Spring]
+tags: [Spring]
 comments: true
 share: true
 ---

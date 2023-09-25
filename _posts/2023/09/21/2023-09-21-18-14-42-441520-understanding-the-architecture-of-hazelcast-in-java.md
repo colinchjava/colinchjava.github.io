@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the architecture of Hazelcast in Java"
 description: " "
 date: 2023-09-21
-tags: [Hazelcast, Java]
+tags: [Hazelcast]
 comments: true
 share: true
 ---

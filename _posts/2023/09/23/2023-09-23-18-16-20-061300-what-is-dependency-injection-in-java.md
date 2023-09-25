@@ -3,7 +3,7 @@ layout: post
 title: "What is Dependency Injection in Java?"
 description: " "
 date: 2023-09-23
-tags: [Java, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

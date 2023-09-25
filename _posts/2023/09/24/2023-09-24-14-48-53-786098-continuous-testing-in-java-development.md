@@ -3,7 +3,7 @@ layout: post
 title: "Continuous testing in Java development"
 description: " "
 date: 2023-09-24
-tags: [continuous, java]
+tags: [continuous]
 comments: true
 share: true
 ---

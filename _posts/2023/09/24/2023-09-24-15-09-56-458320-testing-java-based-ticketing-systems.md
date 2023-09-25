@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based ticketing systems"
 description: " "
 date: 2023-09-24
-tags: [testing, Java]
+tags: [testing]
 comments: true
 share: true
 ---

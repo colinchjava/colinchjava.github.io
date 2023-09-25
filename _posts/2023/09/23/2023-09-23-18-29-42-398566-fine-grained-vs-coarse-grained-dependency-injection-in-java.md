@@ -3,7 +3,7 @@ layout: post
 title: "Fine-grained vs coarse-grained Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [java, dependencyinjection]
+tags: [dependencyinjection]
 comments: true
 share: true
 ---

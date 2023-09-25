@@ -3,7 +3,7 @@ layout: post
 title: "Working with dependencies in a modular Java application."
 description: " "
 date: 2023-09-23
-tags: [java, dependencies]
+tags: [dependencies]
 comments: true
 share: true
 ---

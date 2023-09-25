@@ -3,7 +3,7 @@ layout: post
 title: "Securing Java RMI applications with SSL/TLS"
 description: " "
 date: 2023-09-14
-tags: [security, Java]
+tags: [security]
 comments: true
 share: true
 ---

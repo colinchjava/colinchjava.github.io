@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based big data processing"
 description: " "
 date: 2023-09-24
-tags: [bigdata, Java]
+tags: [bigdata]
 comments: true
 share: true
 ---

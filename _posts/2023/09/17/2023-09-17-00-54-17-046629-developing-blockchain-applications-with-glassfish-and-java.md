@@ -3,7 +3,7 @@ layout: post
 title: "Developing blockchain applications with GlassFish and Java"
 description: " "
 date: 2023-09-17
-tags: [blockchain, java]
+tags: [blockchain]
 comments: true
 share: true
 ---

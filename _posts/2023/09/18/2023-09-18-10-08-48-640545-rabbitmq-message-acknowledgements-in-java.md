@@ -3,7 +3,7 @@ layout: post
 title: "RabbitMQ message acknowledgements in Java"
 description: " "
 date: 2023-09-18
-tags: [RabbitMQ, Java]
+tags: [RabbitMQ]
 comments: true
 share: true
 ---

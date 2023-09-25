@@ -3,7 +3,7 @@ layout: post
 title: "Managing environment variables in Java Docker containers"
 description: " "
 date: 2023-09-22
-tags: [docker, java]
+tags: [docker]
 comments: true
 share: true
 ---

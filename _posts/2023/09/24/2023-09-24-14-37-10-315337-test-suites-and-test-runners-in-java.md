@@ -3,7 +3,7 @@ layout: post
 title: "Test suites and test runners in Java"
 description: " "
 date: 2023-09-24
-tags: [Java, Testing]
+tags: [Testing]
 comments: true
 share: true
 ---

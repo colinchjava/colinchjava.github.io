@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based chat applications"
 description: " "
 date: 2023-09-24
-tags: [java, chatapplication]
+tags: [chatapplication]
 comments: true
 share: true
 ---

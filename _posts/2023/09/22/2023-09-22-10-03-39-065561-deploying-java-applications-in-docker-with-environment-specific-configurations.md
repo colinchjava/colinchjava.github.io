@@ -3,7 +3,7 @@ layout: post
 title: "Deploying Java applications in Docker with environment-specific configurations"
 description: " "
 date: 2023-09-22
-tags: [boot, java]
+tags: [boot]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed computing with Hibernate and Hazelcast in Java"
 description: " "
 date: 2023-09-21
-tags: [distributedcomputing, Java]
+tags: [distributedcomputing]
 comments: true
 share: true
 ---

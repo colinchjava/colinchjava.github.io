@@ -3,7 +3,7 @@ layout: post
 title: "Performance testing in Java unit tests"
 description: " "
 date: 2023-09-24
-tags: [performance, Java]
+tags: [performance]
 comments: true
 share: true
 ---

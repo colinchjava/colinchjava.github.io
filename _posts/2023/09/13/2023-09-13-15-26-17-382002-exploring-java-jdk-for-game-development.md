@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for game development"
 description: " "
 date: 2023-09-13
-tags: [gamedev, java]
+tags: [gamedev]
 comments: true
 share: true
 ---

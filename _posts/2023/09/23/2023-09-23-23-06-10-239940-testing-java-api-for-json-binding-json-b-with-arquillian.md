@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java API for JSON Binding (JSON-B) with Arquillian"
 description: " "
 date: 2023-09-23
-tags: [Java, JSONB]
+tags: [JSONB]
 comments: true
 share: true
 ---

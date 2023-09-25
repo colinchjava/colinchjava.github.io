@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based transportation management systems"
 description: " "
 date: 2023-09-24
-tags: [transportationmanagement, Java]
+tags: [transportationmanagement]
 comments: true
 share: true
 ---

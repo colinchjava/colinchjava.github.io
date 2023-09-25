@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java objects and machine learning libraries"
 description: " "
 date: 2023-09-15
-tags: [machinelearning, java]
+tags: [machinelearning]
 comments: true
 share: true
 ---

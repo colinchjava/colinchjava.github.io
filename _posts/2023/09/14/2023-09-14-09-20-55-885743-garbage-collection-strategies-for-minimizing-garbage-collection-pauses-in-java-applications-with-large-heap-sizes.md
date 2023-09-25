@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection strategies for minimizing garbage collection pauses in Java applications with large heap sizes"
 description: " "
 date: 2023-09-14
-tags: [garbagecollection, Java]
+tags: [garbagecollection]
 comments: true
 share: true
 ---

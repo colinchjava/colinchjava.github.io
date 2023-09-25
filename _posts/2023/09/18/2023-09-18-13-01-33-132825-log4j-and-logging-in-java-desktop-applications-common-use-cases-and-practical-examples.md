@@ -3,7 +3,7 @@ layout: post
 title: "Log4j and logging in Java desktop applications: common use cases and practical examples"
 description: " "
 date: 2023-09-18
-tags: [logging, java]
+tags: [logging]
 comments: true
 share: true
 ---

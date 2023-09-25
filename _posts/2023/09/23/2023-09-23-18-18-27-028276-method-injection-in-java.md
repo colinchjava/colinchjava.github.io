@@ -3,7 +3,7 @@ layout: post
 title: "Method Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [Java, MethodInjection]
+tags: [MethodInjection]
 comments: true
 share: true
 ---

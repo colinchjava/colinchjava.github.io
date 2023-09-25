@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java concurrency and parallelism"
 description: " "
 date: 2023-09-24
-tags: [Java, Concurrency]
+tags: [Concurrency]
 comments: true
 share: true
 ---

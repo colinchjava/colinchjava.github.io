@@ -3,7 +3,7 @@ layout: post
 title: "Understanding inheritance and polymorphism in Java objects"
 description: " "
 date: 2023-09-15
-tags: [programming, Java]
+tags: [programming]
 comments: true
 share: true
 ---

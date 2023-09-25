@@ -3,7 +3,7 @@ layout: post
 title: "Assertions and test assertions in Java"
 description: " "
 date: 2023-09-24
-tags: [Java, Assertions]
+tags: [Assertions]
 comments: true
 share: true
 ---

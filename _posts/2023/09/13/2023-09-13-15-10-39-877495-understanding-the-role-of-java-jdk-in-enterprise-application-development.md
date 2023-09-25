@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the role of Java JDK in enterprise application development"
 description: " "
 date: 2023-09-13
-tags: [enterprise, Java]
+tags: [enterprise]
 comments: true
 share: true
 ---

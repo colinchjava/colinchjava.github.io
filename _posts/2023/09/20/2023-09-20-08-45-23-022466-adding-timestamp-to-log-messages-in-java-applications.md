@@ -3,7 +3,7 @@ layout: post
 title: "Adding timestamp to log messages in Java applications"
 description: " "
 date: 2023-09-20
-tags: [Logging, Java]
+tags: [Logging]
 comments: true
 share: true
 ---

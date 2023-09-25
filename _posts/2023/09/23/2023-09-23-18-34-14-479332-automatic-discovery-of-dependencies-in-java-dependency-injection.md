@@ -3,7 +3,7 @@ layout: post
 title: "Automatic discovery of dependencies in Java Dependency Injection."
 description: " "
 date: 2023-09-23
-tags: [Java, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

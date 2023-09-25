@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java Spring REST Docs with Postman for API documentation"
 description: " "
 date: 2023-09-24
-tags: [java, spring]
+tags: [spring]
 comments: true
 share: true
 ---

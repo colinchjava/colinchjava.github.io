@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based social media applications"
 description: " "
 date: 2023-09-24
-tags: [java, socialmediadevelopment]
+tags: [socialmediadevelopment]
 comments: true
 share: true
 ---

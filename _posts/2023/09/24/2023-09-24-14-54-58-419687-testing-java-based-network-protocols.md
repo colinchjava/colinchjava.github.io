@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based network protocols"
 description: " "
 date: 2023-09-24
-tags: [networkprotocols, Java]
+tags: [networkprotocols]
 comments: true
 share: true
 ---

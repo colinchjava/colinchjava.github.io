@@ -3,7 +3,7 @@ layout: post
 title: "Building event sourcing applications with GlassFish and Axon Framework in Java"
 description: " "
 date: 2023-09-17
-tags: [EventSourcing, Java]
+tags: [EventSourcing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with Hazelcast distributed transactions in Java"
 description: " "
 date: 2023-09-21
-tags: [distributedtransactions, Hazelcast, Java]
+tags: [distributedtransactions, Hazelcast]
 comments: true
 share: true
 ---

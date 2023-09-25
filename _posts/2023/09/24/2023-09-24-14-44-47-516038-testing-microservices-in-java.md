@@ -3,7 +3,7 @@ layout: post
 title: "Testing microservices in Java"
 description: " "
 date: 2023-09-24
-tags: [java, microservices]
+tags: [microservices]
 comments: true
 share: true
 ---

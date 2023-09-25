@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing Jib's impact on Java containerization development cycles and workflows"
 description: " "
 date: 2023-09-18
-tags: [containerization, java]
+tags: [containerization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Debugging Java Docker containers in production environments"
 description: " "
 date: 2023-09-22
-tags: [debugging, Java]
+tags: [debugging]
 comments: true
 share: true
 ---

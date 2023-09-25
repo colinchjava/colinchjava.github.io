@@ -3,7 +3,7 @@ layout: post
 title: "Implementing reactive programming with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [reactiveprogramming, java]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

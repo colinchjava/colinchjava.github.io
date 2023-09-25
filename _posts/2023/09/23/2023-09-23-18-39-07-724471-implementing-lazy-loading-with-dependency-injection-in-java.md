@@ -3,7 +3,7 @@ layout: post
 title: "Implementing lazy loading with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [Java, Programming]
+tags: [Programming]
 comments: true
 share: true
 ---

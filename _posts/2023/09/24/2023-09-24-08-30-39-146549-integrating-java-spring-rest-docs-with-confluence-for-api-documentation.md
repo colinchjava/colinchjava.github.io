@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java Spring REST Docs with Confluence for API documentation"
 description: " "
 date: 2023-09-24
-tags: [java, documentation]
+tags: [documentation]
 comments: true
 share: true
 ---

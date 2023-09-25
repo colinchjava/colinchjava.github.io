@@ -3,7 +3,7 @@ layout: post
 title: "Publishing and hosting Java Spring REST Docs documentation"
 description: " "
 date: 2023-09-24
-tags: [Java, RESTDocs]
+tags: [RESTDocs]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast IMDG storage format in Java applications"
 description: " "
 date: 2023-09-21
-tags: [tech, Hazelcast, storage, Java]
+tags: [tech, Hazelcast, storage]
 comments: true
 share: true
 ---

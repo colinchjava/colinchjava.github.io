@@ -3,7 +3,7 @@ layout: post
 title: "Installing and setting up Hazelcast in a Java project"
 description: " "
 date: 2023-09-21
-tags: [Hazelcast, Java, Hazelcast, Java]
+tags: [Hazelcast, Java, Hazelcast]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Comparing Jib with other Java containerization frameworks (e.g., Fabric8, Spotify Dockerfile Maven plugin)"
 description: " "
 date: 2023-09-18
-tags: [containerization, Java]
+tags: [containerization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing auditing and logging with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [Java, Logging]
+tags: [Logging]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "White box testing vs black box testing in Java"
 description: " "
 date: 2023-09-24
-tags: [java, testing]
+tags: [testing]
 comments: true
 share: true
 ---

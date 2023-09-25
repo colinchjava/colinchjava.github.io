@@ -3,7 +3,7 @@ layout: post
 title: "Testing multithreaded code in Java"
 description: " "
 date: 2023-09-24
-tags: [Conclusion, Java]
+tags: [Conclusion]
 comments: true
 share: true
 ---

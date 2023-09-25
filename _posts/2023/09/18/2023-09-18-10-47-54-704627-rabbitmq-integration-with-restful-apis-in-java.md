@@ -3,7 +3,7 @@ layout: post
 title: "RabbitMQ integration with RESTful APIs in Java"
 description: " "
 date: 2023-09-18
-tags: [RestfulAPIs, Java]
+tags: [RestfulAPIs]
 comments: true
 share: true
 ---

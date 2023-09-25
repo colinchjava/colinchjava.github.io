@@ -3,7 +3,7 @@ layout: post
 title: "Using Docker for Java application packaging and distribution"
 description: " "
 date: 2023-09-22
-tags: [docker, java]
+tags: [docker]
 comments: true
 share: true
 ---

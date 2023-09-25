@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java applications in Docker"
 description: " "
 date: 2023-09-22
-tags: [testing, Java]
+tags: [testing]
 comments: true
 share: true
 ---

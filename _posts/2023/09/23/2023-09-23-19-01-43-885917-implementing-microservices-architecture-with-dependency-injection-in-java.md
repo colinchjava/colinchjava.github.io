@@ -3,7 +3,7 @@ layout: post
 title: "Implementing microservices architecture with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [microservices, java]
+tags: [microservices]
 comments: true
 share: true
 ---

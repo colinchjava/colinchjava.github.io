@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging wrapper classes for computer vision applications in Java"
 description: " "
 date: 2023-09-14
-tags: [computerVision, Java]
+tags: [computerVision]
 comments: true
 share: true
 ---

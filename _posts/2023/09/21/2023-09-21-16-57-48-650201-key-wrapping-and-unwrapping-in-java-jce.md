@@ -3,7 +3,7 @@ layout: post
 title: "Key wrapping and unwrapping in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [encryption, keywrapping, java]
+tags: [encryption, keywrapping]
 comments: true
 share: true
 ---

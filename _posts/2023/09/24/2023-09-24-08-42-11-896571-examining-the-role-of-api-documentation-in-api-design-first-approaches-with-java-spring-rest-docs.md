@@ -3,7 +3,7 @@ layout: post
 title: "Examining the role of API documentation in API design-first approaches with Java Spring REST Docs"
 description: " "
 date: 2023-09-24
-tags: [APIDesign, Java]
+tags: [APIDesign]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based human resources management systems (HRMS)"
 description: " "
 date: 2023-09-24
-tags: [HRMS, Java]
+tags: [HRMS]
 comments: true
 share: true
 ---

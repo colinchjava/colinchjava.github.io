@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the adoption of predictive maintenance in Java applications"
 description: " "
 date: 2023-09-15
-tags: [predictivemaintenance, Java]
+tags: [predictivemaintenance]
 comments: true
 share: true
 ---

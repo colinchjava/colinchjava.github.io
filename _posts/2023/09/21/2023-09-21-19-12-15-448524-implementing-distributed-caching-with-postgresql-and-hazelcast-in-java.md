@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed caching with PostgreSQL and Hazelcast in Java"
 description: " "
 date: 2023-09-21
-tags: [distributedcaching, postgresql, hazelcast, java]
+tags: [distributedcaching, postgresql, hazelcast]
 comments: true
 share: true
 ---

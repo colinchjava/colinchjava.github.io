@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing Java containerization with Jib for different application architectures (monolithic, microservices)"
 description: " "
 date: 2023-09-18
-tags: [containerization, Java]
+tags: [containerization]
 comments: true
 share: true
 ---

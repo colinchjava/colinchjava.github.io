@@ -3,7 +3,7 @@ layout: post
 title: "Publishing and consuming messages in Java using RabbitMQ"
 description: " "
 date: 2023-09-18
-tags: [RabbitMQ, Java]
+tags: [RabbitMQ]
 comments: true
 share: true
 ---

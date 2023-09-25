@@ -3,7 +3,7 @@ layout: post
 title: "JNDI and Service-Oriented Architecture (SOA) in Java"
 description: " "
 date: 2023-09-17
-tags: [tech, Java]
+tags: [tech]
 comments: true
 share: true
 ---

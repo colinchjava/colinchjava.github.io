@@ -3,7 +3,7 @@ layout: post
 title: "Keeping up with the latest updates and features in Java Spring REST Docs"
 description: " "
 date: 2023-09-24
-tags: [java, spring]
+tags: [spring]
 comments: true
 share: true
 ---

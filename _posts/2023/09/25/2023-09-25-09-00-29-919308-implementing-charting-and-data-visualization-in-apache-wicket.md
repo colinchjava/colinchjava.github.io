@@ -3,7 +3,7 @@ layout: post
 title: "Implementing charting and data visualization in Apache Wicket"
 description: " "
 date: 2023-09-25
-tags: [Implementing, #Getting]
+tags: [Implementing, Getting]
 comments: true
 share: true
 ---

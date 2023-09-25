@@ -3,7 +3,7 @@ layout: post
 title: "Evaluating the scalability and reliability of Java Spring REST Docs for large-scale API documentation"
 description: " "
 date: 2023-09-24
-tags: [Java, APIs]
+tags: [APIs]
 comments: true
 share: true
 ---

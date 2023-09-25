@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed caching with HBase and Hazelcast in Java"
 description: " "
 date: 2023-09-21
-tags: [distributedcaching, HBase, Hazelcast, Java]
+tags: [distributedcaching, HBase, Hazelcast]
 comments: true
 share: true
 ---

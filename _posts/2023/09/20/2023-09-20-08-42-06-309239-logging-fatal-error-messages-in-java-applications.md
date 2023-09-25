@@ -3,7 +3,7 @@ layout: post
 title: "Logging fatal error messages in Java applications"
 description: " "
 date: 2023-09-20
-tags: [logging, Java]
+tags: [logging]
 comments: true
 share: true
 ---

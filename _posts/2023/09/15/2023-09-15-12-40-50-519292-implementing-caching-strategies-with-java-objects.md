@@ -3,7 +3,7 @@ layout: post
 title: "Implementing caching strategies with Java objects"
 description: " "
 date: 2023-09-15
-tags: [Caching, Java]
+tags: [Caching]
 comments: true
 share: true
 ---

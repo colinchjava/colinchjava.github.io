@@ -3,7 +3,7 @@ layout: post
 title: "Troubleshooting common issues and errors with Log4j in Java projects"
 description: " "
 date: 2023-09-18
-tags: [log4j, Java]
+tags: [log4j]
 comments: true
 share: true
 ---

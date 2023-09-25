@@ -3,7 +3,7 @@ layout: post
 title: "Logging database interactions in Java applications"
 description: " "
 date: 2023-09-20
-tags: [database, Java]
+tags: [database]
 comments: true
 share: true
 ---

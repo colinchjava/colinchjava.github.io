@@ -3,7 +3,7 @@ layout: post
 title: "Exploring alternative approaches to API documentation in Java Spring projects"
 description: " "
 date: 2023-09-24
-tags: [Conclusion, Java]
+tags: [Conclusion]
 comments: true
 share: true
 ---

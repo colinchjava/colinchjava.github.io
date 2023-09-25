@@ -3,7 +3,7 @@ layout: post
 title: "Managing environment variables and configurations with Jib for Java containerization"
 description: " "
 date: 2023-09-18
-tags: [containerization, Java]
+tags: [containerization]
 comments: true
 share: true
 ---

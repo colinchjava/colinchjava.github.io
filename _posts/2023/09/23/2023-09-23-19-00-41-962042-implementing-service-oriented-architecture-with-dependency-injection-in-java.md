@@ -3,7 +3,7 @@ layout: post
 title: "Implementing service-oriented architecture with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [programming, java]
+tags: [programming]
 comments: true
 share: true
 ---

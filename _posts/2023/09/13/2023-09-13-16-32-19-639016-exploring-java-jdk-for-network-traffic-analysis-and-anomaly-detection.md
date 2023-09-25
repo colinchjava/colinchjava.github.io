@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for network traffic analysis and anomaly detection"
 description: " "
 date: 2023-09-13
-tags: [networkanalysis, java]
+tags: [networkanalysis]
 comments: true
 share: true
 ---

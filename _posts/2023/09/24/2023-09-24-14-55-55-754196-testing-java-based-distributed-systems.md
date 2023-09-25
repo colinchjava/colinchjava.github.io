@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based distributed systems"
 description: " "
 date: 2023-09-24
-tags: [java, distributedsystems]
+tags: [distributedsystems]
 comments: true
 share: true
 ---

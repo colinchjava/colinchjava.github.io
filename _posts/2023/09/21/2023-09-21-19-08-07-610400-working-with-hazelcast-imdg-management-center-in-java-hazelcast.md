@@ -3,7 +3,7 @@ layout: post
 title: "Working with Hazelcast IMDG management center in Java Hazelcast"
 description: " "
 date: 2023-09-21
-tags: [Hazelcast, IMDG, ManagementCenter, Java]
+tags: [Hazelcast, IMDG, ManagementCenter]
 comments: true
 share: true
 ---

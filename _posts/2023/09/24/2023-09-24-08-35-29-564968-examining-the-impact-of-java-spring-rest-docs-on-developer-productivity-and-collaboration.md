@@ -3,7 +3,7 @@ layout: post
 title: "Examining the impact of Java Spring REST Docs on developer productivity and collaboration"
 description: " "
 date: 2023-09-24
-tags: [java, spring]
+tags: [spring]
 comments: true
 share: true
 ---

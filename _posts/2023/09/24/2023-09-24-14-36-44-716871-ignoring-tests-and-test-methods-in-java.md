@@ -3,7 +3,7 @@ layout: post
 title: "Ignoring tests and test methods in Java"
 description: " "
 date: 2023-09-24
-tags: [java, testing]
+tags: [testing]
 comments: true
 share: true
 ---

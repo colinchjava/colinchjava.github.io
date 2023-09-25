@@ -3,7 +3,7 @@ layout: post
 title: "Implementing different logging levels using Log4j in a Java project"
 description: " "
 date: 2023-09-18
-tags: [log4j, Java]
+tags: [log4j]
 comments: true
 share: true
 ---

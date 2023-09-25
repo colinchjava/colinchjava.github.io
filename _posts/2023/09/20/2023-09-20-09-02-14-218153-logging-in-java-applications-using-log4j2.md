@@ -3,7 +3,7 @@ layout: post
 title: "Logging in Java applications using Log4j2"
 description: " "
 date: 2023-09-20
-tags: [logging, Java]
+tags: [logging]
 comments: true
 share: true
 ---

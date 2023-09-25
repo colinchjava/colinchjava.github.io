@@ -3,7 +3,7 @@ layout: post
 title: "Importance of logging in Java applications"
 description: " "
 date: 2023-09-20
-tags: [JavaProgramming, java]
+tags: [JavaProgramming]
 comments: true
 share: true
 ---

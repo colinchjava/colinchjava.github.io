@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed processing with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [java, distributedprocessing]
+tags: [distributedprocessing]
 comments: true
 share: true
 ---

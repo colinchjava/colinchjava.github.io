@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Arquillian with popular Java frameworks (e.g. Spring, Hibernate)"
 description: " "
 date: 2023-09-23
-tags: [TechBlogs, Java]
+tags: [TechBlogs]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing concurrency control with Dependency Injection in Java."
 description: " "
 date: 2023-09-23
-tags: [techblog, java]
+tags: [techblog]
 comments: true
 share: true
 ---

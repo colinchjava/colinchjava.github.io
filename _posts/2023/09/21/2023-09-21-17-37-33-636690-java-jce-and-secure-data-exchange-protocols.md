@@ -3,7 +3,7 @@ layout: post
 title: "Java JCE and secure data exchange protocols"
 description: " "
 date: 2023-09-21
-tags: [cybersecurity, java]
+tags: [cybersecurity]
 comments: true
 share: true
 ---

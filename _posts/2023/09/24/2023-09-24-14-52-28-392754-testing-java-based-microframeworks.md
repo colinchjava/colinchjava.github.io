@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based microframeworks"
 description: " "
 date: 2023-09-24
-tags: [java, microframework]
+tags: [microframework]
 comments: true
 share: true
 ---

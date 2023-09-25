@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java EE batch processing with Arquillian"
 description: " "
 date: 2023-09-23
-tags: [java, batchprocessing]
+tags: [batchprocessing]
 comments: true
 share: true
 ---

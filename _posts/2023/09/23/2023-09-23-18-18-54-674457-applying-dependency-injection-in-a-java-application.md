@@ -3,7 +3,7 @@ layout: post
 title: "Applying Dependency Injection in a Java application."
 description: " "
 date: 2023-09-23
-tags: [Java, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

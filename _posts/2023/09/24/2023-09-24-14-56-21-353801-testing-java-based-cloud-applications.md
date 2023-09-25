@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based cloud applications"
 description: " "
 date: 2023-09-24
-tags: [Java, CloudComputing]
+tags: [CloudComputing]
 comments: true
 share: true
 ---

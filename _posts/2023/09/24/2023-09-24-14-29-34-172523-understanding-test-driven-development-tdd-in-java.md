@@ -3,7 +3,7 @@ layout: post
 title: "Understanding test-driven development (TDD) in Java"
 description: " "
 date: 2023-09-24
-tags: [Java, TestDrivenDevelopment]
+tags: [TestDrivenDevelopment]
 comments: true
 share: true
 ---

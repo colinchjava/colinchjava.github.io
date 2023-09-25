@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast Jet event processing guarantees in Java applications"
 description: " "
 date: 2023-09-21
-tags: [HazelcastJet, EventProcessing, Java]
+tags: [HazelcastJet, EventProcessing]
 comments: true
 share: true
 ---

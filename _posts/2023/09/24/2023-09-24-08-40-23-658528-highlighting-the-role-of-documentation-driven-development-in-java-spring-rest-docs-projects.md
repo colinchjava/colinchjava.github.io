@@ -3,7 +3,7 @@ layout: post
 title: "Highlighting the role of documentation-driven development in Java Spring REST Docs projects"
 description: " "
 date: 2023-09-24
-tags: [Java, SpringRESTDocs]
+tags: [SpringRESTDocs]
 comments: true
 share: true
 ---

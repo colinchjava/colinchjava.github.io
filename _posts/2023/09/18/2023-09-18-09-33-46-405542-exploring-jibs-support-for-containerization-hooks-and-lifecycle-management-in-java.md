@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Jib's support for containerization hooks and lifecycle management in Java"
 description: " "
 date: 2023-09-18
-tags: [containerization, Java]
+tags: [containerization]
 comments: true
 share: true
 ---

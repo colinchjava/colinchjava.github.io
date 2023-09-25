@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed caching with Memcached and Hazelcast in Java"
 description: " "
 date: 2023-09-21
-tags: [distributedcaching, java]
+tags: [distributedcaching]
 comments: true
 share: true
 ---

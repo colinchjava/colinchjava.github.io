@@ -3,7 +3,7 @@ layout: post
 title: "Testing JAX-WS (Java API for XML Web Services) with Arquillian"
 description: " "
 date: 2023-09-23
-tags: [Java, Testing]
+tags: [Testing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java-based blockchain applications"
 description: " "
 date: 2023-09-24
-tags: [blockchain, Java]
+tags: [blockchain]
 comments: true
 share: true
 ---

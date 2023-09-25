@@ -3,7 +3,7 @@ layout: post
 title: "Cipher Modes of Operation in Java JCE"
 description: " "
 date: 2023-09-21
-tags: [cryptography, Java]
+tags: [cryptography]
 comments: true
 share: true
 ---

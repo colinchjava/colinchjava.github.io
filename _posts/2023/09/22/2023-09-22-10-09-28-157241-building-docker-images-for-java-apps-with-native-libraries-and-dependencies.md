@@ -3,7 +3,7 @@ layout: post
 title: "Building Docker images for Java apps with native libraries and dependencies"
 description: " "
 date: 2023-09-22
-tags: [docker, java]
+tags: [docker]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java Servlets and JSPs"
 description: " "
 date: 2023-09-24
-tags: [Java, Servlets]
+tags: [Servlets]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Continuous delivery for Java applications with Docker"
 description: " "
 date: 2023-09-22
-tags: [dockercd, java]
+tags: [dockercd]
 comments: true
 share: true
 ---
