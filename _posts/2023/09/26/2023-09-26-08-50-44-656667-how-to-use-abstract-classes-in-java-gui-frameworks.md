@@ -3,7 +3,7 @@ layout: post
 title: "How to use abstract classes in Java GUI frameworks"
 description: " "
 date: 2023-09-26
-tags: [programming, java]
+tags: [programming]
 comments: true
 share: true
 ---

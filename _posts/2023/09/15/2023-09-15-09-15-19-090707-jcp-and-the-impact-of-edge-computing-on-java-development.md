@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the impact of edge computing on Java development"
 description: " "
 date: 2023-09-15
-tags: [Conclusion, Java, EdgeComputing]
+tags: [Conclusion,EdgeComputing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Capturing JNDI Traces for Debugging in Java"
 description: " "
 date: 2023-09-17
-tags: [JNDI, Java, Debugging, Troubleshooting]
+tags: [JNDI,Debugging, Troubleshooting]
 comments: true
 share: true
 ---

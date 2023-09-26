@@ -3,7 +3,7 @@ layout: post
 title: "Integration testing with Java Spock and REST APIs"
 description: " "
 date: 2023-09-19
-tags: [integrationtesting, Java, Spock, RESTAPI]
+tags: [integrationtesting,Spock, RESTAPI]
 comments: true
 share: true
 ---

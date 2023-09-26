@@ -3,7 +3,7 @@ layout: post
 title: "Overloading of method call operator in Java"
 description: " "
 date: 2023-09-26
-tags: [java, methodoverloading]
+tags: [methodoverloading]
 comments: true
 share: true
 ---

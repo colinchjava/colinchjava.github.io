@@ -3,7 +3,7 @@ layout: post
 title: "Abstract data types vs. primitive data types in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, DataTypes]
+tags: [DataTypes]
 comments: true
 share: true
 ---

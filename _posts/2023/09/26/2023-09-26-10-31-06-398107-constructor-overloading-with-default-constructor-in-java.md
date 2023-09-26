@@ -3,7 +3,7 @@ layout: post
 title: "Constructor overloading with default constructor in Java"
 description: " "
 date: 2023-09-26
-tags: [java, constructoroverloading]
+tags: [constructoroverloading]
 comments: true
 share: true
 ---

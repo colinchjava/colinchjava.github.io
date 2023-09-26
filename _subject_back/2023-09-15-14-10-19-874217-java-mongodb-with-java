@@ -82,7 +82,7 @@ Implementing a distributed caching system with Apache Ignite and MongoDB using J
 Building a document search engine with Java and MongoDB
 Implementing a distributed event-driven architecture with Apache Kafka and MongoDB using Java
 Building a recommendation engine for news articles using Java and MongoDB
-Implementing a real-time chat application with WebSockets, Java, and MongoDB
+Implementing a real-time chat application with WebSockets,and MongoDB
 Building a content recommendation system using Java and MongoDB
 Implementing a distributed message queue with Apache Pulsar and MongoDB using Java
 Building a real-time analytics platform with Java, MongoDB, and Apache Spark

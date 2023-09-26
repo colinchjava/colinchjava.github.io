@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java thread synchronization"
 description: " "
 date: 2023-09-26
-tags: [Java, ThreadSynchronization]
+tags: [ThreadSynchronization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Resource management and scalability considerations in Apache Beam Java"
 description: " "
 date: 2023-09-25
-tags: [ApacheBeam, Java]
+tags: [ApacheBeam]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Abstract classes in Java serialization"
 description: " "
 date: 2023-09-26
-tags: [Java, Serialization]
+tags: [Serialization]
 comments: true
 share: true
 ---

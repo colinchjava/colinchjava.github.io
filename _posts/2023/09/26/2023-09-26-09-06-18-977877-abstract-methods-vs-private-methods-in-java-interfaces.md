@@ -3,7 +3,7 @@ layout: post
 title: "Abstract methods vs. private methods in Java interfaces"
 description: " "
 date: 2023-09-26
-tags: [Java, Interfaces]
+tags: [Interfaces]
 comments: true
 share: true
 ---

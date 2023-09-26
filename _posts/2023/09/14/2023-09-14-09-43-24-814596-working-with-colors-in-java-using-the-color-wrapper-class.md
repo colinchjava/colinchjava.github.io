@@ -3,7 +3,7 @@ layout: post
 title: "Working with colors in Java using the Color wrapper class"
 description: " "
 date: 2023-09-14
-tags: [00FF00, java, programming]
+tags: [00FF00,programming]
 comments: true
 share: true
 ---

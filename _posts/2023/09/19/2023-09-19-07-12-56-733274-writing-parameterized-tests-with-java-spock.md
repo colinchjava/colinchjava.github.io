@@ -3,7 +3,7 @@ layout: post
 title: "Writing parameterized tests with Java Spock"
 description: " "
 date: 2023-09-19
-tags: [expectedSum, Java, Spock]
+tags: [expectedSum,Spock]
 comments: true
 share: true
 ---

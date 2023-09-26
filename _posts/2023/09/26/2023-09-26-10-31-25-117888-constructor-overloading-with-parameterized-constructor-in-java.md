@@ -3,7 +3,7 @@ layout: post
 title: "Constructor overloading with parameterized constructor in Java"
 description: " "
 date: 2023-09-26
-tags: [java, constructor]
+tags: [constructor]
 comments: true
 share: true
 ---

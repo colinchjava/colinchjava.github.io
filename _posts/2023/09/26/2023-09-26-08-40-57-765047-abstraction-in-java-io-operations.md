@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java I/O operations"
 description: " "
 date: 2023-09-26
-tags: [Java, IOPerations]
+tags: [IOPerations]
 comments: true
 share: true
 ---

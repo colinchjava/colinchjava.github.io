@@ -3,7 +3,7 @@ layout: post
 title: "Polymorphism and abstraction in Java"
 description: " "
 date: 2023-09-26
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

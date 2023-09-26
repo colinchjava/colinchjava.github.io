@@ -3,7 +3,7 @@ layout: post
 title: "Exploring mutation testing with Pitest and Java Spock"
 description: " "
 date: 2023-09-19
-tags: [mutationtesting, java, spock, testing, qualitycode]
+tags: [mutationtesting,spock, testing, qualitycode]
 comments: true
 share: true
 ---

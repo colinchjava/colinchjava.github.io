@@ -3,7 +3,7 @@ layout: post
 title: "How to create an abstract class in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, AbstractClass]
+tags: [AbstractClass]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Overloading of relational operators in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, RelationalOperators]
+tags: [RelationalOperators]
 comments: true
 share: true
 ---

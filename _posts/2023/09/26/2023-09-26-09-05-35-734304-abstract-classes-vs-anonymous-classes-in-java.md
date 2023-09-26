@@ -3,7 +3,7 @@ layout: post
 title: "Abstract classes vs. anonymous classes in Java"
 description: " "
 date: 2023-09-26
-tags: [java, programming]
+tags: [programming]
 comments: true
 share: true
 ---

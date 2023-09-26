@@ -3,7 +3,7 @@ layout: post
 title: "How to migrate projects from older versions of Java JDK to the latest version"
 description: " "
 date: 2023-09-13
-tags: [programming, Java, migration]
+tags: [programming,migration]
 comments: true
 share: true
 ---

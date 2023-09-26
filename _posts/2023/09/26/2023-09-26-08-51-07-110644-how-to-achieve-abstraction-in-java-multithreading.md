@@ -3,7 +3,7 @@ layout: post
 title: "How to achieve abstraction in Java multithreading"
 description: " "
 date: 2023-09-26
-tags: [Java, Multithreading]
+tags: [Multithreading]
 comments: true
 share: true
 ---

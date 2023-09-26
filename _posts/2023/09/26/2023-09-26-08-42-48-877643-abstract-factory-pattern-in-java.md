@@ -3,7 +3,7 @@ layout: post
 title: "Abstract factory pattern in Java"
 description: " "
 date: 2023-09-26
-tags: [java, designpattern]
+tags: [designpattern]
 comments: true
 share: true
 ---

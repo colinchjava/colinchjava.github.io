@@ -3,7 +3,7 @@ layout: post
 title: "How to use abstraction to enhance code reusability in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, Abstraction]
+tags: [Abstraction]
 comments: true
 share: true
 ---

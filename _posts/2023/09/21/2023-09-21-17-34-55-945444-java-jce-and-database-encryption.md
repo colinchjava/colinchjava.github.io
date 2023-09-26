@@ -3,7 +3,7 @@ layout: post
 title: "Java JCE and database encryption"
 description: " "
 date: 2023-09-21
-tags: [encryption, Java, database, security]
+tags: [encryption,database, security]
 comments: true
 share: true
 ---

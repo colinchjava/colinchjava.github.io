@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction vs. encapsulation in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, ObjectOrientedProgramming]
+tags: [ObjectOrientedProgramming]
 comments: true
 share: true
 ---

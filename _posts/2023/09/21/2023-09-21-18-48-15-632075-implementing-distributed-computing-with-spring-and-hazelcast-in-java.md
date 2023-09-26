@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed computing with Spring and Hazelcast in Java"
 description: " "
 date: 2023-09-21
-tags: [distributedcomputing, java, spring, hazelcast]
+tags: [distributedcomputing,spring, hazelcast]
 comments: true
 share: true
 ---

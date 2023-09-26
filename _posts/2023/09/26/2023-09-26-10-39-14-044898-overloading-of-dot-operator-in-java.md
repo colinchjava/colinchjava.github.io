@@ -3,7 +3,7 @@ layout: post
 title: "Overloading of dot operator in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, dotoperator]
+tags: [dotoperator]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Overloading of inner classes with different access modifiers in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, InnerClasses]
+tags: [InnerClasses]
 comments: true
 share: true
 ---

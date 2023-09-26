@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection strategies for maximizing memory utilization in Java applications"
 description: " "
 date: 2023-09-14
-tags: [programming, Java, GarbageCollection, MemoryUtilization]
+tags: [programming,GarbageCollection, MemoryUtilization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing machine learning algorithms with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [machinelearning, java, javastreams, datascience, algorithms]
+tags: [machinelearning,javastreams, datascience, algorithms]
 comments: true
 share: true
 ---

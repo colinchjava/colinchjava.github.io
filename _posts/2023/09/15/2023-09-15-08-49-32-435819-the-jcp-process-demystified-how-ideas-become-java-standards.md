@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Have you ever wondered how your favorite programming language, Java, evolves and improves over time? Well, it's all thanks to the Java Community Process (JCP). In this blog post, we will unravel the mysteries of the JCP process and shed light on how ideas transform into official Java standards.
+Have you ever wondered how your favorite programming language,evolves and improves over time? Well, it's all thanks to the Java Community Process (JCP). In this blog post, we will unravel the mysteries of the JCP process and shed light on how ideas transform into official Java standards.
 
 ## What is the Java Community Process (JCP)?
 

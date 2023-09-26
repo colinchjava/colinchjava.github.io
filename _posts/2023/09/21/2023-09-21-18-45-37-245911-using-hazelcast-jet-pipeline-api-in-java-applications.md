@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast Jet pipeline API in Java applications"
 description: " "
 date: 2023-09-21
-tags: [dataProcessing, Java, HazelcastJet]
+tags: [dataProcessing,HazelcastJet]
 comments: true
 share: true
 ---

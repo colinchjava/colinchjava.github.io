@@ -3,7 +3,7 @@ layout: post
 title: "How to achieve multiple inheritance using interfaces in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, Inheritance]
+tags: [Inheritance]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Improving garbage collection pause times in Java real-time systems"
 description: " "
 date: 2023-09-14
-tags: [hashtags, Java, RealTimeSystems]
+tags: [hashtags,RealTimeSystems]
 comments: true
 share: true
 ---

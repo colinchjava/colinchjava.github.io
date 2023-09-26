@@ -3,7 +3,7 @@ layout: post
 title: "How to use abstraction in Java machine learning algorithms"
 description: " "
 date: 2023-09-26
-tags: [MachineLearning, Java]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

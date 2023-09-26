@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java file compression"
 description: " "
 date: 2023-09-26
-tags: [java, filecompression]
+tags: [filecompression]
 comments: true
 share: true
 ---

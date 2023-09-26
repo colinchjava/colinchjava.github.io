@@ -3,7 +3,7 @@ layout: post
 title: "Error handling and error recovery in Apache Beam Java applications"
 description: " "
 date: 2023-09-25
-tags: [ApacheBeam, Java]
+tags: [ApacheBeam]
 comments: true
 share: true
 ---

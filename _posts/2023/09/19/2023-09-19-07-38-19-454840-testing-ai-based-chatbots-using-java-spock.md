@@ -3,7 +3,7 @@ layout: post
 title: "Testing AI-based chatbots using Java Spock"
 description: " "
 date: 2023-09-19
-tags: [Chatbot, Java, Spock]
+tags: [Chatbot,Spock]
 comments: true
 share: true
 ---

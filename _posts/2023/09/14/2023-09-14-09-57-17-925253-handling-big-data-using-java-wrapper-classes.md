@@ -3,7 +3,7 @@ layout: post
 title: "Handling big data using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [techblog, bigdata, Java, wrapperclasses]
+tags: [techblog, bigdata,wrapperclasses]
 comments: true
 share: true
 ---

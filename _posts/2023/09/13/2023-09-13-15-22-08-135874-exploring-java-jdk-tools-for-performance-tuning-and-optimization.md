@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK tools for performance tuning and optimization"
 description: " "
 date: 2023-09-13
-tags: [techblog, Java, performance, optimization]
+tags: [techblog,performance, optimization]
 comments: true
 share: true
 ---

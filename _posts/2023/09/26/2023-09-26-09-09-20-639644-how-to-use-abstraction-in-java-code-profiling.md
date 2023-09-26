@@ -3,7 +3,7 @@ layout: post
 title: "How to use abstraction in Java code profiling"
 description: " "
 date: 2023-09-26
-tags: [java, codeprofiling]
+tags: [codeprofiling]
 comments: true
 share: true
 ---

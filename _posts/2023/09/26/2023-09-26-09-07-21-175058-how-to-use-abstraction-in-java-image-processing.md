@@ -3,7 +3,7 @@ layout: post
 title: "How to use abstraction in Java image processing"
 description: " "
 date: 2023-09-26
-tags: [Java, ImageProcessing]
+tags: [ImageProcessing]
 comments: true
 share: true
 ---

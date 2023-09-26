@@ -3,7 +3,7 @@ layout: post
 title: "Overloading of conditional operator in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, Overloading]
+tags: [Overloading]
 comments: true
 share: true
 ---

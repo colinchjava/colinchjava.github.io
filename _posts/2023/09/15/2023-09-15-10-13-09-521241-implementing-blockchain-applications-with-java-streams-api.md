@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Blockchain technology has gained immense popularity in recent years due to its ability to provide transparency, security, and immutability to various industries. While most developers associate blockchain with languages like Solidity or Python, Java, being a popular and widely-used programming language, also provides the means to build blockchain applications.
+Blockchain technology has gained immense popularity in recent years due to its ability to provide transparency, security, and immutability to various industries. While most developers associate blockchain with languages like Solidity or Python,being a popular and widely-used programming language, also provides the means to build blockchain applications.
 
 In this blog post, we will explore how we can leverage the power of **Java Streams API** to implement blockchain applications. Java Streams API is a powerful tool that allows developers to perform functional-style operations on collections of data.
 

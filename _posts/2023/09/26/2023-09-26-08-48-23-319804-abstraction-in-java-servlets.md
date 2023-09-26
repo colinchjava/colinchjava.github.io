@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java servlets"
 description: " "
 date: 2023-09-26
-tags: [java, servlets]
+tags: [servlets]
 comments: true
 share: true
 ---

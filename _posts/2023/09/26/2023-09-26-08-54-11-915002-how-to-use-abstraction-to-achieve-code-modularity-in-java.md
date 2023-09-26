@@ -3,7 +3,7 @@ layout: post
 title: "How to use abstraction to achieve code modularity in Java"
 description: " "
 date: 2023-09-26
-tags: [java, abstraction]
+tags: [abstraction]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Overloading methods with variable number of parameters"
 description: " "
 date: 2023-09-26
-tags: [java, programming]
+tags: [programming]
 comments: true
 share: true
 ---

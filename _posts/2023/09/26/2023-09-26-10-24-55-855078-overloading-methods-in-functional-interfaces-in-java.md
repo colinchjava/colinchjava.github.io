@@ -3,7 +3,7 @@ layout: post
 title: "Overloading methods in functional interfaces in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, FunctionalInterface]
+tags: [FunctionalInterface]
 comments: true
 share: true
 ---

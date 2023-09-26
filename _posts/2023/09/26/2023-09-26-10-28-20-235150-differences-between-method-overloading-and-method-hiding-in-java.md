@@ -3,7 +3,7 @@ layout: post
 title: "Differences between method overloading and method hiding in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, Methods]
+tags: [Methods]
 comments: true
 share: true
 ---

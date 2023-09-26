@@ -3,7 +3,7 @@ layout: post
 title: "Mocking external dependencies with Java Spock and PowerMock"
 description: " "
 date: 2023-09-19
-tags: [Hashtags, Java, Testing]
+tags: [Hashtags,Testing]
 comments: true
 share: true
 ---

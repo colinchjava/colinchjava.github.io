@@ -3,7 +3,7 @@ layout: post
 title: "Abstract classes in Java annotations"
 description: " "
 date: 2023-09-26
-tags: [Java, Annotations]
+tags: [Annotations]
 comments: true
 share: true
 ---

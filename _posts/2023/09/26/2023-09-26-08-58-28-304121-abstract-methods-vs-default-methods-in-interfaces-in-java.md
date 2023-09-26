@@ -3,7 +3,7 @@ layout: post
 title: "Abstract methods vs. default methods in interfaces in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, InterfaceMethods]
+tags: [InterfaceMethods]
 comments: true
 share: true
 ---

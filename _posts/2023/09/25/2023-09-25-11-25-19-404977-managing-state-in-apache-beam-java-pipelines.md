@@ -3,7 +3,7 @@ layout: post
 title: "Managing state in Apache Beam Java pipelines"
 description: " "
 date: 2023-09-25
-tags: [ApacheBeam, Java]
+tags: [ApacheBeam]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing the impact of heap fragmentation on garbage collection pause times in Java"
 description: " "
 date: 2023-09-14
-tags: [techblog, java, garbagecollection, heapfragmentation, performance]
+tags: [techblog,garbagecollection, heapfragmentation, performance]
 comments: true
 share: true
 ---

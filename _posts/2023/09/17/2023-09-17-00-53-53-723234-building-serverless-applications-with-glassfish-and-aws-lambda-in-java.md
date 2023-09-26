@@ -3,7 +3,7 @@ layout: post
 title: "Building serverless applications with GlassFish and AWS Lambda in Java"
 description: " "
 date: 2023-09-17
-tags: [serverless, Java, GlassFish, AWSCloud]
+tags: [serverless,GlassFish, AWSCloud]
 comments: true
 share: true
 ---

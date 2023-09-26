@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java server-side programming"
 description: " "
 date: 2023-09-26
-tags: [Java, Abstraction]
+tags: [Abstraction]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Overloading logical operators in Java"
 description: " "
 date: 2023-09-26
-tags: [java, logical]
+tags: [logical]
 comments: true
 share: true
 ---

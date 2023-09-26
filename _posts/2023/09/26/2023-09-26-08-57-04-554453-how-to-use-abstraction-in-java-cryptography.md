@@ -3,7 +3,7 @@ layout: post
 title: "How to use abstraction in Java cryptography"
 description: " "
 date: 2023-09-26
-tags: [java, cryptography]
+tags: [cryptography]
 comments: true
 share: true
 ---

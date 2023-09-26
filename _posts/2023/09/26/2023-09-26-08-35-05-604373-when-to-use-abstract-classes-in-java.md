@@ -3,7 +3,7 @@ layout: post
 title: "When to use abstract classes in Java"
 description: " "
 date: 2023-09-26
-tags: [java, abstractclasses]
+tags: [abstractclasses]
 comments: true
 share: true
 ---

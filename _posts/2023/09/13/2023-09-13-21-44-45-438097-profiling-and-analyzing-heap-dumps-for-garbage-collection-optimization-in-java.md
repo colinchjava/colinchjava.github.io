@@ -3,7 +3,7 @@ layout: post
 title: "Profiling and analyzing heap dumps for garbage collection optimization in Java"
 description: " "
 date: 2023-09-13
-tags: [Generating, Analyzing, Identifying, Optimizing, Java, GarbageCollection]
+tags: [Generating, Analyzing, Identifying, Optimizing,GarbageCollection]
 comments: true
 share: true
 ---

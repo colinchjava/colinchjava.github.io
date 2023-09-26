@@ -3,7 +3,7 @@ layout: post
 title: "How abstraction helps in code maintainability in Java"
 description: " "
 date: 2023-09-26
-tags: [java, abstraction]
+tags: [abstraction]
 comments: true
 share: true
 ---

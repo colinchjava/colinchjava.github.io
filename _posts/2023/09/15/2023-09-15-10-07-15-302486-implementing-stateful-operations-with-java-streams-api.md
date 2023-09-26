@@ -3,7 +3,7 @@ layout: post
 title: "Implementing stateful operations with Java Streams API"
 description: " "
 date: 2023-09-15
-tags: [collect(), Java, Streams, StatefulOperations]
+tags: [collect(),Streams, StatefulOperations]
 comments: true
 share: true
 ---

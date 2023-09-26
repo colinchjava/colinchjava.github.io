@@ -3,7 +3,7 @@ layout: post
 title: "Using Hazelcast distributed maps in Java applications"
 description: " "
 date: 2023-09-21
-tags: [distributeddatastructures, java, hazelcast]
+tags: [distributeddatastructures,hazelcast]
 comments: true
 share: true
 ---

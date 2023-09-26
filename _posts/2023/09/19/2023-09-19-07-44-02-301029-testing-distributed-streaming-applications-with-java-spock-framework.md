@@ -3,7 +3,7 @@ layout: post
 title: "Testing distributed streaming applications with Java Spock framework"
 description: " "
 date: 2023-09-19
-tags: [testing, distributedstreaming, java, spock]
+tags: [testing, distributedstreaming,spock]
 comments: true
 share: true
 ---

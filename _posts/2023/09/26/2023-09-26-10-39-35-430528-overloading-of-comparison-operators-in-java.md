@@ -3,7 +3,7 @@ layout: post
 title: "Overloading of comparison operators in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, OverloadingOperators]
+tags: [OverloadingOperators]
 comments: true
 share: true
 ---

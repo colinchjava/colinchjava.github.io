@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed event listeners with Spring and Hazelcast in Java"
 description: " "
 date: 2023-09-21
-tags: [distributedsystems, java, spring, hazelcast]
+tags: [distributedsystems,spring, hazelcast]
 comments: true
 share: true
 ---

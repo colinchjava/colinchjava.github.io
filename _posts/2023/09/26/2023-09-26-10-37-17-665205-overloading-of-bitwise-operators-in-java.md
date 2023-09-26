@@ -3,7 +3,7 @@ layout: post
 title: "Overloading of bitwise operators in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, BitwiseOperators]
+tags: [BitwiseOperators]
 comments: true
 share: true
 ---

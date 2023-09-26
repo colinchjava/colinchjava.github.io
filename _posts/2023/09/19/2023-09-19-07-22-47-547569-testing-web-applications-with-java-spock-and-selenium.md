@@ -3,7 +3,7 @@ layout: post
 title: "Testing web applications with Java Spock and Selenium"
 description: " "
 date: 2023-09-19
-tags: [testing, Java, Spock, Selenium]
+tags: [testing,Spock, Selenium]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing machine learning algorithms using Java wrapper classes"
 description: " "
 date: 2023-09-14
-tags: [Conclusion, Java, MachineLearning]
+tags: [Conclusion,MachineLearning]
 comments: true
 share: true
 ---

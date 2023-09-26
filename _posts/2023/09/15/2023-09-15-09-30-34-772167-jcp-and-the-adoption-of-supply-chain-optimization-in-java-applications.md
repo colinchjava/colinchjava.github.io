@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the adoption of supply chain optimization in Java applications"
 description: " "
 date: 2023-09-15
-tags: [supplychain, Java, optimization]
+tags: [supplychain,optimization]
 comments: true
 share: true
 ---

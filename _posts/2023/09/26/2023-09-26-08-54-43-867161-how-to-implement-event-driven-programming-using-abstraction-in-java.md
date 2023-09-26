@@ -3,7 +3,7 @@ layout: post
 title: "How to implement event-driven programming using abstraction in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, EventDrivenProgramming__]
+tags: [EventDrivenProgramming__]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Abstract classes vs. concrete classes in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, AbstractClasses]
+tags: [AbstractClasses]
 comments: true
 share: true
 ---

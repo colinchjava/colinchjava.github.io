@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java collections framework"
 description: " "
 date: 2023-09-26
-tags: [Java, CollectionsFramework]
+tags: [CollectionsFramework]
 comments: true
 share: true
 ---

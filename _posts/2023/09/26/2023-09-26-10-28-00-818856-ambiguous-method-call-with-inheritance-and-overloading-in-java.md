@@ -3,7 +3,7 @@ layout: post
 title: "Ambiguous method call with inheritance and overloading in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, AmbiguousMethodCall]
+tags: [AmbiguousMethodCall]
 comments: true
 share: true
 ---

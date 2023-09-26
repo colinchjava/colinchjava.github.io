@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the power of test fixtures in Java Spock"
 description: " "
 date: 2023-09-19
-tags: [input, expectedOutput, java, Spock]
+tags: [input, expectedOutput,Spock]
 comments: true
 share: true
 ---

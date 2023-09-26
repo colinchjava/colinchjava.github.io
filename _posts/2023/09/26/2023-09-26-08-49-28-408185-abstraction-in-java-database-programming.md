@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java database programming"
 description: " "
 date: 2023-09-26
-tags: [Java, DatabaseProgramming]
+tags: [DatabaseProgramming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Message queue integration with Apache Beam and Java"
 description: " "
 date: 2023-09-25
-tags: [ApacheBeam, Java]
+tags: [ApacheBeam]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for real-time sentiment analysis and social media monitoring"
 description: " "
 date: 2023-09-13
-tags: [TechBlog, Java, SentimentAnalysis, SocialMediaMonitoring]
+tags: [TechBlog,SentimentAnalysis, SocialMediaMonitoring]
 comments: true
 share: true
 ---

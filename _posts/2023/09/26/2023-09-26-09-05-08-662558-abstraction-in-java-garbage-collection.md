@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java garbage collection"
 description: " "
 date: 2023-09-26
-tags: [Java, GarbageCollection]
+tags: [GarbageCollection]
 comments: true
 share: true
 ---

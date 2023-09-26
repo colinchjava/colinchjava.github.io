@@ -3,7 +3,7 @@ layout: post
 title: "Abstract vs. final classes in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, Classes]
+tags: [Classes]
 comments: true
 share: true
 ---

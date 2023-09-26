@@ -3,7 +3,7 @@ layout: post
 title: "Constructor overloading and static initializer block in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, ConstructorOverloading]
+tags: [ConstructorOverloading]
 comments: true
 share: true
 ---

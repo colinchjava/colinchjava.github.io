@@ -3,7 +3,7 @@ layout: post
 title: "How to achieve abstraction in user interfaces in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, Abstraction]
+tags: [Abstraction]
 comments: true
 share: true
 ---

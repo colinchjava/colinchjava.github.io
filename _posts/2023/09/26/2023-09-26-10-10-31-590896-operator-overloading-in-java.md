@@ -3,7 +3,7 @@ layout: post
 title: "Operator overloading in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, OperatorOverloading]
+tags: [OperatorOverloading]
 comments: true
 share: true
 ---

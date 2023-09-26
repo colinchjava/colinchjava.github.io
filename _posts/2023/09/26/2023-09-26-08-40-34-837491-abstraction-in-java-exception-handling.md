@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java exception handling"
 description: " "
 date: 2023-09-26
-tags: [Java, ExceptionHandling]
+tags: [ExceptionHandling]
 comments: true
 share: true
 ---

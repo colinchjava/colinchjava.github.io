@@ -3,7 +3,7 @@ layout: post
 title: "How to use abstraction in Java logging"
 description: " "
 date: 2023-09-26
-tags: [java, logging]
+tags: [logging]
 comments: true
 share: true
 ---

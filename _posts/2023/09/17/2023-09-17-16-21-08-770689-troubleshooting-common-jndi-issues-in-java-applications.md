@@ -3,7 +3,7 @@ layout: post
 title: "Troubleshooting Common JNDI Issues in Java Applications"
 description: " "
 date: 2023-09-17
-tags: [JNDI, Java, Troubleshooting]
+tags: [JNDI,Troubleshooting]
 comments: true
 share: true
 ---

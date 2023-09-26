@@ -3,7 +3,7 @@ layout: post
 title: "Overloading methods in inner classes in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, InnerClasses]
+tags: [InnerClasses]
 comments: true
 share: true
 ---

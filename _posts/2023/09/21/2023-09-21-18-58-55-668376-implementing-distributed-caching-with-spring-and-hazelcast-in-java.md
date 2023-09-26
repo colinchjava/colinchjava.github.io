@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed caching with Spring and Hazelcast in Java"
 description: " "
 date: 2023-09-21
-tags: [distributedcaching, java, spring, hazelcast]
+tags: [distributedcaching,spring, hazelcast]
 comments: true
 share: true
 ---

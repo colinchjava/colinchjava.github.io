@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java unit testing"
 description: " "
 date: 2023-09-26
-tags: [Java, UnitTesting]
+tags: [UnitTesting]
 comments: true
 share: true
 ---

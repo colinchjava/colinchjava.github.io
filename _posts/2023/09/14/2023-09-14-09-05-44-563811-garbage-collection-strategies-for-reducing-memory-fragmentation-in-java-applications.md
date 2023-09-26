@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection strategies for reducing memory fragmentation in Java applications"
 description: " "
 date: 2023-09-14
-tags: [Tech, Java, MemoryManagement]
+tags: [Tech,MemoryManagement]
 comments: true
 share: true
 ---

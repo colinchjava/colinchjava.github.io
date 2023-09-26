@@ -3,7 +3,7 @@ layout: post
 title: "How to implement multiple interfaces in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, Interfaces]
+tags: [Interfaces]
 comments: true
 share: true
 ---

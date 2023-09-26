@@ -3,7 +3,7 @@ layout: post
 title: "Abstract methods in Java functional interfaces"
 description: " "
 date: 2023-09-26
-tags: [java, functionalprogramming]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

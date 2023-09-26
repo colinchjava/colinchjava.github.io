@@ -3,7 +3,7 @@ layout: post
 title: "Overloading variables with different access modifiers in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, Variables]
+tags: [Variables]
 comments: true
 share: true
 ---

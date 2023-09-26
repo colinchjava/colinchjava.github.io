@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java lambda expressions"
 description: " "
 date: 2023-09-26
-tags: [Java, LambdaExpressions]
+tags: [LambdaExpressions]
 comments: true
 share: true
 ---

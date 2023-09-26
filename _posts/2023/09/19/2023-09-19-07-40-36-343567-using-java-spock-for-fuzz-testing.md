@@ -3,7 +3,7 @@ layout: post
 title: "Using Java Spock for fuzz testing"
 description: " "
 date: 2023-09-19
-tags: [data, java, spock, fuzztesting]
+tags: [data,spock, fuzztesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Testing messaging systems with Java Spock framework"
 description: " "
 date: 2023-09-19
-tags: [testing, messaging, java, spock]
+tags: [testing, messaging,spock]
 comments: true
 share: true
 ---

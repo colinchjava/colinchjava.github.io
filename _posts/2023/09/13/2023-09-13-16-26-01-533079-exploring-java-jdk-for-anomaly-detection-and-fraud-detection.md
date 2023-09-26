@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Java JDK for anomaly detection and fraud detection"
 description: " "
 date: 2023-09-13
-tags: [tech, Java, anomalydetection, frauddetection]
+tags: [tech,anomalydetection, frauddetection]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Testing mobile applications with Java Spock and Appium"
 description: " "
 date: 2023-09-19
-tags: [testing, mobileapp, java, spock, appium]
+tags: [testing, mobileapp,spock, appium]
 comments: true
 share: true
 ---

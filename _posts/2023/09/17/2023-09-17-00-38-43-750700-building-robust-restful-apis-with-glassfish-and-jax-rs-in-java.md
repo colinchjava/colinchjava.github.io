@@ -3,7 +3,7 @@ layout: post
 title: "Building robust RESTful APIs with GlassFish and JAX-RS in Java"
 description: " "
 date: 2023-09-17
-tags: [programming, java, restfulAPI, glassfish, JAXRS]
+tags: [programming,restfulAPI, glassfish, JAXRS]
 comments: true
 share: true
 ---

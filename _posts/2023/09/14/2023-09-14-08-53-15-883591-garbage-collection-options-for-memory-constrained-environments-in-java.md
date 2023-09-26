@@ -3,7 +3,7 @@ layout: post
 title: "Garbage collection options for memory-constrained environments in Java"
 description: " "
 date: 2023-09-14
-tags: [SerialGC, Java, G1GC, Java, GarbageCollection]
+tags: [SerialGC,G1GC,GarbageCollection]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to extend an abstract class in Java"
 description: " "
 date: 2023-09-26
-tags: [java, abstractclass]
+tags: [abstractclass]
 comments: true
 share: true
 ---

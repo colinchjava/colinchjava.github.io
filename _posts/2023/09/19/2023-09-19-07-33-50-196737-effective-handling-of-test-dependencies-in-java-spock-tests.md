@@ -3,7 +3,7 @@ layout: post
 title: "Effective handling of test dependencies in Java Spock tests"
 description: " "
 date: 2023-09-19
-tags: [testing, java, spock, testdependencies]
+tags: [testing,spock, testdependencies]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to deal with exceptions in abstract methods in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, Exceptions]
+tags: [Exceptions]
 comments: true
 share: true
 ---

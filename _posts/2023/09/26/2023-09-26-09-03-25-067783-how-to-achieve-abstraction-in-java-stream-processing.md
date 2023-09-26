@@ -3,7 +3,7 @@ layout: post
 title: "How to achieve abstraction in Java stream processing"
 description: " "
 date: 2023-09-26
-tags: [Java, StreamProcessing]
+tags: [StreamProcessing]
 comments: true
 share: true
 ---

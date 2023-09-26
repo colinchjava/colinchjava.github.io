@@ -3,7 +3,7 @@ layout: post
 title: "Method overloading in Java"
 description: " "
 date: 2023-09-26
-tags: [java, methodoverloading]
+tags: [methodoverloading]
 comments: true
 share: true
 ---

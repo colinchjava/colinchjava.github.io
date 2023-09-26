@@ -3,7 +3,7 @@ layout: post
 title: "Inheritance hierarchy in abstract classes in Java"
 description: " "
 date: 2023-09-26
-tags: [java, inheritance]
+tags: [inheritance]
 comments: true
 share: true
 ---

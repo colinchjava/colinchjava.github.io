@@ -3,7 +3,7 @@ layout: post
 title: "Overloading of arithmetic operators in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, ArithmeticOperators]
+tags: [ArithmeticOperators]
 comments: true
 share: true
 ---

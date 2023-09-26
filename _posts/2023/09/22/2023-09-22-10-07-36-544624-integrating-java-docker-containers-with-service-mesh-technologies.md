@@ -19,7 +19,7 @@ In this blog post, we will explore how to integrate Java Docker containers with 
 Before diving into the integration process, make sure you have the following prerequisites:
 
 * Docker installed on your local machine or deployment server
-* Basic knowledge of Docker, Java, and container orchestration
+* Basic knowledge of Docker,and container orchestration
 * A Java application or microservice ready to be containerized
 
 ## Containerizing the Java Application

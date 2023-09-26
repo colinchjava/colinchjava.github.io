@@ -3,7 +3,7 @@ layout: post
 title: "Overloading of stream operators in Java"
 description: " "
 date: 2023-09-26
-tags: [java, stream]
+tags: [stream]
 comments: true
 share: true
 ---

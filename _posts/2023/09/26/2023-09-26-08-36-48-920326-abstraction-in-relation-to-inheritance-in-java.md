@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in relation to inheritance in Java"
 description: " "
 date: 2023-09-26
-tags: [java, inheritance]
+tags: [inheritance]
 comments: true
 share: true
 ---

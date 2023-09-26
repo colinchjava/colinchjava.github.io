@@ -3,7 +3,7 @@ layout: post
 title: "Overloading methods and constructors in interfaces in Java"
 description: " "
 date: 2023-09-26
-tags: [java, overloading]
+tags: [overloading]
 comments: true
 share: true
 ---

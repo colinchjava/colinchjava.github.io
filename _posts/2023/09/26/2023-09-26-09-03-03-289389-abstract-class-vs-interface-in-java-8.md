@@ -3,7 +3,7 @@ layout: post
 title: "Abstract class vs. interface in Java 8"
 description: " "
 date: 2023-09-26
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

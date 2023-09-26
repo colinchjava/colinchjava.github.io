@@ -3,7 +3,7 @@ layout: post
 title: "Abstraction in Java dependency injection"
 description: " "
 date: 2023-09-26
-tags: [Java, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

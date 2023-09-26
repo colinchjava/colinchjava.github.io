@@ -3,7 +3,7 @@ layout: post
 title: "Abstract window toolkit in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, Programming]
+tags: [Programming]
 comments: true
 share: true
 ---

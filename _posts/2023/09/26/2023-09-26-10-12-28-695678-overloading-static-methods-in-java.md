@@ -3,7 +3,7 @@ layout: post
 title: "Overloading static methods in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, MethodOverloading]
+tags: [MethodOverloading]
 comments: true
 share: true
 ---

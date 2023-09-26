@@ -3,7 +3,7 @@ layout: post
 title: "Overriding abstract methods in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, AbstractMethods]
+tags: [AbstractMethods]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Protecting sensitive data using Java JCE"
 description: " "
 date: 2023-09-21
-tags: [security, Java, encryption, data]
+tags: [security,encryption, data]
 comments: true
 share: true
 ---

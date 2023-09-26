@@ -3,7 +3,7 @@ layout: post
 title: "Constructor overloading and enum constants in Java"
 description: " "
 date: 2023-09-26
-tags: [tech, Java]
+tags: [tech]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building machine learning applications with GlassFish and Java"
 description: " "
 date: 2023-09-17
-tags: [machinelearning, java, GlassFish, predictiveanalytics]
+tags: [machinelearning,GlassFish, predictiveanalytics]
 comments: true
 share: true
 ---

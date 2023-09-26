@@ -3,7 +3,7 @@ layout: post
 title: "Overloading of array access operator in Java"
 description: " "
 date: 2023-09-26
-tags: [java, array]
+tags: [array]
 comments: true
 share: true
 ---

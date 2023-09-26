@@ -3,7 +3,7 @@ layout: post
 title: "Exploring property-based testing with Java Spock framework"
 description: " "
 date: 2023-09-19
-tags: [input), expected, java, testing]
+tags: [input), expected,testing]
 comments: true
 share: true
 ---

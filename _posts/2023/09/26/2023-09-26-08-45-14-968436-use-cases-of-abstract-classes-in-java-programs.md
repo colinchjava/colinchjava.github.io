@@ -3,7 +3,7 @@ layout: post
 title: "Use cases of abstract classes in Java programs"
 description: " "
 date: 2023-09-26
-tags: [Java, AbstractClasses]
+tags: [AbstractClasses]
 comments: true
 share: true
 ---

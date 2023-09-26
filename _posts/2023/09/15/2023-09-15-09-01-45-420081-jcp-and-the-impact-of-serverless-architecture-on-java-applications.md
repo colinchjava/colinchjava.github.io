@@ -3,7 +3,7 @@ layout: post
 title: "JCP and the impact of serverless architecture on Java applications"
 description: " "
 date: 2023-09-15
-tags: [serverless, java, javacommunityprocess, technology]
+tags: [serverless,javacommunityprocess, technology]
 comments: true
 share: true
 ---

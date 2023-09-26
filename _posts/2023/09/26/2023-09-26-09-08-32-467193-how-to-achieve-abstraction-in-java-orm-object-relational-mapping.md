@@ -3,7 +3,7 @@ layout: post
 title: "How to achieve abstraction in Java ORM (object-relational mapping)"
 description: " "
 date: 2023-09-26
-tags: [java, hibernate]
+tags: [hibernate]
 comments: true
 share: true
 ---

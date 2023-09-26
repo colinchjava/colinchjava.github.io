@@ -3,7 +3,7 @@ layout: post
 title: "Abstract factory pattern vs. factory pattern in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, DesignPatterns]
+tags: [DesignPatterns]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Tips and tricks for efficient memory usage in Java using garbage collection"
 description: " "
 date: 2023-09-13
-tags: [Conclusion, Java, GarbageCollection]
+tags: [Conclusion,GarbageCollection]
 comments: true
 share: true
 ---

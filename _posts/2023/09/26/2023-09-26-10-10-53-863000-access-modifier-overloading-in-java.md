@@ -3,7 +3,7 @@ layout: post
 title: "Access modifier overloading in Java"
 description: " "
 date: 2023-09-26
-tags: [java, accessmodifiers]
+tags: [accessmodifiers]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Constructor overloading with inheritance in Java"
 description: " "
 date: 2023-09-26
-tags: [Java, ConstructorOverloading]
+tags: [ConstructorOverloading]
 comments: true
 share: true
 ---

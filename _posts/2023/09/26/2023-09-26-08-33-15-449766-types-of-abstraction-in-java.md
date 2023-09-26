@@ -3,7 +3,7 @@ layout: post
 title: "Types of abstraction in Java"
 description: " "
 date: 2023-09-26
-tags: [programming, java]
+tags: [programming]
 comments: true
 share: true
 ---
