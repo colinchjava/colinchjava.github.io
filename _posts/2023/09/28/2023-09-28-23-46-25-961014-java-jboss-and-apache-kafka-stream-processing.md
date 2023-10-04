@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and Apache Kafka stream processing"
 description: " "
 date: 2023-09-28
-tags: [hashtags, Java]
+tags: [hashtags]
 comments: true
 share: true
 ---

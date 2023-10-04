@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a microcontroller"
 description: " "
 date: 2023-10-01
-tags: [Java, Microcontroller]
+tags: [Microcontroller]
 comments: true
 share: true
 ---

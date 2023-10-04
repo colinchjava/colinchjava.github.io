@@ -3,7 +3,7 @@ layout: post
 title: "Deploying Java web applications in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [java, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

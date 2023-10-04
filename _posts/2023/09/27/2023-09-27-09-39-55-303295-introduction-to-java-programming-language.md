@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Java programming language"
 description: " "
 date: 2023-09-27
-tags: [programming, Java]
+tags: [programming]
 comments: true
 share: true
 ---

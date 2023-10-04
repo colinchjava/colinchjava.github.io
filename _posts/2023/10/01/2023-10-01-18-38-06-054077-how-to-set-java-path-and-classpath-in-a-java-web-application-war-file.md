@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a Java web application (WAR file)"
 description: " "
 date: 2023-10-01
-tags: [Java, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

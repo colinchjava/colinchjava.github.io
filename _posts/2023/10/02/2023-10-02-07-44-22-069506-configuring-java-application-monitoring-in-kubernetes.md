@@ -3,7 +3,7 @@ layout: post
 title: "Configuring Java application monitoring in Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [java, kubernetes]
+tags: [kubernetes]
 comments: true
 share: true
 ---

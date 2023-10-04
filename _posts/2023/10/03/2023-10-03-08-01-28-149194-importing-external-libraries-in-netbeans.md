@@ -3,7 +3,7 @@ layout: post
 title: "Importing external libraries in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [NetBeans, Java]
+tags: [NetBeans]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Managing distributed caching layers for Java apps on Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [distributedcaching, java]
+tags: [distributedcaching]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and documentation and technical writing"
 description: " "
 date: 2023-09-29
-tags: [JBoss, Java]
+tags: [JBoss]
 comments: true
 share: true
 ---

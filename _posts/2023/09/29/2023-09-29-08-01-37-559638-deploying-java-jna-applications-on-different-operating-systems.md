@@ -3,7 +3,7 @@ layout: post
 title: "Deploying Java JNA applications on different operating systems"
 description: " "
 date: 2023-09-29
-tags: [Java, Deployment]
+tags: [Deployment]
 comments: true
 share: true
 ---

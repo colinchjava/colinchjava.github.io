@@ -3,7 +3,7 @@ layout: post
 title: "How to specify a classpath for the Java runtime (java)"
 description: " "
 date: 2023-10-01
-tags: [Java, Classpath]
+tags: [Classpath]
 comments: true
 share: true
 ---

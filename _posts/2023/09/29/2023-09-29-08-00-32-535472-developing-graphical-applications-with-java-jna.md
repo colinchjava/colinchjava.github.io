@@ -3,7 +3,7 @@ layout: post
 title: "Developing graphical applications with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

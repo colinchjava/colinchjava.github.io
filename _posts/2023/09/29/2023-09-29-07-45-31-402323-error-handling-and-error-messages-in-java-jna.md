@@ -3,7 +3,7 @@ layout: post
 title: "Error handling and error messages in Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

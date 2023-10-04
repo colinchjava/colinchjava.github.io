@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a Spring Boot application"
 description: " "
 date: 2023-10-01
-tags: [Java, SpringBoot]
+tags: [SpringBoot]
 comments: true
 share: true
 ---

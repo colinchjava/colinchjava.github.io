@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a weather forecasting system"
 description: " "
 date: 2023-10-01
-tags: [Java, WeatherForecasting]
+tags: [WeatherForecasting]
 comments: true
 share: true
 ---

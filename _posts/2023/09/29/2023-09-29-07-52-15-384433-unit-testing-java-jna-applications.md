@@ -3,7 +3,7 @@ layout: post
 title: "Unit testing Java JNA applications"
 description: " "
 date: 2023-09-29
-tags: [Java, UnitTesting]
+tags: [UnitTesting]
 comments: true
 share: true
 ---

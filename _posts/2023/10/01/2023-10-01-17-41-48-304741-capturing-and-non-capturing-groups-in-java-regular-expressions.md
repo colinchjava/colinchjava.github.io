@@ -3,7 +3,7 @@ layout: post
 title: "Capturing and non-capturing groups in Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [java, regex]
+tags: [regex]
 comments: true
 share: true
 ---

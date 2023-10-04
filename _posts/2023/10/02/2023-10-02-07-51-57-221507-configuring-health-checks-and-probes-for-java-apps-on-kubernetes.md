@@ -3,7 +3,7 @@ layout: post
 title: "Configuring health checks and probes for Java apps on Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [kubernetes, java]
+tags: [kubernetes]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Reactive programming and sentiment analysis in Java"
 description: " "
 date: 2023-09-29
-tags: [programming, java]
+tags: [programming]
 comments: true
 share: true
 ---

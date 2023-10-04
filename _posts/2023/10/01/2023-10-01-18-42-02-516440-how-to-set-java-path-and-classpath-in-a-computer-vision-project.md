@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a computer vision project"
 description: " "
 date: 2023-10-01
-tags: [java, computerVision]
+tags: [computerVision]
 comments: true
 share: true
 ---

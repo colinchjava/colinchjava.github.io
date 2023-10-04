@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Java's default CLASSPATH"
 description: " "
 date: 2023-10-01
-tags: [java, CLASSPATH]
+tags: [CLASSPATH]
 comments: true
 share: true
 ---

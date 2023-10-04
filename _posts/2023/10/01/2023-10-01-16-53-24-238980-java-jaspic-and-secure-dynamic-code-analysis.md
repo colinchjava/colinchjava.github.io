@@ -3,7 +3,7 @@ layout: post
 title: "Java JASPIC and secure dynamic code analysis"
 description: " "
 date: 2023-10-01
-tags: [java, JASPIC]
+tags: [JASPIC]
 comments: true
 share: true
 ---

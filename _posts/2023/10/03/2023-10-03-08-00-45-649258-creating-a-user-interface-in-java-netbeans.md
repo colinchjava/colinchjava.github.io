@@ -3,7 +3,7 @@ layout: post
 title: "Creating a user interface in Java NetBeans"
 description: " "
 date: 2023-10-03
-tags: [programming, java]
+tags: [programming]
 comments: true
 share: true
 ---

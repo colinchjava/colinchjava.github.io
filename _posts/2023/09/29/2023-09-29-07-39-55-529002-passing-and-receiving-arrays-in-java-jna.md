@@ -3,7 +3,7 @@ layout: post
 title: "Passing and receiving arrays in Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, NativeAccess]
+tags: [NativeAccess]
 comments: true
 share: true
 ---

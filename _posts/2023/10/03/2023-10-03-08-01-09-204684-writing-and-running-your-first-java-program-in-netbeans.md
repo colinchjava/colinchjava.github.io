@@ -3,7 +3,7 @@ layout: post
 title: "Writing and running your first Java program in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [java, NetBeans]
+tags: [NetBeans]
 comments: true
 share: true
 ---

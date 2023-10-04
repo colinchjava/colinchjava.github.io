@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in an IBM Cloud Function"
 description: " "
 date: 2023-10-01
-tags: [Java, IBMCloud]
+tags: [IBMCloud]
 comments: true
 share: true
 ---

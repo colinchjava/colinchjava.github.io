@@ -3,7 +3,7 @@ layout: post
 title: "Implementing session management in IceFaces applications"
 description: " "
 date: 2023-09-27
-tags: [IceFaces, Java]
+tags: [IceFaces]
 comments: true
 share: true
 ---

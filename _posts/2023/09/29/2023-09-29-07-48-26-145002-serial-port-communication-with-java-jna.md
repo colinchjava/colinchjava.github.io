@@ -3,7 +3,7 @@ layout: post
 title: "Serial port communication with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [SerialPortCommunication, Java]
+tags: [SerialPortCommunication]
 comments: true
 share: true
 ---

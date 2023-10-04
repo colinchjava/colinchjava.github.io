@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a project management tool"
 description: " "
 date: 2023-10-01
-tags: [java, projectmanagement]
+tags: [projectmanagement]
 comments: true
 share: true
 ---

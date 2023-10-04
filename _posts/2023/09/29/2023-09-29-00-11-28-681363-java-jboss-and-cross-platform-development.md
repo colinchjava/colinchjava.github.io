@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and cross-platform development"
 description: " "
 date: 2023-09-29
-tags: [java, jboss]
+tags: [jboss]
 comments: true
 share: true
 ---

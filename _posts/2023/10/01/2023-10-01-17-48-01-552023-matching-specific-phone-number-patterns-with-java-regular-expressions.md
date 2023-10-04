@@ -3,7 +3,7 @@ layout: post
 title: "Matching specific phone number patterns with Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [regex, java]
+tags: [regex]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Java JNA for concurrent programming"
 description: " "
 date: 2023-09-29
-tags: [Tech, Java]
+tags: [Tech]
 comments: true
 share: true
 ---

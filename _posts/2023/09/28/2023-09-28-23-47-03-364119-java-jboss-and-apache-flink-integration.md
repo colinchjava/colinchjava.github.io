@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and Apache Flink integration"
 description: " "
 date: 2023-09-28
-tags: [Java, ApacheFlink]
+tags: [ApacheFlink]
 comments: true
 share: true
 ---

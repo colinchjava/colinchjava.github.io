@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to reactive programming in Java"
 description: " "
 date: 2023-09-29
-tags: [Java, ReactiveProgramming]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

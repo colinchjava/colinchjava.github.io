@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a financial application"
 description: " "
 date: 2023-10-01
-tags: [Java, FinancialApplication]
+tags: [FinancialApplication]
 comments: true
 share: true
 ---

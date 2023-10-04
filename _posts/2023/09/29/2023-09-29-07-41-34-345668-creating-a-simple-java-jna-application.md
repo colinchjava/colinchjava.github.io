@@ -3,7 +3,7 @@ layout: post
 title: "Creating a simple Java JNA application"
 description: " "
 date: 2023-09-29
-tags: [java]
+tags: []
 comments: true
 share: true
 ---

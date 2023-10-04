@@ -3,7 +3,7 @@ layout: post
 title: "Developing Java applications for Raspberry Pi in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [Java, RaspberryPi]
+tags: [RaspberryPi]
 comments: true
 share: true
 ---

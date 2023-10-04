@@ -3,7 +3,7 @@ layout: post
 title: "Installing Java NetBeans"
 description: " "
 date: 2023-10-03
-tags: [java, NetBeans]
+tags: [NetBeans]
 comments: true
 share: true
 ---

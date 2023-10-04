@@ -3,7 +3,7 @@ layout: post
 title: "Using Apache Struts in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [Tech, Java]
+tags: [Tech]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Performance optimization with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

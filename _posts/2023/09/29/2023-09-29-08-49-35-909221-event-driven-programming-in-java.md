@@ -3,7 +3,7 @@ layout: post
 title: "Event-driven programming in Java"
 description: " "
 date: 2023-09-29
-tags: [Java, EventDrivenProgramming]
+tags: [EventDrivenProgramming]
 comments: true
 share: true
 ---

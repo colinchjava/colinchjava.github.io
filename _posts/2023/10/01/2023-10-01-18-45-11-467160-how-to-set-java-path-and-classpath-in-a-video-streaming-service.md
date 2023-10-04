@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a video streaming service"
 description: " "
 date: 2023-10-01
-tags: [java, classpath]
+tags: [classpath]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a security software"
 description: " "
 date: 2023-10-01
-tags: [Java, SecuritySoftware]
+tags: [SecuritySoftware]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Advanced memory management techniques in Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

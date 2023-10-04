@@ -3,7 +3,7 @@ layout: post
 title: "Using NetBeans for mobile game development in Java"
 description: " "
 date: 2023-10-03
-tags: [mobilegamedevelopment, Java]
+tags: [mobilegamedevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Java JNA for real-time audio and video processing"
 description: " "
 date: 2023-09-29
-tags: [Java, AudioProcessing]
+tags: [AudioProcessing]
 comments: true
 share: true
 ---

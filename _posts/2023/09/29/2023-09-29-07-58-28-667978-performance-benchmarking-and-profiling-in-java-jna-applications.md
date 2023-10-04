@@ -3,7 +3,7 @@ layout: post
 title: "Performance benchmarking and profiling in Java JNA applications"
 description: " "
 date: 2023-09-29
-tags: [Java, Performance]
+tags: [Performance]
 comments: true
 share: true
 ---

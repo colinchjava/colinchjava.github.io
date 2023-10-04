@@ -3,7 +3,7 @@ layout: post
 title: "Reactive programming in Java for scalable applications"
 description: " "
 date: 2023-09-29
-tags: [Java, ReactiveProgramming]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

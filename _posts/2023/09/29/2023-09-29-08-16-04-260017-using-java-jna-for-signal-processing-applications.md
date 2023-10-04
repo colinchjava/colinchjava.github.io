@@ -3,7 +3,7 @@ layout: post
 title: "Using Java JNA for signal processing applications"
 description: " "
 date: 2023-09-29
-tags: [signalprocessing, java]
+tags: [signalprocessing]
 comments: true
 share: true
 ---

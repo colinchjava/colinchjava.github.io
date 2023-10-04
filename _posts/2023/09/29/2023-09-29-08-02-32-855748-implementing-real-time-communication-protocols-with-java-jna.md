@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time communication protocols with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, RealTimeCommunication]
+tags: [RealTimeCommunication]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Testing Java applications using JUnit in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [java, testing]
+tags: [testing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a data analytics tool"
 description: " "
 date: 2023-10-01
-tags: [dataanalytics, java]
+tags: [dataanalytics]
 comments: true
 share: true
 ---

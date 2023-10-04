@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java JASPIC with LDAP directory services"
 description: " "
 date: 2023-10-01
-tags: [TechTopics, Java]
+tags: [TechTopics]
 comments: true
 share: true
 ---

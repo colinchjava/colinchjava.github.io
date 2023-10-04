@@ -3,7 +3,7 @@ layout: post
 title: "Developing cross-platform GUI applications with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Programming, Java]
+tags: [Programming]
 comments: true
 share: true
 ---

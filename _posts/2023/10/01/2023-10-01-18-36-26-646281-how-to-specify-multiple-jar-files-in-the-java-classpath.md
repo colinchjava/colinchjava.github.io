@@ -3,7 +3,7 @@ layout: post
 title: "How to specify multiple JAR files in the Java CLASSPATH"
 description: " "
 date: 2023-10-01
-tags: [Java, JARfiles]
+tags: [JARfiles]
 comments: true
 share: true
 ---

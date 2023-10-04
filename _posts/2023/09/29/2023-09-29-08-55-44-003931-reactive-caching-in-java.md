@@ -3,7 +3,7 @@ layout: post
 title: "Reactive caching in Java"
 description: " "
 date: 2023-09-29
-tags: [Java, ReactiveCaching]
+tags: [ReactiveCaching]
 comments: true
 share: true
 ---

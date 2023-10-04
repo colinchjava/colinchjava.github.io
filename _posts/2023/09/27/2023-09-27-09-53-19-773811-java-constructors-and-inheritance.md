@@ -3,7 +3,7 @@ layout: post
 title: "Java constructors and inheritance"
 description: " "
 date: 2023-09-27
-tags: [Java, Constructors]
+tags: [Constructors]
 comments: true
 share: true
 ---

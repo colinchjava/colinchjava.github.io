@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a networking application"
 description: " "
 date: 2023-10-01
-tags: [Java, Networking]
+tags: [Networking]
 comments: true
 share: true
 ---

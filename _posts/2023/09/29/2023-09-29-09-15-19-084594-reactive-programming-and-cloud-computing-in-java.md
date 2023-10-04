@@ -3,7 +3,7 @@ layout: post
 title: "Reactive programming and cloud computing in Java"
 description: " "
 date: 2023-09-29
-tags: [Java, TechTrends]
+tags: [TechTrends]
 comments: true
 share: true
 ---

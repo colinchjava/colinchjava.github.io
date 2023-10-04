@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java applications with web services in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [Java, webServices]
+tags: [webServices]
 comments: true
 share: true
 ---

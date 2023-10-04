@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and security testing"
 description: " "
 date: 2023-09-28
-tags: [Java, SecurityTesting]
+tags: [SecurityTesting]
 comments: true
 share: true
 ---

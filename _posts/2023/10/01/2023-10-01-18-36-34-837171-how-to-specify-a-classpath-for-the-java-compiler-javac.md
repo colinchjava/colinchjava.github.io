@@ -3,7 +3,7 @@ layout: post
 title: "How to specify a classpath for the Java compiler (javac)"
 description: " "
 date: 2023-10-01
-tags: [java, classpath]
+tags: [classpath]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Compatibility of Java JNA with different Java versions"
 description: " "
 date: 2023-09-29
-tags: [Java, Compatibility]
+tags: [Compatibility]
 comments: true
 share: true
 ---

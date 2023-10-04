@@ -3,7 +3,7 @@ layout: post
 title: "Matching specific zip code patterns with Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [java, regularexpressions]
+tags: [regularexpressions]
 comments: true
 share: true
 ---

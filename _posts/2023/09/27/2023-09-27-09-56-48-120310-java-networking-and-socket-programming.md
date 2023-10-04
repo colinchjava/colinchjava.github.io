@@ -3,7 +3,7 @@ layout: post
 title: "Java networking and socket programming"
 description: " "
 date: 2023-09-27
-tags: [Java, SocketProgramming]
+tags: [SocketProgramming]
 comments: true
 share: true
 ---

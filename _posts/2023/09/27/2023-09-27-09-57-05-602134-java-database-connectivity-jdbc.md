@@ -3,7 +3,7 @@ layout: post
 title: "Java database connectivity (JDBC)"
 description: " "
 date: 2023-09-27
-tags: [Java, JDBC]
+tags: [JDBC]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a Raspberry Pi"
 description: " "
 date: 2023-10-01
-tags: [Java, RaspberryPi]
+tags: [RaspberryPi]
 comments: true
 share: true
 ---

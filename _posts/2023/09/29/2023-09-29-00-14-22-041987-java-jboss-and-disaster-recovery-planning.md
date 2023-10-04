@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and disaster recovery planning"
 description: " "
 date: 2023-09-29
-tags: [java, JBoss]
+tags: [JBoss]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Extracting email addresses from a string using Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [java, regex]
+tags: [regex]
 comments: true
 share: true
 ---

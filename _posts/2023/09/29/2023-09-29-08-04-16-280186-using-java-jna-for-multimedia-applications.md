@@ -3,7 +3,7 @@ layout: post
 title: "Using Java JNA for multimedia applications"
 description: " "
 date: 2023-09-29
-tags: [Java, multimedia]
+tags: [multimedia]
 comments: true
 share: true
 ---

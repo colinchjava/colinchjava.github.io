@@ -3,7 +3,7 @@ layout: post
 title: "Implementing multithreading with Java JNA for performance optimization"
 description: " "
 date: 2023-09-29
-tags: [Java, Multithreading]
+tags: [Multithreading]
 comments: true
 share: true
 ---

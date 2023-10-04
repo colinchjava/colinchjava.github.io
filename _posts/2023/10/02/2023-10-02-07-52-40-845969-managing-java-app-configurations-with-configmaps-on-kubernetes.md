@@ -3,7 +3,7 @@ layout: post
 title: "Managing Java app configurations with ConfigMaps on Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [Java, Kubernetes]
+tags: [Kubernetes]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Java generics and generic classes"
 description: " "
 date: 2023-09-27
-tags: [Java, Generics]
+tags: [Generics]
 comments: true
 share: true
 ---

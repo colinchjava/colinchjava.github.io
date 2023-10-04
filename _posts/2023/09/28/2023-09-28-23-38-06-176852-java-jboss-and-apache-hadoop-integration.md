@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and Apache Hadoop integration"
 description: " "
 date: 2023-09-28
-tags: [Java, Hadoop]
+tags: [Hadoop]
 comments: true
 share: true
 ---

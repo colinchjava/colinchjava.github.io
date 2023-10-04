@@ -3,7 +3,7 @@ layout: post
 title: "Java file handling and file I/O"
 description: " "
 date: 2023-09-27
-tags: [Java, FileHandling]
+tags: [FileHandling]
 comments: true
 share: true
 ---

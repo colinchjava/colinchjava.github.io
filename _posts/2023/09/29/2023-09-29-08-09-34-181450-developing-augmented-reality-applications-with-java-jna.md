@@ -3,7 +3,7 @@ layout: post
 title: "Developing augmented reality applications with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, AugmentedReality]
+tags: [AugmentedReality]
 comments: true
 share: true
 ---

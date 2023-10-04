@@ -3,7 +3,7 @@ layout: post
 title: "Java JASPIC and secure password recovery mechanisms"
 description: " "
 date: 2023-10-01
-tags: [Java, Security]
+tags: [Security]
 comments: true
 share: true
 ---

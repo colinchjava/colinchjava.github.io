@@ -3,7 +3,7 @@ layout: post
 title: "Using NetBeans for game development in Java"
 description: " "
 date: 2023-10-03
-tags: [gamedevelopment, java]
+tags: [gamedevelopment]
 comments: true
 share: true
 ---

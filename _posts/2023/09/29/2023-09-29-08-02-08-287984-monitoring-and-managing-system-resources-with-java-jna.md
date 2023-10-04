@@ -3,7 +3,7 @@ layout: post
 title: "Monitoring and managing system resources with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, SystemResources]
+tags: [SystemResources]
 comments: true
 share: true
 ---

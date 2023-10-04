@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the architecture of Java JASPIC"
 description: " "
 date: 2023-10-01
-tags: [technology, Java]
+tags: [technology]
 comments: true
 share: true
 ---

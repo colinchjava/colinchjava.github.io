@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in Visual Studio Code"
 description: " "
 date: 2023-10-01
-tags: [java, programming]
+tags: [programming]
 comments: true
 share: true
 ---

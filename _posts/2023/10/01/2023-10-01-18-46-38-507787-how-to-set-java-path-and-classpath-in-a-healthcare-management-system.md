@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a healthcare management system"
 description: " "
 date: 2023-10-01
-tags: [healthcare, Java]
+tags: [healthcare]
 comments: true
 share: true
 ---

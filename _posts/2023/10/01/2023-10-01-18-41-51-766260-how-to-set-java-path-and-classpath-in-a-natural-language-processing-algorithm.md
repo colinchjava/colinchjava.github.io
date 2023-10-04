@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a natural language processing algorithm"
 description: " "
 date: 2023-10-01
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a customer support application"
 description: " "
 date: 2023-10-01
-tags: [java, classpaths]
+tags: [classpaths]
 comments: true
 share: true
 ---

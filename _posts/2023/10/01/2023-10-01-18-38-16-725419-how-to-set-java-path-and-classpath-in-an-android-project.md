@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in an Android project"
 description: " "
 date: 2023-10-01
-tags: [android, java]
+tags: [android]
 comments: true
 share: true
 ---

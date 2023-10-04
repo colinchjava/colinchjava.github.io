@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a supply chain management software"
 description: " "
 date: 2023-10-01
-tags: [Java, SupplyChainManagement]
+tags: [SupplyChainManagement]
 comments: true
 share: true
 ---

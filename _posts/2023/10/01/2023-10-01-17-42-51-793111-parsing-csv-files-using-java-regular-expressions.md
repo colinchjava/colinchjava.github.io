@@ -3,7 +3,7 @@ layout: post
 title: "Parsing CSV files using Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [java, regularexpressions]
+tags: [regularexpressions]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building RESTful services in Java NetBeans"
 description: " "
 date: 2023-10-03
-tags: [java, RESTfulservices]
+tags: [RESTfulservices]
 comments: true
 share: true
 ---

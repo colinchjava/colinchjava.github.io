@@ -3,7 +3,7 @@ layout: post
 title: "Creating a Java JNA wrapper for a C library"
 description: " "
 date: 2023-09-29
-tags: [programming, Java]
+tags: [programming]
 comments: true
 share: true
 ---

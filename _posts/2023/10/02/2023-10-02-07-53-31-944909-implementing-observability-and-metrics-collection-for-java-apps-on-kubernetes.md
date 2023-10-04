@@ -3,7 +3,7 @@ layout: post
 title: "Implementing observability and metrics collection for Java apps on Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [Java, Observability]
+tags: [Observability]
 comments: true
 share: true
 ---

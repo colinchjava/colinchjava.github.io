@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and Google Cloud Platform (GCP) integration"
 description: " "
 date: 2023-09-28
-tags: [Tech, Java]
+tags: [Tech]
 comments: true
 share: true
 ---

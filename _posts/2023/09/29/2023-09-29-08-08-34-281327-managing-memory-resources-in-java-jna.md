@@ -3,7 +3,7 @@ layout: post
 title: "Managing memory resources in Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, MemoryManagement]
+tags: [MemoryManagement]
 comments: true
 share: true
 ---

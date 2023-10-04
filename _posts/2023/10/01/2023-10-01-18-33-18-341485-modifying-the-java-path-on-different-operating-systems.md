@@ -3,7 +3,7 @@ layout: post
 title: "Modifying the Java PATH on different operating systems"
 description: " "
 date: 2023-10-01
-tags: [Java, JavaDevelopment]
+tags: [JavaDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in an embedded system"
 description: " "
 date: 2023-10-01
-tags: [java, embedded]
+tags: [embedded]
 comments: true
 share: true
 ---

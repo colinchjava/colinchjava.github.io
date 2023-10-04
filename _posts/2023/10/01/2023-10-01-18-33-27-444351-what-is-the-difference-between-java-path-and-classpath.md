@@ -3,7 +3,7 @@ layout: post
 title: "What is the difference between Java PATH and CLASSPATH?"
 description: " "
 date: 2023-10-01
-tags: [Java, EnvironmentVariables]
+tags: [EnvironmentVariables]
 comments: true
 share: true
 ---

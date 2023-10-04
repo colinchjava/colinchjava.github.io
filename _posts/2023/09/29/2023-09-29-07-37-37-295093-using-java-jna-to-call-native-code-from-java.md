@@ -3,7 +3,7 @@ layout: post
 title: "Using Java JNA to call native code from Java"
 description: " "
 date: 2023-09-29
-tags: [development, java]
+tags: [development]
 comments: true
 share: true
 ---

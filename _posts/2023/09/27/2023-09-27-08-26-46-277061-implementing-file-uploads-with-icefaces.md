@@ -3,7 +3,7 @@ layout: post
 title: "Implementing file uploads with IceFaces"
 description: " "
 date: 2023-09-27
-tags: [Java, IceFaces]
+tags: [IceFaces]
 comments: true
 share: true
 ---

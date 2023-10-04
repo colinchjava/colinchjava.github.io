@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java Message Service (JMS) in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [Java, NetBeans]
+tags: [NetBeans]
 comments: true
 share: true
 ---

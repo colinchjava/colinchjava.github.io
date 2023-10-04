@@ -3,7 +3,7 @@ layout: post
 title: "Creating web applications in Java NetBeans"
 description: " "
 date: 2023-10-03
-tags: [Java, NetBeans]
+tags: [NetBeans]
 comments: true
 share: true
 ---

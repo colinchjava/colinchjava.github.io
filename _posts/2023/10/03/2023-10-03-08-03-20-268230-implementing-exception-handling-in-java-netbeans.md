@@ -3,7 +3,7 @@ layout: post
 title: "Implementing exception handling in Java NetBeans"
 description: " "
 date: 2023-10-03
-tags: [Java, ExceptionHandling]
+tags: [ExceptionHandling]
 comments: true
 share: true
 ---

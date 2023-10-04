@@ -3,7 +3,7 @@ layout: post
 title: "Data serialization and deserialization with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [programming, java]
+tags: [programming]
 comments: true
 share: true
 ---

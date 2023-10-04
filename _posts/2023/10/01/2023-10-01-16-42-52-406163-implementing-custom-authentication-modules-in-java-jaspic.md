@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom authentication modules in Java JASPIC"
 description: " "
 date: 2023-10-01
-tags: [Java, JASPIC]
+tags: [JASPIC]
 comments: true
 share: true
 ---

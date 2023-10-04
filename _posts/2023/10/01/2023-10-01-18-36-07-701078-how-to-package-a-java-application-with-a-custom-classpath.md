@@ -3,7 +3,7 @@ layout: post
 title: "How to package a Java application with a custom CLASSPATH"
 description: " "
 date: 2023-10-01
-tags: [java, classpath]
+tags: [classpath]
 comments: true
 share: true
 ---

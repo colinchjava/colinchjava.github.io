@@ -3,7 +3,7 @@ layout: post
 title: "Java JASPIC and passwordless authentication"
 description: " "
 date: 2023-10-01
-tags: [Java, JASPIC]
+tags: [JASPIC]
 comments: true
 share: true
 ---

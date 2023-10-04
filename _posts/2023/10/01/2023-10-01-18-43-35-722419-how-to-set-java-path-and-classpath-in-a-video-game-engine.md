@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a video game engine"
 description: " "
 date: 2023-10-01
-tags: [java, videogame]
+tags: [videogame]
 comments: true
 share: true
 ---

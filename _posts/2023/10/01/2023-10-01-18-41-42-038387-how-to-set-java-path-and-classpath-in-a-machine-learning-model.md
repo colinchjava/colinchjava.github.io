@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a machine learning model"
 description: " "
 date: 2023-10-01
-tags: [java, machinelearning]
+tags: [machinelearning]
 comments: true
 share: true
 ---

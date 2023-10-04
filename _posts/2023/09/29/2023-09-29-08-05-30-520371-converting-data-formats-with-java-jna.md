@@ -3,7 +3,7 @@ layout: post
 title: "Converting data formats with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, DataConversion]
+tags: [DataConversion]
 comments: true
 share: true
 ---

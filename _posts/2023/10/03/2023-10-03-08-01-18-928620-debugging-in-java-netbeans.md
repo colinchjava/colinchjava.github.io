@@ -3,7 +3,7 @@ layout: post
 title: "Debugging in Java NetBeans"
 description: " "
 date: 2023-10-03
-tags: [java, debugging]
+tags: [debugging]
 comments: true
 share: true
 ---

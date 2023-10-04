@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a Google Cloud Function"
 description: " "
 date: 2023-10-01
-tags: [googlecloud, java]
+tags: [googlecloud]
 comments: true
 share: true
 ---

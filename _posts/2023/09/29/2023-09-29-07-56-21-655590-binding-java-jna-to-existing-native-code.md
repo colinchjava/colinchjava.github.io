@@ -3,7 +3,7 @@ layout: post
 title: "Binding Java JNA to existing native code"
 description: " "
 date: 2023-09-29
-tags: [include, Java]
+tags: [include]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing A/B testing for Java apps on Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [Java, ABTesting]
+tags: [ABTesting]
 comments: true
 share: true
 ---

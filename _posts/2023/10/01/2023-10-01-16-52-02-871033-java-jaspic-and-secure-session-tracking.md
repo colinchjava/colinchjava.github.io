@@ -3,7 +3,7 @@ layout: post
 title: "Java JASPIC and secure session tracking"
 description: " "
 date: 2023-10-01
-tags: [getSession(), java]
+tags: [getSession()]
 comments: true
 share: true
 ---

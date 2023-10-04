@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in an AWS Lambda function"
 description: " "
 date: 2023-10-01
-tags: [Java, AWSLambda]
+tags: [AWSLambda]
 comments: true
 share: true
 ---

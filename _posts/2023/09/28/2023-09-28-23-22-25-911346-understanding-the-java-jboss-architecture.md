@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the Java JBoss architecture"
 description: " "
 date: 2023-09-28
-tags: [Java, JBoss]
+tags: [JBoss]
 comments: true
 share: true
 ---

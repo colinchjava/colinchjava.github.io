@@ -3,7 +3,7 @@ layout: post
 title: "Reactive programming in Java for financial applications"
 description: " "
 date: 2023-09-29
-tags: [ReactiveProgramming, Java]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

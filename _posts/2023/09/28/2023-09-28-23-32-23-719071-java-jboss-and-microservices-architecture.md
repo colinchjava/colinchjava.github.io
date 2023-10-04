@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and Microservices architecture"
 description: " "
 date: 2023-09-28
-tags: [Java, Microservices]
+tags: [Microservices]
 comments: true
 share: true
 ---

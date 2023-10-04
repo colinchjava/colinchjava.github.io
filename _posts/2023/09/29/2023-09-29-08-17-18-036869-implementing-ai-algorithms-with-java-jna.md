@@ -3,7 +3,7 @@ layout: post
 title: "Implementing AI algorithms with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [programming, Java]
+tags: [programming]
 comments: true
 share: true
 ---

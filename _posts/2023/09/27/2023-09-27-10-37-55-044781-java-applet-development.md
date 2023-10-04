@@ -3,7 +3,7 @@ layout: post
 title: "Java applet development"
 description: " "
 date: 2023-09-27
-tags: [Java, AppletDevelopment]
+tags: [AppletDevelopment]
 comments: true
 share: true
 ---

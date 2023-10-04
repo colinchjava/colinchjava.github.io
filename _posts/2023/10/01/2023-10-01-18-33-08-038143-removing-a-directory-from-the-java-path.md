@@ -3,7 +3,7 @@ layout: post
 title: "Removing a directory from the Java PATH"
 description: " "
 date: 2023-10-01
-tags: [Java, PATH]
+tags: [PATH]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using NetBeans for robotics development in Java"
 description: " "
 date: 2023-10-03
-tags: [robotics, Java]
+tags: [robotics]
 comments: true
 share: true
 ---

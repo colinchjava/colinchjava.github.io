@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and software testing methodologies"
 description: " "
 date: 2023-09-29
-tags: [Tech, Java]
+tags: [Tech]
 comments: true
 share: true
 ---

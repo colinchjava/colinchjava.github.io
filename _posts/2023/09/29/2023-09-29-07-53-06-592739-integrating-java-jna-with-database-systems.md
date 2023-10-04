@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Java JNA with database systems"
 description: " "
 date: 2023-09-29
-tags: [java, databases]
+tags: [databases]
 comments: true
 share: true
 ---

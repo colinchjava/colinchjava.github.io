@@ -3,7 +3,7 @@ layout: post
 title: "Vert.x for reactive programming in Java"
 description: " "
 date: 2023-09-29
-tags: [ReactiveProgramming, Java]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Java JASPIC"
 description: " "
 date: 2023-10-01
-tags: [java, authentication]
+tags: [authentication]
 comments: true
 share: true
 ---

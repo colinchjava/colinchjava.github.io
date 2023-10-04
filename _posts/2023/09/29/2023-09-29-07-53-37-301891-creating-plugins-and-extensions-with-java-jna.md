@@ -3,7 +3,7 @@ layout: post
 title: "Creating plugins and extensions with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, Plugins]
+tags: [Plugins]
 comments: true
 share: true
 ---

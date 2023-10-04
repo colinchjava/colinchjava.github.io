@@ -3,7 +3,7 @@ layout: post
 title: "Java JASPIC and password-based authentication"
 description: " "
 date: 2023-10-01
-tags: [websecurity, java]
+tags: [websecurity]
 comments: true
 share: true
 ---

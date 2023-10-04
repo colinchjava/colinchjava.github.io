@@ -3,7 +3,7 @@ layout: post
 title: "Implementing caching for Java apps on Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [caching, java]
+tags: [caching]
 comments: true
 share: true
 ---

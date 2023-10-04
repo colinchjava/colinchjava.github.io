@@ -3,7 +3,7 @@ layout: post
 title: "Handling security in a Java JASPIC-enabled application"
 description: " "
 date: 2023-10-01
-tags: [Java, JASPIC]
+tags: [JASPIC]
 comments: true
 share: true
 ---

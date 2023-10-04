@@ -3,7 +3,7 @@ layout: post
 title: "Managing data types in Java JNA"
 description: " "
 date: 2023-09-29
-tags: [DataTypes, Java]
+tags: [DataTypes]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Java syntax and basic concepts"
 description: " "
 date: 2023-09-27
-tags: [Java, Programming]
+tags: [Programming]
 comments: true
 share: true
 ---

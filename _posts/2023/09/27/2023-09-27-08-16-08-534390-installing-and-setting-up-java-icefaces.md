@@ -3,7 +3,7 @@ layout: post
 title: "Installing and setting up Java IceFaces"
 description: " "
 date: 2023-09-27
-tags: [Java, IceFaces]
+tags: [IceFaces]
 comments: true
 share: true
 ---

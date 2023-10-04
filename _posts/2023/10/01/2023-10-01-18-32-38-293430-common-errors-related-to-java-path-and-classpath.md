@@ -3,7 +3,7 @@ layout: post
 title: "Common errors related to Java PATH and CLASSPATH"
 description: " "
 date: 2023-10-01
-tags: [Java, JavaErrors]
+tags: [JavaErrors]
 comments: true
 share: true
 ---

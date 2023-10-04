@@ -3,7 +3,7 @@ layout: post
 title: "Disadvantages of using Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, JavaNativeAccess]
+tags: [JavaNativeAccess]
 comments: true
 share: true
 ---

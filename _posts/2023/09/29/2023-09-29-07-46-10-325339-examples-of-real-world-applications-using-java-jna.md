@@ -3,7 +3,7 @@ layout: post
 title: "Examples of real-world applications using Java JNA"
 description: " "
 date: 2023-09-29
-tags: [techblog, Java]
+tags: [techblog]
 comments: true
 share: true
 ---

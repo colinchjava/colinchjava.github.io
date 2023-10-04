@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed databases with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [DistributedDatabases, Java]
+tags: [DistributedDatabases]
 comments: true
 share: true
 ---

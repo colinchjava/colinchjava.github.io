@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in an Azure Function"
 description: " "
 date: 2023-10-01
-tags: [Azure, Java]
+tags: [Azure]
 comments: true
 share: true
 ---

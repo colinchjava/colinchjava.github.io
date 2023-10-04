@@ -3,7 +3,7 @@ layout: post
 title: "Monitoring and profiling in Java NetBeans"
 description: " "
 date: 2023-10-03
-tags: [java, monitoring]
+tags: [monitoring]
 comments: true
 share: true
 ---

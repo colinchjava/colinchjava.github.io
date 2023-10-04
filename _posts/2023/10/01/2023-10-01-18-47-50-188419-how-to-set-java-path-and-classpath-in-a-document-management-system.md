@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a document management system"
 description: " "
 date: 2023-10-01
-tags: [java, path]
+tags: [path]
 comments: true
 share: true
 ---

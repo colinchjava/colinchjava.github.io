@@ -3,7 +3,7 @@ layout: post
 title: "Benefits of using Java IceFaces in web development"
 description: " "
 date: 2023-09-27
-tags: [Java, IceFaces]
+tags: [IceFaces]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Reactive programming with HTTP clients in Java"
 description: " "
 date: 2023-09-29
-tags: [reactive, java]
+tags: [reactive]
 comments: true
 share: true
 ---

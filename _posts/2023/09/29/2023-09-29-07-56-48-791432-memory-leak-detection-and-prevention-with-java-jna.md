@@ -3,7 +3,7 @@ layout: post
 title: "Memory leak detection and prevention with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, MemoryLeaks]
+tags: [MemoryLeaks]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in IntelliJ IDEA"
 description: " "
 date: 2023-10-01
-tags: [programming, Java]
+tags: [programming]
 comments: true
 share: true
 ---

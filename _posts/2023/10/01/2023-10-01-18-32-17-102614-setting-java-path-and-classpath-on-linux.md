@@ -3,7 +3,7 @@ layout: post
 title: "Setting Java PATH and CLASSPATH on Linux"
 description: " "
 date: 2023-10-01
-tags: [Java, Linux]
+tags: [Linux]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Java input/output operations (I/O)"
 description: " "
 date: 2023-09-27
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

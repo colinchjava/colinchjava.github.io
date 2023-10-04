@@ -3,7 +3,7 @@ layout: post
 title: "Asynchronous programming in Java"
 description: " "
 date: 2023-09-29
-tags: [Java, AsynchronousProgramming]
+tags: [AsynchronousProgramming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Comparing Java JASPIC with other authentication methods"
 description: " "
 date: 2023-10-01
-tags: [Conclusion, Java]
+tags: [Conclusion]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Match hexadecimal numbers with Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [Java, Regex]
+tags: [Regex]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Configuring Java app health checks and self-healing in Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [kubernetes, java]
+tags: [kubernetes]
 comments: true
 share: true
 ---

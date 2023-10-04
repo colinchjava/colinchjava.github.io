@@ -3,7 +3,7 @@ layout: post
 title: "Troubleshooting common issues with Java JASPIC"
 description: " "
 date: 2023-10-01
-tags: [Java, JASPIC]
+tags: [JASPIC]
 comments: true
 share: true
 ---

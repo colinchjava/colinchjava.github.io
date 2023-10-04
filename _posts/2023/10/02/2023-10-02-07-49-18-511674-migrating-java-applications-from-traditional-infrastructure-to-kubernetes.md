@@ -3,7 +3,7 @@ layout: post
 title: "Migrating Java applications from traditional infrastructure to Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [Java, Kubernetes]
+tags: [Kubernetes]
 comments: true
 share: true
 ---

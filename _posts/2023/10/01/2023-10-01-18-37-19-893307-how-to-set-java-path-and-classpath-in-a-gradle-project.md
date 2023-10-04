@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a Gradle project"
 description: " "
 date: 2023-10-01
-tags: [java, gradle]
+tags: [gradle]
 comments: true
 share: true
 ---

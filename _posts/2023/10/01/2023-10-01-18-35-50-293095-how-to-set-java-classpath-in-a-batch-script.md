@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java CLASSPATH in a batch script"
 description: " "
 date: 2023-10-01
-tags: [Java, BatchScript]
+tags: [BatchScript]
 comments: true
 share: true
 ---

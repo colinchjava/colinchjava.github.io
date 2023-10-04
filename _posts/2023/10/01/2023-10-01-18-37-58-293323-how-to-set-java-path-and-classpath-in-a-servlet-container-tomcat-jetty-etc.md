@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a servlet container (Tomcat, Jetty, etc.)"
 description: " "
 date: 2023-10-01
-tags: [java, servletcontainer]
+tags: [servletcontainer]
 comments: true
 share: true
 ---

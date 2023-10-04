@@ -3,7 +3,7 @@ layout: post
 title: "Reactive programming and desktop GUI development in Java"
 description: " "
 date: 2023-09-29
-tags: [tech, Java]
+tags: [tech]
 comments: true
 share: true
 ---

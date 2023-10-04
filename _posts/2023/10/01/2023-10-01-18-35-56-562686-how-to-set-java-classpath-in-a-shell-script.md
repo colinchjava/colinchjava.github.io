@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java CLASSPATH in a shell script"
 description: " "
 date: 2023-10-01
-tags: [Java, CLASSPATH]
+tags: [CLASSPATH]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Understanding IceFaces components"
 description: " "
 date: 2023-09-27
-tags: [IceFaces, Java]
+tags: [IceFaces]
 comments: true
 share: true
 ---

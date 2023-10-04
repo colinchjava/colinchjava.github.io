@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in an e-commerce website"
 description: " "
 date: 2023-10-01
-tags: [ecommerce, java]
+tags: [ecommerce]
 comments: true
 share: true
 ---

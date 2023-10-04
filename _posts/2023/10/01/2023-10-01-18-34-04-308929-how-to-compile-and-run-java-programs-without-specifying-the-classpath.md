@@ -3,7 +3,7 @@ layout: post
 title: "How to compile and run Java programs without specifying the CLASSPATH"
 description: " "
 date: 2023-10-01
-tags: [Java, CLASSPATH]
+tags: [CLASSPATH]
 comments: true
 share: true
 ---

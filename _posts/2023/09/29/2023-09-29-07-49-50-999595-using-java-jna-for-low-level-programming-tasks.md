@@ -3,7 +3,7 @@ layout: post
 title: "Using Java JNA for low-level programming tasks"
 description: " "
 date: 2023-09-29
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

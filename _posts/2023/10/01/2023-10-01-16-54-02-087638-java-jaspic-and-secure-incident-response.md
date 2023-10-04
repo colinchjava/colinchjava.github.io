@@ -3,7 +3,7 @@ layout: post
 title: "Java JASPIC and secure incident response"
 description: " "
 date: 2023-10-01
-tags: [hashtags, Java]
+tags: [hashtags]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Reactive programming and mobile app synchronization in Java"
 description: " "
 date: 2023-09-29
-tags: [java, reactiveprogramming]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

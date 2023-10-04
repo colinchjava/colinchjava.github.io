@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a restaurant management software"
 description: " "
 date: 2023-10-01
-tags: [Java, RestaurantManagement]
+tags: [RestaurantManagement]
 comments: true
 share: true
 ---

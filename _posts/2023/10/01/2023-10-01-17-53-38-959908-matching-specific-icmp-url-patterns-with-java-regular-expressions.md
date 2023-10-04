@@ -3,7 +3,7 @@ layout: post
 title: "Matching specific ICMP URL patterns with Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [Java, regex]
+tags: [regex]
 comments: true
 share: true
 ---

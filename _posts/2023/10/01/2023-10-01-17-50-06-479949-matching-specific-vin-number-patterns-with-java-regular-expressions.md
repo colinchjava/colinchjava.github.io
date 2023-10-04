@@ -3,7 +3,7 @@ layout: post
 title: "Matching specific VIN number patterns with Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [tech, Java]
+tags: [tech]
 comments: true
 share: true
 ---

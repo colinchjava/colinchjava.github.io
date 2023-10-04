@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and distributed computing"
 description: " "
 date: 2023-09-28
-tags: [distributedcomputing, Java]
+tags: [distributedcomputing]
 comments: true
 share: true
 ---

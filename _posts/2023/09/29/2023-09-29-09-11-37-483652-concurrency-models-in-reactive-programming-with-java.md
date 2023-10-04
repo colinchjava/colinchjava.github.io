@@ -3,7 +3,7 @@ layout: post
 title: "Concurrency models in reactive programming with Java"
 description: " "
 date: 2023-09-29
-tags: [reactiveprogramming, Java]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

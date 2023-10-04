@@ -3,7 +3,7 @@ layout: post
 title: "Integrating IceFaces with popular Java IDEs (Eclipse, NetBeans, IntelliJ)"
 description: " "
 date: 2023-09-27
-tags: [Java, IceFaces]
+tags: [IceFaces]
 comments: true
 share: true
 ---

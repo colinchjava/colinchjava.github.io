@@ -3,7 +3,7 @@ layout: post
 title: "Reactive programming and design patterns in Java"
 description: " "
 date: 2023-09-29
-tags: [ReactiveProgramming, Java]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

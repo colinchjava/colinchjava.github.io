@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and project management"
 description: " "
 date: 2023-09-29
-tags: [hashtags, Java]
+tags: [hashtags]
 comments: true
 share: true
 ---

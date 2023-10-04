@@ -3,7 +3,7 @@ layout: post
 title: "Working with servlets in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [Java, Servlets]
+tags: [Servlets]
 comments: true
 share: true
 ---

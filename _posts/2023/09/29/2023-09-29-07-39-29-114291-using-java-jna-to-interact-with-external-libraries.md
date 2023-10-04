@@ -3,7 +3,7 @@ layout: post
 title: "Using Java JNA to interact with external libraries"
 description: " "
 date: 2023-09-29
-tags: [java]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Java JNA in IoT (Internet of Things) applications"
 description: " "
 date: 2023-09-29
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

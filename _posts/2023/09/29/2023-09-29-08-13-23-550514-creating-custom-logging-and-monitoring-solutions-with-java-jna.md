@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom logging and monitoring solutions with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [java, logging]
+tags: [logging]
 comments: true
 share: true
 ---

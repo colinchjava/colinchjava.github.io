@@ -3,7 +3,7 @@ layout: post
 title: "Developing graphical user interfaces for embedded systems with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [java, embedded]
+tags: [embedded]
 comments: true
 share: true
 ---

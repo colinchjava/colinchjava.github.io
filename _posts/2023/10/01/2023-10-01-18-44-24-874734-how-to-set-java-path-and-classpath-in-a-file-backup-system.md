@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a file backup system"
 description: " "
 date: 2023-10-01
-tags: [Java, FileBackup]
+tags: [FileBackup]
 comments: true
 share: true
 ---

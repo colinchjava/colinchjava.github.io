@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and scalability testing"
 description: " "
 date: 2023-09-28
-tags: [Java, ScalabilityTesting]
+tags: [ScalabilityTesting]
 comments: true
 share: true
 ---

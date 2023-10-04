@@ -3,7 +3,7 @@ layout: post
 title: "Java classes and objects"
 description: " "
 date: 2023-09-27
-tags: [Java, ObjectOrientedProgramming]
+tags: [ObjectOrientedProgramming]
 comments: true
 share: true
 ---

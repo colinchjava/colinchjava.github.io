@@ -3,7 +3,7 @@ layout: post
 title: "Working with shared libraries in Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

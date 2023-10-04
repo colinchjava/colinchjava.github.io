@@ -3,7 +3,7 @@ layout: post
 title: "Quantifiers in Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [regex, java]
+tags: [regex]
 comments: true
 share: true
 ---

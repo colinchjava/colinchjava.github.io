@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java servlet containers in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [java, servlet]
+tags: [servlet]
 comments: true
 share: true
 ---

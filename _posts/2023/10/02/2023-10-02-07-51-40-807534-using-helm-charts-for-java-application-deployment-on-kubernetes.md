@@ -3,7 +3,7 @@ layout: post
 title: "Using Helm charts for Java application deployment on Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [Java, Kubernetes]
+tags: [Kubernetes]
 comments: true
 share: true
 ---

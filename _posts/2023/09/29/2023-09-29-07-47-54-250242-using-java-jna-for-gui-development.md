@@ -3,7 +3,7 @@ layout: post
 title: "Using Java JNA for GUI development"
 description: " "
 date: 2023-09-29
-tags: [Java, Development]
+tags: [Development]
 comments: true
 share: true
 ---

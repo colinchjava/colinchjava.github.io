@@ -3,7 +3,7 @@ layout: post
 title: "Creating platform-specific installers for Java JNA applications"
 description: " "
 date: 2023-09-29
-tags: [Java, Java]
+tags: []
 comments: true
 share: true
 ---

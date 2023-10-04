@@ -3,7 +3,7 @@ layout: post
 title: "Reactive programming with database access in Java"
 description: " "
 date: 2023-09-29
-tags: [Java, ReactiveProgramming]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

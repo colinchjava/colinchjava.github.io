@@ -3,7 +3,7 @@ layout: post
 title: "Setting up Java PATH and CLASSPATH on Windows"
 description: " "
 date: 2023-10-01
-tags: [java, programming]
+tags: [programming]
 comments: true
 share: true
 ---

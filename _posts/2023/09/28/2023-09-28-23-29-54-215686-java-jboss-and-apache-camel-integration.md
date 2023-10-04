@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and Apache Camel integration"
 description: " "
 date: 2023-09-28
-tags: [Java, Integration]
+tags: [Integration]
 comments: true
 share: true
 ---

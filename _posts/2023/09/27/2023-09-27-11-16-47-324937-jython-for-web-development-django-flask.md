@@ -3,7 +3,7 @@ layout: post
 title: "Jython for web development (Django, Flask)"
 description: " "
 date: 2023-09-27
-tags: [Python, Java]
+tags: [Python]
 comments: true
 share: true
 ---

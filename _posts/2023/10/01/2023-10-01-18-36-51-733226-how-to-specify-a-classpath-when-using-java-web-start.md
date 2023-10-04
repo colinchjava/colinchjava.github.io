@@ -3,7 +3,7 @@ layout: post
 title: "How to specify a classpath when using Java Web Start"
 description: " "
 date: 2023-10-01
-tags: [Java, JavaWebStart]
+tags: [JavaWebStart]
 comments: true
 share: true
 ---

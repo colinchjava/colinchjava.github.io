@@ -3,7 +3,7 @@ layout: post
 title: "Matching specific sentence patterns with Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [Matching, Java]
+tags: [Matching]
 comments: true
 share: true
 ---

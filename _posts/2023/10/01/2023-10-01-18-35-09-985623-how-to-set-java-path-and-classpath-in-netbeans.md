@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in NetBeans"
 description: " "
 date: 2023-10-01
-tags: [Java, NetBeans]
+tags: [NetBeans]
 comments: true
 share: true
 ---

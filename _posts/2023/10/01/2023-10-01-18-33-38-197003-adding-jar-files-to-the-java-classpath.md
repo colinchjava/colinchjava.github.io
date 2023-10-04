@@ -3,7 +3,7 @@ layout: post
 title: "Adding JAR files to the Java CLASSPATH"
 description: " "
 date: 2023-10-01
-tags: [Java, CLASSPATH]
+tags: [CLASSPATH]
 comments: true
 share: true
 ---

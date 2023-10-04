@@ -3,7 +3,7 @@ layout: post
 title: "Configuring and managing custom domains for Java apps on Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [java, Kubernetes]
+tags: [Kubernetes]
 comments: true
 share: true
 ---

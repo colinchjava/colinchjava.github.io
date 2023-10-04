@@ -3,7 +3,7 @@ layout: post
 title: "Performance tuning and optimization techniques for Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, Performance]
+tags: [Performance]
 comments: true
 share: true
 ---

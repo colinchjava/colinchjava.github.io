@@ -3,7 +3,7 @@ layout: post
 title: "Troubleshooting CLASSPATH issues in Java"
 description: " "
 date: 2023-10-01
-tags: [Java, Troubleshooting]
+tags: [Troubleshooting]
 comments: true
 share: true
 ---

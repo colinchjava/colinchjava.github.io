@@ -3,7 +3,7 @@ layout: post
 title: "History and evolution of Java JASPIC"
 description: " "
 date: 2023-10-01
-tags: [java, JASPIC]
+tags: [JASPIC]
 comments: true
 share: true
 ---

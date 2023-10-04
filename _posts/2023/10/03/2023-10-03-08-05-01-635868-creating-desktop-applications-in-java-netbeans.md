@@ -3,7 +3,7 @@ layout: post
 title: "Creating desktop applications in Java NetBeans"
 description: " "
 date: 2023-10-03
-tags: [Java, DesktopApplications]
+tags: [DesktopApplications]
 comments: true
 share: true
 ---

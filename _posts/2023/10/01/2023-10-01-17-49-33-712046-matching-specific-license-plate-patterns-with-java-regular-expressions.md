@@ -3,7 +3,7 @@ layout: post
 title: "Matching specific license plate patterns with Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [java, regularExpressions]
+tags: [regularExpressions]
 comments: true
 share: true
 ---

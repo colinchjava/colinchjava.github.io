@@ -3,7 +3,7 @@ layout: post
 title: "Adding a directory to the Java PATH"
 description: " "
 date: 2023-10-01
-tags: [Java, Paths]
+tags: [Paths]
 comments: true
 share: true
 ---

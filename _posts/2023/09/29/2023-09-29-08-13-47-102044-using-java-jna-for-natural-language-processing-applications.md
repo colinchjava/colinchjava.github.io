@@ -3,7 +3,7 @@ layout: post
 title: "Using Java JNA for natural language processing applications"
 description: " "
 date: 2023-09-29
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

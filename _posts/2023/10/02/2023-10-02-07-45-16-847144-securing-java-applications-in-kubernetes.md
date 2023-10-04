@@ -3,7 +3,7 @@ layout: post
 title: "Securing Java applications in Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [java, Kubernetes]
+tags: [Kubernetes]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Reactive programming in Java for serverless computing"
 description: " "
 date: 2023-09-29
-tags: [java, reactiveprogramming]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

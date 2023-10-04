@@ -3,7 +3,7 @@ layout: post
 title: "Comparison between Java JNA and JNI (Java Native Interface)"
 description: " "
 date: 2023-09-29
-tags: [Tech, Java]
+tags: [Tech]
 comments: true
 share: true
 ---

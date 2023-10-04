@@ -3,7 +3,7 @@ layout: post
 title: "Configuring Java PATH and CLASSPATH on Mac"
 description: " "
 date: 2023-10-01
-tags: [java]
+tags: []
 comments: true
 share: true
 ---

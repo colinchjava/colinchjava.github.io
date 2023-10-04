@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and Java Message Service (JMS)"
 description: " "
 date: 2023-09-28
-tags: [hashtags, Java]
+tags: [hashtags]
 comments: true
 share: true
 ---

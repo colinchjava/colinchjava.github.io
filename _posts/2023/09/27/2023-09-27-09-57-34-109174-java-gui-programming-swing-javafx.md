@@ -3,7 +3,7 @@ layout: post
 title: "Java GUI programming (Swing, JavaFX)"
 description: " "
 date: 2023-09-27
-tags: [Java, Swing]
+tags: [Swing]
 comments: true
 share: true
 ---

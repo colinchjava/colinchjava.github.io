@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time data streaming with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Tech, Java]
+tags: [Tech]
 comments: true
 share: true
 ---

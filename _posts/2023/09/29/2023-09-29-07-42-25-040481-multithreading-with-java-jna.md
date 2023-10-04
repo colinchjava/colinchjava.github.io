@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading with Java JNA"
 description: " "
 date: 2023-09-29
-tags: [Java, Multithreading]
+tags: [Multithreading]
 comments: true
 share: true
 ---

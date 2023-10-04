@@ -3,7 +3,7 @@ layout: post
 title: "Implementing cross-cluster communication for Java apps on Kubernetes"
 description: " "
 date: 2023-10-02
-tags: [Kubernetes, Java]
+tags: [Kubernetes]
 comments: true
 share: true
 ---

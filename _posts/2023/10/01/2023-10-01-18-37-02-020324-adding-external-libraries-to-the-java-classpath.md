@@ -3,7 +3,7 @@ layout: post
 title: "Adding external libraries to the Java CLASSPATH"
 description: " "
 date: 2023-10-01
-tags: [java, classpath]
+tags: [classpath]
 comments: true
 share: true
 ---

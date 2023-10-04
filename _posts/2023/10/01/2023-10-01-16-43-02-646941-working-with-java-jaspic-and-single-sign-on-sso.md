@@ -3,7 +3,7 @@ layout: post
 title: "Working with Java JASPIC and Single Sign-On (SSO)"
 description: " "
 date: 2023-10-01
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---

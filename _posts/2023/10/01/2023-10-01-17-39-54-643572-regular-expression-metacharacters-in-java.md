@@ -3,7 +3,7 @@ layout: post
 title: "Regular expression metacharacters in Java"
 description: " "
 date: 2023-10-01
-tags: [Java, RegularExpressions]
+tags: [RegularExpressions]
 comments: true
 share: true
 ---

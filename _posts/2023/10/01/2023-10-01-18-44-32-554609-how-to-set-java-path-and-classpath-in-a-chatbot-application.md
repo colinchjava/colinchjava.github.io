@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a chatbot application"
 description: " "
 date: 2023-10-01
-tags: [Java, Chatbot]
+tags: [Chatbot]
 comments: true
 share: true
 ---

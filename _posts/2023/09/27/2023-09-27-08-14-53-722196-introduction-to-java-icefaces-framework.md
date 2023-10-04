@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Java IceFaces framework"
 description: " "
 date: 2023-09-27
-tags: [Java, IceFaces]
+tags: [IceFaces]
 comments: true
 share: true
 ---

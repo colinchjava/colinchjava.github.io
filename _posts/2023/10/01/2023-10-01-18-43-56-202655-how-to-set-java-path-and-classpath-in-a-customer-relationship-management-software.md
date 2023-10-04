@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a customer relationship management software"
 description: " "
 date: 2023-10-01
-tags: [Java, CRMSoftware]
+tags: [CRMSoftware]
 comments: true
 share: true
 ---

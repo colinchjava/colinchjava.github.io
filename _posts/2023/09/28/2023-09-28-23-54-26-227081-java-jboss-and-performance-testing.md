@@ -3,7 +3,7 @@ layout: post
 title: "Java JBoss and performance testing"
 description: " "
 date: 2023-09-28
-tags: [Java, PerformanceTesting]
+tags: [PerformanceTesting]
 comments: true
 share: true
 ---

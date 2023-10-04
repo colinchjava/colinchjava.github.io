@@ -3,7 +3,7 @@ layout: post
 title: "Building and deploying Java applications in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [java, development]
+tags: [development]
 comments: true
 share: true
 ---

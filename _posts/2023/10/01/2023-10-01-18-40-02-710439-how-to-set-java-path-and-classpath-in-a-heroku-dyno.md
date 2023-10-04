@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in a Heroku dyno"
 description: " "
 date: 2023-10-01
-tags: [java, Heroku]
+tags: [Heroku]
 comments: true
 share: true
 ---

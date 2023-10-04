@@ -3,7 +3,7 @@ layout: post
 title: "Deploying applications on Java EE servers in NetBeans"
 description: " "
 date: 2023-10-03
-tags: [Java, NetBeans]
+tags: [NetBeans]
 comments: true
 share: true
 ---

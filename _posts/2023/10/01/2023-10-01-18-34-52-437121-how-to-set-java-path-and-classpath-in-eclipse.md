@@ -3,7 +3,7 @@ layout: post
 title: "How to set Java PATH and CLASSPATH in Eclipse"
 description: " "
 date: 2023-10-01
-tags: [java, eclipse]
+tags: [eclipse]
 comments: true
 share: true
 ---

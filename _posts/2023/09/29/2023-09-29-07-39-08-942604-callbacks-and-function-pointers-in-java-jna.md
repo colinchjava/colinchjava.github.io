@@ -3,7 +3,7 @@ layout: post
 title: "Callbacks and function pointers in Java JNA"
 description: " "
 date: 2023-09-29
-tags: [java, callbacks]
+tags: [callbacks]
 comments: true
 share: true
 ---

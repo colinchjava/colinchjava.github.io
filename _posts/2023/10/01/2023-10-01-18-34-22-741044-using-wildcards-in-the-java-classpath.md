@@ -3,7 +3,7 @@ layout: post
 title: "Using wildcards in the Java CLASSPATH"
 description: " "
 date: 2023-10-01
-tags: [Java, Classpath]
+tags: [Classpath]
 comments: true
 share: true
 ---

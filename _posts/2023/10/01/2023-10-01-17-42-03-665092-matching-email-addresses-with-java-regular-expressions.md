@@ -3,7 +3,7 @@ layout: post
 title: "Matching email addresses with Java regular expressions"
 description: " "
 date: 2023-10-01
-tags: [java, regex]
+tags: [regex]
 comments: true
 share: true
 ---

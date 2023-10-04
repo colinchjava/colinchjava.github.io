@@ -3,7 +3,7 @@ layout: post
 title: "Debugging and profiling Java JNA applications"
 description: " "
 date: 2023-09-29
-tags: [Java, Debugging]
+tags: [Debugging]
 comments: true
 share: true
 ---

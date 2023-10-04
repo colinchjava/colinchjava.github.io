@@ -3,7 +3,7 @@ layout: post
 title: "Setting up Java JNA in a project"
 description: " "
 date: 2023-09-29
-tags: [Java]
+tags: []
 comments: true
 share: true
 ---
