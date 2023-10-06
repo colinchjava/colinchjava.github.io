@@ -76,6 +76,7 @@ The `Arrays.deepEquals()` method allows you to compare multidimensional arrays a
 Here's an example:
 
 ```java
+{% raw %}
 import java.util.Arrays;
 
 public class ArrayComparisonExample {
@@ -87,6 +88,7 @@ public class ArrayComparisonExample {
         System.out.println("Arrays are equal: " + equal);
     }
 }
+{% endraw %}
 ```
 
 Output:

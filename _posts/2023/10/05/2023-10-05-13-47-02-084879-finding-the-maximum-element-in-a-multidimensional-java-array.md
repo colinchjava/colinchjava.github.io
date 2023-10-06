@@ -21,7 +21,9 @@ data_type[][] array_name = new data_type[row_size][column_size];
 For example, let's say we have a 2-dimensional array of integers with 3 rows and 4 columns:
 
 ```java
+{% raw %}
 int[][] array = {{1, 2, 3, 4}, {5, 6, 7, 8}, {9, 10, 11, 12}};
+{% endraw %}
 ```
 
 ## Step 2: Initialize the Maximum Element

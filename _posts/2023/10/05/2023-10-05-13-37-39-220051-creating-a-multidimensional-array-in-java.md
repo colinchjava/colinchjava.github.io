@@ -35,7 +35,9 @@ datatype[][][] arrayName = new datatype[depth][rows][columns];
 You can initialize a multidimensional array with values using nested loops. Here's an example of initializing a 2D array:
 
 ```java
+{% raw %}
 int[][] myArray = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+{% endraw %}
 ```
 
 In this example, the array `myArray` is initialized with three rows and three columns, and each element is assigned a value.
@@ -47,17 +49,21 @@ To access elements of a multidimensional array, you need to provide the index va
 Here's an example of accessing elements in a 2D array:
 
 ```java
+{% raw %}
 int[][] myArray = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
 
 int element = myArray[1][2]; // Accessing the element at row 1, column 2 (value: 6)
+{% endraw %}
 ```
 
 Similarly, you can access elements in a 3D array by providing the depth, row, and column indices:
 
 ```java
+{% raw %}
 int[][][] myArray = {{{1, 2}, {3, 4}}, {{5, 6}, {7, 8}}};
 
 int element = myArray[1][0][1]; // Accessing the element at depth 1, row 0, column 1 (value: 6)
+{% endraw %}
 ```
 
 ## Conclusion

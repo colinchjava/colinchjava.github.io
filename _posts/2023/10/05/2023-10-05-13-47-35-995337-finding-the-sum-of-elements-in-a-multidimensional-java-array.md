@@ -21,9 +21,11 @@ To begin, we need to create and initialize a multidimensional array in Java. A m
 Here's an example of initializing a 2-dimensional array with 3 rows and 4 columns:
 
 ```java
+{% raw %}
 int[][] array = {{1, 2, 3, 4},
                  {5, 6, 7, 8},
                  {9, 10, 11, 12}};
+{% endraw %}
 ```
 
 ## Calculating the Sum of Elements
@@ -54,6 +56,7 @@ public static int calculateSum(int[][] array) {
 Let's put everything together and run an example to calculate the sum of elements in a multidimensional array:
 
 ```java
+{% raw %}
 public class Main {
     public static void main(String[] args) {
         int[][] array = {{1, 2, 3, 4},
@@ -73,6 +76,7 @@ public class Main {
         return sum;
     }
 }
+{% endraw %}
 ```
 
 Output:

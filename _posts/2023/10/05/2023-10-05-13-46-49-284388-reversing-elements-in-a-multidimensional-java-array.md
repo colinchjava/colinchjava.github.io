@@ -25,6 +25,7 @@ A multidimensional array in Java is an array that contains multiple arrays. It i
 One way to reverse the elements in a multidimensional array is to use a temporary array. Here's an example code snippet that demonstrates this approach:
 
 ```java
+{% raw %}
 public class ArrayReversal {
     public static void reverseArray(int[][] arr) {
         for (int i = 0; i < arr.length; i++) {
@@ -46,6 +47,7 @@ public class ArrayReversal {
         System.out.println(Arrays.deepToString(arr));
     }
 }
+{% endraw %}
 ```
 
 In this approach, we iterate over each individual array within the multidimensional array. For each array, we use two pointers `left` and `right` to swap the elements from the start and end positions until they meet in the middle.
@@ -55,6 +57,7 @@ In this approach, we iterate over each individual array within the multidimensio
 Another approach to reverse the elements in a multidimensional array is to use two pointers. This approach is more efficient than using a temporary array because it avoids the additional space required.
 
 ```java
+{% raw %}
 public class ArrayReversal {
     public static void reverseArray(int[][] arr) {
         for (int i = 0; i < arr.length; i++) {
@@ -76,6 +79,7 @@ public class ArrayReversal {
         System.out.println(Arrays.deepToString(arr));
     }
 }
+{% endraw %}
 ```
 
 In this approach, we iterate over each individual array within the multidimensional array and swap the elements using two pointers `left` and `right`. The swapping process is similar to the previous approach.

@@ -28,6 +28,7 @@ In this blog post, we will explore how to find the mode of elements in a multidi
 ## Example Code
 
 ```java
+{% raw %}
 import java.util.HashMap;
 import java.util.Map;
 
@@ -86,6 +87,7 @@ public class ModeFinder {
         }
     }
 }
+{% endraw %}
 ```
 
 ## Conclusion
